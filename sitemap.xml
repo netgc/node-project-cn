@@ -533,7 +533,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/apple-safari-18/</loc>
+    <loc>https://sysin.cn/blog/apple-safari-26/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -542,7 +542,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/apple-safari-26/</loc>
+    <loc>https://sysin.cn/blog/apple-safari-18/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -731,7 +731,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/macos-ventura-anounced/</loc>
+    <loc>https://sysin.cn/blog/macos-ventura-boot-iso/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -740,7 +740,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/macos-ventura-boot-iso/</loc>
+    <loc>https://sysin.cn/blog/macos-ventura-anounced/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -1919,7 +1919,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -1928,7 +1928,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-esxi-7/</loc>
+    <loc>https://sysin.cn/blog/vmware-esxi-7-u3/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -2450,7 +2450,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2012/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2103/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -2459,7 +2459,7 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/blog/vmware-horizon-8-2103/</loc>
+    <loc>https://sysin.cn/blog/vmware-horizon-8-2012/</loc>
     
     <lastmod>2026-07-05</lastmod>
     
@@ -9636,14 +9636,14 @@
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/ESXi/</loc>
+    <loc>https://sysin.cn/tags/vCenter/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sysin.cn/tags/vCenter/</loc>
+    <loc>https://sysin.cn/tags/ESXi/</loc>
     <lastmod>2026-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
