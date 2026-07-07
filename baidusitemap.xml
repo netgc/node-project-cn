@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
+    <lastmod>2026-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/nexpose/</loc>
+    <lastmod>2026-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/securecrt-9/</loc>
+    <lastmod>2026-07-07</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
     <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/macos-golden-gate/</loc>
     <lastmod>2026-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nexpose/</loc>
-    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-wsa-16/</loc>
@@ -186,10 +194,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/adobe-illustrator/</loc>
-    <lastmod>2026-06-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
     <lastmod>2026-06-16</lastmod>
   </url>
   <url>
@@ -875,10 +879,6 @@
   <url>
     <loc>https://sysin.org/blog/visual-studio-2022/</loc>
     <lastmod>2026-04-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/securecrt-9/</loc>
-    <lastmod>2026-04-17</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/omnissa-unified-access-gateway/</loc>

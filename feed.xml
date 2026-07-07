@@ -15,8 +15,41 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Tue, 07 Jul 2026 00:16:36 GMT</pubDate>
+    <pubDate>Tue, 07 Jul 2026 07:43:25 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描</title>
+      <link>https://sysin.org/blog/nexpose/</link>
+      <guid>https://sysin.org/blog/nexpose/</guid>
+      <pubDate>Tue, 07 Jul 2026 05:21:05 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose/&quot; title=&quot;Nexpose 8.51.0 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 8.51.0 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
+      
+      
+      <category domain="https://sysin.org/tags/Linux/">Linux</category>
+      
+      <category domain="https://sysin.org/tags/Security/">Security</category>
+      
+      <category domain="https://sysin.org/tags/Windows/">Windows</category>
+      
+      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
+      
+      
+      <comments>https://sysin.org/blog/nexpose/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</title>
@@ -73,39 +106,6 @@
       
       
       <comments>https://sysin.org/blog/macos-golden-gate/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Nexpose 8.50.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.org/blog/nexpose/</link>
-      <guid>https://sysin.org/blog/nexpose/</guid>
-      <pubDate>Mon, 06 Jul 2026 05:21:05 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose/&quot; title=&quot;Nexpose 8.50.0 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 8.50.0 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/HTTP/">HTTP</category>
-      
-      
-      <category domain="https://sysin.org/tags/Linux/">Linux</category>
-      
-      <category domain="https://sysin.org/tags/Security/">Security</category>
-      
-      <category domain="https://sysin.org/tags/Windows/">Windows</category>
-      
-      <category domain="https://sysin.org/tags/Rapid7/">Rapid7</category>
-      
-      
-      <comments>https://sysin.org/blog/nexpose/#disqus_thread</comments>
       
     </item>
     
