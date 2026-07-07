@@ -15,8 +15,66 @@
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Mon, 06 Jul 2026 07:15:01 GMT</pubDate>
+    <pubDate>Tue, 07 Jul 2026 00:34:26 GMT</pubDate>
     <generator>http://sysin.org/</generator>
+    
+    <item>
+      <title>macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</title>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
+      <pubDate>Tue, 07 Jul 2026 00:16:36 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate-boot-iso/&quot; title=&quot;macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载&quot;&gt;macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      
+      <comments>https://sysin.org/blog/macos-golden-gate-boot-iso/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</title>
+      <link>https://sysin.org/blog/macos-golden-gate/</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
+      <pubDate>Tue, 07 Jul 2026 00:16:26 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate/&quot; title=&quot;macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载&quot;&gt;macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载&lt;/a&gt; 查看最新版。</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://sysin.org/categories/macOS/">macOS</category>
+      
+      
+      <category domain="https://sysin.org/tags/macOS/">macOS</category>
+      
+      <category domain="https://sysin.org/tags/Apple/">Apple</category>
+      
+      
+      <comments>https://sysin.org/blog/macos-golden-gate/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Nexpose 8.50.0 for Linux &amp; Windows - 漏洞扫描</title>
@@ -724,64 +782,6 @@
       
       
       <comments>https://sysin.org/blog/apple-xcode-27/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>macOS Golden Gate 27.0 beta 2 (26A5368g) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/</link>
-      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
-      <pubDate>Tue, 23 Jun 2026 01:16:36 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate-boot-iso/&quot; title=&quot;macOS Golden Gate 27.0 beta 2 (26A5368g) Boot ISO 原版可引导映像下载&quot;&gt;macOS Golden Gate 27.0 beta 2 (26A5368g) Boot ISO 原版可引导映像下载&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.org/blog/macos-golden-gate-boot-iso/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>macOS Golden Gate 27.0 beta 2 (26A5368g) ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.org/blog/macos-golden-gate/</link>
-      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
-      <pubDate>Tue, 23 Jun 2026 01:16:26 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate/&quot; title=&quot;macOS Golden Gate 27.0 beta 2 (26A5368g) ISO、IPSW、PKG 下载&quot;&gt;macOS Golden Gate 27.0 beta 2 (26A5368g) ISO、IPSW、PKG 下载&lt;/a&gt; 查看最新版。</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://sysin.org/categories/macOS/">macOS</category>
-      
-      
-      <category domain="https://sysin.org/tags/macOS/">macOS</category>
-      
-      <category domain="https://sysin.org/tags/Apple/">Apple</category>
-      
-      
-      <comments>https://sysin.org/blog/macos-golden-gate/#disqus_thread</comments>
       
     </item>
     

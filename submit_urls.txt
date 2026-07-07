@@ -1,3 +1,5 @@
+https://sysin.org/blog/macos-golden-gate/
+https://sysin.org/blog/macos-golden-gate-boot-iso/
 https://sysin.org/blog/nexpose/
 https://sysin.org/blog/cisco-wsa-16/
 https://sysin.org/blog/zerto-10/
@@ -16,5 +18,3 @@ https://sysin.org/blog/pixelmator-pro-3/
 https://sysin.org/blog/vmware-fusion-25/
 https://sysin.org/blog/apple-final-cut-pro/
 https://sysin.org/blog/disable-macos-update/
-https://sysin.org/blog/install-macos-26-on-unsupported-mac/
-https://sysin.org/blog/luminar-neo/

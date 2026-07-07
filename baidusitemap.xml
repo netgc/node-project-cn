@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/macos-golden-gate/</loc>
+    <lastmod>2026-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
+    <lastmod>2026-07-07</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/nexpose/</loc>
     <lastmod>2026-07-06</lastmod>
   </url>
@@ -130,14 +138,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
-    <lastmod>2026-07-05</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos-golden-gate/</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
@@ -313,11 +313,11 @@
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/install-macos-on-unsupported-mac/</loc>
+    <loc>https://sysin.org/blog/install-macos-13-on-unsupported-mac/</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/install-macos-13-on-unsupported-mac/</loc>
+    <loc>https://sysin.org/blog/install-macos-on-unsupported-mac/</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
@@ -393,11 +393,11 @@
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-iwork-11/</loc>
+    <loc>https://sysin.org/blog/apple-iwork-10/</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/apple-iwork-10/</loc>
+    <loc>https://sysin.org/blog/apple-iwork-11/</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
@@ -1085,11 +1085,11 @@
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-horizon-8-2006/</loc>
+    <loc>https://sysin.org/blog/vmware-horizon-8-2012/</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-horizon-8-2012/</loc>
+    <loc>https://sysin.org/blog/vmware-horizon-8-2006/</loc>
     <lastmod>2026-07-05</lastmod>
   </url>
   <url>

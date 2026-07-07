@@ -6,7 +6,7 @@
   <link href="https://sysin.org/atom.xml" rel="self"/>
   
   <link href="https://sysin.org/"/>
-  <updated>2026-07-06T07:15:01.502Z</updated>
+  <updated>2026-07-07T00:34:26.105Z</updated>
   <id>https://sysin.org/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://sysin.org/">sysin</generator>
+  
+  <entry>
+    <title>macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</title>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
+    <published>2026-07-07T00:16:36.000Z</published>
+    <updated>2026-07-07T00:34:26.105Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate-boot-iso/&quot; title=&quot;macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载&quot;&gt;macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</title>
+    <link href="https://sysin.org/blog/macos-golden-gate/"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
+    <published>2026-07-07T00:16:26.000Z</published>
+    <updated>2026-07-07T00:34:33.303Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate/&quot; title=&quot;macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载&quot;&gt;macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载&lt;/a&gt; 查看最新版。</summary>
+        
+      
+    
+    
+    
+    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
+    
+    
+    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
+    
+    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
+    
+  </entry>
   
   <entry>
     <title>Nexpose 8.50.0 for Linux &amp; Windows - 漏洞扫描</title>
@@ -676,60 +730,6 @@
     <category term="iOS" scheme="https://sysin.org/tags/iOS/"/>
     
     <category term="Code" scheme="https://sysin.org/tags/Code/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>macOS Golden Gate 27.0 beta 2 (26A5368g) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/"/>
-    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
-    <published>2026-06-23T01:16:36.000Z</published>
-    <updated>2026-07-05T03:06:28.788Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate-boot-iso/&quot; title=&quot;macOS Golden Gate 27.0 beta 2 (26A5368g) Boot ISO 原版可引导映像下载&quot;&gt;macOS Golden Gate 27.0 beta 2 (26A5368g) Boot ISO 原版可引导映像下载&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>macOS Golden Gate 27.0 beta 2 (26A5368g) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate/"/>
-    <id>https://sysin.org/blog/macos-golden-gate/</id>
-    <published>2026-06-23T01:16:26.000Z</published>
-    <updated>2026-07-05T03:06:28.788Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate/&quot; title=&quot;macOS Golden Gate 27.0 beta 2 (26A5368g) ISO、IPSW、PKG 下载&quot;&gt;macOS Golden Gate 27.0 beta 2 (26A5368g) ISO、IPSW、PKG 下载&lt;/a&gt; 查看最新版。</summary>
-        
-      
-    
-    
-    
-    <category term="macOS" scheme="https://sysin.org/categories/macOS/"/>
-    
-    
-    <category term="macOS" scheme="https://sysin.org/tags/macOS/"/>
-    
-    <category term="Apple" scheme="https://sysin.org/tags/Apple/"/>
     
   </entry>
   
