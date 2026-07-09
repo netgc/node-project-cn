@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.cn/blog/jeb/</loc>
+  <lastmod>2026-07-09</lastmod>
+</url>
+<url>
+  <loc>https://sysin.cn/blog/vyos/</loc>
+  <lastmod>2026-07-09</lastmod>
+</url>
+<url>
+  <loc>https://sysin.cn/blog/windows-10-ltsc-2021/</loc>
+  <lastmod>2026-07-09</lastmod>
+</url>
+<url>
   <loc>https://sysin.cn/blog/securecrt-9/</loc>
   <lastmod>2026-07-09</lastmod>
 </url>
@@ -503,10 +515,6 @@
 <url>
   <loc>https://sysin.cn/blog/veeam-data-platform/</loc>
   <lastmod>2026-06-04</lastmod>
-</url>
-<url>
-  <loc>https://sysin.cn/blog/jeb/</loc>
-  <lastmod>2026-06-03</lastmod>
 </url>
 <url>
   <loc>https://sysin.cn/blog/parallels-desktop/</loc>
@@ -1039,10 +1047,6 @@
 <url>
   <loc>https://sysin.cn/blog/fortios-8/</loc>
   <lastmod>2026-04-07</lastmod>
-</url>
-<url>
-  <loc>https://sysin.cn/blog/vyos/</loc>
-  <lastmod>2026-04-05</lastmod>
 </url>
 <url>
   <loc>https://sysin.cn/blog/burp-bounty-pro/</loc>
@@ -3502,10 +3506,6 @@
 </url>
 <url>
   <loc>https://sysin.cn/blog/centos-8/</loc>
-  <lastmod>2021-11-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.cn/blog/windows-10-ltsc-2021/</loc>
   <lastmod>2021-11-17</lastmod>
 </url>
 <url>
