@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件与技术分享 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
   <updated>2026-07-09T02:14:39.629Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>openEuler 24.03 LTS SP4 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</title>
-    <link href="https://sysin.cn/blog/openeuler-2403/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/openeuler-2403/</id>
+    <link href="https://sysin.org/blog/openeuler-2403/?utm_source=atom"/>
+    <id>https://sysin.org/blog/openeuler-2403/</id>
     <published>2026-07-09T01:30:24.000Z</published>
     <updated>2026-07-09T02:14:39.629Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/openeuler/&quot; title=&quot;openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版&quot;&gt;openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</title>
-    <link href="https://sysin.cn/blog/openeuler/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/openeuler/</id>
+    <link href="https://sysin.org/blog/openeuler/?utm_source=atom"/>
+    <id>https://sysin.org/blog/openeuler/</id>
     <published>2026-07-09T01:30:01.000Z</published>
     <updated>2026-07-09T02:15:04.472Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/openeuler/&quot; title=&quot;openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版&quot;&gt;openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>JASP 0.98.1 (Linux, macOS, Windows) - 开源免费统计软件</title>
-    <link href="https://sysin.cn/blog/jasp/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jasp/</id>
+    <link href="https://sysin.org/blog/jasp/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jasp/</id>
     <published>2026-07-08T01:19:01.000Z</published>
     <updated>2026-07-08T01:19:01.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/jasp/&quot; title=&quot;JASP 0.98.1 (Linux, macOS, Windows) - 开源免费统计软件&quot;&gt;JASP 0.98.1 (Linux, macOS, Windows) - 开源免费统计软件&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Xcode 27 beta 3 (27A5218g) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-    <link href="https://sysin.cn/blog/apple-xcode-27/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-xcode-27/</id>
+    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-xcode-27/</id>
     <published>2026-07-08T01:17:36.000Z</published>
-    <updated>2026-07-08T01:17:36.000Z</updated>
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-xcode-27/&quot; title=&quot;Xcode 27 beta 3 (27A5218g) 发布 - 全新智能框架与先进工具为 App 开发提速&quot;&gt;Xcode 27 beta 3 (27A5218g) 发布 - 全新智能框架与先进工具为 App 开发提速&lt;/a&gt; 查看最新版。</summary>
+    <updated>2026-07-09T06:09:41.025Z</updated>
+    <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，为开发者提供构建和完善 app 的强大新工具</summary>
   </entry>
   <entry>
     <title>SecureCRT &amp; SecureFX 9.7.3 for macOS, Linux, Windows - 跨平台的多协议终端仿真和文件传输</title>
-    <link href="https://sysin.cn/blog/securecrt-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/securecrt-9/</id>
+    <link href="https://sysin.org/blog/securecrt-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/securecrt-9/</id>
     <published>2026-07-08T01:10:00.000Z</published>
-    <updated>2026-07-08T01:10:00.000Z</updated>
-    <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/securecrt-9/&quot; title=&quot;SecureCRT &amp;amp; SecureFX 9.7.3 for macOS, Linux, Windows - 跨平台的多协议终端仿真和文件传输&quot;&gt;SecureCRT &amp;amp; SecureFX 9.7.3 for macOS, Linux, Windows - 跨平台的多协议终端仿真和文件传输&lt;/a&gt; 查看最新版。</summary>
+    <updated>2026-07-09T06:33:24.516Z</updated>
+    <summary type="html">SecureCRT 客户端运行于 Windows、Mac 和 Linux，将坚如磐石的终端仿真与强大的加密、广泛的身份验证选项以及 SSH（Secure Shell）协议的数据完整性结合起来，以实现安全的网络管理和最终用户访问。SecureFX 是 SecureCRT 配套的文件传输客户端，支持 FTP、HTTP、HTTPS、SFTP、SCP 和 Amazon S3。</summary>
   </entry>
   <entry>
     <title>Metasploit Pro 5.0.0-2026070101 (Linux, Windows) - 专业渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-pro-5/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/metasploit-pro-5/</id>
+    <link href="https://sysin.org/blog/metasploit-pro-5/?utm_source=atom"/>
+    <id>https://sysin.org/blog/metasploit-pro-5/</id>
     <published>2026-07-08T01:05:50.000Z</published>
     <updated>2026-07-08T01:05:50.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/metasploit-pro-5/&quot; title=&quot;Metasploit Pro 5.0.0-2026070101 (Linux, Windows) - 专业渗透测试框架&quot;&gt;Metasploit Pro 5.0.0-2026070101 (Linux, Windows) - 专业渗透测试框架&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nexpose/</id>
+    <link href="https://sysin.org/blog/nexpose/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nexpose/</id>
     <published>2026-07-07T05:21:05.000Z</published>
     <updated>2026-07-07T05:21:05.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nexpose/&quot; title=&quot;Nexpose 8.51.0 for Linux &amp;amp; Windows - 漏洞扫描&quot;&gt;Nexpose 8.51.0 for Linux &amp;amp; Windows - 漏洞扫描&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-07-07T00:16:36.000Z</published>
-    <updated>2026-07-07T00:16:36.000Z</updated>
+    <updated>2026-07-09T06:13:34.583Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate-boot-iso/&quot; title=&quot;macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载&quot;&gt;macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-07-07T00:16:26.000Z</published>
     <updated>2026-07-07T00:16:26.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-golden-gate/&quot; title=&quot;macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载&quot;&gt;macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护</title>
-    <link href="https://sysin.cn/blog/cisco-wsa-16/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-wsa-16/</id>
+    <link href="https://sysin.org/blog/cisco-wsa-16/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-wsa-16/</id>
     <published>2026-07-03T01:12:31.000Z</published>
     <updated>2026-07-03T01:12:31.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-wsa-16/&quot; title=&quot;Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护&quot;&gt;Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Linux 产品链接汇总</title>
-    <link href="https://sysin.cn/blog/linux/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/linux/</id>
+    <link href="https://sysin.org/blog/linux/?utm_source=atom"/>
+    <id>https://sysin.org/blog/linux/</id>
     <published>2026-07-03T01:06:00.000Z</published>
-    <updated>2026-07-03T01:06:00.000Z</updated>
+    <updated>2026-07-09T05:28:41.271Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/linux/&quot; title=&quot;Linux 产品链接汇总&quot;&gt;Linux 产品链接汇总&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>HTTP 协议与安全</title>
-    <link href="https://sysin.cn/blog/http/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/http/</id>
+    <link href="https://sysin.org/blog/http/?utm_source=atom"/>
+    <id>https://sysin.org/blog/http/</id>
     <published>2026-07-03T01:03:00.000Z</published>
-    <updated>2026-07-03T01:03:00.000Z</updated>
+    <updated>2026-07-09T05:27:37.078Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/http/&quot; title=&quot;HTTP 协议与安全&quot;&gt;HTTP 协议与安全&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>VMware 产品下载汇总</title>
-    <link href="https://sysin.cn/blog/vmware/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware/</id>
+    <link href="https://sysin.org/blog/vmware/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware/</id>
     <published>2026-07-03T01:02:00.000Z</published>
-    <updated>2026-07-03T01:02:00.000Z</updated>
+    <updated>2026-07-09T05:32:53.868Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware/&quot; title=&quot;VMware 产品下载汇总&quot;&gt;VMware 产品下载汇总&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>macOS 下载汇总 (系统、应用和教程)</title>
-    <link href="https://sysin.cn/blog/macos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos/</id>
+    <link href="https://sysin.org/blog/macos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos/</id>
     <published>2026-07-03T01:01:00.000Z</published>
     <updated>2026-07-03T01:01:00.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos/&quot; title=&quot;macOS 下载汇总 (系统、应用和教程)&quot;&gt;macOS 下载汇总 (系统、应用和教程)&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Apple Creator Studio 2026.07 更新 - 强大的创意套装 (音乐制作、视频剪辑、图像设计与办公工具)</title>
-    <link href="https://sysin.cn/blog/apple-creator-studio/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-creator-studio/</id>
+    <link href="https://sysin.org/blog/apple-creator-studio/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-creator-studio/</id>
     <published>2026-07-02T01:10:00.000Z</published>
     <updated>2026-07-02T01:10:00.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-creator-studio/&quot; title=&quot;Apple Creator Studio 2026.07 更新 - 强大的创意套装 (音乐制作、视频剪辑、图像设计与办公工具)&quot;&gt;Apple Creator Studio 2026.07 更新 - 强大的创意套装 (音乐制作、视频剪辑、图像设计与办公工具)&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>VMware Holodeck 9.1 - 自动化部署 VCF 和 VVF 实验环境</title>
-    <link href="https://sysin.cn/blog/vmware-holodeck/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-holodeck/</id>
+    <link href="https://sysin.org/blog/vmware-holodeck/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-holodeck/</id>
     <published>2026-07-02T01:05:38.000Z</published>
     <updated>2026-07-02T01:05:38.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/vmware-holodeck/&quot; title=&quot;VMware Holodeck 9.1 - 自动化部署 VCF 和 VVF 实验环境&quot;&gt;VMware Holodeck 9.1 - 自动化部署 VCF 和 VVF 实验环境&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Splunk Enterprise 10.4.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-    <link href="https://sysin.cn/blog/splunk-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/splunk-10/</id>
+    <link href="https://sysin.org/blog/splunk-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/splunk-10/</id>
     <published>2026-07-01T05:19:10.000Z</published>
     <updated>2026-07-01T05:19:10.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/splunk-10/&quot; title=&quot;Splunk Enterprise 10.4.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台&quot;&gt;Splunk Enterprise 10.4.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>86 版《西游记》25集 全集 4K 超高清修复版下载</title>
-    <link href="https://sysin.cn/blog/xiyouji/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/xiyouji/</id>
+    <link href="https://sysin.org/blog/xiyouji/?utm_source=atom"/>
+    <id>https://sysin.org/blog/xiyouji/</id>
     <published>2026-07-01T01:45:26.000Z</published>
-    <updated>2026-07-01T01:45:26.000Z</updated>
+    <updated>2026-07-09T06:17:57.813Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/xiyouji/&quot; title=&quot;86 版《西游记》25集 全集 4K 超高清修复版下载&quot;&gt;86 版《西游记》25集 全集 4K 超高清修复版下载&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Kali Linux 2026.2 发布 - 领先的渗透测试发行版</title>
-    <link href="https://sysin.cn/blog/kali-linux/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/kali-linux/</id>
+    <link href="https://sysin.org/blog/kali-linux/?utm_source=atom"/>
+    <id>https://sysin.org/blog/kali-linux/</id>
     <published>2026-06-30T01:18:00.000Z</published>
     <updated>2026-06-30T01:18:00.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/kali-linux/&quot; title=&quot;Kali Linux 2026.2 发布 - 领先的渗透测试发行版&quot;&gt;Kali Linux 2026.2 发布 - 领先的渗透测试发行版&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.5.2 (25F84) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
     <published>2026-06-30T01:16:36.000Z</published>
-    <updated>2026-06-30T01:16:36.000Z</updated>
+    <updated>2026-07-09T06:14:24.355Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-tahoe-boot-iso/&quot; title=&quot;macOS Tahoe 26.5.2 (25F84) Boot ISO 原版可引导映像下载&quot;&gt;macOS Tahoe 26.5.2 (25F84) Boot ISO 原版可引导映像下载&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe/</id>
+    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-06-30T01:16:26.000Z</published>
     <updated>2026-06-30T01:16:26.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-tahoe/&quot; title=&quot;macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载&quot;&gt;macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>NetApp ONTAP Select 9.18.1 - 软件定义的存储</title>
-    <link href="https://sysin.cn/blog/netapp-ontap-select-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/netapp-ontap-select-9/</id>
+    <link href="https://sysin.org/blog/netapp-ontap-select-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/netapp-ontap-select-9/</id>
     <published>2026-06-29T05:28:12.000Z</published>
     <updated>2026-06-29T05:28:12.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/netapp-ontap-select-9/&quot; title=&quot;NetApp ONTAP Select 9.18.1 - 软件定义的存储&quot;&gt;NetApp ONTAP Select 9.18.1 - 软件定义的存储&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>WPS Office for Windows 2026 夏季更新 12.1.0.26884 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps/</id>
+    <link href="https://sysin.org/blog/wps/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps/</id>
     <published>2026-06-29T05:22:05.000Z</published>
     <updated>2026-06-29T05:22:05.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/wps/&quot; title=&quot;WPS Office for Windows 2026 夏季更新 12.1.0.26884 - 写作、表格处理、PPT 制作和 PDF 编辑&quot;&gt;WPS Office for Windows 2026 夏季更新 12.1.0.26884 - 写作、表格处理、PPT 制作和 PDF 编辑&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>WPS Office for Mac 2026 夏季更新 12.1.26026 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps-for-mac/</id>
+    <link href="https://sysin.org/blog/wps-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps-for-mac/</id>
     <published>2026-06-29T05:12:08.000Z</published>
     <updated>2026-06-29T05:12:08.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/wps-for-mac/&quot; title=&quot;WPS Office for Mac 2026 夏季更新 12.1.26026 - 写作、表格处理、PPT 制作和 PDF 编辑&quot;&gt;WPS Office for Mac 2026 夏季更新 12.1.26026 - 写作、表格处理、PPT 制作和 PDF 编辑&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Adobe Acrobat Pro 2026 v2026.001.21691 (macOS, Windows) - 创建、转换和编辑 PDF</title>
-    <link href="https://sysin.cn/blog/adobe-acrobat/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/adobe-acrobat/</id>
+    <link href="https://sysin.org/blog/adobe-acrobat/?utm_source=atom"/>
+    <id>https://sysin.org/blog/adobe-acrobat/</id>
     <published>2026-06-29T05:05:10.000Z</published>
     <updated>2026-06-29T05:05:10.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/adobe-acrobat/&quot; title=&quot;Adobe Acrobat Pro 2026 v2026.001.21691 (macOS, Windows) - 创建、转换和编辑 PDF&quot;&gt;Adobe Acrobat Pro 2026 v2026.001.21691 (macOS, Windows) - 创建、转换和编辑 PDF&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Shotcut 26.6.25 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-    <link href="https://sysin.cn/blog/shotcut/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/shotcut/</id>
+    <link href="https://sysin.org/blog/shotcut/?utm_source=atom"/>
+    <id>https://sysin.org/blog/shotcut/</id>
     <published>2026-06-27T01:19:55.000Z</published>
     <updated>2026-06-27T01:19:55.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/shotcut/&quot; title=&quot;Shotcut 26.6.25 (Linux, macOS, Windows) - 免费开源视频编辑器&quot;&gt;Shotcut 26.6.25 (Linux, macOS, Windows) - 免费开源视频编辑器&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Xcode 26.6 (17F113) - Apple 平台 IDE</title>
-    <link href="https://sysin.cn/blog/apple-xcode-26/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-xcode-26/</id>
+    <link href="https://sysin.org/blog/apple-xcode-26/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-xcode-26/</id>
     <published>2026-06-26T01:17:36.000Z</published>
     <updated>2026-06-26T01:17:36.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/apple-xcode-26/&quot; title=&quot;Xcode 26.6 (17F113) - Apple 平台 IDE&quot;&gt;Xcode 26.6 (17F113) - Apple 平台 IDE&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>如何创建可引导的 macOS 安装介质</title>
-    <link href="https://sysin.cn/blog/macos-createinstallmedia/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-createinstallmedia/</id>
+    <link href="https://sysin.org/blog/macos-createinstallmedia/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-createinstallmedia/</id>
     <published>2026-06-26T01:08:00.000Z</published>
     <updated>2026-06-26T01:08:00.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/macos-createinstallmedia/&quot; title=&quot;如何创建可引导的 macOS 安装介质&quot;&gt;如何创建可引导的 macOS 安装介质&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Tenable Nessus 10.12.1 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
-    <link href="https://sysin.cn/blog/nessus-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-10/</id>
+    <link href="https://sysin.org/blog/nessus-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-10/</id>
     <published>2026-06-25T01:21:00.000Z</published>
     <updated>2026-06-25T01:21:00.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/nessus-10/&quot; title=&quot;Tenable Nessus 10.12.1 (macOS, Linux, Windows) - 漏洞评估解决方案&quot;&gt;Tenable Nessus 10.12.1 (macOS, Linux, Windows) - 漏洞评估解决方案&lt;/a&gt; 查看最新版。</summary>
   </entry>
   <entry>
     <title>Cisco Secure Web Appliance Virtual (SWAv) 15.5.4 MD - 适用于 Web 安全的高级威胁防护</title>
-    <link href="https://sysin.cn/blog/cisco-wsa-15/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-wsa-15/</id>
+    <link href="https://sysin.org/blog/cisco-wsa-15/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-wsa-15/</id>
     <published>2026-06-25T01:12:31.000Z</published>
     <updated>2026-06-25T01:12:31.000Z</updated>
     <summary type="html">&lt;p&gt;请访问原文链接：&lt;a href=&quot;/blog/cisco-wsa-15/&quot; title=&quot;Cisco Secure Web Appliance Virtual (SWAv) 15.5.4 MD - 适用于 Web 安全的高级威胁防护&quot;&gt;Cisco Secure Web Appliance Virtual (SWAv) 15.5.4 MD - 适用于 Web 安全的高级威胁防护&lt;/a&gt; 查看最新版。</summary>
