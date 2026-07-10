@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/apple-iwork-15/</loc>
+  <lastmod>2026-07-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/pixelmator-pro-4/</loc>
+  <lastmod>2026-07-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/apple-logic-pro/</loc>
+  <lastmod>2026-07-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
+  <lastmod>2026-07-10</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/jeb/</loc>
   <lastmod>2026-07-09</lastmod>
 </url>
@@ -14,14 +30,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/securecrt-9/</loc>
-  <lastmod>2026-07-09</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
-  <lastmod>2026-07-09</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/apple-logic-pro/</loc>
   <lastmod>2026-07-09</lastmod>
 </url>
 <url>
@@ -1007,14 +1015,6 @@
 <url>
   <loc>https://sysin.org/blog/photomator/</loc>
   <lastmod>2026-04-14</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/pixelmator-pro-4/</loc>
-  <lastmod>2026-04-13</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/apple-iwork-15/</loc>
-  <lastmod>2026-04-13</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
@@ -4142,7 +4142,7 @@
 </url>
 <url>
   <loc>https://sysin.org/</loc>
-  <lastmod>2026-07-09</lastmod>
+  <lastmod>2026-07-10</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
