@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件与技术分享 | SYStem INside</subtitle>
+  <title>sysin</title><icon>https://sysin.cn/favicon.ico</icon><subtitle>软件与技术分享 | SYStem INside</subtitle>
   <link href="https://sysin.cn/atom.xml" rel="self"/>
   <link href="https://sysin.cn/"/>
   <updated>2026-07-11T00:20:00.000Z</updated>
