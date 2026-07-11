@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-07-11T00:24:50.034Z</updated>
+  <updated>2026-07-11T02:27:06.235Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/apple-final-cut-pro/?utm_source=atom"/>
     <id>https://sysin.org/blog/apple-final-cut-pro/</id>
     <published>2026-07-11T00:20:00.000Z</published>
-    <updated>2026-07-11T00:24:50.034Z</updated>
+    <updated>2026-07-11T02:27:06.235Z</updated>
     <summary type="html">Final Cut Pro 12.3 通过一系列强大 AI 工具（如 Generate Captions 和 Edit Detection）为创意工作流程赋能，同时还有更多新增内容，包括 Creator Themes，支持多种宽高比、动态字幕和自定背景。</summary>
   </entry>
   <entry>
@@ -22,7 +22,7 @@
     <link href="https://sysin.org/blog/apple-logic-pro/?utm_source=atom"/>
     <id>https://sysin.org/blog/apple-logic-pro/</id>
     <published>2026-07-11T00:18:10.000Z</published>
-    <updated>2026-07-11T00:27:11.629Z</updated>
+    <updated>2026-07-11T02:30:12.769Z</updated>
     <summary type="html">Logic Pro 12.3 的更新令音乐制作更智能、更迅速，进一步激发用户灵感。和弦 ID 经重新构建，为和声分析带来更高的准确度，即使是音色失真的吉他或略微跑调的钢琴弹奏的延伸和弦或转位和弦，也能精准识别。因此，伴奏乐手能更轻松、快速响应与演奏和弦变化。</summary>
   </entry>
   <entry>

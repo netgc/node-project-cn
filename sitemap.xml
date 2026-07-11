@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/apple-logic-pro/</loc>
+  <lastmod>2026-07-11</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
+  <lastmod>2026-07-11</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-10/</loc>
+  <lastmod>2026-07-11</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/disable-ios-update/</loc>
+  <lastmod>2026-07-11</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/specterinsight/</loc>
   <lastmod>2026-07-11</lastmod>
 </url>
@@ -13,23 +29,11 @@
   <lastmod>2026-07-11</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/windows-10/</loc>
-  <lastmod>2026-07-11</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/chrome-firefox-download/</loc>
   <lastmod>2026-07-11</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/apple-logic-pro/</loc>
-  <lastmod>2026-07-11</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/apple-iwork-15/</loc>
-  <lastmod>2026-07-11</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/apple-final-cut-pro/</loc>
   <lastmod>2026-07-11</lastmod>
 </url>
 <url>
@@ -170,10 +174,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
-  <lastmod>2026-07-09</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/disable-ios-update/</loc>
   <lastmod>2026-07-09</lastmod>
 </url>
 <url>
