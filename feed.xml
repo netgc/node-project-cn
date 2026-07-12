@@ -12,14 +12,14 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Sun, 12 Jul 2026 02:13:50 GMT</pubDate>
+    <pubDate>Sun, 12 Jul 2026 02:59:54 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>Debian 13.6 Trixie 发布 - 通用操作系统</title>
       <link>https://sysin.org/blog/debian-13/?utm_source=rss</link>
       <guid>https://sysin.org/blog/debian-13/</guid>
       <pubDate>Sun, 12 Jul 2026 01:12:13 GMT</pubDate>
-      <description><![CDATA[<p>请访问原文链接：<a href="/blog/debian-13/?utm_source=rss" title="Debian 13.6 Trixie 发布 - 通用操作系统">Debian 13.6 Trixie 发布 - 通用操作系统</a> 查看最新版。]]></description>
+      <description>2026 年 7 月 11 日，Debian 13.6 “Trixie” 发布，包含多项错误修复和安全更新。此次点版本发布主要增加了针对安全问题的修复，以及少量针对严重问题的调整。相关安全公告已单独发布，并在适用情况下提供引用。</description>
     </item>
     <item>
       <title>Apple Final Cut Pro 12.3 - 专业后期制作 (视频剪辑)</title>
