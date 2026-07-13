@@ -4,223 +4,223 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
     <pubDate>Mon, 13 Jul 2026 10:29:29 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>如何修改 ESXi HTTP(s) 默认反向代理端口 80 和 443</title>
-      <link>https://sysin.cn/blog/esxi-custom-ports/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/esxi-custom-ports/</guid>
+      <link>https://sysin.org/blog/esxi-custom-ports/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/esxi-custom-ports/</guid>
       <pubDate>Mon, 13 Jul 2026 05:19:09 GMT</pubDate>
       <description>本文介绍了如何将 ESXi Host Client（或称 VMware Host Client）默认的 HTTP(S) 反向代理端口（80 和 443）修改为 8080 和 8443。适用于目前所有主流的 ESXi 版本。</description>
     </item>
     <item>
       <title>Debian 13.6 Trixie 发布 - 通用操作系统</title>
-      <link>https://sysin.cn/blog/debian-13/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/debian-13/</guid>
+      <link>https://sysin.org/blog/debian-13/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/debian-13/</guid>
       <pubDate>Sun, 12 Jul 2026 01:12:13 GMT</pubDate>
       <description>2026 年 7 月 11 日，Debian 13.6 “Trixie” 发布，包含多项错误修复和安全更新。此次点版本发布主要增加了针对安全问题的修复，以及少量针对严重问题的调整。相关安全公告已单独发布，并在适用情况下提供引用。</description>
     </item>
     <item>
       <title>Apple Final Cut Pro 12.3 - 专业后期制作 (视频剪辑)</title>
-      <link>https://sysin.cn/blog/apple-final-cut-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-final-cut-pro/</guid>
+      <link>https://sysin.org/blog/apple-final-cut-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-final-cut-pro/</guid>
       <pubDate>Sat, 11 Jul 2026 00:20:00 GMT</pubDate>
       <description>Final Cut Pro 12.3 通过一系列强大 AI 工具（如 Generate Captions 和 Edit Detection）为创意工作流程赋能，同时还有更多新增内容，包括 Creator Themes，支持多种宽高比、动态字幕和自定背景。</description>
     </item>
     <item>
       <title>Apple Logic Pro 12.3 - 专业音乐制作 (音频编辑)</title>
-      <link>https://sysin.cn/blog/apple-logic-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-logic-pro/</guid>
+      <link>https://sysin.org/blog/apple-logic-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-logic-pro/</guid>
       <pubDate>Sat, 11 Jul 2026 00:18:10 GMT</pubDate>
       <description>Logic Pro 12.3 的更新令音乐制作更智能、更迅速，进一步激发用户灵感。和弦 ID 经重新构建，为和声分析带来更高的准确度，即使是音色失真的吉他或略微跑调的钢琴弹奏的延伸和弦或转位和弦，也能精准识别。因此，伴奏乐手能更轻松、快速响应与演奏和弦变化。</description>
     </item>
     <item>
       <title>Apple Pixelmator Pro 4.3 - 专业图像编辑工具</title>
-      <link>https://sysin.cn/blog/pixelmator-pro-4/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/pixelmator-pro-4/</guid>
+      <link>https://sysin.org/blog/pixelmator-pro-4/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/pixelmator-pro-4/</guid>
       <pubDate>Sat, 11 Jul 2026 00:16:08 GMT</pubDate>
       <description>Pixelmator Pro 4.3 的多项实用功能现已整合至 Apple Creator Studio 中多个 app，方便用户随时随地取用。用户可以在 Final Cut Pro 中将选定帧直接发送至 Pixelmator Pro，创建自定义缩略图或社交媒体图像，并轻松将内容放回时间线中，不打断原有工作流程。</description>
     </item>
     <item>
       <title>Apple iWork (Pages, Numbers, Keynote) 15.3 - 文档、电子表格、演示文稿</title>
-      <link>https://sysin.cn/blog/apple-iwork-15/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-iwork-15/</guid>
+      <link>https://sysin.org/blog/apple-iwork-15/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-iwork-15/</guid>
       <pubDate>Sat, 11 Jul 2026 00:12:16 GMT</pubDate>
       <description>iWork 15.3 套件 Keynote 讲演、Pages 文稿和 Numbers 表格为所有用户带来期待已久的功能：Keynote 讲演新增效果惊艳的过渡和构件；自动连字符和显示不可见元素功能登陆 iPhone 和 iPad 版 Pages 文稿，让编辑更精准；用户现在可以在 Numbers 表格中隐藏单个工作表，或对单个工作表进行颜色标记，更快地浏览与查找复杂的电子表格。</description>
     </item>
     <item>
       <title>openEuler 24.03 LTS SP4 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</title>
-      <link>https://sysin.cn/blog/openeuler-2403/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/openeuler-2403/</guid>
+      <link>https://sysin.org/blog/openeuler-2403/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/openeuler-2403/</guid>
       <pubDate>Thu, 09 Jul 2026 01:30:24 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/openeuler/?utm_source=rss" title="openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版">openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</title>
-      <link>https://sysin.cn/blog/openeuler/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/openeuler/</guid>
+      <link>https://sysin.org/blog/openeuler/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/openeuler/</guid>
       <pubDate>Thu, 09 Jul 2026 01:30:01 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/openeuler/?utm_source=rss" title="openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版">openEuler LTS 下载 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>JASP 0.98.1 (Linux, macOS, Windows) - 开源免费统计软件</title>
-      <link>https://sysin.cn/blog/jasp/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jasp/</guid>
+      <link>https://sysin.org/blog/jasp/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jasp/</guid>
       <pubDate>Wed, 08 Jul 2026 01:19:01 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/jasp/?utm_source=rss" title="JASP 0.98.1 (Linux, macOS, Windows) - 开源免费统计软件">JASP 0.98.1 (Linux, macOS, Windows) - 开源免费统计软件</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Xcode 27 beta 3 (27A5218g) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-      <link>https://sysin.cn/blog/apple-xcode-27/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-xcode-27/</guid>
+      <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-xcode-27/</guid>
       <pubDate>Wed, 08 Jul 2026 01:17:36 GMT</pubDate>
       <description>​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，为开发者提供构建和完善 app 的强大新工具</description>
     </item>
     <item>
       <title>SecureCRT &amp; SecureFX 9.7.3 for macOS, Linux, Windows - 跨平台的多协议终端仿真和文件传输</title>
-      <link>https://sysin.cn/blog/securecrt-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/securecrt-9/</guid>
+      <link>https://sysin.org/blog/securecrt-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/securecrt-9/</guid>
       <pubDate>Wed, 08 Jul 2026 01:10:00 GMT</pubDate>
       <description>SecureCRT 客户端运行于 Windows、Mac 和 Linux，将坚如磐石的终端仿真与强大的加密、广泛的身份验证选项以及 SSH（Secure Shell）协议的数据完整性结合起来，以实现安全的网络管理和最终用户访问。SecureFX 是 SecureCRT 配套的文件传输客户端，支持 FTP、HTTP、HTTPS、SFTP、SCP 和 Amazon S3。</description>
     </item>
     <item>
       <title>Metasploit Pro 5.0.0-2026070101 (Linux, Windows) - 专业渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-pro-5/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/metasploit-pro-5/</guid>
+      <link>https://sysin.org/blog/metasploit-pro-5/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/metasploit-pro-5/</guid>
       <pubDate>Wed, 08 Jul 2026 01:05:50 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/metasploit-pro-5/?utm_source=rss" title="Metasploit Pro 5.0.0-2026070101 (Linux, Windows) - 专业渗透测试框架">Metasploit Pro 5.0.0-2026070101 (Linux, Windows) - 专业渗透测试框架</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nexpose/</guid>
+      <link>https://sysin.org/blog/nexpose/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nexpose/</guid>
       <pubDate>Tue, 07 Jul 2026 05:21:05 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/nexpose/?utm_source=rss" title="Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描">Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
       <pubDate>Tue, 07 Jul 2026 00:16:36 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate-boot-iso/?utm_source=rss" title="macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载">macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
       <pubDate>Tue, 07 Jul 2026 00:16:26 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate/?utm_source=rss" title="macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载">macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护</title>
-      <link>https://sysin.cn/blog/cisco-wsa-16/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/cisco-wsa-16/</guid>
+      <link>https://sysin.org/blog/cisco-wsa-16/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/cisco-wsa-16/</guid>
       <pubDate>Fri, 03 Jul 2026 01:12:31 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/cisco-wsa-16/?utm_source=rss" title="Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护">Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Linux 产品链接汇总</title>
-      <link>https://sysin.cn/blog/linux/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/linux/</guid>
+      <link>https://sysin.org/blog/linux/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/linux/</guid>
       <pubDate>Fri, 03 Jul 2026 01:06:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/linux/?utm_source=rss" title="Linux 产品链接汇总">Linux 产品链接汇总</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>HTTP 协议与安全</title>
-      <link>https://sysin.cn/blog/http/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/http/</guid>
+      <link>https://sysin.org/blog/http/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/http/</guid>
       <pubDate>Fri, 03 Jul 2026 01:03:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/http/?utm_source=rss" title="HTTP 协议与安全">HTTP 协议与安全</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>VMware 产品下载汇总</title>
-      <link>https://sysin.cn/blog/vmware/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware/</guid>
+      <link>https://sysin.org/blog/vmware/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware/</guid>
       <pubDate>Fri, 03 Jul 2026 01:02:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/vmware/?utm_source=rss" title="VMware 产品下载汇总">VMware 产品下载汇总</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>macOS 下载汇总 (系统、应用和教程)</title>
-      <link>https://sysin.cn/blog/macos/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos/</guid>
+      <link>https://sysin.org/blog/macos/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos/</guid>
       <pubDate>Fri, 03 Jul 2026 01:01:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos/?utm_source=rss" title="macOS 下载汇总 (系统、应用和教程)">macOS 下载汇总 (系统、应用和教程)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Apple Creator Studio 2026.07 更新 - 强大的创意套装 (音乐制作、视频剪辑、图像设计与办公工具)</title>
-      <link>https://sysin.cn/blog/apple-creator-studio/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-creator-studio/</guid>
+      <link>https://sysin.org/blog/apple-creator-studio/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-creator-studio/</guid>
       <pubDate>Thu, 02 Jul 2026 01:10:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/apple-creator-studio/?utm_source=rss" title="Apple Creator Studio 2026.07 更新 - 强大的创意套装 (音乐制作、视频剪辑、图像设计与办公工具)">Apple Creator Studio 2026.07 更新 - 强大的创意套装 (音乐制作、视频剪辑、图像设计与办公工具)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>VMware Holodeck 9.1 - 自动化部署 VCF 和 VVF 实验环境</title>
-      <link>https://sysin.cn/blog/vmware-holodeck/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-holodeck/</guid>
+      <link>https://sysin.org/blog/vmware-holodeck/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-holodeck/</guid>
       <pubDate>Thu, 02 Jul 2026 01:05:38 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-holodeck/?utm_source=rss" title="VMware Holodeck 9.1 - 自动化部署 VCF 和 VVF 实验环境">VMware Holodeck 9.1 - 自动化部署 VCF 和 VVF 实验环境</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Splunk Enterprise 10.4.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-      <link>https://sysin.cn/blog/splunk-10/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/splunk-10/</guid>
+      <link>https://sysin.org/blog/splunk-10/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/splunk-10/</guid>
       <pubDate>Wed, 01 Jul 2026 05:19:10 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/splunk-10/?utm_source=rss" title="Splunk Enterprise 10.4.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台">Splunk Enterprise 10.4.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>86 版《西游记》25集 全集 4K 超高清修复版下载</title>
-      <link>https://sysin.cn/blog/xiyouji/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/xiyouji/</guid>
+      <link>https://sysin.org/blog/xiyouji/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/xiyouji/</guid>
       <pubDate>Wed, 01 Jul 2026 01:45:26 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/xiyouji/?utm_source=rss" title="86 版《西游记》25集 全集 4K 超高清修复版下载">86 版《西游记》25集 全集 4K 超高清修复版下载</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Kali Linux 2026.2 发布 - 领先的渗透测试发行版</title>
-      <link>https://sysin.cn/blog/kali-linux/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/kali-linux/</guid>
+      <link>https://sysin.org/blog/kali-linux/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/kali-linux/</guid>
       <pubDate>Tue, 30 Jun 2026 01:18:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/kali-linux/?utm_source=rss" title="Kali Linux 2026.2 发布 - 领先的渗透测试发行版">Kali Linux 2026.2 发布 - 领先的渗透测试发行版</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>macOS Tahoe 26.5.2 (25F84) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe-boot-iso/</guid>
       <pubDate>Tue, 30 Jun 2026 01:16:36 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-tahoe-boot-iso/?utm_source=rss" title="macOS Tahoe 26.5.2 (25F84) Boot ISO 原版可引导映像下载">macOS Tahoe 26.5.2 (25F84) Boot ISO 原版可引导映像下载</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe/</guid>
+      <link>https://sysin.org/blog/macos-tahoe/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe/</guid>
       <pubDate>Tue, 30 Jun 2026 01:16:26 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-tahoe/?utm_source=rss" title="macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载">macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>NetApp ONTAP Select 9.18.1 - 软件定义的存储</title>
-      <link>https://sysin.cn/blog/netapp-ontap-select-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/netapp-ontap-select-9/</guid>
+      <link>https://sysin.org/blog/netapp-ontap-select-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/netapp-ontap-select-9/</guid>
       <pubDate>Mon, 29 Jun 2026 05:28:12 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/netapp-ontap-select-9/?utm_source=rss" title="NetApp ONTAP Select 9.18.1 - 软件定义的存储">NetApp ONTAP Select 9.18.1 - 软件定义的存储</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>WPS Office for Windows 2026 夏季更新 12.1.0.26884 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps/</guid>
+      <link>https://sysin.org/blog/wps/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps/</guid>
       <pubDate>Mon, 29 Jun 2026 05:22:05 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/wps/?utm_source=rss" title="WPS Office for Windows 2026 夏季更新 12.1.0.26884 - 写作、表格处理、PPT 制作和 PDF 编辑">WPS Office for Windows 2026 夏季更新 12.1.0.26884 - 写作、表格处理、PPT 制作和 PDF 编辑</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>WPS Office for Mac 2026 夏季更新 12.1.26026 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps-for-mac/</guid>
+      <link>https://sysin.org/blog/wps-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps-for-mac/</guid>
       <pubDate>Mon, 29 Jun 2026 05:12:08 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/wps-for-mac/?utm_source=rss" title="WPS Office for Mac 2026 夏季更新 12.1.26026 - 写作、表格处理、PPT 制作和 PDF 编辑">WPS Office for Mac 2026 夏季更新 12.1.26026 - 写作、表格处理、PPT 制作和 PDF 编辑</a> 查看最新版。]]></description>
     </item>
