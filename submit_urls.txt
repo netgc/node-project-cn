@@ -1,10 +1,10 @@
+https://sysin.org/blog/macos-tahoe/
+https://sysin.org/blog/gitea/
+https://sysin.org/blog/macos-golden-gate/
+https://sysin.org/blog/macos-golden-gate-boot-iso/
 https://sysin.org/blog/esxi-custom-ports/
 https://sysin.org/blog/magnet-axiom/
 https://sysin.org/blog/jeb/
 https://sysin.org/blog/upgrade-to-hexo-6/
 https://sysin.org/blog/vmware-esxi-8-u3-sysin/
 https://sysin.org/blog/vmware-esxi-9-sysin/
-https://sysin.org/blog/debian-13/
-https://sysin.org/blog/cisco-secure-client-5/
-https://sysin.org/blog/apple-logic-pro/
-https://sysin.org/blog/apple-final-cut-pro/

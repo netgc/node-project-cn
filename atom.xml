@@ -3,18 +3,34 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-07-13T10:29:29.548Z</updated>
+  <updated>2026-07-14T01:19:37.464Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
+    <title>macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) Boot ISO 原版可引导映像下载</title>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
+    <published>2026-07-14T01:16:36.000Z</published>
+    <updated>2026-07-14T01:19:37.464Z</updated>
+    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate-boot-iso/?utm_source=atom" title="macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) Boot ISO 原版可引导映像下载">macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) Boot ISO 原版可引导映像下载</a> 查看最新版。]]></summary>
+  </entry>
+  <entry>
+    <title>macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) ISO、IPSW、PKG 下载</title>
+    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
+    <published>2026-07-14T01:16:26.000Z</published>
+    <updated>2026-07-14T01:22:37.353Z</updated>
+    <summary type="html">今日发布 macOS 27.0 beta 3 v.2 (26A5378n)，这是首个公开测试版（Public Beta），macOS Golden Gate 包含了与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，可以使用 Command + Space 键盘快捷键通过 Spotlight 访问 Siri。</summary>
+  </entry>
+  <entry>
     <title>如何修改 ESXi HTTP(s) 默认反向代理端口 80 和 443</title>
     <link href="https://sysin.org/blog/esxi-custom-ports/?utm_source=atom"/>
     <id>https://sysin.org/blog/esxi-custom-ports/</id>
     <published>2026-07-13T05:19:09.000Z</published>
-    <updated>2026-07-13T10:29:29.548Z</updated>
+    <updated>2026-07-14T00:28:11.685Z</updated>
     <summary type="html">本文介绍了如何将 ESXi Host Client（或称 VMware Host Client）默认的 HTTP(S) 反向代理端口（80 和 443）修改为 8080 和 8443。适用于目前所有主流的 ESXi 版本。</summary>
   </entry>
   <entry>
@@ -114,22 +130,6 @@
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/nexpose/?utm_source=atom" title="Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描">Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描</a> 查看最新版。]]></summary>
   </entry>
   <entry>
-    <title>macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
-    <published>2026-07-07T00:16:36.000Z</published>
-    <updated>2026-07-07T00:16:36.000Z</updated>
-    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate-boot-iso/?utm_source=atom" title="macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载">macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</a> 查看最新版。]]></summary>
-  </entry>
-  <entry>
-    <title>macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate/</id>
-    <published>2026-07-07T00:16:26.000Z</published>
-    <updated>2026-07-07T00:16:26.000Z</updated>
-    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate/?utm_source=atom" title="macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载">macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</a> 查看最新版。]]></summary>
-  </entry>
-  <entry>
     <title>Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护</title>
     <link href="https://sysin.org/blog/cisco-wsa-16/?utm_source=atom"/>
     <id>https://sysin.org/blog/cisco-wsa-16/</id>
@@ -222,7 +222,7 @@
     <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-06-30T01:16:26.000Z</published>
-    <updated>2026-06-30T01:16:26.000Z</updated>
+    <updated>2026-07-14T01:33:19.144Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-tahoe/?utm_source=atom" title="macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载">macOS Tahoe 26.5.2 (25F84) 正式版 ISO、IPSW、PKG 下载</a> 查看最新版。]]></summary>
   </entry>
   <entry>

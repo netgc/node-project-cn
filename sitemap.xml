@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/macos-tahoe/</loc>
+  <lastmod>2026-07-14</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/gitea/</loc>
+  <lastmod>2026-07-14</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/macos-golden-gate/</loc>
+  <lastmod>2026-07-14</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
+  <lastmod>2026-07-14</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/esxi-custom-ports/</loc>
-  <lastmod>2026-07-13</lastmod>
+  <lastmod>2026-07-14</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/magnet-axiom/</loc>
@@ -97,14 +113,6 @@
   <lastmod>2026-07-07</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
-  <lastmod>2026-07-07</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/macos-golden-gate/</loc>
-  <lastmod>2026-07-07</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/cisco-wsa-16/</loc>
   <lastmod>2026-07-03</lastmod>
 </url>
@@ -146,10 +154,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/macos-tahoe-boot-iso/</loc>
-  <lastmod>2026-06-30</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/macos-tahoe/</loc>
   <lastmod>2026-06-30</lastmod>
 </url>
 <url>
@@ -218,10 +222,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/sql-server-2025/</loc>
-  <lastmod>2026-06-18</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/gitea/</loc>
   <lastmod>2026-06-18</lastmod>
 </url>
 <url>
@@ -4142,7 +4142,7 @@
 </url>
 <url>
   <loc>https://sysin.org/</loc>
-  <lastmod>2026-07-13</lastmod>
+  <lastmod>2026-07-14</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>

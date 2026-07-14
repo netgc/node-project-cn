@@ -12,8 +12,22 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Mon, 13 Jul 2026 10:29:29 GMT</pubDate>
+    <pubDate>Tue, 14 Jul 2026 01:19:37 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) Boot ISO 原版可引导映像下载</title>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
+      <pubDate>Tue, 14 Jul 2026 01:16:36 GMT</pubDate>
+      <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate-boot-iso/?utm_source=rss" title="macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) Boot ISO 原版可引导映像下载">macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) Boot ISO 原版可引导映像下载</a> 查看最新版。]]></description>
+    </item>
+    <item>
+      <title>macOS Golden Gate 27.0 beta 3 v.2 (26A5378n) ISO、IPSW、PKG 下载</title>
+      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
+      <pubDate>Tue, 14 Jul 2026 01:16:26 GMT</pubDate>
+      <description>今日发布 macOS 27.0 beta 3 v.2 (26A5378n)，这是首个公开测试版（Public Beta），macOS Golden Gate 包含了与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，可以使用 Command + Space 键盘快捷键通过 Spotlight 访问 Siri。</description>
+    </item>
     <item>
       <title>如何修改 ESXi HTTP(s) 默认反向代理端口 80 和 443</title>
       <link>https://sysin.org/blog/esxi-custom-ports/?utm_source=rss</link>
@@ -104,20 +118,6 @@
       <guid>https://sysin.org/blog/nexpose/</guid>
       <pubDate>Tue, 07 Jul 2026 05:21:05 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/nexpose/?utm_source=rss" title="Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描">Nexpose 8.51.0 for Linux &amp; Windows - 漏洞扫描</a> 查看最新版。]]></description>
-    </item>
-    <item>
-      <title>macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
-      <pubDate>Tue, 07 Jul 2026 00:16:36 GMT</pubDate>
-      <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate-boot-iso/?utm_source=rss" title="macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载">macOS Golden Gate 27.0 beta 3 (26A5378j) Boot ISO 原版可引导映像下载</a> 查看最新版。]]></description>
-    </item>
-    <item>
-      <title>macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
-      <pubDate>Tue, 07 Jul 2026 00:16:26 GMT</pubDate>
-      <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-golden-gate/?utm_source=rss" title="macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载">macOS Golden Gate 27.0 beta 3 (26A5378j) ISO、IPSW、PKG 下载</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Cisco Secure Web Appliance Virtual (SWAv) 16.0.0 LD - 适用于 Web 安全的高级威胁防护</title>
