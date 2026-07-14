@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-07-14T13:31:27.388Z</updated>
+  <updated>2026-07-14T13:53:55.960Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/ida-pro-9/?utm_source=atom"/>
     <id>https://sysin.org/blog/ida-pro-9/</id>
     <published>2026-07-14T06:49:19.000Z</published>
-    <updated>2026-07-14T13:31:27.388Z</updated>
+    <updated>2026-07-14T13:53:55.960Z</updated>
     <summary type="html">2026 年 7 月 14 日，IDA 9.4 正式版发布，全面升级 Apple Dyld Shared Cache 与 Swift 分析能力，新增 Git 版 Teams、Pathfinder 导航、Windows ARM64 原生支持，并首次将 idalib 引入 IDA Home。</summary>
   </entry>
   <entry>
@@ -94,7 +94,7 @@
     <link href="https://sysin.org/blog/ida-pro/?utm_source=atom"/>
     <id>https://sysin.org/blog/ida-pro/</id>
     <published>2026-07-11T00:09:19.000Z</published>
-    <updated>2026-07-14T13:26:24.402Z</updated>
+    <updated>2026-07-14T13:56:19.560Z</updated>
     <summary type="html">IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，支持 x64 和 arm64 架构。</summary>
   </entry>
   <entry>
