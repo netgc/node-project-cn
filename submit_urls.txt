@@ -1,3 +1,6 @@
+https://sysin.org/blog/macos-golden-gate/
+https://sysin.org/blog/macos-createinstallmedia/
+https://sysin.org/blog/blender/
 https://sysin.org/blog/visual-studio-2026/
 https://sysin.org/blog/ssms/
 https://sysin.org/blog/office-2019/
@@ -5,6 +8,3 @@ https://sysin.org/blog/office-2021/
 https://sysin.org/blog/office-2024/
 https://sysin.org/blog/office-2024-for-mac/
 https://sysin.org/blog/office-2021-for-mac/
-https://sysin.org/blog/ida-pro/
-https://sysin.org/blog/ida-pro-9/
-https://sysin.org/blog/gitea/

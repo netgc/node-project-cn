@@ -99,6 +99,13 @@
       <description>本文介绍了如何将 ESXi Host Client（或称 VMware Host Client）默认的 HTTP(S) 反向代理端口（80 和 443）修改为 8080 和 8443。适用于目前所有主流的 ESXi 版本。</description>
     </item>
     <item>
+      <title>Blender 5.2 LTS (Linux, macOS, Windows) - 开源 3D 创意软件 (渲染 建模 雕刻)</title>
+      <link>https://sysin.org/blog/blender/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/blender/</guid>
+      <pubDate>Sun, 12 Jul 2026 01:15:18 GMT</pubDate>
+      <description>Blender 5.2 LTS 在带来丰富新功能的同时，也进一步提升了稳定性。凭借 2 年的长期支持（截至 2028 年 7 月），它是长期项目和生产环境的理想选择。</description>
+    </item>
+    <item>
       <title>Debian 13.6 Trixie 发布 - 通用操作系统</title>
       <link>https://sysin.org/blog/debian-13/?utm_source=rss</link>
       <guid>https://sysin.org/blog/debian-13/</guid>
@@ -216,13 +223,6 @@
       <guid>https://sysin.org/blog/vmware/</guid>
       <pubDate>Fri, 03 Jul 2026 01:02:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/vmware/?utm_source=rss" title="VMware 产品下载汇总">VMware 产品下载汇总</a> 查看最新版。]]></description>
-    </item>
-    <item>
-      <title>macOS 下载汇总 (系统、应用和教程)</title>
-      <link>https://sysin.org/blog/macos/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/macos/</guid>
-      <pubDate>Fri, 03 Jul 2026 01:01:00 GMT</pubDate>
-      <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos/?utm_source=rss" title="macOS 下载汇总 (系统、应用和教程)">macOS 下载汇总 (系统、应用和教程)</a> 查看最新版。]]></description>
     </item>
   </channel>
 </rss>

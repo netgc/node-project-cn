@@ -94,7 +94,7 @@
     <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-07-14T01:16:26.000Z</published>
-    <updated>2026-07-14T01:22:37.353Z</updated>
+    <updated>2026-07-15T02:04:13.601Z</updated>
     <summary type="html">今日发布 macOS 27.0 beta 3 v.2 (26A5378n)，这是首个公开测试版（Public Beta），macOS Golden Gate 包含了与 iOS 27 和 iPadOS 27 相同的 Siri AI 功能，可以使用 Command + Space 键盘快捷键通过 Spotlight 访问 Siri。</summary>
   </entry>
   <entry>
@@ -104,6 +104,14 @@
     <published>2026-07-13T05:19:09.000Z</published>
     <updated>2026-07-14T00:28:11.685Z</updated>
     <summary type="html">本文介绍了如何将 ESXi Host Client（或称 VMware Host Client）默认的 HTTP(S) 反向代理端口（80 和 443）修改为 8080 和 8443。适用于目前所有主流的 ESXi 版本。</summary>
+  </entry>
+  <entry>
+    <title>Blender 5.2 LTS (Linux, macOS, Windows) - 开源 3D 创意软件 (渲染 建模 雕刻)</title>
+    <link href="https://sysin.org/blog/blender/?utm_source=atom"/>
+    <id>https://sysin.org/blog/blender/</id>
+    <published>2026-07-12T01:15:18.000Z</published>
+    <updated>2026-07-15T01:55:00.039Z</updated>
+    <summary type="html">Blender 5.2 LTS 在带来丰富新功能的同时，也进一步提升了稳定性。凭借 2 年的长期支持（截至 2028 年 7 月），它是长期项目和生产环境的理想选择。</summary>
   </entry>
   <entry>
     <title>Debian 13.6 Trixie 发布 - 通用操作系统</title>
@@ -240,13 +248,5 @@
     <published>2026-07-03T01:02:00.000Z</published>
     <updated>2026-07-03T01:02:00.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware/?utm_source=atom" title="VMware 产品下载汇总">VMware 产品下载汇总</a> 查看最新版。]]></summary>
-  </entry>
-  <entry>
-    <title>macOS 下载汇总 (系统、应用和教程)</title>
-    <link href="https://sysin.org/blog/macos/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos/</id>
-    <published>2026-07-03T01:01:00.000Z</published>
-    <updated>2026-07-03T01:01:00.000Z</updated>
-    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos/?utm_source=atom" title="macOS 下载汇总 (系统、应用和教程)">macOS 下载汇总 (系统、应用和教程)</a> 查看最新版。]]></summary>
   </entry>
 </feed>

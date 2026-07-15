@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/macos-golden-gate/</loc>
+    <lastmod>2026-07-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
+    <lastmod>2026-07-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/blender/</loc>
+    <lastmod>2026-07-15</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/visual-studio-2026/</loc>
     <lastmod>2026-07-15</lastmod>
   </url>
@@ -94,10 +106,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/macos-tahoe/</loc>
-    <lastmod>2026-07-14</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos-golden-gate/</loc>
     <lastmod>2026-07-14</lastmod>
   </url>
   <url>
@@ -242,10 +250,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/apple-xcode-26/</loc>
-    <lastmod>2026-06-26</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
     <lastmod>2026-06-26</lastmod>
   </url>
   <url>
@@ -1106,10 +1110,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/netbeans/</loc>
-    <lastmod>2026-03-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/blender/</loc>
     <lastmod>2026-03-18</lastmod>
   </url>
   <url>
