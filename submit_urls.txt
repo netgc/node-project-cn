@@ -1,3 +1,4 @@
+https://sysin.org/blog/ida-pro/
 https://sysin.org/blog/vmware-avi-load-balancer-30/
 https://sysin.org/blog/vmware-avi-load-balancer-31/
 https://sysin.org/blog/macos-golden-gate/
@@ -7,4 +8,3 @@ https://sysin.org/blog/visual-studio-2026/
 https://sysin.org/blog/ssms/
 https://sysin.org/blog/office-2019/
 https://sysin.org/blog/office-2021/
-https://sysin.org/blog/office-2024/

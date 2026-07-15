@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/ida-pro/</loc>
+  <lastmod>2026-07-15</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-avi-load-balancer-30/</loc>
   <lastmod>2026-07-15</lastmod>
 </url>
@@ -47,10 +51,6 @@
 <url>
   <loc>https://sysin.org/blog/office-2021-for-mac/</loc>
   <lastmod>2026-07-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/ida-pro/</loc>
-  <lastmod>2026-07-14</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/ida-pro-9/</loc>
