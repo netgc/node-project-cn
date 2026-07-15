@@ -3,12 +3,20 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-07-15T01:40:10.536Z</updated>
+  <updated>2026-07-15T10:08:18.251Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>IDA Pro 9.4.260713 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
+    <link href="https://sysin.org/blog/ida-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ida-pro/</id>
+    <published>2026-07-15T10:09:19.000Z</published>
+    <updated>2026-07-15T10:08:18.251Z</updated>
+    <summary type="html">IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，支持 x64 和 arm64 架构。</summary>
+  </entry>
   <entry>
     <title>SQL Server Management Studio (SSMS) 22.8 - 数据库管理工具</title>
     <link href="https://sysin.org/blog/ssms/?utm_source=atom"/>
@@ -152,14 +160,6 @@
     <published>2026-07-11T00:12:16.000Z</published>
     <updated>2026-07-11T00:12:16.000Z</updated>
     <summary type="html">iWork 15.3 套件 Keynote 讲演、Pages 文稿和 Numbers 表格为所有用户带来期待已久的功能：Keynote 讲演新增效果惊艳的过渡和构件；自动连字符和显示不可见元素功能登陆 iPhone 和 iPad 版 Pages 文稿，让编辑更精准；用户现在可以在 Numbers 表格中隐藏单个工作表，或对单个工作表进行颜色标记，更快地浏览与查找复杂的电子表格。</summary>
-  </entry>
-  <entry>
-    <title>IDA Pro 9.4.260713 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
-    <link href="https://sysin.org/blog/ida-pro/?utm_source=atom"/>
-    <id>https://sysin.org/blog/ida-pro/</id>
-    <published>2026-07-11T00:09:19.000Z</published>
-    <updated>2026-07-15T08:34:57.023Z</updated>
-    <summary type="html">IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，支持 x64 和 arm64 架构。</summary>
   </entry>
   <entry>
     <title>openEuler 24.03 LTS SP4 - EulerOS 开源版 | 华为 RHEL 兼容增强发行版</title>
