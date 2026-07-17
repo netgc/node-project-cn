@@ -4,223 +4,223 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Fri, 17 Jul 2026 02:19:50 GMT</pubDate>
+    <pubDate>Fri, 17 Jul 2026 07:21:13 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>JetBrains IDE 2026.2 (macOS, Linux, Windows) - 跨平台开发者工具</title>
-      <link>https://sysin.cn/blog/jetbrains/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains/</guid>
+      <link>https://sysin.org/blog/jetbrains/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains/</guid>
       <pubDate>Fri, 17 Jul 2026 02:19:50 GMT</pubDate>
       <description>JETBRAINS IDEs，借助代码，让梦想成真。享受卓越的开发者体验。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.7 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro/</guid>
       <pubDate>Fri, 17 Jul 2026 01:07:12 GMT</pubDate>
       <description>Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</description>
     </item>
     <item>
       <title>Burp Suite 2026.7 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-      <link>https://sysin.cn/blog/burp-suite/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite/</guid>
+      <link>https://sysin.org/blog/burp-suite/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite/</guid>
       <pubDate>Fri, 17 Jul 2026 01:07:10 GMT</pubDate>
       <description>Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2025 RTM GDR &amp; CU6 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2025/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2025/</guid>
+      <link>https://sysin.org/blog/sql-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2025/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:25 GMT</pubDate>
       <description>SQL Server 2025 是一款为 AI 准备的企业数据库，凭借内建 AI 和以开发者为中心的增强功能，SQL Server 2025 使客户能够使用现有数据加速 AI 创新，并且可以在 SQL Server 内部安全地、大规模地进行操作，使用熟悉的 T-SQL 语言。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2022 RTM GDR &amp; CU25 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2022/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2022/</guid>
+      <link>https://sysin.org/blog/sql-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2022/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:22 GMT</pubDate>
       <description>SQL Server 2022 是迄今为止支持 Azure 最多的 SQL Server 版本，并在性能、安全性和可用性方面不断创新。这标志着 SQL Server 30 多年历史上的最新里程碑。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2019/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2019/</guid>
+      <link>https://sysin.org/blog/sql-server-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2019/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:19 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/sql-server-2019/?utm_source=rss" title="Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 7 月安全更新)">Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 7 月安全更新)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2017/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2017/</guid>
+      <link>https://sysin.org/blog/sql-server-2017/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2017/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:17 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/sql-server-2017/?utm_source=rss" title="Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 7 月安全更新)">Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 7 月安全更新)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Microsoft SQL Server 2016 with SP3 GDR (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2016/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2016/</guid>
+      <link>https://sysin.org/blog/sql-server-2016/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2016/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:16 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/sql-server-2016/?utm_source=rss" title="Microsoft SQL Server 2016 with SP3 GDR (2026 年 7 月安全更新)">Microsoft SQL Server 2016 with SP3 GDR (2026 年 7 月安全更新)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.7 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-mac/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
       <pubDate>Fri, 17 Jul 2026 01:05:18 GMT</pubDate>
       <description>世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.7 for Windows x64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-win/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-win/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-win/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-win/</guid>
       <pubDate>Fri, 17 Jul 2026 01:05:15 GMT</pubDate>
       <description>世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</description>
     </item>
     <item>
       <title>Sophos Firewall (SFOS) v22 MR2 - 下一代防火墙</title>
-      <link>https://sysin.cn/blog/sfos-22/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sfos-22/</guid>
+      <link>https://sysin.org/blog/sfos-22/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sfos-22/</guid>
       <pubDate>Thu, 16 Jul 2026 01:18:22 GMT</pubDate>
       <description>Sophos Firewall v22 MR2 新增后量子密码学（PQC）检测与控制、生成式 AI 应用识别、Manifest V3 支持等多项安全增强，并修复 50 余项可靠性、稳定性和安全问题。</description>
     </item>
     <item>
       <title>Oracle Linux 10.2 发布 - Oracle 提供支持 RHEL 兼容发行版</title>
-      <link>https://sysin.cn/blog/oracle-linux-10/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/oracle-linux-10/</guid>
+      <link>https://sysin.org/blog/oracle-linux-10/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/oracle-linux-10/</guid>
       <pubDate>Thu, 16 Jul 2026 01:18:10 GMT</pubDate>
       <description>Oracle Linux 10.2 发布，带来最新的安全更新、开发工具链及容器虚拟化组件升级，并持续优化 UEK 内核性能与企业级工作负载支持，进一步提升系统稳定性和安全性。</description>
     </item>
     <item>
       <title>Oracle Linux 9.8 发布 - Oracle 提供支持 RHEL 兼容发行版</title>
-      <link>https://sysin.cn/blog/oracle-linux-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/oracle-linux-9/</guid>
+      <link>https://sysin.org/blog/oracle-linux-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/oracle-linux-9/</guid>
       <pubDate>Thu, 16 Jul 2026 01:18:09 GMT</pubDate>
       <description>Oracle Linux 9.8 发布，集成最新安全修复、编译器工具链及系统组件更新，增强开发、容器和企业应用支持，为生产环境提供更高的稳定性、兼容性和安全保障。</description>
     </item>
     <item>
       <title>Shotcut 26.7.15 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-      <link>https://sysin.cn/blog/shotcut/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/shotcut/</guid>
+      <link>https://sysin.org/blog/shotcut/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/shotcut/</guid>
       <pubDate>Thu, 16 Jul 2026 01:09:55 GMT</pubDate>
       <description>Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</description>
     </item>
     <item>
       <title>Blender 5.2 LTS (Linux, macOS, Windows) - 开源 3D 创意软件 (渲染 建模 雕刻)</title>
-      <link>https://sysin.cn/blog/blender/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/blender/</guid>
+      <link>https://sysin.org/blog/blender/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/blender/</guid>
       <pubDate>Thu, 16 Jul 2026 01:05:18 GMT</pubDate>
       <description>Blender 5.2 LTS 在带来丰富新功能的同时，也进一步提升了稳定性。凭借 2 年的长期支持（截至 2028 年 7 月），它是长期项目和生产环境的理想选择。将世界上最优秀的 3D CG 技术以自由/开源软件的形式交到艺术家手中。</description>
     </item>
     <item>
       <title>IDA Pro 9.4.260713 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
-      <link>https://sysin.cn/blog/ida-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ida-pro/</guid>
+      <link>https://sysin.org/blog/ida-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ida-pro/</guid>
       <pubDate>Wed, 15 Jul 2026 10:09:19 GMT</pubDate>
       <description>IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</description>
     </item>
     <item>
       <title>JetBrains CLion 2026.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-clion/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-clion/</guid>
+      <link>https://sysin.org/blog/jetbrains-clion/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-clion/</guid>
       <pubDate>Wed, 15 Jul 2026 02:18:00 GMT</pubDate>
       <description>CLion 对非商业用途免费，适用于 C 和 C++ 的跨平台 IDE，为实现流畅的工作流和高效开发而设计。</description>
     </item>
     <item>
       <title>JetBrains DataGrip 2026.2 (macOS, Linux, Windows) - 关系型和 NoSQL 数据库跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-datagrip/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-datagrip/</guid>
+      <link>https://sysin.org/blog/jetbrains-datagrip/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-datagrip/</guid>
       <pubDate>Wed, 15 Jul 2026 02:17:35 GMT</pubDate>
       <description>DataGrip 对非商业用途免费，感受使用一款工具处理多种数据库的不同，适用于关系型和 NoSQL 数据库的强大跨平台 IDE。</description>
     </item>
     <item>
       <title>JetBrains DataSpell 2026.2 (macOS, Linux, Windows) - 专业数据科学家的 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-dataspell/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-dataspell/</guid>
+      <link>https://sysin.org/blog/jetbrains-dataspell/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-dataspell/</guid>
       <pubDate>Wed, 15 Jul 2026 02:16:00 GMT</pubDate>
       <description>DataSpell，感受数据分析的不同，用于分析数据和分享洞察的 AI 赋能工具。</description>
     </item>
     <item>
       <title>JetBrains GoLand 2026.2 (macOS, Linux, Windows) - 为 Go 开发者打造的完整 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-goland/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-goland/</guid>
+      <link>https://sysin.org/blog/jetbrains-goland/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-goland/</guid>
       <pubDate>Wed, 15 Jul 2026 02:14:00 GMT</pubDate>
       <description>GoLand，面向 Go 专业开发的 IDE。让工作更轻松。就像 Go 一样。</description>
     </item>
     <item>
       <title>JetBrains IntelliJ IDEA 2026.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-idea/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-idea/</guid>
+      <link>https://sysin.org/blog/jetbrains-idea/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-idea/</guid>
       <pubDate>Wed, 15 Jul 2026 02:13:35 GMT</pubDate>
       <description>IntelliJ IDEA，适用于专业开发的卓越 IDE，适用于 Java 和 Kotlin。</description>
     </item>
     <item>
       <title>JetBrains PhpStorm 2026.2 (macOS, Linux, Windows) - 高效智能的 PHP IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-phpstorm/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-phpstorm/</guid>
+      <link>https://sysin.org/blog/jetbrains-phpstorm/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-phpstorm/</guid>
       <pubDate>Wed, 15 Jul 2026 02:13:00 GMT</pubDate>
       <description>PhpStorm，为 PHP 开发者赋能，让您高效工作的 PHP IDE。</description>
     </item>
     <item>
       <title>JetBrains RubyMine 2026.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-rubymine/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-rubymine/</guid>
+      <link>https://sysin.org/blog/jetbrains-rubymine/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-rubymine/</guid>
       <pubDate>Wed, 15 Jul 2026 02:13:00 GMT</pubDate>
       <description>RubyMine 对非商业用途免费，为 Ruby 开发者赋能，借助 Ruby on Rails IDE 更智能地编码。</description>
     </item>
     <item>
       <title>JetBrains Rider 2026.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-rider/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-rider/</guid>
+      <link>https://sysin.org/blog/jetbrains-rider/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-rider/</guid>
       <pubDate>Wed, 15 Jul 2026 02:12:00 GMT</pubDate>
       <description>Rider 对非商业用途免费，全球最受喜爱的 .NET 和游戏开发 IDE。</description>
     </item>
     <item>
       <title>JetBrains PyCharm 2026.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-pycharm/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-pycharm/</guid>
+      <link>https://sysin.org/blog/jetbrains-pycharm/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-pycharm/</guid>
       <pubDate>Wed, 15 Jul 2026 02:11:00 GMT</pubDate>
       <description>PyCharm，您需要的唯一 Python IDE，专为 Web、数据和 AI/ML 专业人士打造。配备 AI 增强型 IDE 体验。</description>
     </item>
     <item>
       <title>JetBrains RustRover 2026.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-rustrover/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-rustrover/</guid>
+      <link>https://sysin.org/blog/jetbrains-rustrover/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-rustrover/</guid>
       <pubDate>Wed, 15 Jul 2026 02:11:00 GMT</pubDate>
       <description>RustRover 对非商业用途免费，适用于 Rust 的强大 IDE，编码、测试、调试和部署 – 全部开箱即用。</description>
     </item>
     <item>
       <title>JetBrains WebStorm 2026.2 (macOS, Linux, Windows) - JavaScript 和 TypeScript IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-webstorm/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-webstorm/</guid>
+      <link>https://sysin.org/blog/jetbrains-webstorm/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-webstorm/</guid>
       <pubDate>Wed, 15 Jul 2026 02:10:35 GMT</pubDate>
       <description>WebStorm 对非商业用途免费，JavaScript 和 TypeScript IDE，让开发更加高效愉快。</description>
     </item>
     <item>
       <title>SQL Server Management Studio (SSMS) 22.8 - 数据库管理工具</title>
-      <link>https://sysin.cn/blog/ssms/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ssms/</guid>
+      <link>https://sysin.org/blog/ssms/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ssms/</guid>
       <pubDate>Wed, 15 Jul 2026 01:16:50 GMT</pubDate>
       <description>2026 年 7 月 15 日，Microsoft 发布 SQL Server Management Studio（SSMS）v22.8，带来数据库 DevOps、GitHub Copilot、架构比较等多项功能增强，并升级 Visual Studio、MSOLEDBSQL 等组件，进一步提升 SQL Server 数据库的开发、管理体验。</description>
     </item>
     <item>
       <title>Visual Studio 2026 Enterprise v18.8 - 适用于 Windows 上 .NET 和 C++ 开发人员的最全面 IDE</title>
-      <link>https://sysin.cn/blog/visual-studio-2026/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/visual-studio-2026/</guid>
+      <link>https://sysin.org/blog/visual-studio-2026/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/visual-studio-2026/</guid>
       <pubDate>Wed, 15 Jul 2026 01:16:26 GMT</pubDate>
       <description>2026 年 7 月 15 日，Microsoft 发布 Visual Studio 2026 v18.8，本次更新继续围绕 AI 辅助开发、IDE 性能、Git 工具链以及 .NET、C++ 等开发体验进行优化，同时修复了大量开发者反馈的问题，进一步提升了 Visual Studio 在大型项目开发和日常编码中的稳定性与生产力。</description>
     </item>
     <item>
       <title>Microsoft Office LTSC 2024 for Mac 16.111 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2024-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024-for-mac/</guid>
+      <link>https://sysin.org/blog/office-2024-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024-for-mac/</guid>
       <pubDate>Wed, 15 Jul 2026 01:16:24 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/office-2024-for-mac/?utm_source=rss" title="Microsoft Office LTSC 2024 for Mac 16.111 - 文档、电子表格、演示文稿和电子邮件">Microsoft Office LTSC 2024 for Mac 16.111 - 文档、电子表格、演示文稿和电子邮件</a> 查看最新版。]]></description>
     </item>
