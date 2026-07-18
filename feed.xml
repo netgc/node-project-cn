@@ -218,11 +218,11 @@
       <description>IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</description>
     </item>
     <item>
-      <title>JetBrains DataSpell 2026.2 (macOS, Linux, Windows) - 专业数据科学家的 IDE</title>
-      <link>https://sysin.org/blog/jetbrains-dataspell/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/jetbrains-dataspell/</guid>
-      <pubDate>Wed, 15 Jul 2026 02:16:00 GMT</pubDate>
-      <description>DataSpell 是专为数据科学工作流打造的 IDE，融合 Jupyter Notebook、Python 开发和交互式数据分析能力，为数据探索与机器学习提供完整环境。</description>
+      <title>Nexpose 8.52.0 for Linux &amp; Windows - 漏洞扫描</title>
+      <link>https://sysin.org/blog/nexpose/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nexpose/</guid>
+      <pubDate>Wed, 15 Jul 2026 05:21:05 GMT</pubDate>
+      <description>Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</description>
     </item>
   </channel>
 </rss>

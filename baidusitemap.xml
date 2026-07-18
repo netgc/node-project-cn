@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/nexpose-7/</loc>
+    <lastmod>2026-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/nexpose/</loc>
+    <lastmod>2026-07-18</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/nexpose-6/</loc>
+    <lastmod>2026-07-18</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/office-2019/</loc>
     <lastmod>2026-07-18</lastmod>
   </url>
@@ -287,10 +299,6 @@
   <url>
     <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
     <lastmod>2026-07-08</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nexpose/</loc>
-    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-wsa-16/</loc>
@@ -1969,10 +1977,6 @@
     <lastmod>2025-03-30</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/nexpose-7/</loc>
-    <lastmod>2025-03-13</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/freebsd-13-ovf/</loc>
     <lastmod>2025-03-11</lastmod>
   </url>
@@ -2119,10 +2123,6 @@
   <url>
     <loc>https://sysin.org/blog/hcl-domino/</loc>
     <lastmod>2024-12-05</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nexpose-6/</loc>
-    <lastmod>2024-12-02</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-nsx-t-3/</loc>
