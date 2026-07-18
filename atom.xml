@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件与技术分享 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
   <updated>2026-07-18T02:09:32.776Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Jul 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-windows/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
     <published>2026-07-18T01:13:30.000Z</published>
     <updated>2026-07-18T02:09:32.776Z</updated>
     <summary type="html">适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Jul 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</id>
     <published>2026-07-18T01:13:20.000Z</published>
     <updated>2026-07-18T02:09:31.676Z</updated>
     <summary type="html">适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for RHEL 9 | RHEL 10 - Nessus 自动化安装程序 (updated Jul 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</id>
     <published>2026-07-18T01:13:15.000Z</published>
     <updated>2026-07-18T02:09:30.121Z</updated>
     <summary type="html">适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Jul 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-macos/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
     <published>2026-07-18T01:13:10.000Z</published>
-    <updated>2026-07-18T02:09:28.459Z</updated>
+    <updated>2026-07-18T07:39:00.582Z</updated>
     <summary type="html">适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>WPS Office for Mac 2026 夏季更新 12.1.26035 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps-for-mac/</id>
+    <link href="https://sysin.org/blog/wps-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps-for-mac/</id>
     <published>2026-07-18T01:12:08.000Z</published>
     <updated>2026-07-18T03:39:41.831Z</updated>
     <summary type="html">WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</summary>
   </entry>
   <entry>
     <title>WPS Office for Windows 2026 夏季更新 12.1.0.26885 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps/</id>
+    <link href="https://sysin.org/blog/wps/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps/</id>
     <published>2026-07-18T01:12:05.000Z</published>
     <updated>2026-07-18T01:39:02.499Z</updated>
     <summary type="html">WPS Office 是一款免费、高效的办公软件套件，兼具智能化功能、流畅体验，并与 Microsoft Office 格式无缝兼容，轻松满足文档、表格和演示等办公需求。</summary>
   </entry>
   <entry>
     <title>Metasploit Framework 6.4.145 (macOS, Linux, Windows) - 开源渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-framework-6/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/metasploit-framework-6/</id>
+    <link href="https://sysin.org/blog/metasploit-framework-6/?utm_source=atom"/>
+    <id>https://sysin.org/blog/metasploit-framework-6/</id>
     <published>2026-07-18T01:01:00.000Z</published>
     <updated>2026-07-18T05:44:51.030Z</updated>
     <summary type="html">此版本新增 HTTP 到 SMB Relay 模块、Linux Fetch Multi 自适应架构 Payload，并扩展 RISC-V 支持，同时带来多项功能增强与 Bug 修复，进一步提升跨平台渗透测试能力。</summary>
   </entry>
   <entry>
     <title>JetBrains CLion 2026.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-clion/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-clion/</id>
+    <link href="https://sysin.org/blog/jetbrains-clion/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-clion/</id>
     <published>2026-07-17T05:18:00.000Z</published>
     <updated>2026-07-18T02:03:54.161Z</updated>
     <summary type="html">CLion 对非商业用途免费，是专为 C 和 C++ 开发者打造的跨平台 IDE，提供智能代码分析、调试、测试和项目管理功能，帮助开发者高效构建现代 C/C++ 应用。</summary>
   </entry>
   <entry>
     <title>JetBrains DataGrip 2026.2 (macOS, Linux, Windows) - 关系型和 NoSQL 数据库跨平台 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-datagrip/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-datagrip/</id>
+    <link href="https://sysin.org/blog/jetbrains-datagrip/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-datagrip/</id>
     <published>2026-07-17T05:17:35.000Z</published>
     <updated>2026-07-18T02:04:11.102Z</updated>
     <summary type="html">DataGrip 对非商业用途免费，是面向数据库开发人员的智能 IDE，支持多种关系型和 NoSQL 数据库，提供 SQL 编辑、代码分析、数据管理和数据库开发工具。</summary>
   </entry>
   <entry>
     <title>JetBrains GoLand 2026.2 (macOS, Linux, Windows) - 为 Go 开发者打造的完整 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-goland/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-goland/</id>
+    <link href="https://sysin.org/blog/jetbrains-goland/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-goland/</id>
     <published>2026-07-17T05:14:00.000Z</published>
     <updated>2026-07-18T02:04:33.354Z</updated>
     <summary type="html">GoLand 是面向 Go 开发者的专业 IDE，提供智能代码补全、重构、调试、测试及工程管理工具，全面提升 Go 应用开发效率。</summary>
   </entry>
   <entry>
     <title>JetBrains IntelliJ IDEA 2026.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-idea/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-idea/</id>
+    <link href="https://sysin.org/blog/jetbrains-idea/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-idea/</id>
     <published>2026-07-17T05:13:35.000Z</published>
     <updated>2026-07-18T02:04:47.036Z</updated>
     <summary type="html">IntelliJ IDEA 是业界领先的 Java 和 Kotlin 开发 IDE，提供智能代码分析、强大的重构工具和丰富插件生态，支持现代企业级应用开发。</summary>
   </entry>
   <entry>
     <title>JetBrains PhpStorm 2026.2 (macOS, Linux, Windows) - 高效智能的 PHP IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-phpstorm/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-phpstorm/</id>
+    <link href="https://sysin.org/blog/jetbrains-phpstorm/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-phpstorm/</id>
     <published>2026-07-17T05:13:00.000Z</published>
     <updated>2026-07-18T02:04:55.134Z</updated>
     <summary type="html">PhpStorm 是专业 PHP 开发 IDE，提供智能代码编辑、调试、测试和框架支持，帮助开发者高效构建现代 Web 应用。</summary>
   </entry>
   <entry>
     <title>JetBrains WebStorm 2026.2 (macOS, Linux, Windows) - JavaScript 和 TypeScript IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-webstorm/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-webstorm/</id>
+    <link href="https://sysin.org/blog/jetbrains-webstorm/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-webstorm/</id>
     <published>2026-07-17T05:10:35.000Z</published>
     <updated>2026-07-18T02:06:06.619Z</updated>
     <summary type="html">WebStorm 对非商业用途免费，是面向现代 Web 开发的智能 IDE，专注于 JavaScript、TypeScript 及前端技术开发，提供代码分析、调试和框架支持。</summary>
   </entry>
   <entry>
     <title>JetBrains IDE 2026.2 (macOS, Linux, Windows) - 跨平台开发者工具</title>
-    <link href="https://sysin.cn/blog/jetbrains/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains/</id>
+    <link href="https://sysin.org/blog/jetbrains/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains/</id>
     <published>2026-07-17T02:19:50.000Z</published>
     <updated>2026-07-18T02:07:47.824Z</updated>
     <summary type="html">JETBRAINS IDEs，借助代码，让梦想成真。享受卓越的开发者体验。致力于将专业的软件开发变成生产力更高、更愉悦的体验。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.7 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro/</id>
     <published>2026-07-17T01:07:12.000Z</published>
     <updated>2026-07-17T01:07:12.000Z</updated>
     <summary type="html">Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</summary>
   </entry>
   <entry>
     <title>Burp Suite 2026.7 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-    <link href="https://sysin.cn/blog/burp-suite/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite/</id>
+    <link href="https://sysin.org/blog/burp-suite/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite/</id>
     <published>2026-07-17T01:07:10.000Z</published>
     <updated>2026-07-17T01:07:10.000Z</updated>
     <summary type="html">Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2025 RTM GDR &amp; CU6 (2026 年 7 月安全更新)</title>
-    <link href="https://sysin.cn/blog/sql-server-2025/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server-2025/</id>
+    <link href="https://sysin.org/blog/sql-server-2025/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server-2025/</id>
     <published>2026-07-17T01:06:25.000Z</published>
     <updated>2026-07-18T01:59:51.837Z</updated>
     <summary type="html">SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2022 RTM GDR &amp; CU25 (2026 年 7 月安全更新)</title>
-    <link href="https://sysin.cn/blog/sql-server-2022/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server-2022/</id>
+    <link href="https://sysin.org/blog/sql-server-2022/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server-2022/</id>
     <published>2026-07-17T01:06:22.000Z</published>
     <updated>2026-07-18T01:57:47.839Z</updated>
     <summary type="html">SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 7 月安全更新)</title>
-    <link href="https://sysin.cn/blog/sql-server-2019/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server-2019/</id>
+    <link href="https://sysin.org/blog/sql-server-2019/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server-2019/</id>
     <published>2026-07-17T01:06:19.000Z</published>
     <updated>2026-07-18T01:54:32.429Z</updated>
     <summary type="html">SQL Server 2019 新增大数据群集、数据虚拟化和智能性能优化，提升数据分析、查询效率及跨平台数据整合能力。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 7 月安全更新)</title>
-    <link href="https://sysin.cn/blog/sql-server-2017/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server-2017/</id>
+    <link href="https://sysin.org/blog/sql-server-2017/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server-2017/</id>
     <published>2026-07-17T01:06:17.000Z</published>
     <updated>2026-07-18T01:51:34.873Z</updated>
     <summary type="html">SQL Server 2017 首次支持 Windows、Linux 和 Docker 跨平台部署，并新增自适应查询处理、图形数据库及 Python 集成等功能。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2016 with SP3 GDR (2026 年 7 月安全更新)</title>
-    <link href="https://sysin.cn/blog/sql-server-2016/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server-2016/</id>
+    <link href="https://sysin.org/blog/sql-server-2016/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server-2016/</id>
     <published>2026-07-17T01:06:16.000Z</published>
     <updated>2026-07-18T01:55:54.099Z</updated>
     <summary type="html">SQL Server 2016 新增 Always Encrypted、动态数据掩码、实时运营分析及 JSON 原生支持，全面提升数据库安全性、分析能力与混合云体验。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.7 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro-mac/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
     <published>2026-07-17T01:05:18.000Z</published>
     <updated>2026-07-17T01:05:18.000Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.7 for Windows x64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro-win/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro-win/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro-win/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
     <published>2026-07-17T01:05:15.000Z</published>
     <updated>2026-07-17T01:05:15.000Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>Sophos Firewall (SFOS) v22 MR2 - 下一代防火墙</title>
-    <link href="https://sysin.cn/blog/sfos-22/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sfos-22/</id>
+    <link href="https://sysin.org/blog/sfos-22/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sfos-22/</id>
     <published>2026-07-16T01:18:22.000Z</published>
     <updated>2026-07-16T01:18:22.000Z</updated>
     <summary type="html">Sophos Firewall v22 MR2 新增后量子密码学（PQC）检测与控制、生成式 AI 应用识别、Manifest V3 支持等多项安全增强，并修复 50 余项可靠性、稳定性和安全问题。</summary>
   </entry>
   <entry>
     <title>Oracle Linux 10.2 发布 - Oracle 提供支持 RHEL 兼容发行版</title>
-    <link href="https://sysin.cn/blog/oracle-linux-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/oracle-linux-10/</id>
+    <link href="https://sysin.org/blog/oracle-linux-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/oracle-linux-10/</id>
     <published>2026-07-16T01:18:10.000Z</published>
     <updated>2026-07-16T01:18:10.000Z</updated>
     <summary type="html">Oracle Linux 10.2 发布，带来最新的安全更新、开发工具链及容器虚拟化组件升级，并持续优化 UEK 内核性能与企业级工作负载支持，进一步提升系统稳定性和安全性。</summary>
   </entry>
   <entry>
     <title>Oracle Linux 9.8 发布 - Oracle 提供支持 RHEL 兼容发行版</title>
-    <link href="https://sysin.cn/blog/oracle-linux-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/oracle-linux-9/</id>
+    <link href="https://sysin.org/blog/oracle-linux-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/oracle-linux-9/</id>
     <published>2026-07-16T01:18:09.000Z</published>
     <updated>2026-07-16T01:18:09.000Z</updated>
     <summary type="html">Oracle Linux 9.8 发布，集成最新安全修复、编译器工具链及系统组件更新，增强开发、容器和企业应用支持，为生产环境提供更高的稳定性、兼容性和安全保障。</summary>
   </entry>
   <entry>
     <title>Shotcut 26.7.15 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-    <link href="https://sysin.cn/blog/shotcut/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/shotcut/</id>
+    <link href="https://sysin.org/blog/shotcut/?utm_source=atom"/>
+    <id>https://sysin.org/blog/shotcut/</id>
     <published>2026-07-16T01:09:55.000Z</published>
     <updated>2026-07-16T01:09:55.000Z</updated>
     <summary type="html">Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</summary>
   </entry>
   <entry>
     <title>Blender 5.2 LTS (Linux, macOS, Windows) - 开源 3D 创意软件 (渲染 建模 雕刻)</title>
-    <link href="https://sysin.cn/blog/blender/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/blender/</id>
+    <link href="https://sysin.org/blog/blender/?utm_source=atom"/>
+    <id>https://sysin.org/blog/blender/</id>
     <published>2026-07-16T01:05:18.000Z</published>
     <updated>2026-07-16T01:05:18.000Z</updated>
     <summary type="html">Blender 5.2 LTS 在带来丰富新功能的同时，也进一步提升了稳定性。凭借 2 年的长期支持（截至 2028 年 7 月），它是长期项目和生产环境的理想选择。将世界上最优秀的 3D CG 技术以自由/开源软件的形式交到艺术家手中。</summary>
   </entry>
   <entry>
     <title>IDA Pro 9.4.260713 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
-    <link href="https://sysin.cn/blog/ida-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ida-pro/</id>
+    <link href="https://sysin.org/blog/ida-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ida-pro/</id>
     <published>2026-07-15T10:09:19.000Z</published>
     <updated>2026-07-15T10:09:19.000Z</updated>
     <summary type="html">IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</summary>
   </entry>
   <entry>
     <title>JetBrains DataSpell 2026.2 (macOS, Linux, Windows) - 专业数据科学家的 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-dataspell/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-dataspell/</id>
+    <link href="https://sysin.org/blog/jetbrains-dataspell/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-dataspell/</id>
     <published>2026-07-15T02:16:00.000Z</published>
     <updated>2026-07-18T02:04:22.805Z</updated>
     <summary type="html">DataSpell 是专为数据科学工作流打造的 IDE，融合 Jupyter Notebook、Python 开发和交互式数据分析能力，为数据探索与机器学习提供完整环境。</summary>
