@@ -4,225 +4,225 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Sun, 19 Jul 2026 03:09:48 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2026 01:51:55 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
+      <title>Magnet Axiom 10.1 for Windows x64 Multilingual - 专业数字取证与分析平台</title>
+      <link>https://sysin.org/blog/magnet-axiom/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/magnet-axiom/</guid>
+      <pubDate>Mon, 20 Jul 2026 01:19:45 GMT</pubDate>
+      <description>在一个案件文件中，同时检查来自移动设备、云端、计算机和车辆来源的数字证据，以及第三方提取数据。使用强大且直观的分析工具，自动快速呈现与案件相关的证据。</description>
+    </item>
+    <item>
+      <title>Magnet DVR Examiner 3.24 for Windows - 视频取证软件</title>
+      <link>https://sysin.org/blog/magnet-dvr-examiner/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/magnet-dvr-examiner/</guid>
+      <pubDate>Mon, 20 Jul 2026 01:19:45 GMT</pubDate>
+      <description>DVR Examiner 是一款专业视频取证软件，支持 从监控系统 CCTV 和监控 DVR 恢复视频和元数据，兼容多种设备和视频格式，适用于执法调查、司法鉴定及数字取证场景。</description>
+    </item>
+    <item>
+      <title>AppSpider 7.5.027 for Windows - Web 应用程序安全测试</title>
+      <link>https://sysin.org/blog/appspider/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/appspider/</guid>
+      <pubDate>Mon, 20 Jul 2026 01:10:09 GMT</pubDate>
+      <description>AppSpider 是 Rapid7 推出的动态应用安全测试（DAST）平台，支持 Web 应用和 API 自动化漏洞扫描，可检测 SQL 注入、跨站脚本（XSS）等安全问题，并生成详细修复建议，帮助企业持续提升应用安全防护能力。</description>
+    </item>
+    <item>
+      <title>Microsoft SQL Server 2025 RTM CU7 (2026 年 7 月安全更新 | 累积更新)</title>
+      <link>https://sysin.org/blog/sql-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2025/</guid>
+      <pubDate>Mon, 20 Jul 2026 01:06:25 GMT</pubDate>
+      <description>SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</description>
+    </item>
+    <item>
+      <title>Microsoft SQL Server 2022 RTM CU26 (2026 年 7 月安全更新 | 累积更新)</title>
+      <link>https://sysin.org/blog/sql-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2022/</guid>
+      <pubDate>Mon, 20 Jul 2026 01:06:22 GMT</pubDate>
+      <description>SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</description>
+    </item>
+    <item>
       <title>Oxygen Forensic Detective 18.3 for Windows - 领先的一体化数字取证软件</title>
-      <link>https://sysin.cn/blog/oxygen-forensic-detective/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/oxygen-forensic-detective/</guid>
+      <link>https://sysin.org/blog/oxygen-forensic-detective/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/oxygen-forensic-detective/</guid>
       <pubDate>Sun, 19 Jul 2026 01:13:50 GMT</pubDate>
       <description>快速、全面地发现关键数字证据。这是一款用于提取、解码和分析数据的数字取证软件。支持从多种设备中提取数据和数字痕迹，具备移动设备与计算机取证的能力。</description>
     </item>
     <item>
       <title>Studio 3T 2026.12 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-      <link>https://sysin.cn/blog/studio-3t/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/studio-3t/</guid>
+      <link>https://sysin.org/blog/studio-3t/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/studio-3t/</guid>
       <pubDate>Sun, 19 Jul 2026 01:12:00 GMT</pubDate>
       <description>Studio 3T 是专为 MongoDB 打造的全功能 GUI、IDE 和客户端，提供完整的 MongoDB 开发与管理体验，适用于 Atlas 及任何 MongoDB 部署环境。</description>
     </item>
     <item>
       <title>IDA Pro 9.4.260714 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
-      <link>https://sysin.cn/blog/ida-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ida-pro/</guid>
+      <link>https://sysin.org/blog/ida-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ida-pro/</guid>
       <pubDate>Sun, 19 Jul 2026 01:09:19 GMT</pubDate>
       <description>IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</description>
     </item>
     <item>
       <title>Nexpose 8.52.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nexpose/</guid>
+      <link>https://sysin.org/blog/nexpose/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nexpose/</guid>
       <pubDate>Sun, 19 Jul 2026 01:01:05 GMT</pubDate>
       <description>Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-windows/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-windows/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-windows/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:30 GMT</pubDate>
       <description>适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:20 GMT</pubDate>
       <description>适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for RHEL 9 | RHEL 10 - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:15 GMT</pubDate>
       <description>适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-macos/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-macos/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-macos/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:10 GMT</pubDate>
       <description>适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>WPS Office for Mac 2026 夏季更新 12.1.26035 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps-for-mac/</guid>
+      <link>https://sysin.org/blog/wps-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps-for-mac/</guid>
       <pubDate>Sat, 18 Jul 2026 01:12:08 GMT</pubDate>
       <description>WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</description>
     </item>
     <item>
       <title>WPS Office for Windows 2026 夏季更新 12.1.0.26885 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps/</guid>
+      <link>https://sysin.org/blog/wps/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps/</guid>
       <pubDate>Sat, 18 Jul 2026 01:12:05 GMT</pubDate>
       <description>WPS Office 是一款免费、高效的办公软件套件，兼具智能化功能、流畅体验，并与 Microsoft Office 格式无缝兼容，轻松满足文档、表格和演示等办公需求。</description>
     </item>
     <item>
       <title>Metasploit Framework 6.4.145 (macOS, Linux, Windows) - 开源渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-framework-6/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/metasploit-framework-6/</guid>
+      <link>https://sysin.org/blog/metasploit-framework-6/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/metasploit-framework-6/</guid>
       <pubDate>Sat, 18 Jul 2026 01:01:00 GMT</pubDate>
       <description>此版本新增 HTTP 到 SMB Relay 模块、Linux Fetch Multi 自适应架构 Payload，并扩展 RISC-V 支持，同时带来多项功能增强与 Bug 修复，进一步提升跨平台渗透测试能力。</description>
     </item>
     <item>
       <title>JetBrains CLion 2026.2 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-clion/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-clion/</guid>
+      <link>https://sysin.org/blog/jetbrains-clion/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-clion/</guid>
       <pubDate>Fri, 17 Jul 2026 05:18:00 GMT</pubDate>
       <description>CLion 对非商业用途免费，是专为 C 和 C++ 开发者打造的跨平台 IDE，提供智能代码分析、调试、测试和项目管理功能，帮助开发者高效构建现代 C/C++ 应用。</description>
     </item>
     <item>
       <title>JetBrains DataGrip 2026.2 (macOS, Linux, Windows) - 关系型和 NoSQL 数据库跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-datagrip/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-datagrip/</guid>
+      <link>https://sysin.org/blog/jetbrains-datagrip/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-datagrip/</guid>
       <pubDate>Fri, 17 Jul 2026 05:17:35 GMT</pubDate>
       <description>DataGrip 对非商业用途免费，是面向数据库开发人员的智能 IDE，支持多种关系型和 NoSQL 数据库，提供 SQL 编辑、代码分析、数据管理和数据库开发工具。</description>
     </item>
     <item>
       <title>JetBrains GoLand 2026.2 (macOS, Linux, Windows) - 为 Go 开发者打造的完整 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-goland/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-goland/</guid>
+      <link>https://sysin.org/blog/jetbrains-goland/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-goland/</guid>
       <pubDate>Fri, 17 Jul 2026 05:14:00 GMT</pubDate>
       <description>GoLand 是面向 Go 开发者的专业 IDE，提供智能代码补全、重构、调试、测试及工程管理工具，全面提升 Go 应用开发效率。</description>
     </item>
     <item>
       <title>JetBrains IntelliJ IDEA 2026.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-idea/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-idea/</guid>
+      <link>https://sysin.org/blog/jetbrains-idea/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-idea/</guid>
       <pubDate>Fri, 17 Jul 2026 05:13:35 GMT</pubDate>
       <description>IntelliJ IDEA 是业界领先的 Java 和 Kotlin 开发 IDE，提供智能代码分析、强大的重构工具和丰富插件生态，支持现代企业级应用开发。</description>
     </item>
     <item>
       <title>JetBrains PhpStorm 2026.2 (macOS, Linux, Windows) - 高效智能的 PHP IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-phpstorm/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-phpstorm/</guid>
+      <link>https://sysin.org/blog/jetbrains-phpstorm/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-phpstorm/</guid>
       <pubDate>Fri, 17 Jul 2026 05:13:00 GMT</pubDate>
       <description>PhpStorm 是专业 PHP 开发 IDE，提供智能代码编辑、调试、测试和框架支持，帮助开发者高效构建现代 Web 应用。</description>
     </item>
     <item>
       <title>JetBrains WebStorm 2026.2 (macOS, Linux, Windows) - JavaScript 和 TypeScript IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-webstorm/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-webstorm/</guid>
+      <link>https://sysin.org/blog/jetbrains-webstorm/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-webstorm/</guid>
       <pubDate>Fri, 17 Jul 2026 05:10:35 GMT</pubDate>
       <description>WebStorm 对非商业用途免费，是面向现代 Web 开发的智能 IDE，专注于 JavaScript、TypeScript 及前端技术开发，提供代码分析、调试和框架支持。</description>
     </item>
     <item>
       <title>JetBrains IDE 2026.2 (macOS, Linux, Windows) - 跨平台开发者工具</title>
-      <link>https://sysin.cn/blog/jetbrains/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains/</guid>
+      <link>https://sysin.org/blog/jetbrains/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains/</guid>
       <pubDate>Fri, 17 Jul 2026 02:19:50 GMT</pubDate>
       <description>JETBRAINS IDEs，借助代码，让梦想成真。享受卓越的开发者体验。致力于将专业的软件开发变成生产力更高、更愉悦的体验。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.7 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro/</guid>
       <pubDate>Fri, 17 Jul 2026 01:07:12 GMT</pubDate>
       <description>Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</description>
     </item>
     <item>
       <title>Burp Suite 2026.7 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-      <link>https://sysin.cn/blog/burp-suite/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite/</guid>
+      <link>https://sysin.org/blog/burp-suite/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite/</guid>
       <pubDate>Fri, 17 Jul 2026 01:07:10 GMT</pubDate>
       <description>Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</description>
     </item>
     <item>
-      <title>Microsoft SQL Server 2025 RTM GDR &amp; CU6 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2025/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2025/</guid>
-      <pubDate>Fri, 17 Jul 2026 01:06:25 GMT</pubDate>
-      <description>SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</description>
-    </item>
-    <item>
-      <title>Microsoft SQL Server 2022 RTM GDR &amp; CU25 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2022/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2022/</guid>
-      <pubDate>Fri, 17 Jul 2026 01:06:22 GMT</pubDate>
-      <description>SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</description>
-    </item>
-    <item>
       <title>Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2019/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2019/</guid>
+      <link>https://sysin.org/blog/sql-server-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2019/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:19 GMT</pubDate>
       <description>SQL Server 2019 新增大数据群集、数据虚拟化和智能性能优化，提升数据分析、查询效率及跨平台数据整合能力。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2017/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2017/</guid>
+      <link>https://sysin.org/blog/sql-server-2017/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2017/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:17 GMT</pubDate>
       <description>SQL Server 2017 首次支持 Windows、Linux 和 Docker 跨平台部署，并新增自适应查询处理、图形数据库及 Python 集成等功能。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2016 with SP3 GDR (2026 年 7 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2016/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2016/</guid>
+      <link>https://sysin.org/blog/sql-server-2016/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2016/</guid>
       <pubDate>Fri, 17 Jul 2026 01:06:16 GMT</pubDate>
       <description>SQL Server 2016 新增 Always Encrypted、动态数据掩码、实时运营分析及 JSON 原生支持，全面提升数据库安全性、分析能力与混合云体验。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.7 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-mac/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
       <pubDate>Fri, 17 Jul 2026 01:05:18 GMT</pubDate>
       <description>世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.7 for Windows x64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-win/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-win/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-win/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-win/</guid>
       <pubDate>Fri, 17 Jul 2026 01:05:15 GMT</pubDate>
       <description>世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</description>
-    </item>
-    <item>
-      <title>Sophos Firewall (SFOS) v22 MR2 - 下一代防火墙</title>
-      <link>https://sysin.cn/blog/sfos-22/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sfos-22/</guid>
-      <pubDate>Thu, 16 Jul 2026 01:18:22 GMT</pubDate>
-      <description>Sophos Firewall v22 MR2 新增后量子密码学（PQC）检测与控制、生成式 AI 应用识别、Manifest V3 支持等多项安全增强，并修复 50 余项可靠性、稳定性和安全问题。</description>
-    </item>
-    <item>
-      <title>Oracle Linux 10.2 发布 - Oracle 提供支持 RHEL 兼容发行版</title>
-      <link>https://sysin.cn/blog/oracle-linux-10/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/oracle-linux-10/</guid>
-      <pubDate>Thu, 16 Jul 2026 01:18:10 GMT</pubDate>
-      <description>Oracle Linux 10.2 发布，带来最新的安全更新、开发工具链及容器虚拟化组件升级，并持续优化 UEK 内核性能与企业级工作负载支持，进一步提升系统稳定性和安全性。</description>
-    </item>
-    <item>
-      <title>Oracle Linux 9.8 发布 - Oracle 提供支持 RHEL 兼容发行版</title>
-      <link>https://sysin.cn/blog/oracle-linux-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/oracle-linux-9/</guid>
-      <pubDate>Thu, 16 Jul 2026 01:18:09 GMT</pubDate>
-      <description>Oracle Linux 9.8 发布，集成最新安全修复、编译器工具链及系统组件更新，增强开发、容器和企业应用支持，为生产环境提供更高的稳定性、兼容性和安全保障。</description>
     </item>
   </channel>
 </rss>
