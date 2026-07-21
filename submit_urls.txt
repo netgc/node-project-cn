@@ -1,3 +1,4 @@
+https://sysin.org/blog/appscan-10/
 https://sysin.org/blog/apple-xcode-27/
 https://sysin.org/blog/macos-golden-gate-boot-iso/
 https://sysin.org/blog/macos-golden-gate/
@@ -17,4 +18,3 @@ https://sysin.org/blog/nessus-auto-install-for-macos/
 https://sysin.org/blog/wps-for-mac/
 https://sysin.org/blog/wps/
 https://sysin.org/blog/metasploit-framework-6/
-https://sysin.org/blog/jetbrains-clion/
