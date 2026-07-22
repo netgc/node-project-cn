@@ -1,3 +1,5 @@
+https://sysin.org/blog/vmware-esxi-9-sysin/
+https://sysin.org/blog/vmware-esxi-9-oem/
 https://sysin.org/blog/vmware-esxi-9/
 https://sysin.org/blog/vmware-vcenter-9/
 https://sysin.org/blog/crossover/
@@ -16,5 +18,3 @@ https://sysin.org/blog/oxygen-forensic-detective/
 https://sysin.org/blog/studio-3t/
 https://sysin.org/blog/ida-pro/
 https://sysin.org/blog/nexpose/
-https://sysin.org/blog/nessus-auto-install-for-windows/
-https://sysin.org/blog/nessus-auto-install-for-ubuntu/
