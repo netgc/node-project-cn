@@ -1,3 +1,6 @@
+https://sysin.org/blog/nessus-10/
+https://sysin.org/blog/vmware-esxi-9-sysin/
+https://sysin.org/blog/vmware-esxi-9-oem/
 https://sysin.org/blog/jetbrains-rider/
 https://sysin.org/blog/jetbrains-datagrip/
 https://sysin.org/blog/jetbrains-clion/
@@ -12,9 +15,6 @@ https://sysin.org/blog/jetbrains-idea/
 https://sysin.org/blog/jetbrains-pycharm/
 https://sysin.org/blog/vmware-sd-wan-5/
 https://sysin.org/blog/vmware-vcenter-9/
-https://sysin.org/blog/vmware-esxi-9-sysin/
-https://sysin.org/blog/vmware-esxi-9-oem/
 https://sysin.org/blog/vmware-esxi-9/
 https://sysin.org/blog/crossover/
 https://sysin.org/blog/invicti/
-https://sysin.org/blog/appscan-10/

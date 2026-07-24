@@ -3,12 +3,20 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-07-23T02:08:32.938Z</updated>
+  <updated>2026-07-24T02:05:28.466Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>Tenable Nessus 10.12.2 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
+    <link href="https://sysin.org/blog/nessus-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-10/</id>
+    <published>2026-07-24T01:21:00.000Z</published>
+    <updated>2026-07-24T02:05:28.466Z</updated>
+    <summary type="html">Tenable Nessus 是领先的漏洞扫描与安全评估平台，提供全面的漏洞检测、配置审计和风险分析能力，帮助企业及时发现并修复安全风险。</summary>
+  </entry>
   <entry>
     <title>HPE OneView 11.3 - HPE 服务器、存储和网络设备集中管理软件</title>
     <link href="https://sysin.org/blog/hpe-oneview/?utm_source=atom"/>
@@ -90,20 +98,20 @@
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
-    <title>Magnet Axiom 10.1 for Windows x64 Multilingual - 专业数字取证与分析平台</title>
-    <link href="https://sysin.org/blog/magnet-axiom/?utm_source=atom"/>
-    <id>https://sysin.org/blog/magnet-axiom/</id>
-    <published>2026-07-20T01:19:45.000Z</published>
-    <updated>2026-07-20T01:19:45.000Z</updated>
-    <summary type="html">在一个案件文件中，同时检查来自移动设备、云端、计算机和车辆来源的数字证据，以及第三方提取数据。使用强大且直观的分析工具，自动快速呈现与案件相关的证据。</summary>
-  </entry>
-  <entry>
     <title>Magnet DVR Examiner 3.24 for Windows - 视频取证软件</title>
     <link href="https://sysin.org/blog/magnet-dvr-examiner/?utm_source=atom"/>
     <id>https://sysin.org/blog/magnet-dvr-examiner/</id>
     <published>2026-07-20T01:19:45.000Z</published>
     <updated>2026-07-20T01:19:45.000Z</updated>
     <summary type="html">DVR Examiner 是一款专业视频取证软件，支持 从监控系统 CCTV 和监控 DVR 恢复视频和元数据，兼容多种设备和视频格式，适用于执法调查、司法鉴定及数字取证场景。</summary>
+  </entry>
+  <entry>
+    <title>Magnet Axiom 10.1 for Windows x64 Multilingual - 专业数字取证与分析平台</title>
+    <link href="https://sysin.org/blog/magnet-axiom/?utm_source=atom"/>
+    <id>https://sysin.org/blog/magnet-axiom/</id>
+    <published>2026-07-20T01:19:45.000Z</published>
+    <updated>2026-07-20T01:19:45.000Z</updated>
+    <summary type="html">在一个案件文件中，同时检查来自移动设备、云端、计算机和车辆来源的数字证据，以及第三方提取数据。使用强大且直观的分析工具，自动快速呈现与案件相关的证据。</summary>
   </entry>
   <entry>
     <title>AppSpider 7.5.027 for Windows - Web 应用程序安全测试</title>
@@ -240,13 +248,5 @@
     <published>2026-07-17T05:14:00.000Z</published>
     <updated>2026-07-23T01:15:56.517Z</updated>
     <summary type="html">GoLand 是面向 Go 开发者的专业 IDE，提供智能代码补全、重构、调试、测试及工程管理工具，全面提升 Go 应用开发效率。</summary>
-  </entry>
-  <entry>
-    <title>JetBrains IntelliJ IDEA 2026.2 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-idea/?utm_source=atom"/>
-    <id>https://sysin.org/blog/jetbrains-idea/</id>
-    <published>2026-07-17T05:13:35.000Z</published>
-    <updated>2026-07-23T01:14:40.511Z</updated>
-    <summary type="html">IntelliJ IDEA 是业界领先的 Java 和 Kotlin 开发 IDE，提供智能代码分析、强大的重构工具和丰富插件生态，支持现代企业级应用开发。</summary>
   </entry>
 </feed>
