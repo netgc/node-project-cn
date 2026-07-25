@@ -4,223 +4,223 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.org/</link>
+    <link>https://sysin.cn/</link>
     <image>
-      <url>https://sysin.org/img/favicon.png</url>
+      <url>https://sysin.cn/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.org/</link>
+      <link>https://sysin.cn/</link>
     </image>
-    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
     <pubDate>Fri, 24 Jul 2026 09:21:42 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>F5 BIG-IP 17.5 LTS Release 17.5.1.8 - 多云安全和应用交付</title>
-      <link>https://sysin.org/blog/f5-big-ip-17-lts/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/f5-big-ip-17-lts/</guid>
+      <link>https://sysin.cn/blog/f5-big-ip-17-lts/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/f5-big-ip-17-lts/</guid>
       <pubDate>Sat, 25 Jul 2026 01:18:05 GMT</pubDate>
       <description>F5 BIG-IP 17.5 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</description>
     </item>
     <item>
       <title>F5 BIG-IP 21.1 LTS Release 21.1.0.1 - 多云安全和应用交付</title>
-      <link>https://sysin.org/blog/f5-big-ip-21-lts/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/f5-big-ip-21-lts/</guid>
+      <link>https://sysin.cn/blog/f5-big-ip-21-lts/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/f5-big-ip-21-lts/</guid>
       <pubDate>Sat, 25 Jul 2026 01:17:05 GMT</pubDate>
       <description>F5 BIG-IP 21.1 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</description>
     </item>
     <item>
       <title>Gitea Enterprise 26.4.1 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
-      <link>https://sysin.org/blog/gitea/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/gitea/</guid>
+      <link>https://sysin.cn/blog/gitea/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/gitea/</guid>
       <pubDate>Fri, 24 Jul 2026 01:25:55 GMT</pubDate>
       <description>Gitea 是自托管 Git 服务的首要企业解决方案，Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</description>
     </item>
     <item>
       <title>Tenable Nessus 10.12.2 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
-      <link>https://sysin.org/blog/nessus-10/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/nessus-10/</guid>
+      <link>https://sysin.cn/blog/nessus-10/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/nessus-10/</guid>
       <pubDate>Fri, 24 Jul 2026 01:21:00 GMT</pubDate>
       <description>Tenable Nessus 是领先的漏洞扫描与安全评估平台，提供全面的漏洞检测、配置审计和风险分析能力，帮助企业及时发现并修复安全风险。</description>
     </item>
     <item>
       <title>HPE OneView 11.3 - HPE 服务器、存储和网络设备集中管理软件</title>
-      <link>https://sysin.org/blog/hpe-oneview/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/hpe-oneview/</guid>
+      <link>https://sysin.cn/blog/hpe-oneview/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/hpe-oneview/</guid>
       <pubDate>Thu, 23 Jul 2026 01:18:36 GMT</pubDate>
       <description>HPE OneView 是一款集成式 IT 基础设施管理软件，可实现 IT 运维自动化，简化了涵盖计算、存储和网络的基础设施生命周期管理。</description>
     </item>
     <item>
       <title>SonarQube Server 2026.4 发布 - 代码质量、安全与静态分析工具</title>
-      <link>https://sysin.org/blog/sonarqube/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/sonarqube/</guid>
+      <link>https://sysin.cn/blog/sonarqube/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/sonarqube/</guid>
       <pubDate>Thu, 23 Jul 2026 01:15:20 GMT</pubDate>
       <description>SonarQube Server 是专业的代码质量与安全分析平台，支持多语言静态分析、漏洞检测、代码审查和质量门禁，帮助团队持续提升软件质量。</description>
     </item>
     <item>
       <title>JetBrains RubyMine 2026.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-      <link>https://sysin.org/blog/jetbrains-rubymine/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/jetbrains-rubymine/</guid>
+      <link>https://sysin.cn/blog/jetbrains-rubymine/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/jetbrains-rubymine/</guid>
       <pubDate>Thu, 23 Jul 2026 01:13:00 GMT</pubDate>
       <description>RubyMine 对非商业用途免费，是专为 Ruby 和 Rails 开发打造的智能 IDE，提供代码分析、重构、调试、测试及框架支持，加速 Web 应用开发。</description>
     </item>
     <item>
       <title>JetBrains Rider 2026.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE</title>
-      <link>https://sysin.org/blog/jetbrains-rider/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/jetbrains-rider/</guid>
+      <link>https://sysin.cn/blog/jetbrains-rider/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/jetbrains-rider/</guid>
       <pubDate>Thu, 23 Jul 2026 01:12:00 GMT</pubDate>
       <description>Rider 对非商业用途免费，是一款高性能跨平台 .NET IDE，支持 C#、ASP.NET、Unity 等开发场景，提供智能代码分析、调试和现代化开发工具。</description>
     </item>
     <item>
       <title>JetBrains RustRover 2026.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE</title>
-      <link>https://sysin.org/blog/jetbrains-rustrover/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/jetbrains-rustrover/</guid>
+      <link>https://sysin.cn/blog/jetbrains-rustrover/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/jetbrains-rustrover/</guid>
       <pubDate>Thu, 23 Jul 2026 01:11:00 GMT</pubDate>
       <description>RustRover 对非商业用途免费，是专为 Rust 开发者设计的专业 IDE，提供智能代码分析、Cargo 集成、调试和工程管理功能，提升 Rust 开发效率。</description>
     </item>
     <item>
       <title>JetBrains PyCharm 2026.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-      <link>https://sysin.org/blog/jetbrains-pycharm/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/jetbrains-pycharm/</guid>
+      <link>https://sysin.cn/blog/jetbrains-pycharm/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/jetbrains-pycharm/</guid>
       <pubDate>Wed, 22 Jul 2026 02:11:00 GMT</pubDate>
       <description>PyCharm 是面向专业 Python 开发者的智能 IDE，支持 Web 开发、数据科学、调试、测试和代码质量分析，提供完整 Python 开发体验。</description>
     </item>
     <item>
       <title>CrossOver 26.3 for macOS &amp; Linux 发布 - 领先的 Wine 解决方案</title>
-      <link>https://sysin.org/blog/crossover/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/crossover/</guid>
+      <link>https://sysin.cn/blog/crossover/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/crossover/</guid>
       <pubDate>Wed, 22 Jul 2026 01:12:00 GMT</pubDate>
       <description>CrossOver 是基于 Wine 的商业兼容层，无需虚拟机或安装 Windows，即可在 macOS 和 Linux 上运行 Windows 应用程序和游戏。</description>
     </item>
     <item>
       <title>Xcode 27 beta 4 (27A5228h) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-      <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/apple-xcode-27/</guid>
+      <link>https://sysin.cn/blog/apple-xcode-27/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/apple-xcode-27/</guid>
       <pubDate>Tue, 21 Jul 2026 00:17:36 GMT</pubDate>
       <description>​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 beta 4 (26A5388g) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
+      <link>https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/macos-golden-gate-boot-iso/</guid>
       <pubDate>Tue, 21 Jul 2026 00:16:36 GMT</pubDate>
       <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 beta 4 (26A5388g) ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
+      <link>https://sysin.cn/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/macos-golden-gate/</guid>
       <pubDate>Tue, 21 Jul 2026 00:16:26 GMT</pubDate>
       <description>macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</description>
     </item>
     <item>
       <title>Magnet Axiom 10.1 for Windows x64 Multilingual - 专业数字取证与分析平台</title>
-      <link>https://sysin.org/blog/magnet-axiom/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/magnet-axiom/</guid>
+      <link>https://sysin.cn/blog/magnet-axiom/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/magnet-axiom/</guid>
       <pubDate>Mon, 20 Jul 2026 01:19:45 GMT</pubDate>
       <description>在一个案件文件中，同时检查来自移动设备、云端、计算机和车辆来源的数字证据，以及第三方提取数据。使用强大且直观的分析工具，自动快速呈现与案件相关的证据。</description>
     </item>
     <item>
       <title>Magnet DVR Examiner 3.24 for Windows - 视频取证软件</title>
-      <link>https://sysin.org/blog/magnet-dvr-examiner/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/magnet-dvr-examiner/</guid>
+      <link>https://sysin.cn/blog/magnet-dvr-examiner/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/magnet-dvr-examiner/</guid>
       <pubDate>Mon, 20 Jul 2026 01:19:45 GMT</pubDate>
       <description>DVR Examiner 是一款专业视频取证软件，支持 从监控系统 CCTV 和监控 DVR 恢复视频和元数据，兼容多种设备和视频格式，适用于执法调查、司法鉴定及数字取证场景。</description>
     </item>
     <item>
       <title>AppSpider 7.5.027 for Windows - Web 应用程序安全测试</title>
-      <link>https://sysin.org/blog/appspider/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/appspider/</guid>
+      <link>https://sysin.cn/blog/appspider/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/appspider/</guid>
       <pubDate>Mon, 20 Jul 2026 01:10:09 GMT</pubDate>
       <description>AppSpider 是 Rapid7 推出的动态应用安全测试（DAST）平台，支持 Web 应用和 API 自动化漏洞扫描，可检测 SQL 注入、跨站脚本（XSS）等安全问题，并生成详细修复建议，帮助企业持续提升应用安全防护能力。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2025 RTM CU7 (2026 年 7 月安全更新 | 累积更新)</title>
-      <link>https://sysin.org/blog/sql-server-2025/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/sql-server-2025/</guid>
+      <link>https://sysin.cn/blog/sql-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/sql-server-2025/</guid>
       <pubDate>Mon, 20 Jul 2026 01:06:25 GMT</pubDate>
       <description>SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2022 RTM CU26 (2026 年 7 月安全更新 | 累积更新)</title>
-      <link>https://sysin.org/blog/sql-server-2022/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/sql-server-2022/</guid>
+      <link>https://sysin.cn/blog/sql-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/sql-server-2022/</guid>
       <pubDate>Mon, 20 Jul 2026 01:06:22 GMT</pubDate>
       <description>SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</description>
     </item>
     <item>
       <title>Oxygen Forensic Detective 18.3 for Windows - 领先的一体化数字取证软件</title>
-      <link>https://sysin.org/blog/oxygen-forensic-detective/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/oxygen-forensic-detective/</guid>
+      <link>https://sysin.cn/blog/oxygen-forensic-detective/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/oxygen-forensic-detective/</guid>
       <pubDate>Sun, 19 Jul 2026 01:13:50 GMT</pubDate>
       <description>快速、全面地发现关键数字证据。这是一款用于提取、解码和分析数据的数字取证软件。支持从多种设备中提取数据和数字痕迹，具备移动设备与计算机取证的能力。</description>
     </item>
     <item>
       <title>Studio 3T 2026.12 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-      <link>https://sysin.org/blog/studio-3t/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/studio-3t/</guid>
+      <link>https://sysin.cn/blog/studio-3t/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/studio-3t/</guid>
       <pubDate>Sun, 19 Jul 2026 01:12:00 GMT</pubDate>
       <description>Studio 3T 是专为 MongoDB 打造的全功能 GUI、IDE 和客户端，提供完整的 MongoDB 开发与管理体验，适用于 Atlas 及任何 MongoDB 部署环境。</description>
     </item>
     <item>
       <title>IDA Pro 9.4.260714 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
-      <link>https://sysin.org/blog/ida-pro/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/ida-pro/</guid>
+      <link>https://sysin.cn/blog/ida-pro/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/ida-pro/</guid>
       <pubDate>Sun, 19 Jul 2026 01:09:19 GMT</pubDate>
       <description>IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</description>
     </item>
     <item>
       <title>Nexpose 8.52.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.org/blog/nexpose/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/nexpose/</guid>
+      <link>https://sysin.cn/blog/nexpose/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/nexpose/</guid>
       <pubDate>Sun, 19 Jul 2026 01:01:05 GMT</pubDate>
       <description>Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/nessus-auto-install-for-windows/</guid>
+      <link>https://sysin.cn/blog/nessus-auto-install-for-windows/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/nessus-auto-install-for-windows/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:30 GMT</pubDate>
       <description>适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</guid>
+      <link>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:20 GMT</pubDate>
       <description>适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for RHEL 9 | RHEL 10 - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</guid>
+      <link>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:15 GMT</pubDate>
       <description>适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Jul 2026)</title>
-      <link>https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/nessus-auto-install-for-macos/</guid>
+      <link>https://sysin.cn/blog/nessus-auto-install-for-macos/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/nessus-auto-install-for-macos/</guid>
       <pubDate>Sat, 18 Jul 2026 01:13:10 GMT</pubDate>
       <description>适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>WPS Office for Mac 2026 夏季更新 12.1.26035 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.org/blog/wps-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/wps-for-mac/</guid>
+      <link>https://sysin.cn/blog/wps-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/wps-for-mac/</guid>
       <pubDate>Sat, 18 Jul 2026 01:12:08 GMT</pubDate>
       <description>WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</description>
     </item>
     <item>
       <title>WPS Office for Windows 2026 夏季更新 12.1.0.26885 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.org/blog/wps/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/wps/</guid>
+      <link>https://sysin.cn/blog/wps/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/wps/</guid>
       <pubDate>Sat, 18 Jul 2026 01:12:05 GMT</pubDate>
       <description>WPS Office 是一款免费、高效的办公软件套件，兼具智能化功能、流畅体验，并与 Microsoft Office 格式无缝兼容，轻松满足文档、表格和演示等办公需求。</description>
     </item>
     <item>
       <title>Metasploit Framework 6.4.145 (macOS, Linux, Windows) - 开源渗透测试框架</title>
-      <link>https://sysin.org/blog/metasploit-framework-6/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/metasploit-framework-6/</guid>
+      <link>https://sysin.cn/blog/metasploit-framework-6/?utm_source=rss</link>
+      <guid>https://sysin.cn/blog/metasploit-framework-6/</guid>
       <pubDate>Sat, 18 Jul 2026 01:01:00 GMT</pubDate>
       <description>此版本新增 HTTP 到 SMB Relay 模块、Linux Fetch Multi 自适应架构 Payload，并扩展 RISC-V 支持，同时带来多项功能增强与 Bug 修复，进一步提升跨平台渗透测试能力。</description>
     </item>
