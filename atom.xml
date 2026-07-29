@@ -1,252 +1,252 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件与技术分享 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
   <updated>2026-07-29T04:37:16.347Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>Omnissa App Volumes 4, version 2603.2 - 实时应用程序交付系统</title>
-    <link href="https://sysin.cn/blog/omnissa-app-volumes/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/omnissa-app-volumes/</id>
+    <link href="https://sysin.org/blog/omnissa-app-volumes/?utm_source=atom"/>
+    <id>https://sysin.org/blog/omnissa-app-volumes/</id>
     <published>2026-07-29T01:10:00.000Z</published>
     <updated>2026-07-29T04:37:16.347Z</updated>
     <summary type="html">Omnissa App Volumes 是一个实时应用程序交付系统，企业可以使用它来动态交付和管理应用程序。通过将标准 VMDK 或 VHD 文件附加到虚拟机来打包和交付应用程序。您可以使用 App Volumes Manager 集中管理应用程序。</summary>
   </entry>
   <entry>
     <title>Nexpose 8.53.0 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nexpose/</id>
+    <link href="https://sysin.org/blog/nexpose/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nexpose/</id>
     <published>2026-07-29T01:01:05.000Z</published>
     <updated>2026-07-29T02:49:58.673Z</updated>
     <summary type="html">Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.6 (25G72) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
     <published>2026-07-28T00:16:36.000Z</published>
     <updated>2026-07-28T02:13:32.213Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.6 (25G72) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe/</id>
+    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-07-28T00:16:26.000Z</published>
     <updated>2026-07-28T02:17:11.121Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.7.8 (24G824) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia-boot-iso/</id>
     <published>2026-07-28T00:10:20.000Z</published>
     <updated>2026-07-28T02:33:49.231Z</updated>
     <summary type="html">最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.7.8 (24G824) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia/</id>
+    <link href="https://sysin.org/blog/macos-sequoia/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia/</id>
     <published>2026-07-28T00:10:10.000Z</published>
     <updated>2026-07-28T04:47:52.991Z</updated>
     <summary type="html">macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</summary>
   </entry>
   <entry>
     <title>macOS Sonoma 14.8.8 (23J620) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-sonoma-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sonoma-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-sonoma-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sonoma-boot-iso/</id>
     <published>2026-07-28T00:09:20.000Z</published>
     <updated>2026-07-28T04:50:22.100Z</updated>
     <summary type="html">最新版 macOS Sonoma 14 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Sonoma 14.8.8 (23J620) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-sonoma/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sonoma/</id>
+    <link href="https://sysin.org/blog/macos-sonoma/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sonoma/</id>
     <published>2026-07-28T00:09:10.000Z</published>
     <updated>2026-07-28T04:50:14.245Z</updated>
     <summary type="html">macOS Sonoma 隆重推出更多利用小组件进行个性化设置的方式、令人眼前一亮的全新屏幕保护、Safari 浏览器和视频会议的重大更新，以及经优化的游戏体验——Tim Cook 让 Mac 体验远胜以往。</summary>
   </entry>
   <entry>
     <title>Apple Safari 26.6 - macOS 专属浏览器 (独立安装包下载)</title>
-    <link href="https://sysin.cn/blog/apple-safari-26/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-safari-26/</id>
+    <link href="https://sysin.org/blog/apple-safari-26/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-safari-26/</id>
     <published>2026-07-28T00:05:26.000Z</published>
     <updated>2026-07-28T00:42:23.009Z</updated>
     <summary type="html">无论在哪种 Apple 设备上，用 Safari 浏览器上网都再好不过。它带来健全的自定选项、强大的隐私保护功能，以及傲人的电池续航，让你随时都能自如地浏览网络。至于速度，这款飞快的浏览器更再次超越自我。</summary>
   </entry>
   <entry>
     <title>Windows Server 2025 中文版、英文版下载 (2026 年 7 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2025/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2025/</id>
+    <link href="https://sysin.org/blog/windows-server-2025/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2025/</id>
     <published>2026-07-27T01:15:05.000Z</published>
     <updated>2026-07-27T01:15:05.000Z</updated>
     <summary type="html">Windows Server 2025 让你为将来做好准备，同时提供目前所需的安全性、性能和灵活性。通过更轻松的网络连接、更快的存储和满足你需求的混合云功能提高工作效率。凭借前瞻性的安全性和 AI 就绪型计算，领先于未来的发展。</summary>
   </entry>
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (2026 年 7 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2022/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2022/</id>
+    <link href="https://sysin.org/blog/windows-server-2022/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
     <published>2026-07-27T01:12:22.000Z</published>
     <updated>2026-07-27T01:12:22.000Z</updated>
     <summary type="html">Windows Server 2022 在三个关键主题上带来了许多创新，采用先进的多层安全机制、Azure 混合功能以及灵活的应用程序平台。</summary>
   </entry>
   <entry>
     <title>Windows 11 26H1 | 25H2 | 24H2 中文版、英文版下载 (2026 年 7 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-11/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-11/</id>
+    <link href="https://sysin.org/blog/windows-11/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-11/</id>
     <published>2026-07-27T01:11:00.000Z</published>
     <updated>2026-07-27T01:11:00.000Z</updated>
     <summary type="html">Windows 11 提供一个让人平静而富有创意的空间，全新体验引导您全力追逐热爱。从焕然一新的开始菜单，到与您关心的人、关注的消息、游戏和内容建立连接的新方式，Windows 11 提供了一个场所，让您得以自由地思索、表达和创造。</summary>
   </entry>
   <entry>
     <title>F5 BIG-IP 17.5 LTS Release 17.5.1.8 - 多云安全和应用交付</title>
-    <link href="https://sysin.cn/blog/f5-big-ip-17-lts/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/f5-big-ip-17-lts/</id>
+    <link href="https://sysin.org/blog/f5-big-ip-17-lts/?utm_source=atom"/>
+    <id>https://sysin.org/blog/f5-big-ip-17-lts/</id>
     <published>2026-07-25T01:18:05.000Z</published>
     <updated>2026-07-25T01:18:05.000Z</updated>
     <summary type="html">F5 BIG-IP 17.5 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</summary>
   </entry>
   <entry>
     <title>F5 BIG-IP 21.1 LTS Release 21.1.0.1 - 多云安全和应用交付</title>
-    <link href="https://sysin.cn/blog/f5-big-ip-21-lts/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/f5-big-ip-21-lts/</id>
+    <link href="https://sysin.org/blog/f5-big-ip-21-lts/?utm_source=atom"/>
+    <id>https://sysin.org/blog/f5-big-ip-21-lts/</id>
     <published>2026-07-25T01:17:05.000Z</published>
     <updated>2026-07-25T01:17:05.000Z</updated>
     <summary type="html">F5 BIG-IP 21.1 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</summary>
   </entry>
   <entry>
+    <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-sysin/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</id>
+    <published>2026-07-25T01:09:18.000Z</published>
+    <updated>2026-07-29T13:02:32.158Z</updated>
+    <summary type="html">ESXi 8.0U3j sysin 集成驱动版独家支持 macOS 虚拟化和 Windows OEM BIOS，新增多种网卡驱动包括 USB 网卡，广泛兼容各类 PC 和服务器，不仅是单机虚拟化的最佳选择，也适合用于运行企业级工作负载。</summary>
+  </entry>
+  <entry>
+    <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-oem/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-oem/</id>
+    <published>2026-07-25T01:09:08.000Z</published>
+    <updated>2026-07-29T13:02:32.178Z</updated>
+    <summary type="html">ESXi 8.0U3j sysin 定制标准版和 OEM 版独家支持 macOS 虚拟化和 Windows OEM BIOS，并采用与厂商官方验证一致的驱动版本。主流品牌定制版通常还集成了服务器管理组件，可进一步提升硬件兼容性和运维效率，因此建议优先选择与服务器品牌相对应的定制版本。</summary>
+  </entry>
+  <entry>
+    <title>VMware vSphere 8.0 Update 3k 下载 - 企业级工作负载平台</title>
+    <link href="https://sysin.org/blog/vmware-vsphere-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vsphere-8-u3/</id>
+    <published>2026-07-25T01:08:18.000Z</published>
+    <updated>2026-07-29T13:02:32.107Z</updated>
+    <summary type="html">VMware vSphere 8.0U3 提供企业级服务器虚拟化与云原生控制平面。具备免重启 Live Patch 热更新、双 DPU 网络加速与更高级的 GPU 资源监控，全面赋能现代数据中心与 AI 工作负载。</summary>
+  </entry>
+  <entry>
+    <title>VMware vCenter Server 8.0U3k 发布 - 集中管理 vSphere 环境</title>
+    <link href="https://sysin.org/blog/vmware-vcenter-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vcenter-8-u3/</id>
+    <published>2026-07-25T01:08:08.000Z</published>
+    <updated>2026-07-29T13:02:32.107Z</updated>
+    <summary type="html">VMware vCenter Server 8.0U3 提供强大的数据中心集中管理能力。支持近乎零停机的版本更新、增强型 vLCM 镜像定制与 AI/GPU 算力集群监控，全面提升企业虚拟化基础设施的运维效率与可靠性。</summary>
+  </entry>
+  <entry>
+    <title>VMware ESXi 8.0U3k 发布 - 领先的裸机 Hypervisor</title>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3/</id>
+    <published>2026-07-25T01:08:00.000Z</published>
+    <updated>2026-07-29T13:02:32.103Z</updated>
+    <summary type="html">VMware ESXi 8.0U3 提供强大的服务器虚拟化体验。具备免重启 Live Patch 热补丁、双 DPU 网络加速与更高级的 AI/GPU 资源调度能力，全面提升企业数据中心运维效率与业务连续性。</summary>
+  </entry>
+  <entry>
     <title>Gitea Enterprise 26.4.1 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
-    <link href="https://sysin.cn/blog/gitea/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gitea/</id>
+    <link href="https://sysin.org/blog/gitea/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gitea/</id>
     <published>2026-07-24T01:25:55.000Z</published>
     <updated>2026-07-24T01:25:55.000Z</updated>
     <summary type="html">Gitea 是自托管 Git 服务的首要企业解决方案，Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</summary>
   </entry>
   <entry>
     <title>Tenable Nessus 10.12.2 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
-    <link href="https://sysin.cn/blog/nessus-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-10/</id>
+    <link href="https://sysin.org/blog/nessus-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-10/</id>
     <published>2026-07-24T01:21:00.000Z</published>
     <updated>2026-07-24T01:21:00.000Z</updated>
     <summary type="html">Tenable Nessus 是领先的漏洞扫描与安全评估平台，提供全面的漏洞检测、配置审计和风险分析能力，帮助企业及时发现并修复安全风险。</summary>
   </entry>
   <entry>
     <title>HPE OneView 11.3 - HPE 服务器、存储和网络设备集中管理软件</title>
-    <link href="https://sysin.cn/blog/hpe-oneview/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/hpe-oneview/</id>
+    <link href="https://sysin.org/blog/hpe-oneview/?utm_source=atom"/>
+    <id>https://sysin.org/blog/hpe-oneview/</id>
     <published>2026-07-23T01:18:36.000Z</published>
     <updated>2026-07-23T01:18:36.000Z</updated>
     <summary type="html">HPE OneView 是一款集成式 IT 基础设施管理软件，可实现 IT 运维自动化，简化了涵盖计算、存储和网络的基础设施生命周期管理。</summary>
   </entry>
   <entry>
     <title>Omnissa Horizon 8 2603 发布 - 虚拟桌面基础架构 (VDI) 和应用软件</title>
-    <link href="https://sysin.cn/blog/omnissa-horizon-8/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/omnissa-horizon-8/</id>
+    <link href="https://sysin.org/blog/omnissa-horizon-8/?utm_source=atom"/>
+    <id>https://sysin.org/blog/omnissa-horizon-8/</id>
     <published>2026-07-23T01:18:00.000Z</published>
     <updated>2026-07-29T04:36:29.501Z</updated>
     <summary type="html">借助 Horizon 8，IT 部门可在数据中心内运行远程桌面和应用程序，并将这些桌面和应用程序交付给员工。最终用户可以获得熟悉的个性化环境，并可以在企业或家庭中的任何地方通过任意数量的设备访问此环境。通过将数据集中到数据中心，管理员可以进行控制并提高效率和安全性。</summary>
   </entry>
   <entry>
     <title>SonarQube Server 2026.4 发布 - 代码质量、安全与静态分析工具</title>
-    <link href="https://sysin.cn/blog/sonarqube/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sonarqube/</id>
+    <link href="https://sysin.org/blog/sonarqube/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sonarqube/</id>
     <published>2026-07-23T01:15:20.000Z</published>
     <updated>2026-07-27T07:50:59.188Z</updated>
     <summary type="html">SonarQube Server 是专业的代码质量与安全分析平台，支持多语言静态分析、漏洞检测、代码审查和质量门禁，帮助团队持续提升软件质量。</summary>
   </entry>
   <entry>
     <title>JetBrains RubyMine 2026.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-rubymine/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-rubymine/</id>
+    <link href="https://sysin.org/blog/jetbrains-rubymine/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-rubymine/</id>
     <published>2026-07-23T01:13:00.000Z</published>
     <updated>2026-07-23T01:13:00.000Z</updated>
     <summary type="html">RubyMine 对非商业用途免费，是专为 Ruby 和 Rails 开发打造的智能 IDE，提供代码分析、重构、调试、测试及框架支持，加速 Web 应用开发。</summary>
   </entry>
   <entry>
     <title>JetBrains Rider 2026.2 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-rider/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-rider/</id>
+    <link href="https://sysin.org/blog/jetbrains-rider/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-rider/</id>
     <published>2026-07-23T01:12:00.000Z</published>
     <updated>2026-07-23T01:12:00.000Z</updated>
     <summary type="html">Rider 对非商业用途免费，是一款高性能跨平台 .NET IDE，支持 C#、ASP.NET、Unity 等开发场景，提供智能代码分析、调试和现代化开发工具。</summary>
   </entry>
   <entry>
     <title>JetBrains RustRover 2026.2 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-rustrover/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-rustrover/</id>
+    <link href="https://sysin.org/blog/jetbrains-rustrover/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-rustrover/</id>
     <published>2026-07-23T01:11:00.000Z</published>
     <updated>2026-07-23T01:11:00.000Z</updated>
     <summary type="html">RustRover 对非商业用途免费，是专为 Rust 开发者设计的专业 IDE，提供智能代码分析、Cargo 集成、调试和工程管理功能，提升 Rust 开发效率。</summary>
   </entry>
   <entry>
     <title>JetBrains PyCharm 2026.2 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-pycharm/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-pycharm/</id>
+    <link href="https://sysin.org/blog/jetbrains-pycharm/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-pycharm/</id>
     <published>2026-07-22T02:11:00.000Z</published>
     <updated>2026-07-22T02:11:00.000Z</updated>
     <summary type="html">PyCharm 是面向专业 Python 开发者的智能 IDE，支持 Web 开发、数据科学、调试、测试和代码质量分析，提供完整 Python 开发体验。</summary>
   </entry>
   <entry>
     <title>CrossOver 26.3 for macOS &amp; Linux 发布 - 领先的 Wine 解决方案</title>
-    <link href="https://sysin.cn/blog/crossover/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/crossover/</id>
+    <link href="https://sysin.org/blog/crossover/?utm_source=atom"/>
+    <id>https://sysin.org/blog/crossover/</id>
     <published>2026-07-22T01:12:00.000Z</published>
     <updated>2026-07-22T01:12:00.000Z</updated>
     <summary type="html">CrossOver 是基于 Wine 的商业兼容层，无需虚拟机或安装 Windows，即可在 macOS 和 Linux 上运行 Windows 应用程序和游戏。</summary>
   </entry>
   <entry>
     <title>Xcode 27 beta 4 (27A5228h) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-    <link href="https://sysin.cn/blog/apple-xcode-27/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-xcode-27/</id>
+    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-xcode-27/</id>
     <published>2026-07-21T00:17:36.000Z</published>
     <updated>2026-07-21T00:17:36.000Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
-  </entry>
-  <entry>
-    <title>macOS Golden Gate 27.0 beta 4 (26A5388g) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
-    <published>2026-07-21T00:16:36.000Z</published>
-    <updated>2026-07-21T00:16:36.000Z</updated>
-    <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
-  </entry>
-  <entry>
-    <title>macOS Golden Gate 27.0 beta 4 (26A5388g) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate/</id>
-    <published>2026-07-21T00:16:26.000Z</published>
-    <updated>2026-07-21T00:16:26.000Z</updated>
-    <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
-  </entry>
-  <entry>
-    <title>Wing Pro 12.0.1 (macOS, Linux, Windows) - Python IDE</title>
-    <link href="https://sysin.cn/blog/wing-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wing-pro/</id>
-    <published>2026-07-20T01:25:00.000Z</published>
-    <updated>2026-07-20T01:25:00.000Z</updated>
-    <summary type="html">Wing 12 将 Claude Code AI 智能体直接集成到 IDE 中。全新的 Claude Code 工具、用于规划和审查 AI 智能体工作的 Tasks 工具，以及一组 MCP 服务器，为智能体提供 Wing 的源代码分析、单元测试和调试功能，使您能够比在普通终端中更快、更低成本地在 Wing 内部调度 AI 智能体。</summary>
-  </entry>
-  <entry>
-    <title>Magnet Axiom 10.1 for Windows x64 Multilingual - 专业数字取证与分析平台</title>
-    <link href="https://sysin.cn/blog/magnet-axiom/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/magnet-axiom/</id>
-    <published>2026-07-20T01:19:45.000Z</published>
-    <updated>2026-07-20T01:19:45.000Z</updated>
-    <summary type="html">在一个案件文件中，同时检查来自移动设备、云端、计算机和车辆来源的数字证据，以及第三方提取数据。使用强大且直观的分析工具，自动快速呈现与案件相关的证据。</summary>
-  </entry>
-  <entry>
-    <title>Magnet DVR Examiner 3.24 for Windows - 视频取证软件</title>
-    <link href="https://sysin.cn/blog/magnet-dvr-examiner/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/magnet-dvr-examiner/</id>
-    <published>2026-07-20T01:19:45.000Z</published>
-    <updated>2026-07-20T01:19:45.000Z</updated>
-    <summary type="html">DVR Examiner 是一款专业视频取证软件，支持 从监控系统 CCTV 和监控 DVR 恢复视频和元数据，兼容多种设备和视频格式，适用于执法调查、司法鉴定及数字取证场景。</summary>
   </entry>
 </feed>
