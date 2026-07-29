@@ -3,12 +3,52 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件与技术分享</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-07-29T04:37:16.347Z</updated>
+  <updated>2026-07-29T13:10:18.256Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-sysin/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</id>
+    <published>2026-07-29T10:09:18.000Z</published>
+    <updated>2026-07-29T13:10:18.256Z</updated>
+    <summary type="html">ESXi 8.0U3k sysin 集成驱动版独家支持 macOS 虚拟化和 Windows OEM BIOS，新增多种网卡驱动包括 USB 网卡，广泛兼容各类 PC 和服务器，不仅是单机虚拟化的最佳选择，也适合用于运行企业级工作负载。</summary>
+  </entry>
+  <entry>
+    <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-oem/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-oem/</id>
+    <published>2026-07-29T10:09:08.000Z</published>
+    <updated>2026-07-29T13:10:23.752Z</updated>
+    <summary type="html">ESXi 8.0U3k sysin 定制标准版和 OEM 版独家支持 macOS 虚拟化和 Windows OEM BIOS，并采用与厂商官方验证一致的驱动版本。主流品牌定制版通常还集成了服务器管理组件，可进一步提升硬件兼容性和运维效率，因此建议优先选择与服务器品牌相对应的定制版本。</summary>
+  </entry>
+  <entry>
+    <title>VMware vSphere 8.0 Update 3k 下载 - 企业级工作负载平台</title>
+    <link href="https://sysin.org/blog/vmware-vsphere-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vsphere-8-u3/</id>
+    <published>2026-07-29T10:08:18.000Z</published>
+    <updated>2026-07-29T13:07:44.605Z</updated>
+    <summary type="html">VMware vSphere 8.0U3 提供企业级服务器虚拟化与云原生控制平面。具备免重启 Live Patch 热更新、双 DPU 网络加速与更高级的 GPU 资源监控，全面赋能现代数据中心与 AI 工作负载。</summary>
+  </entry>
+  <entry>
+    <title>VMware vCenter Server 8.0U3k 发布 - 集中管理 vSphere 环境</title>
+    <link href="https://sysin.org/blog/vmware-vcenter-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vcenter-8-u3/</id>
+    <published>2026-07-29T10:08:08.000Z</published>
+    <updated>2026-07-29T13:07:44.603Z</updated>
+    <summary type="html">VMware vCenter Server 8.0U3 提供强大的数据中心集中管理能力。支持近乎零停机的版本更新、增强型 vLCM 镜像定制与 AI/GPU 算力集群监控，全面提升企业虚拟化基础设施的运维效率与可靠性。</summary>
+  </entry>
+  <entry>
+    <title>VMware ESXi 8.0U3k 发布 - 领先的裸机 Hypervisor</title>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3/</id>
+    <published>2026-07-29T10:08:00.000Z</published>
+    <updated>2026-07-29T13:09:12.854Z</updated>
+    <summary type="html">VMware ESXi 8.0U3 提供强大的服务器虚拟化体验。具备免重启 Live Patch 热补丁、双 DPU 网络加速与更高级的 AI/GPU 资源调度能力，全面提升企业数据中心运维效率与业务连续性。</summary>
+  </entry>
   <entry>
     <title>Omnissa App Volumes 4, version 2603.2 - 实时应用程序交付系统</title>
     <link href="https://sysin.org/blog/omnissa-app-volumes/?utm_source=atom"/>
@@ -120,46 +160,6 @@
     <published>2026-07-25T01:17:05.000Z</published>
     <updated>2026-07-25T01:17:05.000Z</updated>
     <summary type="html">F5 BIG-IP 21.1 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</summary>
-  </entry>
-  <entry>
-    <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 集成网卡驱动和 NVMe 驱动 (集成驱动版)</title>
-    <link href="https://sysin.org/blog/vmware-esxi-8-u3-sysin/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</id>
-    <published>2026-07-25T01:09:18.000Z</published>
-    <updated>2026-07-29T13:02:32.158Z</updated>
-    <summary type="html">ESXi 8.0U3j sysin 集成驱动版独家支持 macOS 虚拟化和 Windows OEM BIOS，新增多种网卡驱动包括 USB 网卡，广泛兼容各类 PC 和服务器，不仅是单机虚拟化的最佳选择，也适合用于运行企业级工作负载。</summary>
-  </entry>
-  <entry>
-    <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-    <link href="https://sysin.org/blog/vmware-esxi-8-u3-oem/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-esxi-8-u3-oem/</id>
-    <published>2026-07-25T01:09:08.000Z</published>
-    <updated>2026-07-29T13:02:32.178Z</updated>
-    <summary type="html">ESXi 8.0U3j sysin 定制标准版和 OEM 版独家支持 macOS 虚拟化和 Windows OEM BIOS，并采用与厂商官方验证一致的驱动版本。主流品牌定制版通常还集成了服务器管理组件，可进一步提升硬件兼容性和运维效率，因此建议优先选择与服务器品牌相对应的定制版本。</summary>
-  </entry>
-  <entry>
-    <title>VMware vSphere 8.0 Update 3k 下载 - 企业级工作负载平台</title>
-    <link href="https://sysin.org/blog/vmware-vsphere-8-u3/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-vsphere-8-u3/</id>
-    <published>2026-07-25T01:08:18.000Z</published>
-    <updated>2026-07-29T13:02:32.107Z</updated>
-    <summary type="html">VMware vSphere 8.0U3 提供企业级服务器虚拟化与云原生控制平面。具备免重启 Live Patch 热更新、双 DPU 网络加速与更高级的 GPU 资源监控，全面赋能现代数据中心与 AI 工作负载。</summary>
-  </entry>
-  <entry>
-    <title>VMware vCenter Server 8.0U3k 发布 - 集中管理 vSphere 环境</title>
-    <link href="https://sysin.org/blog/vmware-vcenter-8-u3/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-vcenter-8-u3/</id>
-    <published>2026-07-25T01:08:08.000Z</published>
-    <updated>2026-07-29T13:02:32.107Z</updated>
-    <summary type="html">VMware vCenter Server 8.0U3 提供强大的数据中心集中管理能力。支持近乎零停机的版本更新、增强型 vLCM 镜像定制与 AI/GPU 算力集群监控，全面提升企业虚拟化基础设施的运维效率与可靠性。</summary>
-  </entry>
-  <entry>
-    <title>VMware ESXi 8.0U3k 发布 - 领先的裸机 Hypervisor</title>
-    <link href="https://sysin.org/blog/vmware-esxi-8-u3/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-esxi-8-u3/</id>
-    <published>2026-07-25T01:08:00.000Z</published>
-    <updated>2026-07-29T13:02:32.103Z</updated>
-    <summary type="html">VMware ESXi 8.0U3 提供强大的服务器虚拟化体验。具备免重启 Live Patch 热补丁、双 DPU 网络加速与更高级的 AI/GPU 资源调度能力，全面提升企业数据中心运维效率与业务连续性。</summary>
   </entry>
   <entry>
     <title>Gitea Enterprise 26.4.1 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
