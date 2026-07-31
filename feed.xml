@@ -12,8 +12,15 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Fri, 31 Jul 2026 06:54:16 GMT</pubDate>
+    <pubDate>Fri, 31 Jul 2026 09:36:25 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>Metasploit Framework 6.5 发布 - 开源渗透测试框架</title>
+      <link>https://sysin.org/blog/metasploit-framework-6/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/metasploit-framework-6/</guid>
+      <pubDate>Fri, 31 Jul 2026 01:21:00 GMT</pubDate>
+      <description>Metasploit 6.5 代表了该框架的一次重要演进，带来了大量新能力，旨在提升现代安全测试中的易用性和真实性。从用户长期期待的 Malleable C2 Profiles 集成、全新的 Metasploit MCP Server，到高级 NTLM Relay、增强版 Fetch Payload 工具，以及 MITRE ATT&amp;CK 标签引入，本版本旨在支持越来越复杂和自动化的安全测试流程。</description>
+    </item>
     <item>
       <title>Veeam Data Platform 13.1 (Windows) - 数据保护和管理解决方案</title>
       <link>https://sysin.org/blog/veeam-data-platform/?utm_source=rss</link>
@@ -216,13 +223,6 @@
       <guid>https://sysin.org/blog/sonarqube/</guid>
       <pubDate>Thu, 23 Jul 2026 01:15:20 GMT</pubDate>
       <description>SonarQube Server 是专业的代码质量与安全分析平台，支持多语言静态分析、漏洞检测、代码审查和质量门禁，帮助团队持续提升软件质量。</description>
-    </item>
-    <item>
-      <title>JetBrains RubyMine 2026.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-      <link>https://sysin.org/blog/jetbrains-rubymine/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/jetbrains-rubymine/</guid>
-      <pubDate>Thu, 23 Jul 2026 01:13:00 GMT</pubDate>
-      <description>RubyMine 对非商业用途免费，是专为 Ruby 和 Rails 开发打造的智能 IDE，提供代码分析、重构、调试、测试及框架支持，加速 Web 应用开发。</description>
     </item>
   </channel>
 </rss>

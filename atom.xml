@@ -3,12 +3,20 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-07-31T06:54:16.604Z</updated>
+  <updated>2026-07-31T09:36:25.793Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>Metasploit Framework 6.5 发布 - 开源渗透测试框架</title>
+    <link href="https://sysin.org/blog/metasploit-framework-6/?utm_source=atom"/>
+    <id>https://sysin.org/blog/metasploit-framework-6/</id>
+    <published>2026-07-31T01:21:00.000Z</published>
+    <updated>2026-07-31T09:36:25.793Z</updated>
+    <summary type="html">Metasploit 6.5 代表了该框架的一次重要演进，带来了大量新能力，旨在提升现代安全测试中的易用性和真实性。从用户长期期待的 Malleable C2 Profiles 集成、全新的 Metasploit MCP Server，到高级 NTLM Relay、增强版 Fetch Payload 工具，以及 MITRE ATT&amp;CK 标签引入，本版本旨在支持越来越复杂和自动化的安全测试流程。</summary>
+  </entry>
   <entry>
     <title>Veeam Data Platform 13.1 (Windows) - 数据保护和管理解决方案</title>
     <link href="https://sysin.org/blog/veeam-data-platform/?utm_source=atom"/>
@@ -240,13 +248,5 @@
     <published>2026-07-23T01:15:20.000Z</published>
     <updated>2026-07-27T07:50:59.188Z</updated>
     <summary type="html">SonarQube Server 是专业的代码质量与安全分析平台，支持多语言静态分析、漏洞检测、代码审查和质量门禁，帮助团队持续提升软件质量。</summary>
-  </entry>
-  <entry>
-    <title>JetBrains RubyMine 2026.2 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-    <link href="https://sysin.org/blog/jetbrains-rubymine/?utm_source=atom"/>
-    <id>https://sysin.org/blog/jetbrains-rubymine/</id>
-    <published>2026-07-23T01:13:00.000Z</published>
-    <updated>2026-07-23T01:13:00.000Z</updated>
-    <summary type="html">RubyMine 对非商业用途免费，是专为 Ruby 和 Rails 开发打造的智能 IDE，提供代码分析、重构、调试、测试及框架支持，加速 Web 应用开发。</summary>
   </entry>
 </feed>
