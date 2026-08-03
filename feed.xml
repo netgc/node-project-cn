@@ -4,225 +4,225 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Sun, 02 Aug 2026 11:12:23 GMT</pubDate>
+    <pubDate>Mon, 03 Aug 2026 08:54:39 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
+      <title>vCenter Server 8.0U3k OVF - 在 Fusion 和 Workstation 中快速部署 vCSA</title>
+      <link>https://sysin.org/blog/vmware-vcenter-8-ovf/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-vcenter-8-ovf/</guid>
+      <pubDate>Mon, 03 Aug 2026 01:18:09 GMT</pubDate>
+      <description>本站定制 vCenter Server 8.0U3 系列 OVF，适用于 VMware Fusion 和 Workstation，也可以用于 ESXi，可通过简单直观的提示快速部署 vSphere 环境。</description>
+    </item>
+    <item>
+      <title>NetBSD 11.0 - 类 UNIX 操作系统</title>
+      <link>https://sysin.org/blog/netbsd-11/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/netbsd-11/</guid>
+      <pubDate>Mon, 03 Aug 2026 01:10:11 GMT</pubDate>
+      <description>NetBSD 是一个免费、快速、安全且高度可移植的类 Unix 开源操作系统。它广泛适用于一系列平台，从大型服务器到功能强大的桌面系统到手持式和嵌入式设备。</description>
+    </item>
+    <item>
       <title>Shotcut 26.8.1 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-      <link>https://sysin.cn/blog/shotcut/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/shotcut/</guid>
+      <link>https://sysin.org/blog/shotcut/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/shotcut/</guid>
       <pubDate>Sun, 02 Aug 2026 01:09:55 GMT</pubDate>
       <description>Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</description>
     </item>
     <item>
       <title>Qt Creator 20.0.1 (macOS, Linux, Windows) - Qt、QML 与 C++ 的 跨平台 IDE</title>
-      <link>https://sysin.cn/blog/qt-creator/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/qt-creator/</guid>
+      <link>https://sysin.org/blog/qt-creator/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/qt-creator/</guid>
       <pubDate>Sat, 01 Aug 2026 01:29:18 GMT</pubDate>
       <description>Qt Creator 是最适合 Qt 的集成开发环境（IDE）。Qt Creator IDE 提供覆盖完整开发周期的跨平台工具，帮助你快速上手、高效协作，并持续交付高质量成果。</description>
     </item>
     <item>
       <title>Linux 产品链接汇总</title>
-      <link>https://sysin.cn/blog/linux/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/linux/</guid>
+      <link>https://sysin.org/blog/linux/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/linux/</guid>
       <pubDate>Sat, 01 Aug 2026 01:06:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/linux/?utm_source=rss" title="Linux 产品链接汇总">Linux 产品链接汇总</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>HTTP 协议与安全</title>
-      <link>https://sysin.cn/blog/http/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/http/</guid>
+      <link>https://sysin.org/blog/http/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/http/</guid>
       <pubDate>Sat, 01 Aug 2026 01:03:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/http/?utm_source=rss" title="HTTP 协议与安全">HTTP 协议与安全</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>VMware 产品下载汇总</title>
-      <link>https://sysin.cn/blog/vmware/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware/</guid>
+      <link>https://sysin.org/blog/vmware/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware/</guid>
       <pubDate>Sat, 01 Aug 2026 01:02:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/vmware/?utm_source=rss" title="VMware 产品下载汇总">VMware 产品下载汇总</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>macOS 下载汇总 (系统、应用和教程)</title>
-      <link>https://sysin.cn/blog/macos/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos/</guid>
+      <link>https://sysin.org/blog/macos/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos/</guid>
       <pubDate>Sat, 01 Aug 2026 01:01:00 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos/?utm_source=rss" title="macOS 下载汇总 (系统、应用和教程)">macOS 下载汇总 (系统、应用和教程)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Metasploit Framework 6.5 发布 - 开源渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-framework-6/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/metasploit-framework-6/</guid>
+      <link>https://sysin.org/blog/metasploit-framework-6/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/metasploit-framework-6/</guid>
       <pubDate>Fri, 31 Jul 2026 01:21:00 GMT</pubDate>
       <description>Metasploit 6.5 代表了该框架的一次重要演进，带来了大量新能力，旨在提升现代安全测试中的易用性和真实性。从用户长期期待的 Malleable C2 Profiles 集成、全新的 Metasploit MCP Server，到高级 NTLM Relay、增强版 Fetch Payload 工具，以及 MITRE ATT&amp;CK 标签引入，本版本旨在支持越来越复杂和自动化的安全测试流程。</description>
     </item>
     <item>
       <title>Veeam Data Platform 13.1 (Windows) - 数据保护和管理解决方案</title>
-      <link>https://sysin.cn/blog/veeam-data-platform/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/veeam-data-platform/</guid>
+      <link>https://sysin.org/blog/veeam-data-platform/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/veeam-data-platform/</guid>
       <pubDate>Fri, 31 Jul 2026 01:10:07 GMT</pubDate>
       <description>Veeam Data Platform 13.1 是企业级数据保护平台，集成备份恢复、监控分析与灾难恢复编排能力，支持 VMware、Hyper-V、物理服务器、云平台、NAS 及企业应用等工作负载，提供统一的数据保护、勒索软件防护、安全恢复及运维管理解决方案。</description>
     </item>
     <item>
       <title>Veeam Recovery Orchestrator 13.1 (Windows) - 恢复编排与合规管理</title>
-      <link>https://sysin.cn/blog/veeam-recovery-orchestrator-13/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/veeam-recovery-orchestrator-13/</guid>
+      <link>https://sysin.org/blog/veeam-recovery-orchestrator-13/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/veeam-recovery-orchestrator-13/</guid>
       <pubDate>Fri, 31 Jul 2026 01:09:02 GMT</pubDate>
       <description>Veeam Recovery Orchestrator 13.1 是一款企业级灾难恢复编排与自动化平台，支持 Veeam Backup &amp; Replication 副本、备份及 CDP 策略的统一编排与管理，提供自动化恢复计划、灾难恢复演练、恢复验证、依赖关系编排、文档生成及合规审计等功能，帮助企业提升灾难恢复效率并保障业务连续性。</description>
     </item>
     <item>
       <title>Veeam ONE 13.1 (Windows) - 数据保护的可观测性和智能洞察</title>
-      <link>https://sysin.cn/blog/veeam-one-13/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/veeam-one-13/</guid>
+      <link>https://sysin.org/blog/veeam-one-13/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/veeam-one-13/</guid>
       <pubDate>Fri, 31 Jul 2026 01:09:01 GMT</pubDate>
       <description>Veeam ONE 13.1 是企业级监控与分析平台，支持 Veeam Backup &amp; Replication、VMware vSphere、Microsoft Hyper-V 等环境的统一监控与管理，提供实时性能监控、智能告警、容量规划、报表分析及基础设施健康检查，帮助企业优化备份环境与虚拟化资源。</description>
     </item>
     <item>
       <title>Veeam Backup &amp; Replication 13.1 (Windows | VMware | Hyper-V) - 备份与恢复</title>
-      <link>https://sysin.cn/blog/veeam-backup-13/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/veeam-backup-13/</guid>
+      <link>https://sysin.org/blog/veeam-backup-13/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/veeam-backup-13/</guid>
       <pubDate>Fri, 31 Jul 2026 01:09:00 GMT</pubDate>
       <description>Veeam Backup &amp; Replication 13.1 是企业级数据备份与灾难恢复平台，支持 VMware、Hyper-V、物理服务器、云平台及企业应用的统一备份与恢复，提供镜像级备份、CDP、复制、不可变备份、快速恢复及勒索软件防护等功能。</description>
     </item>
     <item>
       <title>Splunk Enterprise 10.4.2 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-      <link>https://sysin.cn/blog/splunk-10/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/splunk-10/</guid>
+      <link>https://sysin.org/blog/splunk-10/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/splunk-10/</guid>
       <pubDate>Thu, 30 Jul 2026 01:19:10 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/splunk-10/?utm_source=rss" title="Splunk Enterprise 10.4.2 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台">Splunk Enterprise 10.4.2 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 集成驱动版</title>
-      <link>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</guid>
+      <link>https://sysin.org/blog/vmware-esxi-8-u3-sysin/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</guid>
       <pubDate>Wed, 29 Jul 2026 10:09:18 GMT</pubDate>
       <description>ESXi 8.0U3k sysin 集成驱动版独家支持 macOS 虚拟化和 Windows OEM BIOS，新增多种网卡驱动包括 USB 网卡，广泛兼容各类 PC 和服务器，不仅是单机虚拟化的最佳选择，也适合用于运行企业级工作负载。</description>
     </item>
     <item>
       <title>VMware ESXi 8.0U3k macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-      <link>https://sysin.cn/blog/vmware-esxi-8-u3-oem/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</guid>
+      <link>https://sysin.org/blog/vmware-esxi-8-u3-oem/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-esxi-8-u3-oem/</guid>
       <pubDate>Wed, 29 Jul 2026 10:09:08 GMT</pubDate>
       <description>ESXi 8.0U3k sysin 定制标准版和 OEM 版独家支持 macOS 虚拟化和 Windows OEM BIOS，并采用与厂商官方验证一致的驱动版本。主流品牌定制版通常还集成了服务器管理组件，可进一步提升硬件兼容性和运维效率，因此建议优先选择与服务器品牌相对应的定制版本。</description>
     </item>
     <item>
       <title>VMware vSphere 8.0 Update 3k 下载 - 企业级工作负载平台</title>
-      <link>https://sysin.cn/blog/vmware-vsphere-8-u3/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-vsphere-8-u3/</guid>
+      <link>https://sysin.org/blog/vmware-vsphere-8-u3/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-vsphere-8-u3/</guid>
       <pubDate>Wed, 29 Jul 2026 10:08:18 GMT</pubDate>
       <description>VMware vSphere 8.0U3 提供企业级服务器虚拟化与云原生控制平面。具备免重启 Live Patch 热更新、双 DPU 网络加速与更高级的 GPU 资源监控，全面赋能现代数据中心与 AI 工作负载。</description>
     </item>
     <item>
       <title>VMware vCenter Server 8.0U3k 发布 - 集中管理 vSphere 环境</title>
-      <link>https://sysin.cn/blog/vmware-vcenter-8-u3/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-vcenter-8-u3/</guid>
+      <link>https://sysin.org/blog/vmware-vcenter-8-u3/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-vcenter-8-u3/</guid>
       <pubDate>Wed, 29 Jul 2026 10:08:08 GMT</pubDate>
       <description>VMware vCenter Server 8.0U3 提供强大的数据中心集中管理能力。支持近乎零停机的版本更新、增强型 vLCM 镜像定制与 AI/GPU 算力集群监控，全面提升企业虚拟化基础设施的运维效率与可靠性。</description>
     </item>
     <item>
       <title>VMware ESXi 8.0U3k 发布 - 领先的裸机 Hypervisor</title>
-      <link>https://sysin.cn/blog/vmware-esxi-8-u3/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-esxi-8-u3/</guid>
+      <link>https://sysin.org/blog/vmware-esxi-8-u3/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-esxi-8-u3/</guid>
       <pubDate>Wed, 29 Jul 2026 10:08:00 GMT</pubDate>
       <description>VMware ESXi 8.0U3 提供强大的服务器虚拟化体验。具备免重启 Live Patch 热补丁、双 DPU 网络加速与更高级的 AI/GPU 资源调度能力，全面提升企业数据中心运维效率与业务连续性。</description>
     </item>
     <item>
       <title>Omnissa App Volumes 4, version 2603.2 - 实时应用程序交付系统</title>
-      <link>https://sysin.cn/blog/omnissa-app-volumes/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/omnissa-app-volumes/</guid>
+      <link>https://sysin.org/blog/omnissa-app-volumes/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/omnissa-app-volumes/</guid>
       <pubDate>Wed, 29 Jul 2026 01:10:00 GMT</pubDate>
       <description>Omnissa App Volumes 是一个实时应用程序交付系统，企业可以使用它来动态交付和管理应用程序。通过将标准 VMDK 或 VHD 文件附加到虚拟机来打包和交付应用程序。您可以使用 App Volumes Manager 集中管理应用程序。</description>
     </item>
     <item>
       <title>Nexpose 8.53.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nexpose/</guid>
+      <link>https://sysin.org/blog/nexpose/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nexpose/</guid>
       <pubDate>Wed, 29 Jul 2026 01:01:05 GMT</pubDate>
       <description>Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.6 (25G72) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe-boot-iso/</guid>
       <pubDate>Tue, 28 Jul 2026 00:16:36 GMT</pubDate>
       <description>最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.6 (25G72) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe/</guid>
+      <link>https://sysin.org/blog/macos-tahoe/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe/</guid>
       <pubDate>Tue, 28 Jul 2026 00:16:26 GMT</pubDate>
       <description>macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.7.8 (24G824) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia-boot-iso/</guid>
       <pubDate>Tue, 28 Jul 2026 00:10:20 GMT</pubDate>
       <description>最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.7.8 (24G824) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia/</guid>
+      <link>https://sysin.org/blog/macos-sequoia/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia/</guid>
       <pubDate>Tue, 28 Jul 2026 00:10:10 GMT</pubDate>
       <description>macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</description>
     </item>
     <item>
       <title>macOS Sonoma 14.8.8 (23J620) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-sonoma-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sonoma-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-sonoma-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sonoma-boot-iso/</guid>
       <pubDate>Tue, 28 Jul 2026 00:09:20 GMT</pubDate>
       <description>最新版 macOS Sonoma 14 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Sonoma 14.8.8 (23J620) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-sonoma/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sonoma/</guid>
+      <link>https://sysin.org/blog/macos-sonoma/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sonoma/</guid>
       <pubDate>Tue, 28 Jul 2026 00:09:10 GMT</pubDate>
       <description>macOS Sonoma 隆重推出更多利用小组件进行个性化设置的方式、令人眼前一亮的全新屏幕保护、Safari 浏览器和视频会议的重大更新，以及经优化的游戏体验——Tim Cook 让 Mac 体验远胜以往。</description>
     </item>
     <item>
       <title>Apple Safari 26.6 - macOS 专属浏览器 (独立安装包下载)</title>
-      <link>https://sysin.cn/blog/apple-safari-26/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-safari-26/</guid>
+      <link>https://sysin.org/blog/apple-safari-26/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-safari-26/</guid>
       <pubDate>Tue, 28 Jul 2026 00:05:26 GMT</pubDate>
       <description>无论在哪种 Apple 设备上，用 Safari 浏览器上网都再好不过。它带来健全的自定选项、强大的隐私保护功能，以及傲人的电池续航，让你随时都能自如地浏览网络。至于速度，这款飞快的浏览器更再次超越自我。</description>
     </item>
     <item>
       <title>Windows Server 2025 中文版、英文版下载 (2026 年 7 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2025/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2025/</guid>
+      <link>https://sysin.org/blog/windows-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2025/</guid>
       <pubDate>Mon, 27 Jul 2026 01:15:05 GMT</pubDate>
       <description>Windows Server 2025 让你为将来做好准备，同时提供目前所需的安全性、性能和灵活性。通过更轻松的网络连接、更快的存储和满足你需求的混合云功能提高工作效率。凭借前瞻性的安全性和 AI 就绪型计算，领先于未来的发展。</description>
     </item>
     <item>
       <title>Windows Server 2022 中文版、英文版下载 (2026 年 7 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2022/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2022/</guid>
+      <link>https://sysin.org/blog/windows-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2022/</guid>
       <pubDate>Mon, 27 Jul 2026 01:12:22 GMT</pubDate>
       <description>Windows Server 2022 在三个关键主题上带来了许多创新，采用先进的多层安全机制、Azure 混合功能以及灵活的应用程序平台。</description>
-    </item>
-    <item>
-      <title>Windows 11 26H1 | 25H2 | 24H2 中文版、英文版下载 (2026 年 7 月更新)</title>
-      <link>https://sysin.cn/blog/windows-11/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-11/</guid>
-      <pubDate>Mon, 27 Jul 2026 01:11:00 GMT</pubDate>
-      <description>Windows 11 提供一个让人平静而富有创意的空间，全新体验引导您全力追逐热爱。从焕然一新的开始菜单，到与您关心的人、关注的消息、游戏和内容建立连接的新方式，Windows 11 提供了一个场所，让您得以自由地思索、表达和创造。</description>
-    </item>
-    <item>
-      <title>F5 BIG-IP 17.5 LTS Release 17.5.1.8 - 多云安全和应用交付</title>
-      <link>https://sysin.cn/blog/f5-big-ip-17-lts/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/f5-big-ip-17-lts/</guid>
-      <pubDate>Sat, 25 Jul 2026 01:18:05 GMT</pubDate>
-      <description>F5 BIG-IP 17.5 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</description>
     </item>
   </channel>
 </rss>
