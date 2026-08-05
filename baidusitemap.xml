@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/jetbrains-dataspell/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/adobe-xd/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/f5-big-iq-4/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/f5-big-iq-5/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/f5-big-iq-6/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/f5-big-iq-7/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/f5-big-iq-8/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/kali-linux/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/kali-linux-2023/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/kali-linux-2022/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/kali-linux-2024/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/kali-linux-2025/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/kali-linux-2021/</loc>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/bat/</loc>
     <lastmod>2026-08-05</lastmod>
   </url>
@@ -265,10 +321,6 @@
     <lastmod>2026-08-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-xd/</loc>
-    <lastmod>2026-08-05</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/adobe-substance-3d/</loc>
     <lastmod>2026-08-05</lastmod>
   </url>
@@ -286,10 +338,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/adobe-media-encoder/</loc>
-    <lastmod>2026-08-05</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
     <lastmod>2026-08-05</lastmod>
   </url>
   <url>
@@ -693,10 +741,6 @@
     <lastmod>2026-07-15</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/jetbrains-dataspell/</loc>
-    <lastmod>2026-07-15</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/ssms/</loc>
     <lastmod>2026-07-15</lastmod>
   </url>
@@ -791,10 +835,6 @@
   <url>
     <loc>https://sysin.org/blog/splunk-9/</loc>
     <lastmod>2026-07-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/kali-linux/</loc>
-    <lastmod>2026-06-30</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/netapp-ontap-select-9/</loc>
@@ -1669,10 +1709,6 @@
     <lastmod>2025-12-13</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/kali-linux-2025/</loc>
-    <lastmod>2025-12-13</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/microsoft-system-center-2025/</loc>
     <lastmod>2025-12-13</lastmod>
   </url>
@@ -2017,10 +2053,6 @@
     <lastmod>2025-06-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/f5-big-iq-8/</loc>
-    <lastmod>2025-05-28</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/dell-unityvsa-5/</loc>
     <lastmod>2025-05-25</lastmod>
   </url>
@@ -2211,10 +2243,6 @@
   <url>
     <loc>https://sysin.org/blog/vmware-data-services-manager/</loc>
     <lastmod>2024-12-19</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/kali-linux-2024/</loc>
-    <lastmod>2024-12-18</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/sfos-20/</loc>
@@ -2857,10 +2885,6 @@
     <lastmod>2023-12-08</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/kali-linux-2023/</loc>
-    <lastmod>2023-12-05</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/mobaxterm-23/</loc>
     <lastmod>2023-12-02</lastmod>
   </url>
@@ -3149,10 +3173,6 @@
     <lastmod>2022-12-08</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/kali-linux-2022/</loc>
-    <lastmod>2022-12-07</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/jetbrains-2022/</loc>
     <lastmod>2022-12-02</lastmod>
   </url>
@@ -3435,10 +3455,6 @@
   <url>
     <loc>https://sysin.org/blog/cisco-prime-infrastructure-3/</loc>
     <lastmod>2021-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/kali-linux-2021/</loc>
-    <lastmod>2021-12-15</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-log4j2-vulnerability/</loc>
@@ -4013,10 +4029,6 @@
     <lastmod>2020-05-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/f5-big-iq-7/</loc>
-    <lastmod>2020-04-24</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-vsphere-7/</loc>
     <lastmod>2020-04-03</lastmod>
   </url>
@@ -4081,10 +4093,6 @@
     <lastmod>2019-05-31</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/f5-big-iq-6/</loc>
-    <lastmod>2018-12-08</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/centos-7-install/</loc>
     <lastmod>2018-08-07</lastmod>
   </url>
@@ -4105,20 +4113,12 @@
     <lastmod>2018-07-03</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/f5-big-iq-5/</loc>
-    <lastmod>2017-12-18</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/dnssec/</loc>
     <lastmod>2017-08-31</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/fortios-fgcp-ha-config/</loc>
     <lastmod>2017-08-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/f5-big-iq-4/</loc>
-    <lastmod>2015-11-25</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/juniper-srx-jsrp-config/</loc>
