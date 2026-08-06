@@ -1,6 +1,282 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/vmware-workstation-25/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-16-unlocker/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-16-unlocker-linux/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-16-unlocker-windows/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-17-unlocker/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-unlocker/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-replication-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-kubernetes-service/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-client-session-timeout/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4-5/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-2/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3-5/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-7-u3/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-7/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-7-u2/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsan/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsan-6/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsan-7/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsan-8/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vrni-6/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vrni-5/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vmmark/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcf-4/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-converter/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-9-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-8-u2/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-8-u1/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-8/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-7-u2/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-7-u1/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-7/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcenter-6/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-tkgi/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-tkg-2/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-tanzu-cli/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-srm-8/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-live-site-recovery-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-holodeck/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-hcx-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion-12/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion-25/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-esxi-host-client-session-timeout/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-esxi-arm/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-esxi-arm-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-esxi-8/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-esxi-8-u1/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-esxi-8-u2/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-for-networks-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-foundation-automation/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-foundation-automation-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-director-availability-4/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-director-10/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-aria-suite/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-aria-automation-orchestrator/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-aria-automation/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-app-volumes/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-sd-wan-5-4/</loc>
   <lastmod>2026-08-06</lastmod>
 </url>
@@ -662,10 +938,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/proxmox-ve-8/</loc>
-  <lastmod>2026-08-06</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-esxi-8-u2/</loc>
   <lastmod>2026-08-06</lastmod>
 </url>
 <url>
@@ -1529,10 +1801,6 @@
   <lastmod>2026-07-03</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-holodeck/</loc>
-  <lastmod>2026-07-02</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-esx-9-sysin/</loc>
   <lastmod>2026-07-01</lastmod>
 </url>
@@ -1701,10 +1969,6 @@
   <lastmod>2026-06-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vcenter-9-ovf/</loc>
-  <lastmod>2026-06-01</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/pan-os-12/</loc>
   <lastmod>2026-05-30</lastmod>
 </url>
@@ -1722,10 +1986,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/disable-ios-update/</loc>
-  <lastmod>2026-05-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsan-8/</loc>
   <lastmod>2026-05-28</lastmod>
 </url>
 <url>
@@ -1805,35 +2065,11 @@
   <lastmod>2026-05-17</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsphere-kubernetes-service/</loc>
-  <lastmod>2026-05-16</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
   <lastmod>2026-05-16</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-workstation-unlocker/</loc>
-  <lastmod>2026-05-15</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-fusion-oem/</loc>
-  <lastmod>2026-05-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
-  <lastmod>2026-05-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-hcx-9/</loc>
-  <lastmod>2026-05-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
-  <lastmod>2026-05-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-cloud-foundation-automation-9/</loc>
   <lastmod>2026-05-15</lastmod>
 </url>
 <url>
@@ -1842,10 +2078,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-workstation/</loc>
-  <lastmod>2026-05-14</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion/</loc>
   <lastmod>2026-05-14</lastmod>
 </url>
 <url>
@@ -1885,14 +2117,6 @@
   <lastmod>2026-05-13</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vcenter-9/</loc>
-  <lastmod>2026-05-13</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-esxi-arm-9/</loc>
-  <lastmod>2026-05-13</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-vsan-9/</loc>
   <lastmod>2026-05-13</lastmod>
 </url>
@@ -1903,10 +2127,6 @@
 <url>
   <loc>https://sysin.org/blog/mathematica/</loc>
   <lastmod>2026-05-11</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vmmark/</loc>
-  <lastmod>2026-05-08</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/oxygen-forensic-detective-18/</loc>
@@ -1921,14 +2141,6 @@
   <lastmod>2026-05-03</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-live-site-recovery-9/</loc>
-  <lastmod>2026-04-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-replication-9/</loc>
-  <lastmod>2026-04-29</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-skyline-health-diagnostics/</loc>
   <lastmod>2026-04-29</lastmod>
 </url>
@@ -1938,10 +2150,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/chrome-firefox-download/</loc>
-  <lastmod>2026-04-21</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-cloud-director-availability-4/</loc>
   <lastmod>2026-04-21</lastmod>
 </url>
 <url>
@@ -2101,14 +2309,6 @@
   <lastmod>2026-02-27</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-workstation-25/</loc>
-  <lastmod>2026-02-27</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion-25/</loc>
-  <lastmod>2026-02-27</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-idm-3/</loc>
   <lastmod>2026-02-26</lastmod>
 </url>
@@ -2157,19 +2357,11 @@
   <lastmod>2026-02-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-aria-suite/</loc>
-  <lastmod>2026-02-01</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/macos-if-crashes-when-opening/</loc>
   <lastmod>2026-01-21</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/ovirt/</loc>
-  <lastmod>2026-01-21</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-for-networks-9/</loc>
   <lastmod>2026-01-21</lastmod>
 </url>
 <url>
@@ -2229,10 +2421,6 @@
   <lastmod>2025-12-17</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsan/</loc>
-  <lastmod>2025-12-16</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/fortios-7/</loc>
   <lastmod>2025-12-13</lastmod>
 </url>
@@ -2255,10 +2443,6 @@
 <url>
   <loc>https://sysin.org/blog/gartner-magic-quadrant-eap-2025/</loc>
   <lastmod>2025-12-08</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-cloud-director-10/</loc>
-  <lastmod>2025-12-06</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/cisco-asac/</loc>
@@ -2345,20 +2529,8 @@
   <lastmod>2025-10-16</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsphere-7-u3/</loc>
-  <lastmod>2025-10-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcenter-7-u3/</loc>
-  <lastmod>2025-10-01</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/how-to-install-macos/</loc>
   <lastmod>2025-09-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcenter-converter/</loc>
-  <lastmod>2025-09-05</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/pan-os-11/</loc>
@@ -2429,23 +2601,7 @@
   <lastmod>2025-07-16</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-linux/</loc>
-  <lastmod>2025-07-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-workstation-17-unlocker-windows/</loc>
-  <lastmod>2025-07-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-workstation-17-unlocker/</loc>
-  <lastmod>2025-07-16</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-fusion-13-oem/</loc>
-  <lastmod>2025-07-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
   <lastmod>2025-07-16</lastmod>
 </url>
 <url>
@@ -2466,10 +2622,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-cloud-foundation-operations/</loc>
-  <lastmod>2025-06-18</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-cloud-foundation-automation/</loc>
   <lastmod>2025-06-18</lastmod>
 </url>
 <url>
@@ -2525,10 +2677,6 @@
   <lastmod>2025-05-10</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-esxi-arm/</loc>
-  <lastmod>2025-05-10</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/sannav-management-portal/</loc>
   <lastmod>2025-04-22</lastmod>
 </url>
@@ -2579,10 +2727,6 @@
 <url>
   <loc>https://sysin.org/blog/cortex-xsoar-6/</loc>
   <lastmod>2025-02-08</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-tkgi/</loc>
-  <lastmod>2025-02-02</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/fortify-static-code-analyzer/</loc>
@@ -2649,16 +2793,8 @@
   <lastmod>2024-12-02</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-srm-8/</loc>
-  <lastmod>2024-11-30</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/ubuntu-for-mac/</loc>
   <lastmod>2024-11-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-app-volumes/</loc>
-  <lastmod>2024-11-23</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/jetbrains-2024/</loc>
@@ -2705,10 +2841,6 @@
   <lastmod>2024-11-10</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-tanzu-cli/</loc>
-  <lastmod>2024-11-06</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/veritas-infoscale-8/</loc>
   <lastmod>2024-11-05</lastmod>
 </url>
@@ -2717,24 +2849,8 @@
   <lastmod>2024-10-29</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vcenter-6/</loc>
-  <lastmod>2024-10-29</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/f5-big-ip-next/</loc>
   <lastmod>2024-10-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-aria-automation/</loc>
-  <lastmod>2024-10-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-aria-automation-orchestrator/</loc>
-  <lastmod>2024-10-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcenter-8-u2/</loc>
-  <lastmod>2024-10-22</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/veritas-enterprise-vault-15/</loc>
@@ -2742,10 +2858,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-vsphere-8/</loc>
-  <lastmod>2024-10-10</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-esxi-8/</loc>
   <lastmod>2024-10-10</lastmod>
 </url>
 <url>
@@ -2779,10 +2891,6 @@
 <url>
   <loc>https://sysin.org/blog/install-macos-on-unsupported-mac/</loc>
   <lastmod>2024-09-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-tkg-2/</loc>
-  <lastmod>2024-09-13</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/cisco-catalyst-center/</loc>
@@ -2857,10 +2965,6 @@
   <lastmod>2024-07-25</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsan-7/</loc>
-  <lastmod>2024-07-20</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/cobalt-strike/</loc>
   <lastmod>2024-07-17</lastmod>
 </url>
@@ -2878,10 +2982,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-vsphere-8-u1/</loc>
-  <lastmod>2024-06-19</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcenter-8-u1/</loc>
   <lastmod>2024-06-19</lastmod>
 </url>
 <url>
@@ -2927,10 +3027,6 @@
 <url>
   <loc>https://sysin.org/blog/snh-titan/</loc>
   <lastmod>2024-05-18</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4-5/</loc>
-  <lastmod>2024-05-12</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/itunes-for-windows/</loc>
@@ -2993,10 +3089,6 @@
   <lastmod>2024-03-18</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-esxi-8-u1/</loc>
-  <lastmod>2024-03-15</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/cisco-anyconnect-4/</loc>
   <lastmod>2024-03-12</lastmod>
 </url>
@@ -3031,10 +3123,6 @@
 <url>
   <loc>https://sysin.org/blog/debian-10-ovf/</loc>
   <lastmod>2024-02-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-replication-8/</loc>
-  <lastmod>2024-02-09</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/pt-nad-ovf/</loc>
@@ -3111,14 +3199,6 @@
 <url>
   <loc>https://sysin.org/blog/gartner-magic-quadrant-sd-wan-2023/</loc>
   <lastmod>2023-11-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-client-session-timeout/</loc>
-  <lastmod>2023-11-05</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-esxi-host-client-session-timeout/</loc>
-  <lastmod>2023-11-05</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/windows-11-21h2/</loc>
@@ -3233,15 +3313,7 @@
   <lastmod>2023-03-17</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vcenter-8/</loc>
-  <lastmod>2023-02-15</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/how-to-get-vendorid-deviceid/</loc>
-  <lastmod>2023-02-09</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vrni-6/</loc>
   <lastmod>2023-02-09</lastmod>
 </url>
 <url>
@@ -3289,24 +3361,8 @@
   <lastmod>2022-12-20</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-workstation-16-unlocker-linux/</loc>
-  <lastmod>2022-12-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-workstation-16-unlocker-windows/</loc>
-  <lastmod>2022-12-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-workstation-16-unlocker/</loc>
-  <lastmod>2022-12-15</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-fusion-12-oem/</loc>
   <lastmod>2022-12-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion-12/</loc>
-  <lastmod>2022-12-14</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/studio-3t-2022/</loc>
@@ -3381,10 +3437,6 @@
   <lastmod>2022-10-09</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsan-6/</loc>
-  <lastmod>2022-10-07</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/debian-11-ovf/</loc>
   <lastmod>2022-09-12</lastmod>
 </url>
@@ -3451,10 +3503,6 @@
 <url>
   <loc>https://sysin.org/blog/infoblox-ddi-nios-8/</loc>
   <lastmod>2022-07-05</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcd-10/</loc>
-  <lastmod>2022-06-15</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/filemaker-19/</loc>
@@ -3533,10 +3581,6 @@
   <lastmod>2022-02-16</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vcf-4/</loc>
-  <lastmod>2022-02-14</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/cutefishos/</loc>
   <lastmod>2022-01-30</lastmod>
 </url>
@@ -3571,10 +3615,6 @@
 <url>
   <loc>https://sysin.org/blog/dns-caa/</loc>
   <lastmod>2021-12-08</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcda-4/</loc>
-  <lastmod>2021-11-27</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/tlsv1-3-support/</loc>
@@ -3693,10 +3733,6 @@
   <lastmod>2021-09-23</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vcenter-7-u2/</loc>
-  <lastmod>2021-09-22</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-esxi-7-u2/</loc>
   <lastmod>2021-09-15</lastmod>
 </url>
@@ -3761,10 +3797,6 @@
   <lastmod>2021-08-24</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-4/</loc>
-  <lastmod>2021-08-19</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/ncdu/</loc>
   <lastmod>2021-07-11</lastmod>
 </url>
@@ -3821,10 +3853,6 @@
   <lastmod>2021-05-16</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3-5/</loc>
-  <lastmod>2021-05-13</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/kind/</loc>
   <lastmod>2021-04-28</lastmod>
 </url>
@@ -3845,16 +3873,8 @@
   <lastmod>2021-03-23</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-3/</loc>
-  <lastmod>2021-03-13</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/f5os/</loc>
   <lastmod>2021-03-12</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-7-u2/</loc>
-  <lastmod>2021-03-11</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/smartmontools/</loc>
@@ -3879,10 +3899,6 @@
 <url>
   <loc>https://sysin.org/blog/go-vs-code/</loc>
   <lastmod>2021-02-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcenter-7-u1/</loc>
-  <lastmod>2021-02-03</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-esxi-7-u1/</loc>
@@ -3935,10 +3951,6 @@
 <url>
   <loc>https://sysin.org/blog/elastic-7/</loc>
   <lastmod>2020-11-12</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-bitfusion-2/</loc>
-  <lastmod>2020-11-09</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/veritas-netbackup-8/</loc>
@@ -4005,10 +4017,6 @@
   <lastmod>2020-08-12</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vrni-5/</loc>
-  <lastmod>2020-08-11</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/gartner-magic-quadrant-br-2020/</loc>
   <lastmod>2020-07-30</lastmod>
 </url>
@@ -4051,14 +4059,6 @@
 <url>
   <loc>https://sysin.org/blog/macos-catalina-if-crashes-when-opening/</loc>
   <lastmod>2020-05-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-7/</loc>
-  <lastmod>2020-04-03</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vcenter-7/</loc>
-  <lastmod>2020-04-03</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-esxi-7/</loc>
