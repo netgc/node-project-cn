@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/windows-admin-center/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/zerto-8/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/zerto-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/zabbix-6/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/zabbix-7/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/xenserver-8/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/wireshark-4/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsan-9/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/wps-for-mac-7/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/wps-for-mac-5/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/wps-for-mac-6/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/zabbix-6-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/zabbix-7-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/pt-nad-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/openwrt-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/macos-13-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/debian-13-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/debian-12-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/debian-11-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/debian-10-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/centos-8-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/centos-7-ovf/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-workstation-25/</loc>
   <lastmod>2026-08-06</lastmod>
 </url>
@@ -1953,10 +2041,6 @@
   <lastmod>2026-06-08</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/windows-admin-center/</loc>
-  <lastmod>2026-06-06</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-esxi-9/</loc>
   <lastmod>2026-06-05</lastmod>
 </url>
@@ -2061,10 +2145,6 @@
   <lastmod>2026-05-18</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/debian-13-ovf/</loc>
-  <lastmod>2026-05-17</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
   <lastmod>2026-05-16</lastmod>
 </url>
@@ -2117,10 +2197,6 @@
   <lastmod>2026-05-13</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsan-9/</loc>
-  <lastmod>2026-05-13</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/cisco-modeling-labs-2/</loc>
   <lastmod>2026-05-12</lastmod>
 </url>
@@ -2135,10 +2211,6 @@
 <url>
   <loc>https://sysin.org/blog/elastic-9/</loc>
   <lastmod>2026-05-06</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/wireshark-4/</loc>
-  <lastmod>2026-05-03</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-skyline-health-diagnostics/</loc>
@@ -2231,10 +2303,6 @@
 <url>
   <loc>https://sysin.org/blog/cisco-expressway-15/</loc>
   <lastmod>2026-04-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/centos-7-ovf/</loc>
-  <lastmod>2026-03-29</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/magnet-axiom-9/</loc>
@@ -2637,10 +2705,6 @@
   <lastmod>2025-06-10</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/wps-for-mac-7/</loc>
-  <lastmod>2025-06-05</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/devices-unsupported-in-esxi-9/</loc>
   <lastmod>2025-06-01</lastmod>
 </url>
@@ -2713,15 +2777,7 @@
   <lastmod>2025-03-07</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/zabbix-7-ovf/</loc>
-  <lastmod>2025-03-02</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/core-impact/</loc>
-  <lastmod>2025-02-09</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/openwrt-ovf/</loc>
   <lastmod>2025-02-09</lastmod>
 </url>
 <url>
@@ -2743,10 +2799,6 @@
 <url>
   <loc>https://sysin.org/blog/jamovi/</loc>
   <lastmod>2025-01-12</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/wps-for-mac-6/</loc>
-  <lastmod>2025-01-04</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/omnissa-access/</loc>
@@ -2811,10 +2863,6 @@
 <url>
   <loc>https://sysin.org/blog/jetbrains-writerside/</loc>
   <lastmod>2024-11-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/xenserver-8/</loc>
-  <lastmod>2024-11-12</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/virtuozzo-hybrid-server-9/</loc>
@@ -2997,10 +3045,6 @@
   <lastmod>2024-06-07</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/zabbix-7/</loc>
-  <lastmod>2024-06-06</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/syhunt-hybrid/</loc>
   <lastmod>2024-06-01</lastmod>
 </url>
@@ -3117,18 +3161,6 @@
   <lastmod>2024-02-16</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/debian-12-ovf/</loc>
-  <lastmod>2024-02-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/debian-10-ovf/</loc>
-  <lastmod>2024-02-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/pt-nad-ovf/</loc>
-  <lastmod>2024-02-01</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/how-to-change-file-date/</loc>
   <lastmod>2024-02-01</lastmod>
 </url>
@@ -3213,10 +3245,6 @@
   <lastmod>2023-10-08</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-13-ovf/</loc>
-  <lastmod>2023-10-08</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/adobe-cc-2024/</loc>
   <lastmod>2023-09-16</lastmod>
 </url>
@@ -3271,10 +3299,6 @@
 <url>
   <loc>https://sysin.org/blog/vmware-vio-7/</loc>
   <lastmod>2023-06-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/wps-for-mac-5/</loc>
-  <lastmod>2023-06-13</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/pfsence-2/</loc>
@@ -3437,10 +3461,6 @@
   <lastmod>2022-10-09</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/debian-11-ovf/</loc>
-  <lastmod>2022-09-12</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/disable-chrome-auto-update/</loc>
   <lastmod>2022-09-03</lastmod>
 </url>
@@ -3495,10 +3515,6 @@
 <url>
   <loc>https://sysin.org/blog/cisco-acisim-5/</loc>
   <lastmod>2022-07-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/zerto-9/</loc>
-  <lastmod>2022-07-14</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/infoblox-ddi-nios-8/</loc>
@@ -3569,14 +3585,6 @@
   <lastmod>2022-02-25</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/zabbix-6-ovf/</loc>
-  <lastmod>2022-02-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/zabbix-6/</loc>
-  <lastmod>2022-02-16</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/cisco-ios-xe-17/</loc>
   <lastmod>2022-02-16</lastmod>
 </url>
@@ -3627,10 +3635,6 @@
 <url>
   <loc>https://sysin.org/blog/centos-8-upgrade-kernel/</loc>
   <lastmod>2021-11-24</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/centos-8-ovf/</loc>
-  <lastmod>2021-11-23</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/rocky-linux-migrate-centos/</loc>
@@ -3887,10 +3891,6 @@
 <url>
   <loc>https://sysin.org/blog/exchange-patch/</loc>
   <lastmod>2021-03-07</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/zerto-8/</loc>
-  <lastmod>2021-03-05</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/linux-root/</loc>
