@@ -4,225 +4,225 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
     <pubDate>Wed, 12 Aug 2026 02:25:46 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>SQL Server Management Studio (SSMS) 22.9 - 微软数据库管理工具</title>
-      <link>https://sysin.cn/blog/ssms/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ssms/</guid>
+      <link>https://sysin.org/blog/ssms/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ssms/</guid>
       <pubDate>Wed, 12 Aug 2026 01:16:50 GMT</pubDate>
       <description>SSMS 22.9.0 新增连接管理、Azure SQL Database、Database DevOps、GitHub Copilot 和 SQL Formatter 等功能改进，并更新至 Visual Studio 18.9.0。</description>
     </item>
     <item>
       <title>Visual Studio 2026 Enterprise v18.9 - 适用于 Windows 上 .NET 和 C++ 开发人员的最全面 IDE</title>
-      <link>https://sysin.cn/blog/visual-studio-2026/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/visual-studio-2026/</guid>
+      <link>https://sysin.org/blog/visual-studio-2026/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/visual-studio-2026/</guid>
       <pubDate>Wed, 12 Aug 2026 01:16:26 GMT</pubDate>
       <description>2026 年 7 月 15 日，Microsoft 发布 Visual Studio 2026 v18.8，本次更新继续围绕 AI 辅助开发、IDE 性能、Git 工具链以及 .NET、C++ 等开发体验进行优化，同时修复了大量开发者反馈的问题，进一步提升了 Visual Studio 在大型项目开发和日常编码中的稳定性与生产力。</description>
     </item>
     <item>
       <title>Microsoft Office LTSC 2024 for Mac 16.112 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2024-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024-for-mac/</guid>
+      <link>https://sysin.org/blog/office-2024-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024-for-mac/</guid>
       <pubDate>Wed, 12 Aug 2026 01:16:24 GMT</pubDate>
       <description>Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</description>
     </item>
     <item>
       <title>Microsoft Office LTSC 2021 for Mac 16.112 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2021-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2021-for-mac/</guid>
+      <link>https://sysin.org/blog/office-2021-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2021-for-mac/</guid>
       <pubDate>Wed, 12 Aug 2026 01:16:21 GMT</pubDate>
       <description>Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</description>
     </item>
     <item>
       <title>Microsoft Office 2024 VL 16.0.17932.20910 中英文版 ISO 下载 (2026 年 8 月更新)</title>
-      <link>https://sysin.cn/blog/office-2024/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024/</guid>
+      <link>https://sysin.org/blog/office-2024/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024/</guid>
       <pubDate>Wed, 12 Aug 2026 01:05:27 GMT</pubDate>
       <description>Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</description>
     </item>
     <item>
       <title>Microsoft Office 2021 VL 16.0.14334.20848 中英文版 ISO 下载 (2026 年 8 月更新)</title>
-      <link>https://sysin.cn/blog/office-2021/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2021/</guid>
+      <link>https://sysin.org/blog/office-2021/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2021/</guid>
       <pubDate>Wed, 12 Aug 2026 01:05:22 GMT</pubDate>
       <description>Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</description>
     </item>
     <item>
       <title>Microsoft Office 2019 VL 16.0.10417.20848 中英文版 ISO 下载 (2026 年 8 月更新)</title>
-      <link>https://sysin.cn/blog/office-2019/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2019/</guid>
+      <link>https://sysin.org/blog/office-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2019/</guid>
       <pubDate>Wed, 12 Aug 2026 01:05:09 GMT</pubDate>
       <description>Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</description>
     </item>
     <item>
+      <title>如何创建可引导的 macOS 安装介质</title>
+      <link>https://sysin.org/blog/macos-createinstallmedia/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-createinstallmedia/</guid>
+      <pubDate>Tue, 11 Aug 2026 01:18:00 GMT</pubDate>
+      <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=rss" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></description>
+    </item>
+    <item>
       <title>Xcode 27 beta 5 (24A5408d) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-      <link>https://sysin.cn/blog/apple-xcode-27/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-xcode-27/</guid>
+      <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-xcode-27/</guid>
       <pubDate>Tue, 11 Aug 2026 01:17:36 GMT</pubDate>
       <description>​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 beta 5 (26A5406e) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
       <pubDate>Tue, 11 Aug 2026 01:16:36 GMT</pubDate>
       <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 beta 5 (26A5406e) ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
       <pubDate>Tue, 11 Aug 2026 01:16:26 GMT</pubDate>
       <description>macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</description>
     </item>
     <item>
       <title>Nexpose 8.54.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nexpose/</guid>
+      <link>https://sysin.org/blog/nexpose/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nexpose/</guid>
       <pubDate>Tue, 11 Aug 2026 01:01:05 GMT</pubDate>
       <description>Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</description>
     </item>
     <item>
       <title>Gitea Enterprise 26.4.5 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
-      <link>https://sysin.cn/blog/gitea/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/gitea/</guid>
+      <link>https://sysin.org/blog/gitea/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gitea/</guid>
       <pubDate>Mon, 10 Aug 2026 05:25:55 GMT</pubDate>
       <description>Gitea 是自托管 Git 服务的首要企业解决方案，Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</description>
     </item>
     <item>
       <title>HPE SPP 2026.07.00.00 - HPE 服务器固件、驱动程序和系统软件包</title>
-      <link>https://sysin.cn/blog/hpe-spp/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/hpe-spp/</guid>
+      <link>https://sysin.org/blog/hpe-spp/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/hpe-spp/</guid>
       <pubDate>Sat, 08 Aug 2026 01:07:06 GMT</pubDate>
       <description>HPE SPP 是慧与公司专为其 ProLiant 服务器系列提供的一个集成软件包。它包含了固件、驱动程序以及系统软件的集合，旨在帮助用户统一地更新和维护服务器环境。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.6.1 (25G76) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe-boot-iso/</guid>
       <pubDate>Fri, 07 Aug 2026 01:16:36 GMT</pubDate>
       <description>最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.6.1 (25G76) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe/</guid>
+      <link>https://sysin.org/blog/macos-tahoe/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe/</guid>
       <pubDate>Fri, 07 Aug 2026 01:16:26 GMT</pubDate>
       <description>macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.7.9 (24G830) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia-boot-iso/</guid>
       <pubDate>Fri, 07 Aug 2026 01:10:20 GMT</pubDate>
       <description>最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.7.9 (24G830) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia/</guid>
+      <link>https://sysin.org/blog/macos-sequoia/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia/</guid>
       <pubDate>Fri, 07 Aug 2026 01:10:10 GMT</pubDate>
       <description>macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</description>
     </item>
     <item>
       <title>macOS Sonoma 14.8.9 (23J631) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-sonoma-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sonoma-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-sonoma-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sonoma-boot-iso/</guid>
       <pubDate>Fri, 07 Aug 2026 01:09:20 GMT</pubDate>
       <description>最新版 macOS Sonoma 14 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Sonoma 14.8.9 (23J631) 正式版 ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-sonoma/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sonoma/</guid>
+      <link>https://sysin.org/blog/macos-sonoma/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sonoma/</guid>
       <pubDate>Fri, 07 Aug 2026 01:09:10 GMT</pubDate>
       <description>macOS Sonoma 隆重推出更多利用小组件进行个性化设置的方式、令人眼前一亮的全新屏幕保护、Safari 浏览器和视频会议的重大更新，以及经优化的游戏体验——Tim Cook 让 Mac 体验远胜以往。</description>
     </item>
     <item>
       <title>WPS Office for Mac 2026 秋季更新 12.1.26055 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps-for-mac/</guid>
+      <link>https://sysin.org/blog/wps-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps-for-mac/</guid>
       <pubDate>Fri, 07 Aug 2026 01:02:08 GMT</pubDate>
       <description>WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</description>
     </item>
     <item>
       <title>UTM 5.0.4 beta - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-      <link>https://sysin.cn/blog/utm-5/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/utm-5/</guid>
+      <link>https://sysin.org/blog/utm-5/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/utm-5/</guid>
       <pubDate>Thu, 06 Aug 2026 01:20:05 GMT</pubDate>
       <description>UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</description>
     </item>
     <item>
       <title>Proxmox VE on arm64 9.2 发布 - arm64 架构开源虚拟化管理平台</title>
-      <link>https://sysin.cn/blog/proxmox-ve-arm-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/proxmox-ve-arm-9/</guid>
+      <link>https://sysin.org/blog/proxmox-ve-arm-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/proxmox-ve-arm-9/</guid>
       <pubDate>Thu, 06 Aug 2026 01:08:00 GMT</pubDate>
       <description>面向 arm64 的 Proxmox VE 9.2 与 x86-64 版本共享相同的代码库、软件包仓库以及发布生命周期。该版本基于 Debian 13.5 “Trixie” 构建，默认采用稳定版 Linux 内核 7.0，并搭载相同版本的底层核心技术。</description>
     </item>
     <item>
       <title>Windows Server 2019 OVF (2026 年 8 月更新) - VMware 虚拟机模板</title>
-      <link>https://sysin.cn/blog/windows-server-2019-ovf/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2019-ovf/</guid>
+      <link>https://sysin.org/blog/windows-server-2019-ovf/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2019-ovf/</guid>
       <pubDate>Wed, 05 Aug 2026 01:09:18 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2019-ovf/?utm_source=rss" title="Windows Server 2019 OVF (2026 年 8 月更新) - VMware 虚拟机模板">Windows Server 2019 OVF (2026 年 8 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Windows Server 2019 中文版、英文版下载 (2026 年 8 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2019/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2019/</guid>
+      <link>https://sysin.org/blog/windows-server-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2019/</guid>
       <pubDate>Wed, 05 Aug 2026 01:09:16 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2019/?utm_source=rss" title="Windows Server 2019 中文版、英文版下载 (2026 年 8 月更新)">Windows Server 2019 中文版、英文版下载 (2026 年 8 月更新)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Windows Server 2016 OVF (2026 年 8 月更新) - VMware 虚拟机模板</title>
-      <link>https://sysin.cn/blog/windows-server-2016-ovf/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2016-ovf/</guid>
+      <link>https://sysin.org/blog/windows-server-2016-ovf/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2016-ovf/</guid>
       <pubDate>Wed, 05 Aug 2026 01:08:18 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2016-ovf/?utm_source=rss" title="Windows Server 2016 OVF (2026 年 8 月更新) - VMware 虚拟机模板">Windows Server 2016 OVF (2026 年 8 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Windows Server 2016 中文版、英文版下载 (2026 年 8 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2016/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2016/</guid>
+      <link>https://sysin.org/blog/windows-server-2016/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2016/</guid>
       <pubDate>Wed, 05 Aug 2026 01:08:16 GMT</pubDate>
       <description><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2016/?utm_source=rss" title="Windows Server 2016 中文版、英文版下载 (2026 年 8 月更新)">Windows Server 2016 中文版、英文版下载 (2026 年 8 月更新)</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Metasploit Pro 5.1.0-2026073001 (Linux, Windows) - 专业渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-pro-5/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/metasploit-pro-5/</guid>
+      <link>https://sysin.org/blog/metasploit-pro-5/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/metasploit-pro-5/</guid>
       <pubDate>Wed, 05 Aug 2026 01:05:50 GMT</pubDate>
       <description>Metasploit Pro 5.1 新增了适用于 HTTP Meterpreter Payload 的流量伪装（Evasion）能力、服务层级关系跟踪支持、更深入且交互性更强的网络拓扑视图，并持续推进现代化、一致性的用户界面体验。本次发布基于 Metasploit Framework 6.5。</description>
     </item>
     <item>
       <title>Tenable Nessus 10.12.3 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
-      <link>https://sysin.cn/blog/nessus-10/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-10/</guid>
+      <link>https://sysin.org/blog/nessus-10/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-10/</guid>
       <pubDate>Tue, 04 Aug 2026 01:21:00 GMT</pubDate>
       <description>Tenable Nessus 是领先的漏洞扫描与安全评估平台，提供全面的漏洞检测、配置审计和风险分析能力，帮助企业及时发现并修复安全风险。</description>
     </item>
     <item>
       <title>AppSpider 7.5.028 for Windows - Web 应用程序安全测试</title>
-      <link>https://sysin.cn/blog/appspider/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/appspider/</guid>
+      <link>https://sysin.org/blog/appspider/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/appspider/</guid>
       <pubDate>Tue, 04 Aug 2026 01:10:09 GMT</pubDate>
       <description>AppSpider 是 Rapid7 推出的动态应用安全测试（DAST）平台，支持 Web 应用和 API 自动化漏洞扫描，可检测 SQL 注入、跨站脚本（XSS）等安全问题，并生成详细修复建议，帮助企业持续提升应用安全防护能力。</description>
-    </item>
-    <item>
-      <title>vCenter Server 8.0U3k OVF - 在 Fusion 和 Workstation 中快速部署 vCSA</title>
-      <link>https://sysin.cn/blog/vmware-vcenter-8-ovf/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-vcenter-8-ovf/</guid>
-      <pubDate>Mon, 03 Aug 2026 01:18:09 GMT</pubDate>
-      <description>本站定制 vCenter Server 8.0U3 系列 OVF，适用于 VMware Fusion 和 Workstation，也可以用于 ESXi，可通过简单直观的提示快速部署 vSphere 环境。</description>
     </item>
   </channel>
 </rss>
