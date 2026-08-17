@@ -1,7 +1,7 @@
+https://sysin.org/blog/arista-eos/
 https://sysin.org/blog/arista-veos/
 https://sysin.org/blog/arista-cloudeos/
 https://sysin.org/blog/arista-ceos/
-https://sysin.org/blog/arista-eos/
 https://sysin.org/blog/metasploit-framework-6/
 https://sysin.org/blog/apple-logic-pro/
 https://sysin.org/blog/cisco-jabber-15/

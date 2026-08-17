@@ -12,14 +12,14 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Mon, 17 Aug 2026 06:53:07 GMT</pubDate>
+    <pubDate>Mon, 17 Aug 2026 06:58:09 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>Arista EOS 4.36.2F 发布 - 适用于下一代数据中心和云网络的可扩展操作系统</title>
       <link>https://sysin.org/blog/arista-eos/?utm_source=rss</link>
       <guid>https://sysin.org/blog/arista-eos/</guid>
       <pubDate>Mon, 17 Aug 2026 01:12:01 GMT</pubDate>
-      <description>Arista EOS 是一个完全可编程且高度模块化的基于 Linux 的网络操作系统，使用熟悉的行业标准 CLI，并在 Arista 交换系列中运行单个二进制软件映像</description>
+      <description>Arista EOS 是一个完全可编程且高度模块化的基于 Linux 的网络操作系统，使用熟悉的行业标准 CLI，并在 Arista 交换系列中运行单个二进制软件映像。</description>
     </item>
     <item>
       <title>Metasploit Framework 6.5.2 - 开源渗透测试框架</title>
