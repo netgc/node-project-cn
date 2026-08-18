@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
-  <link href="https://sysin.org/atom.xml" rel="self"/>
-  <link href="https://sysin.org/"/>
+  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
+  <link href="https://sysin.cn/atom.xml" rel="self"/>
+  <link href="https://sysin.cn/"/>
   <updated>2026-08-18T00:38:48.526Z</updated>
-  <id>https://sysin.org/</id>
+  <id>https://sysin.cn/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>macOS Golden Gate 27.0 beta 6 (26A5416b) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-08-18T00:16:36.000Z</published>
     <updated>2026-08-18T00:38:48.526Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.6.2 (25G83) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
     <published>2026-08-18T00:16:36.000Z</published>
     <updated>2026-08-18T00:38:48.500Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 beta 6 (26A5416b) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate/</id>
+    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-golden-gate/</id>
     <published>2026-08-18T00:16:26.000Z</published>
     <updated>2026-08-18T00:38:48.526Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.6.2 (25G83) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-tahoe/</id>
+    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-tahoe/</id>
     <published>2026-08-18T00:16:26.000Z</published>
-    <updated>2026-08-18T00:40:29.454Z</updated>
+    <updated>2026-08-18T00:45:17.005Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
     <title>Arista EOS 4.36.2F 发布 - 适用于下一代数据中心和云网络的可扩展操作系统</title>
-    <link href="https://sysin.org/blog/arista-eos/?utm_source=atom"/>
-    <id>https://sysin.org/blog/arista-eos/</id>
+    <link href="https://sysin.cn/blog/arista-eos/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/arista-eos/</id>
     <published>2026-08-17T01:12:01.000Z</published>
     <updated>2026-08-17T06:58:09.937Z</updated>
     <summary type="html">Arista EOS 是一个完全可编程且高度模块化的基于 Linux 的网络操作系统，使用熟悉的行业标准 CLI，并在 Arista 交换系列中运行单个二进制软件映像。</summary>
   </entry>
   <entry>
     <title>Metasploit Framework 6.5.2 - 开源渗透测试框架</title>
-    <link href="https://sysin.org/blog/metasploit-framework-6/?utm_source=atom"/>
-    <id>https://sysin.org/blog/metasploit-framework-6/</id>
+    <link href="https://sysin.cn/blog/metasploit-framework-6/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/metasploit-framework-6/</id>
     <published>2026-08-16T01:21:00.000Z</published>
     <updated>2026-08-16T02:12:58.762Z</updated>
     <summary type="html">Metasploit 6.5 代表了该框架的一次重要演进，旨在提升现代安全测试中的易用性和真实性。从用户长期期待的 Malleable C2 Profiles 集成、全新的 MCP Server，到高级 NTLM Relay、增强版 Fetch Payload 工具，以及 MITRE ATT&amp;CK 标签引入，以支持越来越复杂和自动化的安全测试流程。</summary>
   </entry>
   <entry>
     <title>VMware vCenter Server 9.1.0.0300 - 集中管理 vSphere 环境</title>
-    <link href="https://sysin.org/blog/vmware-vcenter-9/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-vcenter-9/</id>
+    <link href="https://sysin.cn/blog/vmware-vcenter-9/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/vmware-vcenter-9/</id>
     <published>2026-08-15T05:09:18.000Z</published>
     <updated>2026-08-15T02:49:09.973Z</updated>
     <summary type="html">VMware vCenter Server 9.1 是高级服务器管理软件，提供了一个集中式平台来控制您的 VMware vSphere 环境，使您可以充满信心地在整个混合云中自动部署并交付虚拟基础架构。</summary>
   </entry>
   <entry>
     <title>Apache NetBeans 31 (macOS, Linux, Windows) - Java 等多语言开源 IDE</title>
-    <link href="https://sysin.org/blog/netbeans/?utm_source=atom"/>
-    <id>https://sysin.org/blog/netbeans/</id>
+    <link href="https://sysin.cn/blog/netbeans/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/netbeans/</id>
     <published>2026-08-15T01:19:50.000Z</published>
     <updated>2026-08-15T02:50:43.387Z</updated>
     <summary type="html">Apache NetBeans 是开源集成开发环境（IDE）与开发平台，支持 Java、JavaScript、PHP、HTML5、CSS、C/C++，提供代码编辑、重构、调试及 Maven、Gradle 等开发工具。</summary>
   </entry>
   <entry>
     <title>Cisco Jabber 15.3(0) (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具</title>
-    <link href="https://sysin.org/blog/cisco-jabber-15/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-jabber-15/</id>
+    <link href="https://sysin.cn/blog/cisco-jabber-15/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/cisco-jabber-15/</id>
     <published>2026-08-15T01:19:35.000Z</published>
     <updated>2026-08-15T02:51:33.832Z</updated>
     <summary type="html">Cisco Jabber 15 基于统一通信客户端架构，新增 TLS 1.3、LDAP Channel Binding、Exchange Extended Protection 及 WCAG 2.1 无障碍支持，并支持 Android 15、macOS Sequoia 15 和新一代 VDI 平台，同时增强 Webex Meetings 集成。</summary>
   </entry>
   <entry>
     <title>Cisco ACI Simulator 6.2(2e)F | 6.1(5e)M | 6.0(9c)M - ACI 模拟器</title>
-    <link href="https://sysin.org/blog/cisco-acisim-6/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-acisim-6/</id>
+    <link href="https://sysin.cn/blog/cisco-acisim-6/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/cisco-acisim-6/</id>
     <published>2026-08-15T01:13:18.000Z</published>
     <updated>2026-08-15T02:36:43.255Z</updated>
     <summary type="html">Cisco ACI Simulator 是 Cisco ACI 架构的虚拟实验平台，用于模拟 APIC 控制器和数据中心 Fabric，支持 ACI 策略配置、网络自动化、API 集成及部署验证，无需真实硬件即可进行 ACI 学习和测试。</summary>
   </entry>
   <entry>
     <title>VMware Avi Load Balancer 31.2.3 - 多云负载均衡平台</title>
-    <link href="https://sysin.org/blog/vmware-avi-load-balancer-31/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-avi-load-balancer-31/</id>
+    <link href="https://sysin.cn/blog/vmware-avi-load-balancer-31/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/vmware-avi-load-balancer-31/</id>
     <published>2026-08-15T01:11:00.000Z</published>
     <updated>2026-08-15T02:41:11.014Z</updated>
     <summary type="html">VMware Avi Load Balancer 31 是新一代软件定义应用交付平台，支持虚拟机、容器、裸机和多云环境，通过智能负载均衡、自动化配置、应用可观测性和安全能力。</summary>
   </entry>
   <entry>
     <title>Cisco Identity Services Engine (ISE) 3.5 P3 - 基于身份的网络访问控制和策略实施系统</title>
-    <link href="https://sysin.org/blog/cisco-ise-3/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-ise-3/</id>
+    <link href="https://sysin.cn/blog/cisco-ise-3/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/cisco-ise-3/</id>
     <published>2026-08-15T01:09:58.000Z</published>
     <updated>2026-08-15T02:37:37.588Z</updated>
     <summary type="html">Cisco ISE 3.5 新增单栈 IPv6、Entra ID 终端授权、SNMP Profiling、Cloud Multi-Factor Classification Profiler、TACACS+ over TLS 和 FIPS 140-3 支持，并增强 pxGrid API、TrustSec 与终端 Profiling。</summary>
   </entry>
   <entry>
     <title>VMware NSX 9.1.0.0200 - 新一代网络安全虚拟化平台</title>
-    <link href="https://sysin.org/blog/vmware-nsx-9/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-nsx-9/</id>
+    <link href="https://sysin.cn/blog/vmware-nsx-9/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/vmware-nsx-9/</id>
     <published>2026-08-15T01:09:08.000Z</published>
     <updated>2026-08-15T02:49:34.564Z</updated>
     <summary type="html">VMware NSX 9 是面向现代私有云的数据中心网络与安全平台，通过软件定义网络、微分段、安全策略和自动化运维能力，为 VMware Cloud Foundation 环境提供高性能、可扩展的网络虚拟化与安全防护。</summary>
   </entry>
   <entry>
     <title>Windows Server 2019 中文版、英文版下载 (2026 年 8 月更新)</title>
-    <link href="https://sysin.org/blog/windows-server-2019/?utm_source=atom"/>
-    <id>https://sysin.org/blog/windows-server-2019/</id>
+    <link href="https://sysin.cn/blog/windows-server-2019/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/windows-server-2019/</id>
     <published>2026-08-15T01:08:19.000Z</published>
     <updated>2026-08-15T02:45:36.571Z</updated>
     <summary type="html">Windows Server 2019 新增 Windows Admin Center、Storage Migration Service、System Insights、ReFS 重复数据删除、Storage Replica 测试故障转移、WSL 及容器等功能。</summary>
   </entry>
   <entry>
     <title>Windows Server 2016 中文版、英文版下载 (2026 年 8 月更新)</title>
-    <link href="https://sysin.org/blog/windows-server-2016/?utm_source=atom"/>
-    <id>https://sysin.org/blog/windows-server-2016/</id>
+    <link href="https://sysin.cn/blog/windows-server-2016/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/windows-server-2016/</id>
     <published>2026-08-15T01:08:16.000Z</published>
     <updated>2026-08-15T02:43:09.338Z</updated>
     <summary type="html">Windows Server 2016 引入 Nano Server、Windows Server 容器与 Hyper-V 容器、受防护虚拟机（Shielded VMs）、嵌套虚拟化、生产检查点及软件定义网络（SDN）等新功能，并增强 Hyper-V 虚拟化、安全防护、存储与计算弹性。</summary>
   </entry>
   <entry>
     <title>Cisco Expressway Release X15.5.2 - 统一通信网关</title>
-    <link href="https://sysin.org/blog/cisco-expressway-15/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-expressway-15/</id>
+    <link href="https://sysin.cn/blog/cisco-expressway-15/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/cisco-expressway-15/</id>
     <published>2026-08-15T01:05:56.000Z</published>
     <updated>2026-08-15T02:37:01.997Z</updated>
     <summary type="html">Cisco Expressway X15 新增 LDAP TLS 非标准端口支持、Webex Unified CM Calling 与 Refresh Token 自动刷新，增强 CSRF 防护、WebRTC 会话统计及 TLS 加密安全能力。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2025 RTM CU8 (2026 年 8 月累积更新)</title>
-    <link href="https://sysin.org/blog/sql-server-2025/?utm_source=atom"/>
-    <id>https://sysin.org/blog/sql-server-2025/</id>
+    <link href="https://sysin.cn/blog/sql-server-2025/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/sql-server-2025/</id>
     <published>2026-08-14T05:06:25.000Z</published>
     <updated>2026-08-14T07:43:24.159Z</updated>
     <summary type="html">SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</summary>
   </entry>
   <entry>
     <title>Microsoft Exchange Server SE RTM (August 2026 SU9) - 本地部署的企业级电子邮件解决方案</title>
-    <link href="https://sysin.org/blog/exchange-server-se/?utm_source=atom"/>
-    <id>https://sysin.org/blog/exchange-server-se/</id>
+    <link href="https://sysin.cn/blog/exchange-server-se/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/exchange-server-se/</id>
     <published>2026-08-14T05:01:10.000Z</published>
     <updated>2026-08-15T01:13:54.855Z</updated>
     <summary type="html">Exchange Server SE 是 Microsoft 面向订阅模式推出的新一代 Exchange Server，提供本地部署的企业邮件、日历、联系人及协作服务，并采用持续更新的产品生命周期模式。</summary>
   </entry>
   <entry>
     <title>SonicWall SMA 8200v 12.5.0 - 远程访问解决方案</title>
-    <link href="https://sysin.org/blog/sonicwall-sma/?utm_source=atom"/>
-    <id>https://sysin.org/blog/sonicwall-sma/</id>
+    <link href="https://sysin.cn/blog/sonicwall-sma/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/sonicwall-sma/</id>
     <published>2026-08-14T01:12:00.000Z</published>
     <updated>2026-08-14T03:44:30.906Z</updated>
     <summary type="html">SonicWall SMAv 是基于虚拟化架构的安全远程访问解决方案，提供 VPN、零信任访问和多因素身份验证，支持企业安全访问内部应用与网络资源。</summary>
   </entry>
   <entry>
     <title>Palo Alto PAN-OS 11.2.5 VM-Series PreLicensed 全功能试用版 (包含 TP URL WF 等高级许可)</title>
-    <link href="https://sysin.org/blog/pan-os-11-vm/?utm_source=atom"/>
-    <id>https://sysin.org/blog/pan-os-11-vm/</id>
+    <link href="https://sysin.cn/blog/pan-os-11-vm/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/pan-os-11-vm/</id>
     <published>2026-08-14T01:10:00.000Z</published>
     <updated>2026-08-14T07:43:22.269Z</updated>
     <summary type="html">PAN-OS 11.2 VM-Series 虚拟下一代防火墙，面向云计算、虚拟化和数据中心环境，提供应用识别、威胁防护、网络分段及安全策略控制，并支持 vSYS 与 NVIDIA BlueField DPU 流量卸载。</summary>
   </entry>
   <entry>
     <title>HPE OneView 11.4 - HPE 服务器、存储和网络设备集中管理软件</title>
-    <link href="https://sysin.org/blog/hpe-oneview/?utm_source=atom"/>
-    <id>https://sysin.org/blog/hpe-oneview/</id>
+    <link href="https://sysin.cn/blog/hpe-oneview/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/hpe-oneview/</id>
     <published>2026-08-13T01:18:36.000Z</published>
     <updated>2026-08-15T00:51:10.718Z</updated>
     <summary type="html">HPE OneView 是一款集成式 IT 基础设施管理软件，可实现 IT 运维自动化，简化了涵盖计算、存储和网络的基础设施生命周期管理。</summary>
   </entry>
   <entry>
     <title>SQL Server Management Studio (SSMS) 22.9 - 微软数据库管理工具</title>
-    <link href="https://sysin.org/blog/ssms/?utm_source=atom"/>
-    <id>https://sysin.org/blog/ssms/</id>
+    <link href="https://sysin.cn/blog/ssms/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/ssms/</id>
     <published>2026-08-12T01:16:50.000Z</published>
     <updated>2026-08-12T02:25:46.749Z</updated>
     <summary type="html">SSMS 22.9.0 新增连接管理、Azure SQL Database、Database DevOps、GitHub Copilot 和 SQL Formatter 等功能改进，并更新至 Visual Studio 18.9.0。</summary>
   </entry>
   <entry>
     <title>Visual Studio 2026 Enterprise v18.9 - 适用于 Windows 上 .NET 和 C++ 开发人员的最全面 IDE</title>
-    <link href="https://sysin.org/blog/visual-studio-2026/?utm_source=atom"/>
-    <id>https://sysin.org/blog/visual-studio-2026/</id>
+    <link href="https://sysin.cn/blog/visual-studio-2026/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/visual-studio-2026/</id>
     <published>2026-08-12T01:16:26.000Z</published>
     <updated>2026-08-12T08:24:23.296Z</updated>
     <summary type="html">Visual Studio 2026 v18.9 发布，新增 GitHub Copilot 模型思考强度、自定义 Agent 和代码审查功能，并增强 Git Submodule、Worktree、Pull Request 与多文件 Diff 支持。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2024 for Mac 16.112 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.org/blog/office-2024-for-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2024-for-mac/</id>
+    <link href="https://sysin.cn/blog/office-2024-for-mac/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2024-for-mac/</id>
     <published>2026-08-12T01:16:24.000Z</published>
     <updated>2026-08-12T01:54:43.874Z</updated>
     <summary type="html">Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2021 for Mac 16.112 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.org/blog/office-2021-for-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2021-for-mac/</id>
+    <link href="https://sysin.cn/blog/office-2021-for-mac/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2021-for-mac/</id>
     <published>2026-08-12T01:16:21.000Z</published>
     <updated>2026-08-12T01:55:04.281Z</updated>
     <summary type="html">Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2024 VL 16.0.17932.20910 中英文版 ISO 下载 (2026 年 8 月更新)</title>
-    <link href="https://sysin.org/blog/office-2024/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2024/</id>
+    <link href="https://sysin.cn/blog/office-2024/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2024/</id>
     <published>2026-08-12T01:05:27.000Z</published>
     <updated>2026-08-12T01:53:43.407Z</updated>
     <summary type="html">Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2021 VL 16.0.14334.20848 中英文版 ISO 下载 (2026 年 8 月更新)</title>
-    <link href="https://sysin.org/blog/office-2021/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2021/</id>
+    <link href="https://sysin.cn/blog/office-2021/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2021/</id>
     <published>2026-08-12T01:05:22.000Z</published>
     <updated>2026-08-12T01:58:48.813Z</updated>
     <summary type="html">Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2019 VL 16.0.10417.20848 中英文版 ISO 下载 (2026 年 8 月更新)</title>
-    <link href="https://sysin.org/blog/office-2019/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2019/</id>
+    <link href="https://sysin.cn/blog/office-2019/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2019/</id>
     <published>2026-08-12T01:05:09.000Z</published>
     <updated>2026-08-12T01:58:38.304Z</updated>
     <summary type="html">Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</summary>
   </entry>
   <entry>
     <title>如何创建可引导的 macOS 安装介质</title>
-    <link href="https://sysin.org/blog/macos-createinstallmedia/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-createinstallmedia/</id>
+    <link href="https://sysin.cn/blog/macos-createinstallmedia/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-createinstallmedia/</id>
     <published>2026-08-11T01:18:00.000Z</published>
     <updated>2026-08-12T03:11:13.447Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=atom" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Xcode 27 beta 5 (24A5408d) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
-    <id>https://sysin.org/blog/apple-xcode-27/</id>
+    <link href="https://sysin.cn/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/apple-xcode-27/</id>
     <published>2026-08-11T01:17:36.000Z</published>
     <updated>2026-08-11T01:39:23.405Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
