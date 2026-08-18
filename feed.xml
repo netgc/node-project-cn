@@ -12,8 +12,15 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Tue, 18 Aug 2026 01:09:19 GMT</pubDate>
+    <pubDate>Tue, 18 Aug 2026 07:03:45 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>如何创建可引导的 macOS 安装介质</title>
+      <link>https://sysin.org/blog/macos-createinstallmedia/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-createinstallmedia/</guid>
+      <pubDate>Tue, 18 Aug 2026 01:18:00 GMT</pubDate>
+      <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=rss" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></description>
+    </item>
     <item>
       <title>macOS Golden Gate 27.0 beta 6 (26A5416b) Boot ISO 原版可引导映像下载</title>
       <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
@@ -209,13 +216,6 @@
       <guid>https://sysin.org/blog/office-2019/</guid>
       <pubDate>Wed, 12 Aug 2026 01:05:09 GMT</pubDate>
       <description>Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</description>
-    </item>
-    <item>
-      <title>如何创建可引导的 macOS 安装介质</title>
-      <link>https://sysin.org/blog/macos-createinstallmedia/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/macos-createinstallmedia/</guid>
-      <pubDate>Tue, 11 Aug 2026 01:18:00 GMT</pubDate>
-      <description><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=rss" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Xcode 27 beta 5 (24A5408d) 发布 - 全新智能框架与先进工具为 App 开发提速</title>

@@ -3,12 +3,20 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-08-18T01:09:19.784Z</updated>
+  <updated>2026-08-18T07:03:45.844Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>如何创建可引导的 macOS 安装介质</title>
+    <link href="https://sysin.org/blog/macos-createinstallmedia/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-createinstallmedia/</id>
+    <published>2026-08-18T01:18:00.000Z</published>
+    <updated>2026-08-18T07:03:45.844Z</updated>
+    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=atom" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></summary>
+  </entry>
   <entry>
     <title>macOS Golden Gate 27.0 beta 6 (26A5416b) Boot ISO 原版可引导映像下载</title>
     <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
@@ -232,14 +240,6 @@
     <published>2026-08-12T01:05:09.000Z</published>
     <updated>2026-08-12T01:58:38.304Z</updated>
     <summary type="html">Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</summary>
-  </entry>
-  <entry>
-    <title>如何创建可引导的 macOS 安装介质</title>
-    <link href="https://sysin.org/blog/macos-createinstallmedia/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-createinstallmedia/</id>
-    <published>2026-08-11T01:18:00.000Z</published>
-    <updated>2026-08-12T03:11:13.447Z</updated>
-    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=atom" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Xcode 27 beta 5 (24A5408d) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
