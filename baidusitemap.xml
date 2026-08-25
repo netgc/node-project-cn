@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/burp-suite-pro-win/</loc>
+    <lastmod>2026-08-25</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-sd-wan-26/</loc>
+    <lastmod>2026-08-25</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
+    <lastmod>2026-08-25</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/apple-xcode-27/</loc>
     <lastmod>2026-08-25</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/nexpose/</loc>
-    <lastmod>2026-08-25</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-sd-wan-26/</loc>
     <lastmod>2026-08-25</lastmod>
   </url>
   <url>
@@ -34,10 +42,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/burp-suite-pro-mac/</loc>
-    <lastmod>2026-08-25</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/burp-suite-pro-win/</loc>
     <lastmod>2026-08-25</lastmod>
   </url>
   <url>
@@ -925,10 +929,6 @@
     <lastmod>2026-05-20</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
-    <lastmod>2026-05-18</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/debian-13-ovf/</loc>
     <lastmod>2026-05-17</lastmod>
   </url>
@@ -1709,11 +1709,11 @@
     <lastmod>2025-08-21</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
+    <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
     <lastmod>2025-08-20</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
+    <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
     <lastmod>2025-08-20</lastmod>
   </url>
   <url>

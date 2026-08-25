@@ -1,13 +1,14 @@
+https://sysin.org/blog/burp-suite-pro-win/
+https://sysin.org/blog/cisco-sd-wan-26/
+https://sysin.org/blog/cisco-isr-1000/
 https://sysin.org/blog/apple-xcode-27/
 https://sysin.org/blog/nexpose/
-https://sysin.org/blog/cisco-sd-wan-26/
 https://sysin.org/blog/cisco-sd-wan-20/
 https://sysin.org/blog/pan-os-12-vm/
 https://sysin.org/blog/pan-os-12/
 https://sysin.org/blog/pan-os-11-vm/
 https://sysin.org/blog/pan-os-11/
 https://sysin.org/blog/burp-suite-pro-mac/
-https://sysin.org/blog/burp-suite-pro-win/
 https://sysin.org/blog/burp-suite/
 https://sysin.org/blog/burp-suite-pro/
 https://sysin.org/blog/macos-createinstallmedia/
@@ -17,4 +18,3 @@ https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/
 https://sysin.org/blog/gartner-magic-quadrant-esp-2026/
 https://sysin.org/blog/cisco-nexus-9000v/
 https://sysin.org/blog/adobe-acrobat/
-https://sysin.org/blog/windows-11/
