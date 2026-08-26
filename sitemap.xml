@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://sysin.org/blog/apple-xcode-27/</loc>
+  <loc>https://sysin.org/blog/omnissa-unified-access-gateway/</loc>
   <lastmod>2026-08-26</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
+  <loc>https://sysin.org/blog/omnissa-os-optimization-tool/</loc>
   <lastmod>2026-08-26</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-golden-gate/</loc>
+  <loc>https://sysin.org/blog/omnissa-dynamic-environment-manager/</loc>
+  <lastmod>2026-08-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-app-volumes/</loc>
+  <lastmod>2026-08-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-access/</loc>
+  <lastmod>2026-08-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-secure-email-gateway/</loc>
+  <lastmod>2026-08-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-thinapp/</loc>
+  <lastmod>2026-08-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-horizon-8-2606/</loc>
   <lastmod>2026-08-26</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/omnissa-horizon-8/</loc>
+  <lastmod>2026-08-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/burp-suite-pro-mac/</loc>
   <lastmod>2026-08-25</lastmod>
 </url>
 <url>
@@ -21,39 +45,7 @@
   <lastmod>2026-08-25</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/cisco-sd-wan-26/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/nexpose/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-sd-wan-20/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/pan-os-12-vm/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/pan-os-12/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/pan-os-11-vm/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/pan-os-11/</loc>
-  <lastmod>2026-08-25</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/burp-suite-pro-mac/</loc>
+  <loc>https://sysin.org/blog/burp-suite-pro/</loc>
   <lastmod>2026-08-25</lastmod>
 </url>
 <url>
@@ -61,11 +53,15 @@
   <lastmod>2026-08-25</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/burp-suite-pro/</loc>
+  <loc>https://sysin.org/blog/apple-xcode-27/</loc>
   <lastmod>2026-08-25</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
+  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
+  <lastmod>2026-08-25</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/macos-golden-gate/</loc>
   <lastmod>2026-08-25</lastmod>
 </url>
 <url>
@@ -74,38 +70,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/gartner-magic-quadrant-esp-2026/</loc>
-  <lastmod>2026-08-24</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-nexus-9000v/</loc>
-  <lastmod>2026-08-24</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-acrobat/</loc>
-  <lastmod>2026-08-24</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-11/</loc>
-  <lastmod>2026-08-24</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
-  <lastmod>2026-08-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-server-2025/</loc>
-  <lastmod>2026-08-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
-  <lastmod>2026-08-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-server-2022/</loc>
-  <lastmod>2026-08-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-11-no-tpm/</loc>
   <lastmod>2026-08-23</lastmod>
 </url>
 <url>
@@ -117,7 +81,15 @@
   <lastmod>2026-08-20</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/cisco-nexus-9000v/</loc>
+  <lastmod>2026-08-20</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/cisco-nexus-9000/</loc>
+  <lastmod>2026-08-20</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/nexpose/</loc>
   <lastmod>2026-08-20</lastmod>
 </url>
 <url>
@@ -149,6 +121,10 @@
   <lastmod>2026-08-19</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/macos-createinstallmedia/</loc>
+  <lastmod>2026-08-18</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/macos-tahoe-boot-iso/</loc>
   <lastmod>2026-08-18</lastmod>
 </url>
@@ -177,11 +153,35 @@
   <lastmod>2026-08-15</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-server-2025/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
   <lastmod>2026-08-15</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-server-2022/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-11-no-tpm/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-avi-load-balancer-31/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-11/</loc>
   <lastmod>2026-08-15</lastmod>
 </url>
 <url>
@@ -301,8 +301,20 @@
   <lastmod>2026-08-06</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/cisco-sd-wan-26/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cisco-sd-wan-20/</loc>
+  <lastmod>2026-08-06</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/proxmox-ve-arm-9/</loc>
   <lastmod>2026-08-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
+  <lastmod>2026-08-05</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
@@ -353,7 +365,15 @@
   <lastmod>2026-08-02</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/adobe-acrobat/</loc>
+  <lastmod>2026-08-02</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/wing-pro/</loc>
+  <lastmod>2026-08-02</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/pan-os-12-vm/</loc>
   <lastmod>2026-08-02</lastmod>
 </url>
 <url>
@@ -362,6 +382,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/qt-creator/</loc>
+  <lastmod>2026-08-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/pan-os-11-vm/</loc>
   <lastmod>2026-08-01</lastmod>
 </url>
 <url>
@@ -430,10 +454,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/magnet-axiom-10/</loc>
-  <lastmod>2026-07-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-app-volumes/</loc>
   <lastmod>2026-07-29</lastmod>
 </url>
 <url>
@@ -837,6 +857,10 @@
   <lastmod>2026-06-01</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/pan-os-12/</loc>
+  <lastmod>2026-05-30</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-vcf-installer-9/</loc>
   <lastmod>2026-05-30</lastmod>
 </url>
@@ -1153,22 +1177,6 @@
   <lastmod>2026-04-18</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/omnissa-unified-access-gateway/</loc>
-  <lastmod>2026-04-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-thinapp/</loc>
-  <lastmod>2026-04-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-os-optimization-tool/</loc>
-  <lastmod>2026-04-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-dynamic-environment-manager/</loc>
-  <lastmod>2026-04-15</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/omnissa-horizon-8-2603/</loc>
   <lastmod>2026-04-14</lastmod>
 </url>
@@ -1179,10 +1187,6 @@
 <url>
   <loc>https://sysin.org/blog/apple-silicon-mac-dfu/</loc>
   <lastmod>2026-04-11</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-secure-email-gateway/</loc>
-  <lastmod>2026-04-10</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/pixelmator-pro-3/</loc>
@@ -1717,6 +1721,10 @@
   <lastmod>2025-08-25</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/pan-os-11/</loc>
+  <lastmod>2025-08-23</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/ej-technologies-jprofiler/</loc>
   <lastmod>2025-08-21</lastmod>
 </url>
@@ -2099,10 +2107,6 @@
 <url>
   <loc>https://sysin.org/blog/wps-for-mac-6/</loc>
   <lastmod>2025-01-04</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-access/</loc>
-  <lastmod>2024-12-28</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/cellebrite-inseyets/</loc>

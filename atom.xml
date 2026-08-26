@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-08-25T01:33:17.148Z</updated>
+  <updated>2026-08-25T01:07:18.000Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/burp-suite-pro-mac/?utm_source=atom"/>
     <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
     <published>2026-08-25T01:07:18.000Z</published>
-    <updated>2026-08-25T01:33:17.148Z</updated>
+    <updated>2026-08-25T01:07:18.000Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
@@ -22,7 +22,7 @@
     <link href="https://sysin.org/blog/burp-suite-pro-win/?utm_source=atom"/>
     <id>https://sysin.org/blog/burp-suite-pro-win/</id>
     <published>2026-08-25T01:07:15.000Z</published>
-    <updated>2026-08-25T06:58:03.936Z</updated>
+    <updated>2026-08-25T01:07:15.000Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
@@ -30,7 +30,7 @@
     <link href="https://sysin.org/blog/burp-suite-pro/?utm_source=atom"/>
     <id>https://sysin.org/blog/burp-suite-pro/</id>
     <published>2026-08-25T01:07:12.000Z</published>
-    <updated>2026-08-25T01:31:45.955Z</updated>
+    <updated>2026-08-25T01:07:12.000Z</updated>
     <summary type="html">Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</summary>
   </entry>
   <entry>
@@ -38,7 +38,7 @@
     <link href="https://sysin.org/blog/burp-suite/?utm_source=atom"/>
     <id>https://sysin.org/blog/burp-suite/</id>
     <published>2026-08-25T01:07:10.000Z</published>
-    <updated>2026-08-25T01:31:47.405Z</updated>
+    <updated>2026-08-25T01:07:10.000Z</updated>
     <summary type="html">Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</summary>
   </entry>
   <entry>
@@ -46,7 +46,7 @@
     <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
     <id>https://sysin.org/blog/apple-xcode-27/</id>
     <published>2026-08-25T00:17:36.000Z</published>
-    <updated>2026-08-26T01:28:18.610Z</updated>
+    <updated>2026-08-25T00:17:36.000Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
   </entry>
   <entry>
@@ -54,7 +54,7 @@
     <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-08-25T00:17:36.000Z</published>
-    <updated>2026-08-26T01:26:40.421Z</updated>
+    <updated>2026-08-25T00:17:36.000Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
@@ -62,7 +62,7 @@
     <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-08-25T00:17:26.000Z</published>
-    <updated>2026-08-26T01:26:36.528Z</updated>
+    <updated>2026-08-25T00:17:26.000Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
@@ -70,15 +70,23 @@
     <link href="https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/?utm_source=atom"/>
     <id>https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/</id>
     <published>2026-08-24T01:16:26.000Z</published>
-    <updated>2026-08-24T07:45:50.089Z</updated>
+    <updated>2026-08-24T01:16:26.000Z</updated>
     <summary type="html">人工智能（AI）的快速普及以及新兴的供应商主权要求，正在影响终端保护产品的采购重点。买方在选择供应商时，除了考虑主权目标外，还应考虑企业终端上的 AI 发现与使用控制需求。</summary>
+  </entry>
+  <entry>
+    <title>Omnissa Horizon 8 2606 (8.19) 新增功能和文件列表</title>
+    <link href="https://sysin.org/blog/omnissa-horizon-8-2606/?utm_source=atom"/>
+    <id>https://sysin.org/blog/omnissa-horizon-8-2606/</id>
+    <published>2026-08-24T01:08:03.000Z</published>
+    <updated>2026-08-26T03:31:27.042Z</updated>
+    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/omnissa-horizon-8/?utm_source=atom" title="Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件">Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Magic Quadrant for Enterprise Storage Platforms 2026 - 企业存储平台</title>
     <link href="https://sysin.org/blog/gartner-magic-quadrant-esp-2026/?utm_source=atom"/>
     <id>https://sysin.org/blog/gartner-magic-quadrant-esp-2026/</id>
     <published>2026-08-23T01:11:26.000Z</published>
-    <updated>2026-08-24T07:43:57.385Z</updated>
+    <updated>2026-08-23T01:11:26.000Z</updated>
     <summary type="html">企业存储平台为结构化和非结构化工作负载提供文件、块和对象数据服务。基础设施和 IT 运营负责人可以利用本研究评估厂商平台及其支持能力，以满足现代存储基础设施的需求。</summary>
   </entry>
   <entry>
@@ -102,7 +110,7 @@
     <link href="https://sysin.org/blog/cisco-nexus-9000v/?utm_source=atom"/>
     <id>https://sysin.org/blog/cisco-nexus-9000v/</id>
     <published>2026-08-20T01:13:18.000Z</published>
-    <updated>2026-08-24T07:39:02.367Z</updated>
+    <updated>2026-08-20T01:13:18.000Z</updated>
     <summary type="html">Cisco Nexus 9000v Switch NX-OS 10 提供 9300v/9500v 虚拟交换平台，支持 VXLAN、EVPN、L3 路由、NX-API 与网络自动化，并持续增强虚拟机部署及管理能力。</summary>
   </entry>
   <entry>
@@ -118,7 +126,7 @@
     <link href="https://sysin.org/blog/nexpose/?utm_source=atom"/>
     <id>https://sysin.org/blog/nexpose/</id>
     <published>2026-08-20T01:01:05.000Z</published>
-    <updated>2026-08-25T02:50:01.924Z</updated>
+    <updated>2026-08-20T01:01:05.000Z</updated>
     <summary type="html">Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</summary>
   </entry>
   <entry>
@@ -182,7 +190,7 @@
     <link href="https://sysin.org/blog/macos-createinstallmedia/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-createinstallmedia/</id>
     <published>2026-08-18T01:18:00.000Z</published>
-    <updated>2026-08-25T00:37:47.155Z</updated>
+    <updated>2026-08-18T01:18:00.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=atom" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></summary>
   </entry>
   <entry>
@@ -218,35 +226,27 @@
     <summary type="html">Metasploit 6.5 代表了该框架的一次重要演进，旨在提升现代安全测试中的易用性和真实性。从用户长期期待的 Malleable C2 Profiles 集成、全新的 MCP Server，到高级 NTLM Relay、增强版 Fetch Payload 工具，以及 MITRE ATT&amp;CK 标签引入，以支持越来越复杂和自动化的安全测试流程。</summary>
   </entry>
   <entry>
-    <title>VMware vCenter Server 9.1.0.0300 - 集中管理 vSphere 环境</title>
-    <link href="https://sysin.org/blog/vmware-vcenter-9/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-vcenter-9/</id>
-    <published>2026-08-15T05:09:18.000Z</published>
-    <updated>2026-08-15T05:09:18.000Z</updated>
-    <summary type="html">VMware vCenter Server 9.1 是高级服务器管理软件，提供了一个集中式平台来控制您的 VMware vSphere 环境，使您可以充满信心地在整个混合云中自动部署并交付虚拟基础架构。</summary>
+    <title>Omnissa Unified Access Gateway 2606 - 企业内网应用安全访问网关</title>
+    <link href="https://sysin.org/blog/omnissa-unified-access-gateway/?utm_source=atom"/>
+    <id>https://sysin.org/blog/omnissa-unified-access-gateway/</id>
+    <published>2026-08-16T01:19:13.000Z</published>
+    <updated>2026-08-26T03:51:52.905Z</updated>
+    <summary type="html">Unified Access Gateway 是一款基于 Linux 的强化虚拟安全设备，旨在保护远程用户对最终用户计算资源（如虚拟桌面和应用程序）的访问。</summary>
   </entry>
   <entry>
-    <title>Apache NetBeans 31 (macOS, Linux, Windows) - Java 等多语言开源 IDE</title>
-    <link href="https://sysin.org/blog/netbeans/?utm_source=atom"/>
-    <id>https://sysin.org/blog/netbeans/</id>
-    <published>2026-08-15T01:19:50.000Z</published>
-    <updated>2026-08-15T01:19:50.000Z</updated>
-    <summary type="html">Apache NetBeans 是开源集成开发环境（IDE）与开发平台，支持 Java、JavaScript、PHP、HTML5、CSS、C/C++，提供代码编辑、重构、调试及 Maven、Gradle 等开发工具。</summary>
+    <title>Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件</title>
+    <link href="https://sysin.org/blog/omnissa-horizon-8/?utm_source=atom"/>
+    <id>https://sysin.org/blog/omnissa-horizon-8/</id>
+    <published>2026-08-16T01:18:00.000Z</published>
+    <updated>2026-08-26T03:31:19.208Z</updated>
+    <summary type="html">借助 Horizon 8，IT 部门可在数据中心内运行远程桌面和应用程序，并将这些桌面和应用程序交付给员工。最终用户可以获得熟悉的个性化环境，并可以在企业或家庭中的任何地方通过任意数量的设备访问此环境。通过将数据集中到数据中心，管理员可以进行控制并提高效率和安全性。</summary>
   </entry>
   <entry>
-    <title>Cisco Jabber 15.3(0) (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具</title>
-    <link href="https://sysin.org/blog/cisco-jabber-15/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-jabber-15/</id>
-    <published>2026-08-15T01:19:35.000Z</published>
-    <updated>2026-08-15T01:19:35.000Z</updated>
-    <summary type="html">Cisco Jabber 15 基于统一通信客户端架构，新增 TLS 1.3、LDAP Channel Binding、Exchange Extended Protection 及 WCAG 2.1 无障碍支持，并支持 Android 15、macOS Sequoia 15 和新一代 VDI 平台，同时增强 Webex Meetings 集成。</summary>
-  </entry>
-  <entry>
-    <title>Windows Server 2025 OVF (2026 年 6 月更新) - VMware 虚拟机模板</title>
-    <link href="https://sysin.org/blog/windows-server-2025-ovf/?utm_source=atom"/>
-    <id>https://sysin.org/blog/windows-server-2025-ovf/</id>
-    <published>2026-08-15T01:15:25.000Z</published>
-    <updated>2026-08-23T03:38:44.702Z</updated>
-    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2025-ovf/?utm_source=atom" title="Windows Server 2025 OVF (2026 年 6 月更新) - VMware 虚拟机模板">Windows Server 2025 OVF (2026 年 6 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></summary>
+    <title>Omnissa Horizon Windows OS Optimization Tool 2606 - Windows 系统映像优化工具</title>
+    <link href="https://sysin.org/blog/omnissa-os-optimization-tool/?utm_source=atom"/>
+    <id>https://sysin.org/blog/omnissa-os-optimization-tool/</id>
+    <published>2026-08-16T01:12:13.000Z</published>
+    <updated>2026-08-26T03:51:21.696Z</updated>
+    <summary type="html">使用 Omnissa Horizon OS Optimization Tool，您可以优化用于创建即时克隆桌面池或完整克隆桌面池的基础虚拟机上的客户机操作系统。</summary>
   </entry>
 </feed>

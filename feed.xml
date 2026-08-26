@@ -12,7 +12,7 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Tue, 25 Aug 2026 01:33:17 GMT</pubDate>
+    <pubDate>Tue, 25 Aug 2026 01:07:18 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>Burp Suite Professional 2026.8 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
@@ -69,6 +69,13 @@
       <guid>https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/</guid>
       <pubDate>Mon, 24 Aug 2026 01:16:26 GMT</pubDate>
       <description>人工智能（AI）的快速普及以及新兴的供应商主权要求，正在影响终端保护产品的采购重点。买方在选择供应商时，除了考虑主权目标外，还应考虑企业终端上的 AI 发现与使用控制需求。</description>
+    </item>
+    <item>
+      <title>Omnissa Horizon 8 2606 (8.19) 新增功能和文件列表</title>
+      <link>https://sysin.org/blog/omnissa-horizon-8-2606/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/omnissa-horizon-8-2606/</guid>
+      <pubDate>Mon, 24 Aug 2026 01:08:03 GMT</pubDate>
+      <description><![CDATA[<p>请访问原文链接：<a href="/blog/omnissa-horizon-8/?utm_source=rss" title="Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件">Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件</a> 查看最新版。]]></description>
     </item>
     <item>
       <title>Magic Quadrant for Enterprise Storage Platforms 2026 - 企业存储平台</title>
@@ -197,32 +204,25 @@
       <description>Metasploit 6.5 代表了该框架的一次重要演进，旨在提升现代安全测试中的易用性和真实性。从用户长期期待的 Malleable C2 Profiles 集成、全新的 MCP Server，到高级 NTLM Relay、增强版 Fetch Payload 工具，以及 MITRE ATT&amp;CK 标签引入，以支持越来越复杂和自动化的安全测试流程。</description>
     </item>
     <item>
-      <title>VMware vCenter Server 9.1.0.0300 - 集中管理 vSphere 环境</title>
-      <link>https://sysin.org/blog/vmware-vcenter-9/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/vmware-vcenter-9/</guid>
-      <pubDate>Sat, 15 Aug 2026 05:09:18 GMT</pubDate>
-      <description>VMware vCenter Server 9.1 是高级服务器管理软件，提供了一个集中式平台来控制您的 VMware vSphere 环境，使您可以充满信心地在整个混合云中自动部署并交付虚拟基础架构。</description>
+      <title>Omnissa Unified Access Gateway 2606 - 企业内网应用安全访问网关</title>
+      <link>https://sysin.org/blog/omnissa-unified-access-gateway/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/omnissa-unified-access-gateway/</guid>
+      <pubDate>Sun, 16 Aug 2026 01:19:13 GMT</pubDate>
+      <description>Unified Access Gateway 是一款基于 Linux 的强化虚拟安全设备，旨在保护远程用户对最终用户计算资源（如虚拟桌面和应用程序）的访问。</description>
     </item>
     <item>
-      <title>Apache NetBeans 31 (macOS, Linux, Windows) - Java 等多语言开源 IDE</title>
-      <link>https://sysin.org/blog/netbeans/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/netbeans/</guid>
-      <pubDate>Sat, 15 Aug 2026 01:19:50 GMT</pubDate>
-      <description>Apache NetBeans 是开源集成开发环境（IDE）与开发平台，支持 Java、JavaScript、PHP、HTML5、CSS、C/C++，提供代码编辑、重构、调试及 Maven、Gradle 等开发工具。</description>
+      <title>Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件</title>
+      <link>https://sysin.org/blog/omnissa-horizon-8/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/omnissa-horizon-8/</guid>
+      <pubDate>Sun, 16 Aug 2026 01:18:00 GMT</pubDate>
+      <description>借助 Horizon 8，IT 部门可在数据中心内运行远程桌面和应用程序，并将这些桌面和应用程序交付给员工。最终用户可以获得熟悉的个性化环境，并可以在企业或家庭中的任何地方通过任意数量的设备访问此环境。通过将数据集中到数据中心，管理员可以进行控制并提高效率和安全性。</description>
     </item>
     <item>
-      <title>Cisco Jabber 15.3(0) (Andriod, iOS, macOS, Windows) - 面向企业的多合一通信工具</title>
-      <link>https://sysin.org/blog/cisco-jabber-15/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/cisco-jabber-15/</guid>
-      <pubDate>Sat, 15 Aug 2026 01:19:35 GMT</pubDate>
-      <description>Cisco Jabber 15 基于统一通信客户端架构，新增 TLS 1.3、LDAP Channel Binding、Exchange Extended Protection 及 WCAG 2.1 无障碍支持，并支持 Android 15、macOS Sequoia 15 和新一代 VDI 平台，同时增强 Webex Meetings 集成。</description>
-    </item>
-    <item>
-      <title>Windows Server 2025 OVF (2026 年 6 月更新) - VMware 虚拟机模板</title>
-      <link>https://sysin.org/blog/windows-server-2025-ovf/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/windows-server-2025-ovf/</guid>
-      <pubDate>Sat, 15 Aug 2026 01:15:25 GMT</pubDate>
-      <description><![CDATA[<p>请访问原文链接：<a href="/blog/windows-server-2025-ovf/?utm_source=rss" title="Windows Server 2025 OVF (2026 年 6 月更新) - VMware 虚拟机模板">Windows Server 2025 OVF (2026 年 6 月更新) - VMware 虚拟机模板</a> 查看最新版。]]></description>
+      <title>Omnissa Horizon Windows OS Optimization Tool 2606 - Windows 系统映像优化工具</title>
+      <link>https://sysin.org/blog/omnissa-os-optimization-tool/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/omnissa-os-optimization-tool/</guid>
+      <pubDate>Sun, 16 Aug 2026 01:12:13 GMT</pubDate>
+      <description>使用 Omnissa Horizon OS Optimization Tool，您可以优化用于创建即时克隆桌面池或完整克隆桌面池的基础虚拟机上的客户机操作系统。</description>
     </item>
   </channel>
 </rss>
