@@ -1,8 +1,9 @@
-https://sysin.org/blog/omnissa-unified-access-gateway/
 https://sysin.org/blog/omnissa-horizon-8/
+https://sysin.org/blog/vmware/
+https://sysin.org/blog/omnissa-horizon-8-2606/
+https://sysin.org/blog/omnissa-unified-access-gateway/
 https://sysin.org/blog/omnissa-dynamic-environment-manager/
 https://sysin.org/blog/omnissa-app-volumes/
-https://sysin.org/blog/omnissa-horizon-8-2606/
 https://sysin.org/blog/omnissa-os-optimization-tool/
 https://sysin.org/blog/omnissa-access/
 https://sysin.org/blog/omnissa-secure-email-gateway/
@@ -17,4 +18,3 @@ https://sysin.org/blog/macos-golden-gate/
 https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/
 https://sysin.org/blog/gartner-magic-quadrant-esp-2026/
 https://sysin.org/blog/cisco-8000-secure-routers/
-https://sysin.org/blog/nessus-10/
