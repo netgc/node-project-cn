@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
-  <updated>2026-08-28T02:10:15.342Z</updated>
-  <id>https://sysin.cn/</id>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
+  <updated>2026-08-28T02:49:06.940Z</updated>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>Ubuntu 26.04.1 LTS (Resolute Raccoon) 发布 - 现代化的企业与开源 Linux</title>
-    <link href="https://sysin.cn/blog/ubuntu-2604/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ubuntu-2604/</id>
+    <link href="https://sysin.org/blog/ubuntu-2604/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ubuntu-2604/</id>
     <published>2026-08-28T01:26:04.000Z</published>
-    <updated>2026-08-28T02:10:15.342Z</updated>
+    <updated>2026-08-28T02:49:06.940Z</updated>
     <summary type="html">2026-04-23，Ubuntu 26.04 LTS 正式版按计划如期发布。Ubuntu 26.04 LTS 搭载 Linux 内核 7.0 和 GNOME 50 桌面环境，两个都是优雅的整数版本。</summary>
   </entry>
   <entry>
     <title>WPS Office for Windows 2026 夏季更新 12.1.0.28022 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps/</id>
+    <link href="https://sysin.org/blog/wps/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps/</id>
     <published>2026-08-27T01:12:05.000Z</published>
     <updated>2026-08-27T07:55:55.840Z</updated>
     <summary type="html">WPS Office 是一款免费、高效的办公软件套件，兼具智能化功能、流畅体验，并与 Microsoft Office 格式无缝兼容，轻松满足文档、表格和演示等办公需求。</summary>
   </entry>
   <entry>
     <title>LibreOffice 26.8 (Linux, macOS, Windows) - 自由免费的全能办公套件</title>
-    <link href="https://sysin.cn/blog/libreoffice/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/libreoffice/</id>
+    <link href="https://sysin.org/blog/libreoffice/?utm_source=atom"/>
+    <id>https://sysin.org/blog/libreoffice/</id>
     <published>2026-08-27T01:05:56.000Z</published>
-    <updated>2026-08-27T07:33:02.108Z</updated>
+    <updated>2026-08-28T02:48:30.747Z</updated>
     <summary type="html">LibreOffice 是一款功能强大的办公软件，它包含了 Writer, Calc, Impress, Draw, Base 以及 Math 等组件，可用于处理文本文档、电子表格、演示文稿、绘图以及公式编辑。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.8 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro-mac/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
     <published>2026-08-25T01:07:18.000Z</published>
     <updated>2026-08-25T01:07:18.000Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.8 for Windows x64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro-win/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro-win/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro-win/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
     <published>2026-08-25T01:07:15.000Z</published>
     <updated>2026-08-25T01:07:15.000Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.7 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro/</id>
     <published>2026-08-25T01:07:12.000Z</published>
     <updated>2026-08-25T01:07:12.000Z</updated>
     <summary type="html">Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</summary>
   </entry>
   <entry>
     <title>Burp Suite 2026.8 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-    <link href="https://sysin.cn/blog/burp-suite/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite/</id>
+    <link href="https://sysin.org/blog/burp-suite/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite/</id>
     <published>2026-08-25T01:07:10.000Z</published>
     <updated>2026-08-25T01:07:10.000Z</updated>
     <summary type="html">Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</summary>
   </entry>
   <entry>
     <title>Xcode 27 beta 6 (27A5252f) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-    <link href="https://sysin.cn/blog/apple-xcode-27/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-xcode-27/</id>
+    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-xcode-27/</id>
     <published>2026-08-25T00:17:36.000Z</published>
     <updated>2026-08-25T00:17:36.000Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 beta 7 (26A5421a) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-08-25T00:17:36.000Z</published>
     <updated>2026-08-25T00:17:36.000Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 beta 7 (26A5421a) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-08-25T00:17:26.000Z</published>
     <updated>2026-08-25T00:17:26.000Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
     <title>Magic Quadrant for Endpoint Protection 2026 - 终端保护</title>
-    <link href="https://sysin.cn/blog/gartner-magic-quadrant-endpoint-protection-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gartner-magic-quadrant-endpoint-protection-2026/</id>
+    <link href="https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/</id>
     <published>2026-08-24T01:16:26.000Z</published>
     <updated>2026-08-24T01:16:26.000Z</updated>
     <summary type="html">人工智能（AI）的快速普及以及新兴的供应商主权要求，正在影响终端保护产品的采购重点。买方在选择供应商时，除了考虑主权目标外，还应考虑企业终端上的 AI 发现与使用控制需求。</summary>
   </entry>
   <entry>
     <title>Omnissa Horizon 8 2606 (8.19) 新增功能和文件列表</title>
-    <link href="https://sysin.cn/blog/omnissa-horizon-8-2606/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/omnissa-horizon-8-2606/</id>
+    <link href="https://sysin.org/blog/omnissa-horizon-8-2606/?utm_source=atom"/>
+    <id>https://sysin.org/blog/omnissa-horizon-8-2606/</id>
     <published>2026-08-24T01:08:03.000Z</published>
     <updated>2026-08-26T06:12:14.500Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/omnissa-horizon-8/?utm_source=atom" title="Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件">Omnissa Horizon 8 2606 发布 - 虚拟桌面基础架构 (VDI) 和应用软件</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Magic Quadrant for Enterprise Storage Platforms 2026 - 企业存储平台</title>
-    <link href="https://sysin.cn/blog/gartner-magic-quadrant-esp-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gartner-magic-quadrant-esp-2026/</id>
+    <link href="https://sysin.org/blog/gartner-magic-quadrant-esp-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gartner-magic-quadrant-esp-2026/</id>
     <published>2026-08-23T01:11:26.000Z</published>
     <updated>2026-08-23T01:11:26.000Z</updated>
     <summary type="html">企业存储平台为结构化和非结构化工作负载提供文件、块和对象数据服务。基础设施和 IT 运营负责人可以利用本研究评估厂商平台及其支持能力，以满足现代存储基础设施的需求。</summary>
   </entry>
   <entry>
     <title>Cisco 8000 Series Secure Routers, IOS XE 26.1.2 GA</title>
-    <link href="https://sysin.cn/blog/cisco-8000-secure-routers/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-8000-secure-routers/</id>
+    <link href="https://sysin.org/blog/cisco-8000-secure-routers/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-8000-secure-routers/</id>
     <published>2026-08-21T01:08:02.000Z</published>
     <updated>2026-08-21T01:08:02.000Z</updated>
     <summary type="html">思科 8000 系列安全路由器是新一代企业级路由器，集高级安全防护、基于 AI 的自动化、后量子加密性能和无缝的云管理于一身，助力打造面向未来的广域网。</summary>
   </entry>
   <entry>
     <title>Tenable Nessus 10.12.4 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
-    <link href="https://sysin.cn/blog/nessus-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-10/</id>
+    <link href="https://sysin.org/blog/nessus-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-10/</id>
     <published>2026-08-20T01:21:00.000Z</published>
     <updated>2026-08-20T01:21:00.000Z</updated>
     <summary type="html">Tenable Nessus 是领先的漏洞扫描与安全评估平台，提供全面的漏洞检测、配置审计和风险分析能力，帮助企业及时发现并修复安全风险。</summary>
   </entry>
   <entry>
     <title>Cisco Nexus 9000v Switch, NX-OS Release 10.6(4)M | 10.5(6)M</title>
-    <link href="https://sysin.cn/blog/cisco-nexus-9000v/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-nexus-9000v/</id>
+    <link href="https://sysin.org/blog/cisco-nexus-9000v/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-nexus-9000v/</id>
     <published>2026-08-20T01:13:18.000Z</published>
     <updated>2026-08-20T01:13:18.000Z</updated>
     <summary type="html">Cisco Nexus 9000v Switch NX-OS 10 提供 9300v/9500v 虚拟交换平台，支持 VXLAN、EVPN、L3 路由、NX-API 与网络自动化，并持续增强虚拟机部署及管理能力。</summary>
   </entry>
   <entry>
     <title>Cisco Nexus 9000 Series Switches, NX-OS Standalone 10.6(4)M | 10.5(6)M</title>
-    <link href="https://sysin.cn/blog/cisco-nexus-9000/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-nexus-9000/</id>
+    <link href="https://sysin.org/blog/cisco-nexus-9000/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-nexus-9000/</id>
     <published>2026-08-20T01:13:16.000Z</published>
     <updated>2026-08-20T01:13:16.000Z</updated>
     <summary type="html">适用于 Cisco Nexus 9000 Series Switches 的 NX-OS 10 是面向数据中心的网络操作系统，提供高性能、可扩展、可编程的交换能力，并支持 VXLAN、EVPN、Telemetry、自动化与网络可编程性。</summary>
   </entry>
   <entry>
     <title>Nexpose 8.56.0 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nexpose/</id>
+    <link href="https://sysin.org/blog/nexpose/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nexpose/</id>
     <published>2026-08-20T01:01:05.000Z</published>
     <updated>2026-08-20T01:01:05.000Z</updated>
     <summary type="html">Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Aug 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-windows/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
     <published>2026-08-19T01:13:30.000Z</published>
     <updated>2026-08-19T01:13:30.000Z</updated>
     <summary type="html">适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Aug 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</id>
     <published>2026-08-19T01:13:20.000Z</published>
     <updated>2026-08-19T01:13:20.000Z</updated>
     <summary type="html">适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for RHEL 9 | RHEL 10 - Nessus 自动化安装程序 (updated Aug 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</id>
     <published>2026-08-19T01:13:15.000Z</published>
     <updated>2026-08-19T01:13:15.000Z</updated>
     <summary type="html">适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Aug 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-macos/</id>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
     <published>2026-08-19T01:13:10.000Z</published>
     <updated>2026-08-19T01:13:10.000Z</updated>
     <summary type="html">适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Cisco Catalyst 9000 Series Switches, IOS XE Release 26.1.2 GA</title>
-    <link href="https://sysin.cn/blog/cisco-catalyst-9000/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-catalyst-9000/</id>
+    <link href="https://sysin.org/blog/cisco-catalyst-9000/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-catalyst-9000/</id>
     <published>2026-08-19T01:06:26.000Z</published>
     <updated>2026-08-19T01:06:26.000Z</updated>
     <summary type="html">Cisco Catalyst 9000 Series Switches 是 Cisco 企业级园区交换平台，运行 IOS XE 操作系统，支持高性能交换、SD-Access、VXLAN、网络自动化、安全策略和智能运维，适用于企业园区、核心网络及分支基础设施建设。</summary>
   </entry>
   <entry>
     <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 26.1.2 GA</title>
-    <link href="https://sysin.cn/blog/cisco-catalyst-9800/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-catalyst-9800/</id>
+    <link href="https://sysin.org/blog/cisco-catalyst-9800/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-catalyst-9800/</id>
     <published>2026-08-19T01:06:00.000Z</published>
     <updated>2026-08-19T01:06:00.000Z</updated>
     <summary type="html">Cisco Catalyst 9800 Wireless Controller 是基于 Cisco IOS XE 的企业级无线 LAN 控制器，采用模块化软件架构和模型驱动管理方式，通过 CAPWAP 协议实现 Cisco 无线接入点集中控制，提供 WLAN 配置管理、客户端连接管理、射频资源优化、安全策略实施、网络可视化和自动化运维能力。</summary>
   </entry>
   <entry>
     <title>Cisco Catalyst 8000 Series Edge Platforms, IOS XE 26.1.2 GA</title>
-    <link href="https://sysin.cn/blog/cisco-catalyst-8000/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-catalyst-8000/</id>
+    <link href="https://sysin.org/blog/cisco-catalyst-8000/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-catalyst-8000/</id>
     <published>2026-08-19T01:01:00.000Z</published>
     <updated>2026-08-19T01:01:00.000Z</updated>
     <summary type="html">Cisco Catalyst 8000 Series Edge Platforms 是 Cisco 企业边缘路由平台，支持 SD-WAN、VPN、云连接、网络安全和自动化管理，基于 IOS XE 提供高性能 WAN 接入能力，适用于企业分支、园区网络和混合云环境。</summary>
   </entry>
   <entry>
     <title>如何创建可引导的 macOS 安装介质</title>
-    <link href="https://sysin.cn/blog/macos-createinstallmedia/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-createinstallmedia/</id>
+    <link href="https://sysin.org/blog/macos-createinstallmedia/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-createinstallmedia/</id>
     <published>2026-08-18T01:18:00.000Z</published>
     <updated>2026-08-18T01:18:00.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos-createinstallmedia/?utm_source=atom" title="如何创建可引导的 macOS 安装介质">如何创建可引导的 macOS 安装介质</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.6.2 (25G83) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
     <published>2026-08-18T00:16:36.000Z</published>
     <updated>2026-08-18T00:16:36.000Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.6.2 (25G83) 正式版 ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe/</id>
+    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-08-18T00:16:26.000Z</published>
     <updated>2026-08-18T00:16:26.000Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
     <title>Arista EOS 4.36.2F 发布 - 适用于下一代数据中心和云网络的可扩展操作系统</title>
-    <link href="https://sysin.cn/blog/arista-eos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/arista-eos/</id>
+    <link href="https://sysin.org/blog/arista-eos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/arista-eos/</id>
     <published>2026-08-17T01:12:01.000Z</published>
     <updated>2026-08-17T01:12:01.000Z</updated>
     <summary type="html">Arista EOS 是一个完全可编程且高度模块化的基于 Linux 的网络操作系统，使用熟悉的行业标准 CLI，并在 Arista 交换系列中运行单个二进制软件映像。</summary>
   </entry>
   <entry>
     <title>Metasploit Framework 6.5.2 - 开源渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-framework-6/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/metasploit-framework-6/</id>
+    <link href="https://sysin.org/blog/metasploit-framework-6/?utm_source=atom"/>
+    <id>https://sysin.org/blog/metasploit-framework-6/</id>
     <published>2026-08-16T01:21:00.000Z</published>
     <updated>2026-08-16T01:21:00.000Z</updated>
     <summary type="html">Metasploit 6.5 代表了该框架的一次重要演进，旨在提升现代安全测试中的易用性和真实性。从用户长期期待的 Malleable C2 Profiles 集成、全新的 MCP Server，到高级 NTLM Relay、增强版 Fetch Payload 工具，以及 MITRE ATT&amp;CK 标签引入，以支持越来越复杂和自动化的安全测试流程。</summary>
