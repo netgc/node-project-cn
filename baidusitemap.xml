@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/dbeaver-22/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/dbeaver-23/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/dbeaver-linux/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/dbeaver-mac/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/dbeaver-24/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/dbeaver/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/adobe-illustrator/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/parallels-desktop/</loc>
+    <lastmod>2026-08-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/backup-exec-25/</loc>
+    <lastmod>2026-08-28</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/ubuntu-2604/</loc>
     <lastmod>2026-08-28</lastmod>
   </url>
@@ -377,10 +413,6 @@
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/parallels-desktop/</loc>
-    <lastmod>2026-08-02</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/adobe-acrobat/</loc>
     <lastmod>2026-08-02</lastmod>
   </url>
@@ -741,10 +773,6 @@
     <lastmod>2026-06-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/adobe-illustrator/</loc>
-    <lastmod>2026-06-16</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/freebsd-15/</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -763,10 +791,6 @@
   <url>
     <loc>https://sysin.org/blog/cybertriage-3/</loc>
     <lastmod>2026-06-11</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/dbeaver/</loc>
-    <lastmod>2026-06-10</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-meeting-server-3/</loc>
@@ -1441,14 +1465,6 @@
     <lastmod>2026-01-04</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/dbeaver-mac/</loc>
-    <lastmod>2026-01-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/dbeaver-linux/</loc>
-    <lastmod>2026-01-01</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/check-point-r82/</loc>
     <lastmod>2025-12-31</lastmod>
   </url>
@@ -1639,10 +1655,6 @@
   <url>
     <loc>https://sysin.org/blog/ravynos/</loc>
     <lastmod>2025-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/backup-exec-25/</loc>
-    <lastmod>2025-10-07</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-vsphere-7-u3/</loc>
@@ -2122,10 +2134,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/faw/</loc>
-    <lastmod>2024-12-10</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/dbeaver-24/</loc>
     <lastmod>2024-12-10</lastmod>
   </url>
   <url>
@@ -2793,10 +2801,6 @@
     <lastmod>2023-12-14</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/dbeaver-23/</loc>
-    <lastmod>2023-12-13</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/openeuler-2003/</loc>
     <lastmod>2023-12-12</lastmod>
   </url>
@@ -3371,10 +3375,6 @@
   <url>
     <loc>https://sysin.org/blog/vmware-horizon-8-2203/</loc>
     <lastmod>2022-04-06</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/dbeaver-22/</loc>
-    <lastmod>2022-03-29</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/affinity/</loc>

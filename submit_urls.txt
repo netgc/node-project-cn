@@ -1,3 +1,12 @@
+https://sysin.org/blog/dbeaver-22/
+https://sysin.org/blog/dbeaver-23/
+https://sysin.org/blog/dbeaver-linux/
+https://sysin.org/blog/dbeaver-mac/
+https://sysin.org/blog/dbeaver-24/
+https://sysin.org/blog/dbeaver/
+https://sysin.org/blog/adobe-illustrator/
+https://sysin.org/blog/parallels-desktop/
+https://sysin.org/blog/backup-exec-25/
 https://sysin.org/blog/ubuntu-2604/
 https://sysin.org/blog/libreoffice/
 https://sysin.org/blog/gitea/
@@ -9,12 +18,3 @@ https://sysin.org/blog/vmware/
 https://sysin.org/blog/omnissa-horizon-8-2606/
 https://sysin.org/blog/omnissa-unified-access-gateway/
 https://sysin.org/blog/omnissa-dynamic-environment-manager/
-https://sysin.org/blog/omnissa-app-volumes/
-https://sysin.org/blog/omnissa-os-optimization-tool/
-https://sysin.org/blog/omnissa-access/
-https://sysin.org/blog/omnissa-secure-email-gateway/
-https://sysin.org/blog/omnissa-thinapp/
-https://sysin.org/blog/burp-suite-pro-mac/
-https://sysin.org/blog/burp-suite-pro-win/
-https://sysin.org/blog/burp-suite-pro/
-https://sysin.org/blog/burp-suite/
