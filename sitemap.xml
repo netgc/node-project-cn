@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/gitea/</loc>
+  <lastmod>2026-08-30</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/dbeaver-22/</loc>
   <lastmod>2026-08-29</lastmod>
 </url>
@@ -42,10 +46,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/libreoffice/</loc>
-  <lastmod>2026-08-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/gitea/</loc>
   <lastmod>2026-08-28</lastmod>
 </url>
 <url>
@@ -4182,7 +4182,7 @@
 </url>
 <url>
   <loc>https://sysin.org/</loc>
-  <lastmod>2026-08-29</lastmod>
+  <lastmod>2026-08-30</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
