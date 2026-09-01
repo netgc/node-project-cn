@@ -1,3 +1,7 @@
+https://sysin.org/blog/http/
+https://sysin.org/blog/macos/
+https://sysin.org/blog/linux/
+https://sysin.org/blog/vmware/
 https://sysin.org/blog/chrome-firefox-download/
 https://sysin.org/blog/studio-3t/
 https://sysin.org/blog/splunk-9/
@@ -14,7 +18,3 @@ https://sysin.org/blog/gitea/
 https://sysin.org/blog/dbeaver-22/
 https://sysin.org/blog/dbeaver-23/
 https://sysin.org/blog/dbeaver-linux/
-https://sysin.org/blog/dbeaver-mac/
-https://sysin.org/blog/dbeaver-24/
-https://sysin.org/blog/dbeaver/
-https://sysin.org/blog/adobe-illustrator/

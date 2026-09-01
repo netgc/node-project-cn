@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/http/</loc>
+  <lastmod>2026-09-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/macos/</loc>
+  <lastmod>2026-09-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/linux/</loc>
+  <lastmod>2026-09-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware/</loc>
+  <lastmod>2026-09-01</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/chrome-firefox-download/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>

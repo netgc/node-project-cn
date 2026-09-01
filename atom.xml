@@ -58,6 +58,38 @@
     <summary type="html">天下只剩三种（主流）浏览器：Apple Safari、Mozilla Firefox 和 Google Chrome（Chromium）。</summary>
   </entry>
   <entry>
+    <title>Linux 产品链接汇总</title>
+    <link href="https://sysin.org/blog/linux/?utm_source=atom"/>
+    <id>https://sysin.org/blog/linux/</id>
+    <published>2026-09-01T01:06:00.000Z</published>
+    <updated>2026-09-01T01:36:18.896Z</updated>
+    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/linux/?utm_source=atom" title="Linux 产品链接汇总">Linux 产品链接汇总</a> 查看最新版。]]></summary>
+  </entry>
+  <entry>
+    <title>HTTP 协议与安全</title>
+    <link href="https://sysin.org/blog/http/?utm_source=atom"/>
+    <id>https://sysin.org/blog/http/</id>
+    <published>2026-09-01T01:03:00.000Z</published>
+    <updated>2026-09-01T01:36:18.897Z</updated>
+    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/http/?utm_source=atom" title="HTTP 协议与安全">HTTP 协议与安全</a> 查看最新版。]]></summary>
+  </entry>
+  <entry>
+    <title>VMware 产品下载汇总</title>
+    <link href="https://sysin.org/blog/vmware/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware/</id>
+    <published>2026-09-01T01:02:00.000Z</published>
+    <updated>2026-09-01T01:36:18.895Z</updated>
+    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware/?utm_source=atom" title="VMware 产品下载汇总">VMware 产品下载汇总</a> 查看最新版。]]></summary>
+  </entry>
+  <entry>
+    <title>macOS 下载汇总 (系统、应用和教程)</title>
+    <link href="https://sysin.org/blog/macos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos/</id>
+    <published>2026-09-01T01:01:00.000Z</published>
+    <updated>2026-09-01T01:36:18.897Z</updated>
+    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/macos/?utm_source=atom" title="macOS 下载汇总 (系统、应用和教程)">macOS 下载汇总 (系统、应用和教程)</a> 查看最新版。]]></summary>
+  </entry>
+  <entry>
     <title>OpenShot 4.0 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
     <link href="https://sysin.org/blog/openshot/?utm_source=atom"/>
     <id>https://sysin.org/blog/openshot/</id>
@@ -216,37 +248,5 @@
     <published>2026-08-19T01:13:15.000Z</published>
     <updated>2026-08-19T01:13:15.000Z</updated>
     <summary type="html">适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
-  </entry>
-  <entry>
-    <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Aug 2026)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
-    <published>2026-08-19T01:13:10.000Z</published>
-    <updated>2026-08-19T01:13:10.000Z</updated>
-    <summary type="html">适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
-  </entry>
-  <entry>
-    <title>Cisco Catalyst 9000 Series Switches, IOS XE Release 26.1.2 GA</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-9000/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-catalyst-9000/</id>
-    <published>2026-08-19T01:06:26.000Z</published>
-    <updated>2026-08-19T01:06:26.000Z</updated>
-    <summary type="html">Cisco Catalyst 9000 Series Switches 是 Cisco 企业级园区交换平台，运行 IOS XE 操作系统，支持高性能交换、SD-Access、VXLAN、网络自动化、安全策略和智能运维，适用于企业园区、核心网络及分支基础设施建设。</summary>
-  </entry>
-  <entry>
-    <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 26.1.2 GA</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-9800/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-catalyst-9800/</id>
-    <published>2026-08-19T01:06:00.000Z</published>
-    <updated>2026-08-19T01:06:00.000Z</updated>
-    <summary type="html">Cisco Catalyst 9800 Wireless Controller 是基于 Cisco IOS XE 的企业级无线 LAN 控制器，采用模块化软件架构和模型驱动管理方式，通过 CAPWAP 协议实现 Cisco 无线接入点集中控制，提供 WLAN 配置管理、客户端连接管理、射频资源优化、安全策略实施、网络可视化和自动化运维能力。</summary>
-  </entry>
-  <entry>
-    <title>Cisco Catalyst 8000 Series Edge Platforms, IOS XE 26.1.2 GA</title>
-    <link href="https://sysin.org/blog/cisco-catalyst-8000/?utm_source=atom"/>
-    <id>https://sysin.org/blog/cisco-catalyst-8000/</id>
-    <published>2026-08-19T01:01:00.000Z</published>
-    <updated>2026-08-19T01:01:00.000Z</updated>
-    <summary type="html">Cisco Catalyst 8000 Series Edge Platforms 是 Cisco 企业边缘路由平台，支持 SD-WAN、VPN、云连接、网络安全和自动化管理，基于 IOS XE 提供高性能 WAN 接入能力，适用于企业分支、园区网络和混合云环境。</summary>
   </entry>
 </feed>
