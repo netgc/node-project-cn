@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://sysin.org/blog/windows-server-2016-ovf/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/office-2021-for-mac/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/wps-for-mac/</loc>
   <lastmod>2026-09-03</lastmod>
 </url>
@@ -29,47 +9,11 @@
   <lastmod>2026-09-03</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/gitea/</loc>
-  <lastmod>2026-09-02</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/visual-studio-2022/</loc>
-  <lastmod>2026-09-02</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/visual-studio-2022-for-mac/</loc>
-  <lastmod>2026-09-02</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/visual-studio-2017/</loc>
-  <lastmod>2026-09-02</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/visual-studio-2019/</loc>
-  <lastmod>2026-09-02</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/visual-studio-2026/</loc>
-  <lastmod>2026-09-02</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/utm-5/</loc>
   <lastmod>2026-09-02</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/adobe-acrobat/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-photoshop/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/splunk-9/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/splunk-10/</loc>
+  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
@@ -77,43 +21,11 @@
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
+  <loc>https://sysin.org/blog/splunk-10/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/chrome-firefox-download/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-incopy/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-illustrator/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-indesign/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/http/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/macos/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/linux/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware/</loc>
+  <loc>https://sysin.org/blog/splunk-9/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
@@ -121,19 +33,23 @@
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/splunk-8/</loc>
+  <loc>https://sysin.org/blog/chrome-firefox-download/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/splunk-8-win/</loc>
+  <loc>https://sysin.org/blog/linux/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/splunk-8-mac/</loc>
+  <loc>https://sysin.org/blog/http/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/splunk-8-linux/</loc>
+  <loc>https://sysin.org/blog/vmware/</loc>
+  <lastmod>2026-09-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/macos/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
@@ -145,88 +61,12 @@
   <lastmod>2026-08-31</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/dbeaver-22/</loc>
-  <lastmod>2026-08-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/dbeaver-23/</loc>
-  <lastmod>2026-08-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/dbeaver-linux/</loc>
-  <lastmod>2026-08-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/dbeaver-mac/</loc>
-  <lastmod>2026-08-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/dbeaver-24/</loc>
-  <lastmod>2026-08-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/dbeaver/</loc>
-  <lastmod>2026-08-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/parallels-desktop/</loc>
-  <lastmod>2026-08-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/backup-exec-25/</loc>
-  <lastmod>2026-08-28</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/ubuntu-2604/</loc>
   <lastmod>2026-08-28</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/libreoffice/</loc>
-  <lastmod>2026-08-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-horizon-8/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-horizon-8-2606/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-unified-access-gateway/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-dynamic-environment-manager/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-app-volumes/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-os-optimization-tool/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-access/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-secure-email-gateway/</loc>
-  <lastmod>2026-08-26</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/omnissa-thinapp/</loc>
-  <lastmod>2026-08-26</lastmod>
+  <lastmod>2026-08-27</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/burp-suite-pro-mac/</loc>
@@ -250,6 +90,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/gartner-magic-quadrant-endpoint-protection-2026/</loc>
+  <lastmod>2026-08-24</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-horizon-8-2606/</loc>
   <lastmod>2026-08-24</lastmod>
 </url>
 <url>
@@ -317,7 +161,27 @@
   <lastmod>2026-08-17</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/adobe-photoshop/</loc>
+  <lastmod>2026-08-16</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/metasploit-framework-6/</loc>
+  <lastmod>2026-08-16</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-unified-access-gateway/</loc>
+  <lastmod>2026-08-16</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-horizon-8/</loc>
+  <lastmod>2026-08-16</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-os-optimization-tool/</loc>
+  <lastmod>2026-08-16</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/adobe-illustrator/</loc>
   <lastmod>2026-08-16</lastmod>
 </url>
 <url>
@@ -333,11 +197,19 @@
   <lastmod>2026-08-15</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/windows-server-2025/</loc>
   <lastmod>2026-08-15</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/cisco-acisim-6/</loc>
+  <lastmod>2026-08-15</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-server-2022-ovf/</loc>
   <lastmod>2026-08-15</lastmod>
 </url>
 <url>
@@ -389,6 +261,14 @@
   <lastmod>2026-08-14</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/adobe-indesign/</loc>
+  <lastmod>2026-08-14</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/adobe-incopy/</loc>
+  <lastmod>2026-08-14</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/hpe-oneview/</loc>
   <lastmod>2026-08-13</lastmod>
 </url>
@@ -397,7 +277,19 @@
   <lastmod>2026-08-12</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/visual-studio-2026/</loc>
+  <lastmod>2026-08-12</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/office-2024-for-mac/</loc>
+  <lastmod>2026-08-12</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/office-2021-for-mac/</loc>
+  <lastmod>2026-08-12</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/parallels-desktop/</loc>
   <lastmod>2026-08-12</lastmod>
 </url>
 <url>
@@ -411,6 +303,10 @@
 <url>
   <loc>https://sysin.org/blog/office-2019/</loc>
   <lastmod>2026-08-12</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/gitea/</loc>
+  <lastmod>2026-08-10</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/jeb/</loc>
@@ -430,6 +326,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/pvs-studio/</loc>
+  <lastmod>2026-08-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/adobe-lightroom-classic/</loc>
   <lastmod>2026-08-10</lastmod>
 </url>
 <url>
@@ -469,7 +369,23 @@
   <lastmod>2026-08-05</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/windows-server-2019-ovf/</loc>
+  <lastmod>2026-08-05</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-server-2016-ovf/</loc>
+  <lastmod>2026-08-05</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
+  <lastmod>2026-08-05</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
+  <lastmod>2026-08-05</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cisco-catalyst-8000v/</loc>
   <lastmod>2026-08-05</lastmod>
 </url>
 <url>
@@ -495,6 +411,10 @@
 <url>
   <loc>https://sysin.org/blog/vmware-esxi-8-u2/</loc>
   <lastmod>2026-08-03</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/adobe-acrobat/</loc>
+  <lastmod>2026-08-02</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/wing-pro/</loc>
@@ -539,6 +459,14 @@
 <url>
   <loc>https://sysin.org/blog/veeam-backup-13/</loc>
   <lastmod>2026-07-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-dynamic-environment-manager/</loc>
+  <lastmod>2026-07-30</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-app-volumes/</loc>
+  <lastmod>2026-07-30</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
@@ -781,6 +709,10 @@
   <lastmod>2026-07-07</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/omnissa-secure-email-gateway/</loc>
+  <lastmod>2026-07-03</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/cisco-wsa-16/</loc>
   <lastmod>2026-07-03</lastmod>
 </url>
@@ -863,6 +795,10 @@
 <url>
   <loc>https://sysin.org/blog/cybertriage-3/</loc>
   <lastmod>2026-06-11</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/dbeaver/</loc>
+  <lastmod>2026-06-10</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/cisco-meeting-server-3/</loc>
@@ -1233,6 +1169,14 @@
   <lastmod>2026-04-18</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/visual-studio-2022/</loc>
+  <lastmod>2026-04-18</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/omnissa-thinapp/</loc>
+  <lastmod>2026-04-15</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/omnissa-horizon-8-2603/</loc>
   <lastmod>2026-04-14</lastmod>
 </url>
@@ -1513,6 +1457,14 @@
   <lastmod>2026-01-04</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/dbeaver-mac/</loc>
+  <lastmod>2026-01-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/dbeaver-linux/</loc>
+  <lastmod>2026-01-01</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/check-point-r82/</loc>
   <lastmod>2025-12-31</lastmod>
 </url>
@@ -1609,6 +1561,10 @@
   <lastmod>2025-11-13</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/visual-studio-2017/</loc>
+  <lastmod>2025-11-12</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/f5-big-ip-21/</loc>
   <lastmod>2025-11-10</lastmod>
 </url>
@@ -1701,6 +1657,10 @@
   <lastmod>2025-10-16</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/backup-exec-25/</loc>
+  <lastmod>2025-10-07</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-vsphere-7-u3/</loc>
   <lastmod>2025-10-01</lastmod>
 </url>
@@ -1773,11 +1733,11 @@
   <lastmod>2025-08-21</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
+  <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
   <lastmod>2025-08-20</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
+  <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
   <lastmod>2025-08-20</lastmod>
 </url>
 <url>
@@ -1799,6 +1759,10 @@
 <url>
   <loc>https://sysin.org/blog/ridgebot/</loc>
   <lastmod>2025-08-14</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/visual-studio-2019/</loc>
+  <lastmod>2025-08-13</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/apple-safari-18/</loc>
@@ -2141,6 +2105,10 @@
   <lastmod>2025-01-04</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/omnissa-access/</loc>
+  <lastmod>2024-12-28</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/cellebrite-inseyets/</loc>
   <lastmod>2024-12-25</lastmod>
 </url>
@@ -2174,6 +2142,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/faw/</loc>
+  <lastmod>2024-12-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/dbeaver-24/</loc>
   <lastmod>2024-12-10</lastmod>
 </url>
 <url>
@@ -2841,6 +2813,10 @@
   <lastmod>2023-12-14</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/dbeaver-23/</loc>
+  <lastmod>2023-12-13</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/openeuler-2003/</loc>
   <lastmod>2023-12-12</lastmod>
 </url>
@@ -3369,6 +3345,10 @@
   <lastmod>2022-06-01</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/visual-studio-2022-for-mac/</loc>
+  <lastmod>2022-05-26</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/wsa-install/</loc>
   <lastmod>2022-05-23</lastmod>
 </url>
@@ -3411,6 +3391,10 @@
 <url>
   <loc>https://sysin.org/blog/vmware-horizon-8-2203/</loc>
   <lastmod>2022-04-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/dbeaver-22/</loc>
+  <lastmod>2022-03-29</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/affinity/</loc>
@@ -3777,6 +3761,10 @@
   <lastmod>2021-06-01</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/splunk-8/</loc>
+  <lastmod>2021-05-26</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/opnsense-21/</loc>
   <lastmod>2021-05-18</lastmod>
 </url>
@@ -3887,6 +3875,18 @@
 <url>
   <loc>https://sysin.org/blog/vmware-esxi-7-u1-oem/</loc>
   <lastmod>2021-01-06</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/splunk-8-linux/</loc>
+  <lastmod>2020-12-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/splunk-8-win/</loc>
+  <lastmod>2020-12-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/splunk-8-mac/</loc>
+  <lastmod>2020-12-27</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/how-to-fix-apple-continuity/</loc>
