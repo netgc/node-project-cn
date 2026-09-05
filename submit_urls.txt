@@ -1,5 +1,5 @@
-https://sysin.org/blog/vmware-workstation-26/
 https://sysin.org/blog/vmware-fusion-26/
+https://sysin.org/blog/vmware-workstation-26/
 https://sysin.org/blog/vmware-fusion/
 https://sysin.org/blog/vmware-fusion-oem/
 https://sysin.org/blog/vmware-workstation-unlocker-linux/

@@ -50,14 +50,6 @@
     <summary type="html">VMware Fusion 26H1u1 with OEM BIOS 2.7 在原版 App 中集成 OEM BIOS，是在 macOS 中运行 Windows 虚拟机的最佳方式。</summary>
   </entry>
   <entry>
-    <title>VMware Fusion 26H1 for Mac - 领先的免费桌面虚拟化软件</title>
-    <link href="https://sysin.org/blog/vmware-fusion-26/?utm_source=atom"/>
-    <id>https://sysin.org/blog/vmware-fusion-26/</id>
-    <published>2026-09-05T01:15:00.000Z</published>
-    <updated>2026-09-05T02:40:36.491Z</updated>
-    <summary type="html">使用最新的 VMware Fusion 26H1 在虚拟机 (VM) 中运行 Windows、Linux、容器、Kubernetes 等而无需重新启动，充分利用 Mac 的强大功能。</summary>
-  </entry>
-  <entry>
     <title>VMware Fusion 26H1u1 for Mac - 领先的免费桌面虚拟化软件</title>
     <link href="https://sysin.org/blog/vmware-fusion/?utm_source=atom"/>
     <id>https://sysin.org/blog/vmware-fusion/</id>
@@ -248,5 +240,13 @@
     <published>2026-08-25T01:07:12.000Z</published>
     <updated>2026-08-25T01:07:12.000Z</updated>
     <summary type="html">Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</summary>
+  </entry>
+  <entry>
+    <title>Burp Suite 2026.8 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
+    <link href="https://sysin.org/blog/burp-suite/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite/</id>
+    <published>2026-08-25T01:07:10.000Z</published>
+    <updated>2026-08-25T01:07:10.000Z</updated>
+    <summary type="html">Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</summary>
   </entry>
 </feed>
