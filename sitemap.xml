@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/sql-server-2025/</loc>
+  <lastmod>2026-09-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/sql-server-2022/</loc>
+  <lastmod>2026-09-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/sql-server-2019/</loc>
+  <lastmod>2026-09-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/sql-server-2017/</loc>
+  <lastmod>2026-09-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/exchange-server-se/</loc>
+  <lastmod>2026-09-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/nexpose/</loc>
+  <lastmod>2026-09-10</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/appspider/</loc>
   <lastmod>2026-09-10</lastmod>
 </url>
@@ -25,10 +49,6 @@
   <lastmod>2026-09-10</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/nexpose/</loc>
-  <lastmod>2026-09-10</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/ssms/</loc>
   <lastmod>2026-09-10</lastmod>
 </url>
@@ -41,11 +61,11 @@
   <lastmod>2026-09-10</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-golden-gate/</loc>
+  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
   <lastmod>2026-09-10</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/macos-golden-gate-boot-iso/</loc>
+  <loc>https://sysin.org/blog/macos-golden-gate/</loc>
   <lastmod>2026-09-10</lastmod>
 </url>
 <url>
@@ -369,14 +389,6 @@
   <lastmod>2026-08-15</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/sql-server-2025/</loc>
-  <lastmod>2026-08-14</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/exchange-server-se/</loc>
-  <lastmod>2026-08-14</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/sonicwall-sma/</loc>
   <lastmod>2026-08-14</lastmod>
 </url>
@@ -621,10 +633,6 @@
   <lastmod>2026-07-20</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/sql-server-2022/</loc>
-  <lastmod>2026-07-20</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
   <lastmod>2026-07-19</lastmod>
 </url>
@@ -662,14 +670,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/jetbrains/</loc>
-  <lastmod>2026-07-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/sql-server-2019/</loc>
-  <lastmod>2026-07-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/sql-server-2017/</loc>
   <lastmod>2026-07-17</lastmod>
 </url>
 <url>
@@ -1745,11 +1745,11 @@
   <lastmod>2025-08-21</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
+  <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
   <lastmod>2025-08-20</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
+  <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
   <lastmod>2025-08-20</lastmod>
 </url>
 <url>

@@ -12,8 +12,43 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Thu, 10 Sep 2026 01:24:36 GMT</pubDate>
+    <pubDate>Thu, 10 Sep 2026 06:27:32 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>Microsoft SQL Server 2025 RTM GDR &amp; CU8 (2026 年 9 月安全更新)</title>
+      <link>https://sysin.org/blog/sql-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2025/</guid>
+      <pubDate>Thu, 10 Sep 2026 05:06:25 GMT</pubDate>
+      <description>SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</description>
+    </item>
+    <item>
+      <title>Microsoft SQL Server 2022 RTM GDR &amp; CU26 (2026 年 9 月安全更新)</title>
+      <link>https://sysin.org/blog/sql-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2022/</guid>
+      <pubDate>Thu, 10 Sep 2026 05:06:22 GMT</pubDate>
+      <description>SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</description>
+    </item>
+    <item>
+      <title>Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 9 月安全更新)</title>
+      <link>https://sysin.org/blog/sql-server-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2019/</guid>
+      <pubDate>Thu, 10 Sep 2026 05:06:19 GMT</pubDate>
+      <description>SQL Server 2019 新增大数据群集、数据虚拟化和智能性能优化，提升数据分析、查询效率及跨平台数据整合能力。</description>
+    </item>
+    <item>
+      <title>Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 9 月安全更新)</title>
+      <link>https://sysin.org/blog/sql-server-2017/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2017/</guid>
+      <pubDate>Thu, 10 Sep 2026 05:06:17 GMT</pubDate>
+      <description>SQL Server 2017 首次支持 Windows、Linux 和 Docker 跨平台部署，并新增自适应查询处理、图形数据库及 Python 集成等功能。</description>
+    </item>
+    <item>
+      <title>Microsoft Exchange Server SE RTM (September 2026 SU10) - 本地部署的企业级电子邮件解决方案</title>
+      <link>https://sysin.org/blog/exchange-server-se/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/exchange-server-se/</guid>
+      <pubDate>Thu, 10 Sep 2026 05:01:10 GMT</pubDate>
+      <description>Exchange Server SE 是 Microsoft 面向订阅模式推出的新一代 Exchange Server，提供本地部署的企业邮件、日历、联系人及协作服务，并采用持续更新的产品生命周期模式。</description>
+    </item>
     <item>
       <title>Xcode 27 RC (27A266a) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
       <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
@@ -188,41 +223,6 @@
       <guid>https://sysin.org/blog/office-2024/</guid>
       <pubDate>Wed, 02 Sep 2026 01:05:27 GMT</pubDate>
       <description>Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</description>
-    </item>
-    <item>
-      <title>Microsoft Office 2021 VL 16.0.14334.20906 中英文版 ISO 下载 (2026 年 9 月更新)</title>
-      <link>https://sysin.org/blog/office-2021/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/office-2021/</guid>
-      <pubDate>Wed, 02 Sep 2026 01:05:22 GMT</pubDate>
-      <description>Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</description>
-    </item>
-    <item>
-      <title>Microsoft Office 2019 VL 16.0.10417.20207 中英文版 ISO 下载 (2026 年 9 月更新)</title>
-      <link>https://sysin.org/blog/office-2019/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/office-2019/</guid>
-      <pubDate>Wed, 02 Sep 2026 01:05:09 GMT</pubDate>
-      <description>Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</description>
-    </item>
-    <item>
-      <title>DBeaver 26.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具</title>
-      <link>https://sysin.org/blog/dbeaver/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/dbeaver/</guid>
-      <pubDate>Tue, 01 Sep 2026 01:38:50 GMT</pubDate>
-      <description>DBeaver 26 是一款跨平台通用数据库管理工具，支持数百种 SQL、NoSQL 和云数据库，提供 SQL 编辑、数据浏览、数据库管理、数据迁移、分析和报表等功能，满足开发、管理与数据分析等专业需求。</description>
-    </item>
-    <item>
-      <title>Fusion Studio 21.1 (macOS, Windows) - 视觉特效、3D、VR 及动态图形解决方案</title>
-      <link>https://sysin.org/blog/blackmagic-design-fusion/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/blackmagic-design-fusion/</guid>
-      <pubDate>Tue, 01 Sep 2026 01:33:32 GMT</pubDate>
-      <description>Fusion 是一款先进的合成软件，它被广泛应用于视觉特效、广电影视设计、动态图形设计以及 3D 动画设计等领域。</description>
-    </item>
-    <item>
-      <title>DaVinci Resolve Studio 21.0 (macOS, Windows) - 剪辑、调色、特效和音频后期制作</title>
-      <link>https://sysin.org/blog/blackmagic-design-davinci-resolve/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/blackmagic-design-davinci-resolve/</guid>
-      <pubDate>Tue, 01 Sep 2026 01:33:26 GMT</pubDate>
-      <description>DaVinci Resolve 是一款在同一个软件工具中，将剪辑、调色、视觉特效、动态图形和音频后期制作融于一身的解决方案！它采用美观新颖的界面设计，易学易用，能让新手用户快速上手操作，还能提供专业人士需要的强大性能。</description>
     </item>
   </channel>
 </rss>
