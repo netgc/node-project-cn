@@ -12,27 +12,27 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Thu, 10 Sep 2026 01:17:36 GMT</pubDate>
+    <pubDate>Thu, 10 Sep 2026 01:24:36 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>Xcode 27 RC (27A266a) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
       <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
       <guid>https://sysin.org/blog/apple-xcode-27/</guid>
-      <pubDate>Thu, 10 Sep 2026 01:17:36 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 01:08:38 GMT</pubDate>
       <description>​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 RC (26A428) Boot ISO 原版可引导映像下载</title>
       <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
       <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
-      <pubDate>Thu, 10 Sep 2026 01:17:36 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 01:08:36 GMT</pubDate>
       <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 RC (26A428) ISO、IPSW、PKG 下载</title>
       <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
       <guid>https://sysin.org/blog/macos-golden-gate/</guid>
-      <pubDate>Thu, 10 Sep 2026 01:17:26 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 01:08:26 GMT</pubDate>
       <description>macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</description>
     </item>
     <item>
@@ -43,7 +43,7 @@
       <description>SQL Server Management Studio (SSMS) 是一种集成环境，用于管理从 SQL Server 到 Azure SQL 数据库的任何 SQL 基础结构。SSMS 提供用于配置、监视和管理 SQL Server 和数据库实例的工具。</description>
     </item>
     <item>
-      <title>Visual Studio 2026 v18.10 - 适用于 Windows 上 .NET 和 C++ 开发者的最全面 IDE</title>
+      <title>Visual Studio 2026 v18.10 - Windows 平台 .NET 和 C++ 开发者的最全面 IDE</title>
       <link>https://sysin.org/blog/visual-studio-2026/?utm_source=rss</link>
       <guid>https://sysin.org/blog/visual-studio-2026/</guid>
       <pubDate>Wed, 09 Sep 2026 01:16:26 GMT</pubDate>

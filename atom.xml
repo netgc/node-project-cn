@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-09-10T01:17:36.000Z</updated>
+  <updated>2026-09-10T01:24:36.923Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -13,24 +13,24 @@
     <title>Xcode 27 RC (27A266a) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
     <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
     <id>https://sysin.org/blog/apple-xcode-27/</id>
-    <published>2026-09-10T01:17:36.000Z</published>
-    <updated>2026-09-10T01:17:36.000Z</updated>
+    <published>2026-09-10T01:08:38.000Z</published>
+    <updated>2026-09-10T01:24:36.923Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 RC (26A428) Boot ISO 原版可引导映像下载</title>
     <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
-    <published>2026-09-10T01:17:36.000Z</published>
-    <updated>2026-09-10T01:17:36.000Z</updated>
+    <published>2026-09-10T01:08:36.000Z</published>
+    <updated>2026-09-10T01:24:36.897Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 RC (26A428) ISO、IPSW、PKG 下载</title>
     <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-golden-gate/</id>
-    <published>2026-09-10T01:17:26.000Z</published>
-    <updated>2026-09-10T01:17:26.000Z</updated>
+    <published>2026-09-10T01:08:26.000Z</published>
+    <updated>2026-09-10T01:24:36.897Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
@@ -42,11 +42,11 @@
     <summary type="html">SQL Server Management Studio (SSMS) 是一种集成环境，用于管理从 SQL Server 到 Azure SQL 数据库的任何 SQL 基础结构。SSMS 提供用于配置、监视和管理 SQL Server 和数据库实例的工具。</summary>
   </entry>
   <entry>
-    <title>Visual Studio 2026 v18.10 - 适用于 Windows 上 .NET 和 C++ 开发者的最全面 IDE</title>
+    <title>Visual Studio 2026 v18.10 - Windows 平台 .NET 和 C++ 开发者的最全面 IDE</title>
     <link href="https://sysin.org/blog/visual-studio-2026/?utm_source=atom"/>
     <id>https://sysin.org/blog/visual-studio-2026/</id>
     <published>2026-09-09T01:16:26.000Z</published>
-    <updated>2026-09-09T01:16:26.000Z</updated>
+    <updated>2026-09-10T01:26:07.383Z</updated>
     <summary type="html">Visual Studio IDE 是一个创意启动板，可用于编辑、调试和生成代码，然后发布应用。除了大多数 IDE 都提供的标准编辑器和调试器之外，Visual Studio 还包括编译器、代码补全工具、图形设计器以及许多其他功能，以增强软件开发过程。</summary>
   </entry>
   <entry>

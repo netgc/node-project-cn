@@ -1,8 +1,8 @@
+https://sysin.org/blog/visual-studio-2026/
 https://sysin.org/blog/apple-xcode-27/
 https://sysin.org/blog/macos-golden-gate-boot-iso/
 https://sysin.org/blog/macos-golden-gate/
 https://sysin.org/blog/ssms/
-https://sysin.org/blog/visual-studio-2026/
 https://sysin.org/blog/install-macos-15-on-unsupported-mac/
 https://sysin.org/blog/freebsd-14/
 https://sysin.org/blog/shotcut/
