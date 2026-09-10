@@ -1,252 +1,252 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
-  <updated>2026-09-09T02:49:42.130Z</updated>
-  <id>https://sysin.cn/</id>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
+  <updated>2026-09-10T01:17:36.000Z</updated>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
+    <title>Xcode 27 RC (27A266a) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
+    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-xcode-27/</id>
+    <published>2026-09-10T01:17:36.000Z</published>
+    <updated>2026-09-10T01:17:36.000Z</updated>
+    <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
+  </entry>
+  <entry>
+    <title>macOS Golden Gate 27.0 RC (26A428) Boot ISO 原版可引导映像下载</title>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
+    <published>2026-09-10T01:17:36.000Z</published>
+    <updated>2026-09-10T01:17:36.000Z</updated>
+    <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
+  </entry>
+  <entry>
+    <title>macOS Golden Gate 27.0 RC (26A428) ISO、IPSW、PKG 下载</title>
+    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
+    <published>2026-09-10T01:17:26.000Z</published>
+    <updated>2026-09-10T01:17:26.000Z</updated>
+    <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
+  </entry>
+  <entry>
     <title>SQL Server Management Studio (SSMS) 22.10 - 微软数据库管理工具</title>
-    <link href="https://sysin.cn/blog/ssms/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ssms/</id>
+    <link href="https://sysin.org/blog/ssms/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ssms/</id>
     <published>2026-09-09T01:16:50.000Z</published>
-    <updated>2026-09-09T02:49:42.130Z</updated>
+    <updated>2026-09-09T01:16:50.000Z</updated>
     <summary type="html">SQL Server Management Studio (SSMS) 是一种集成环境，用于管理从 SQL Server 到 Azure SQL 数据库的任何 SQL 基础结构。SSMS 提供用于配置、监视和管理 SQL Server 和数据库实例的工具。</summary>
   </entry>
   <entry>
     <title>Visual Studio 2026 v18.10 - 适用于 Windows 上 .NET 和 C++ 开发者的最全面 IDE</title>
-    <link href="https://sysin.cn/blog/visual-studio-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/visual-studio-2026/</id>
+    <link href="https://sysin.org/blog/visual-studio-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/visual-studio-2026/</id>
     <published>2026-09-09T01:16:26.000Z</published>
-    <updated>2026-09-09T02:53:21.732Z</updated>
+    <updated>2026-09-09T01:16:26.000Z</updated>
     <summary type="html">Visual Studio IDE 是一个创意启动板，可用于编辑、调试和生成代码，然后发布应用。除了大多数 IDE 都提供的标准编辑器和调试器之外，Visual Studio 还包括编译器、代码补全工具、图形设计器以及许多其他功能，以增强软件开发过程。</summary>
   </entry>
   <entry>
     <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.5.0)</title>
-    <link href="https://sysin.cn/blog/install-macos-15-on-unsupported-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</id>
+    <link href="https://sysin.org/blog/install-macos-15-on-unsupported-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</id>
     <published>2026-09-08T01:20:00.000Z</published>
-    <updated>2026-09-08T07:16:14.567Z</updated>
+    <updated>2026-09-08T01:20:00.000Z</updated>
     <summary type="html">使用 OpenCore Legacy Patcher 在不受支持的 Mac 上安装 macOS Sequoia 15 的完整教程，涵盖安装准备、引导配置、补丁应用和系统优化步骤。</summary>
   </entry>
   <entry>
     <title>FreeBSD 14.5 正式版发布 - 强大的 BSD UNIX 发行版</title>
-    <link href="https://sysin.cn/blog/freebsd-14/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/freebsd-14/</id>
+    <link href="https://sysin.org/blog/freebsd-14/?utm_source=atom"/>
+    <id>https://sysin.org/blog/freebsd-14/</id>
     <published>2026-09-08T01:19:43.000Z</published>
-    <updated>2026-09-08T03:39:30.673Z</updated>
+    <updated>2026-09-08T01:19:43.000Z</updated>
     <summary type="html">FreeBSD 14 支持最高 1024 核 CPU，bhyve 支持 TPM 与 GPU 直通，OpenZFS 更新至 2.2，OpenSSL 更新至 3.0，OpenSSH 更新至 9.5，并新增 UFS 后台检查、TCP CUBIC、ZFS Block Cloning、BLAKE3 等特性。</summary>
   </entry>
   <entry>
     <title>Shotcut 26.9 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-    <link href="https://sysin.cn/blog/shotcut/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/shotcut/</id>
+    <link href="https://sysin.org/blog/shotcut/?utm_source=atom"/>
+    <id>https://sysin.org/blog/shotcut/</id>
     <published>2026-09-07T05:09:55.000Z</published>
-    <updated>2026-09-08T02:04:19.084Z</updated>
+    <updated>2026-09-07T05:09:55.000Z</updated>
     <summary type="html">Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</summary>
   </entry>
   <entry>
     <title>VMware Workstation Pro 26H1u1 macOS Unlocker &amp; OEM BIOS 2.7 for Linux 定制版</title>
-    <link href="https://sysin.cn/blog/vmware-workstation-unlocker-linux/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-workstation-unlocker-linux/</id>
+    <link href="https://sysin.org/blog/vmware-workstation-unlocker-linux/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-workstation-unlocker-linux/</id>
     <published>2026-09-05T01:16:10.000Z</published>
-    <updated>2026-09-06T02:16:20.910Z</updated>
+    <updated>2026-09-05T01:16:10.000Z</updated>
     <summary type="html">最新 VMware Workstation for Linux 定制版发布！macOS Unlocker 支持 macOS Tohoe，Dell 2.7 BIOS EFI64 ROM 支持 Windows Server 2025。</summary>
   </entry>
   <entry>
     <title>VMware Workstation Pro 26H1u1 macOS Unlocker &amp; OEM BIOS 2.7 for Windows 定制版</title>
-    <link href="https://sysin.cn/blog/vmware-workstation-unlocker-windows/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-workstation-unlocker-windows/</id>
+    <link href="https://sysin.org/blog/vmware-workstation-unlocker-windows/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-workstation-unlocker-windows/</id>
     <published>2026-09-05T01:16:08.000Z</published>
-    <updated>2026-09-06T02:16:25.543Z</updated>
+    <updated>2026-09-05T01:16:08.000Z</updated>
     <summary type="html">最新 VMware Workstation for Windows 定制版发布！macOS Unlocker 支持 macOS Tohoe，Dell 2.7 BIOS EFI64 ROM 支持 Windows Server 2025。</summary>
   </entry>
   <entry>
     <title>VMware Workstation Pro 26H1u1 macOS Unlocker &amp; OEM BIOS 2.7 定制版</title>
-    <link href="https://sysin.cn/blog/vmware-workstation-unlocker/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-workstation-unlocker/</id>
+    <link href="https://sysin.org/blog/vmware-workstation-unlocker/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-workstation-unlocker/</id>
     <published>2026-09-05T01:16:05.000Z</published>
-    <updated>2026-09-06T02:16:29.796Z</updated>
+    <updated>2026-09-05T01:16:05.000Z</updated>
     <summary type="html">最新 VMware Workstation 定制版发布！macOS Unlocker 支持 macOS Tohoe，Dell 2.7 BIOS EFI64 ROM 支持 Windows Server 2025。</summary>
   </entry>
   <entry>
     <title>VMware Workstation Pro 26H1u1 发布 - 领先的免费桌面虚拟化软件</title>
-    <link href="https://sysin.cn/blog/vmware-workstation/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-workstation/</id>
+    <link href="https://sysin.org/blog/vmware-workstation/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-workstation/</id>
     <published>2026-09-05T01:16:00.000Z</published>
-    <updated>2026-09-06T01:49:16.845Z</updated>
+    <updated>2026-09-05T01:16:00.000Z</updated>
     <summary type="html">VMware Workstation Pro 26H1u1 现在免费！VMware Workstation Pro 是行业标准桌面 Hypervisor，使用它可在 Windows 或 Linux 桌面上运行 Windows、Linux 和 BSD 虚拟机。</summary>
   </entry>
   <entry>
     <title>VMware Fusion 26H1u1 OEM BIOS 2.7 定制版</title>
-    <link href="https://sysin.cn/blog/vmware-fusion-oem/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-fusion-oem/</id>
+    <link href="https://sysin.org/blog/vmware-fusion-oem/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-fusion-oem/</id>
     <published>2026-09-05T01:15:05.000Z</published>
-    <updated>2026-09-06T02:06:38.693Z</updated>
+    <updated>2026-09-05T01:15:05.000Z</updated>
     <summary type="html">VMware Fusion 26H1u1 OEM BIOS 2.7 定制版在原版 App 中集成 OEM BIOS，是在 macOS 中运行 Windows 虚拟机的最佳方式。</summary>
   </entry>
   <entry>
     <title>VMware Fusion 26H1u1 for Mac - 领先的免费桌面虚拟化软件</title>
-    <link href="https://sysin.cn/blog/vmware-fusion/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-fusion/</id>
+    <link href="https://sysin.org/blog/vmware-fusion/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-fusion/</id>
     <published>2026-09-05T01:15:00.000Z</published>
-    <updated>2026-09-05T07:22:59.553Z</updated>
+    <updated>2026-09-05T01:15:00.000Z</updated>
     <summary type="html">使用最新的 VMware Fusion 26H1u1 在虚拟机 (VM) 中运行 Windows、Linux、容器、Kubernetes 等而无需重新启动，充分利用 Mac 的强大功能。</summary>
   </entry>
   <entry>
     <title>VMware Tools 13.1.5 发布 - 虚拟机无缝交互必备组件</title>
-    <link href="https://sysin.cn/blog/vmware-tools-13/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-tools-13/</id>
+    <link href="https://sysin.org/blog/vmware-tools-13/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-tools-13/</id>
     <published>2026-09-05T01:09:10.000Z</published>
     <updated>2026-09-05T01:09:10.000Z</updated>
     <summary type="html">VMware Tools 是一套安装在虚拟机的操作系统中的实用程序。VMware Tools 可提高虚拟机的性能，并在 VMware 产品中实现主机与客户机便捷的交互功能。</summary>
   </entry>
   <entry>
     <title>Binary Ninja 6.0.10601 (macOS, Linux, Windows) - 逆向平台</title>
-    <link href="https://sysin.cn/blog/binary-ninja-6/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/binary-ninja-6/</id>
+    <link href="https://sysin.org/blog/binary-ninja-6/?utm_source=atom"/>
+    <id>https://sysin.org/blog/binary-ninja-6/</id>
     <published>2026-09-04T01:06:06.000Z</published>
     <updated>2026-09-04T01:06:06.000Z</updated>
     <summary type="html">Binary Ninja 6.0（Krypton）正式发布，带来全新 MCP 服务器、二进制相似性、扩展管理器、TMS320C6x 架构、Python 3.13、性能优化及调试器改进等众多新功能。</summary>
   </entry>
   <entry>
     <title>Audacity 4.0 (Linux, macOS, Windows) - 开源音频编辑器和录音工具</title>
-    <link href="https://sysin.cn/blog/audacity/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/audacity/</id>
+    <link href="https://sysin.org/blog/audacity/?utm_source=atom"/>
+    <id>https://sysin.org/blog/audacity/</id>
     <published>2026-09-04T01:03:07.000Z</published>
     <updated>2026-09-04T01:03:07.000Z</updated>
     <summary type="html">Audacity 4 具备直观的操作逻辑、可自定义配置能力，相比过往版本灵活性显著增强。新增特性包含更新后的用户界面、工作空间模块，以及多项生产效率改进。‌</summary>
   </entry>
   <entry>
     <title>WPS Office for Mac 2026 秋季更新 12.1.28492 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps-for-mac/</id>
+    <link href="https://sysin.org/blog/wps-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps-for-mac/</id>
     <published>2026-09-03T01:12:08.000Z</published>
     <updated>2026-09-03T01:12:08.000Z</updated>
     <summary type="html">WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</summary>
   </entry>
   <entry>
     <title>WPS Office for Windows 2026 秋季更新 12.1.0.28488 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps/</id>
+    <link href="https://sysin.org/blog/wps/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps/</id>
     <published>2026-09-03T01:12:05.000Z</published>
     <updated>2026-09-03T01:12:05.000Z</updated>
     <summary type="html">WPS Office 是一款免费、高效的办公软件套件，兼具智能化功能、流畅体验，并与 Microsoft Office 格式无缝兼容，轻松满足文档、表格和演示等办公需求。</summary>
   </entry>
   <entry>
     <title>UTM 5.0.5 beta - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-    <link href="https://sysin.cn/blog/utm-5/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/utm-5/</id>
+    <link href="https://sysin.org/blog/utm-5/?utm_source=atom"/>
+    <id>https://sysin.org/blog/utm-5/</id>
     <published>2026-09-02T01:20:05.000Z</published>
     <updated>2026-09-02T01:20:05.000Z</updated>
     <summary type="html">UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</summary>
   </entry>
   <entry>
     <title>DBeaver 26.2 Multilingual (macOS, Linux, Windows) - 通用数据库工具</title>
-    <link href="https://sysin.cn/blog/dbeaver/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/dbeaver/</id>
+    <link href="https://sysin.org/blog/dbeaver/?utm_source=atom"/>
+    <id>https://sysin.org/blog/dbeaver/</id>
     <published>2026-09-01T01:38:50.000Z</published>
-    <updated>2026-09-08T02:58:26.383Z</updated>
+    <updated>2026-09-01T01:38:50.000Z</updated>
     <summary type="html">DBeaver 26 是一款跨平台通用数据库管理工具，支持数百种 SQL、NoSQL 和云数据库，提供 SQL 编辑、数据浏览、数据库管理、数据迁移、分析和报表等功能，满足开发、管理与数据分析等专业需求。</summary>
   </entry>
   <entry>
     <title>Fusion Studio 21.1 (macOS, Windows) - 视觉特效、3D、VR 及动态图形解决方案</title>
-    <link href="https://sysin.cn/blog/blackmagic-design-fusion/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/blackmagic-design-fusion/</id>
+    <link href="https://sysin.org/blog/blackmagic-design-fusion/?utm_source=atom"/>
+    <id>https://sysin.org/blog/blackmagic-design-fusion/</id>
     <published>2026-09-01T01:33:32.000Z</published>
-    <updated>2026-09-09T01:50:58.068Z</updated>
+    <updated>2026-09-01T01:33:32.000Z</updated>
     <summary type="html">Fusion 是一款先进的合成软件，它被广泛应用于视觉特效、广电影视设计、动态图形设计以及 3D 动画设计等领域。</summary>
   </entry>
   <entry>
     <title>DaVinci Resolve Studio 21.0 (macOS, Windows) - 剪辑、调色、特效和音频后期制作</title>
-    <link href="https://sysin.cn/blog/blackmagic-design-davinci-resolve/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/blackmagic-design-davinci-resolve/</id>
+    <link href="https://sysin.org/blog/blackmagic-design-davinci-resolve/?utm_source=atom"/>
+    <id>https://sysin.org/blog/blackmagic-design-davinci-resolve/</id>
     <published>2026-09-01T01:33:26.000Z</published>
-    <updated>2026-09-09T01:50:40.763Z</updated>
+    <updated>2026-09-01T01:33:26.000Z</updated>
     <summary type="html">DaVinci Resolve 是一款在同一个软件工具中，将剪辑、调色、视觉特效、动态图形和音频后期制作融于一身的解决方案！它采用美观新颖的界面设计，易学易用，能让新手用户快速上手操作，还能提供专业人士需要的强大性能。</summary>
   </entry>
   <entry>
     <title>Adobe Premiere Pro 2026 v26.5 (macOS, Windows) - 专业视频编辑</title>
-    <link href="https://sysin.cn/blog/adobe-premiere-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/adobe-premiere-pro/</id>
+    <link href="https://sysin.org/blog/adobe-premiere-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/adobe-premiere-pro/</id>
     <published>2026-09-01T01:19:28.000Z</published>
-    <updated>2026-09-09T01:52:57.692Z</updated>
+    <updated>2026-09-01T01:19:28.000Z</updated>
     <summary type="html">Adobe Premiere Pro 是专业非线性视频编辑软件，支持多轨时间线编辑、多格式媒体处理、音频编辑、Lumetri 色彩校正、字幕制作、视觉效果和 Adobe Creative Cloud 工作流集成，用于影视、视频和媒体内容制作。</summary>
   </entry>
   <entry>
     <title>Adobe After Effects 2026 v26.5 (macOS, Windows) - 后期特效</title>
-    <link href="https://sysin.cn/blog/adobe-after-effects/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/adobe-after-effects/</id>
+    <link href="https://sysin.org/blog/adobe-after-effects/?utm_source=atom"/>
+    <id>https://sysin.org/blog/adobe-after-effects/</id>
     <published>2026-09-01T01:19:18.000Z</published>
-    <updated>2026-09-09T01:53:11.461Z</updated>
+    <updated>2026-09-01T01:19:18.000Z</updated>
     <summary type="html">Adobe After Effects 是专业动态图形与视觉特效制作软件，支持二维和三维合成、动画、运动跟踪、抠像、特效处理、表达式控制和视频渲染，用于影视后期、动画设计和数字内容制作。</summary>
   </entry>
   <entry>
     <title>Adobe Media Encoder 2026 v26.5 (macOS, Windows) - 格式转换</title>
-    <link href="https://sysin.cn/blog/adobe-media-encoder/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/adobe-media-encoder/</id>
+    <link href="https://sysin.org/blog/adobe-media-encoder/?utm_source=atom"/>
+    <id>https://sysin.org/blog/adobe-media-encoder/</id>
     <published>2026-09-01T01:18:19.000Z</published>
-    <updated>2026-09-09T01:53:02.979Z</updated>
+    <updated>2026-09-01T01:18:19.000Z</updated>
     <summary type="html">Adobe Media Encoder 是媒体编码与转码工具，支持视频和音频格式转换、批量编码、输出队列管理、编码预设和自动化处理，可与 Premiere Pro、After Effects 等应用集成用于媒体输出工作流。</summary>
   </entry>
   <entry>
     <title>Adobe Audition 2026 v26.5 (macOS, Windows) - 音频录制和编辑</title>
-    <link href="https://sysin.cn/blog/adobe-audition/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/adobe-audition/</id>
+    <link href="https://sysin.org/blog/adobe-audition/?utm_source=atom"/>
+    <id>https://sysin.org/blog/adobe-audition/</id>
     <published>2026-09-01T01:18:18.000Z</published>
-    <updated>2026-09-09T01:53:08.422Z</updated>
+    <updated>2026-09-01T01:18:18.000Z</updated>
     <summary type="html">dobe Audition 是专业数字音频工作站软件，支持波形编辑、多轨录音、混音、音频修复、降噪、频谱分析、音效处理和批量处理功能，用于音频制作、声音设计和视频后期音频处理。</summary>
   </entry>
   <entry>
-    <title>macOS Golden Gate 27.0 beta 8 (26A5425a) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
-    <published>2026-09-01T01:17:36.000Z</published>
-    <updated>2026-09-01T01:17:36.000Z</updated>
-    <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
-  </entry>
-  <entry>
-    <title>macOS Golden Gate 27.0 beta 8 (26A5425a) ISO、IPSW、PKG 下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate/</id>
-    <published>2026-09-01T01:17:26.000Z</published>
-    <updated>2026-09-01T01:17:26.000Z</updated>
-    <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
-  </entry>
-  <entry>
     <title>Splunk Enterprise 10.4.3 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-    <link href="https://sysin.cn/blog/splunk-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/splunk-10/</id>
+    <link href="https://sysin.org/blog/splunk-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/splunk-10/</id>
     <published>2026-09-01T01:15:10.000Z</published>
-    <updated>2026-09-05T06:06:02.866Z</updated>
+    <updated>2026-09-01T01:15:10.000Z</updated>
     <summary type="html">Splunk Enterprise 对所有数据进行搜索、分析和可视化，获得可执行的洞察。Splunk AI 功能解锁更深入的洞察，加速人类决策与威胁响应。</summary>
   </entry>
   <entry>
     <title>Splunk Enterprise 9.4.15 (macOS, Linux, Windows) - 机器数据管理和分析</title>
-    <link href="https://sysin.cn/blog/splunk-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/splunk-9/</id>
+    <link href="https://sysin.org/blog/splunk-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/splunk-9/</id>
     <published>2026-09-01T01:15:09.000Z</published>
     <updated>2026-09-01T01:15:09.000Z</updated>
     <summary type="html">Splunk® Enterprise 了解您的企业正在发生什么，并迅速采取有意义的行动，通过直观的机器学习分析将数据转化为答案。</summary>
   </entry>
   <entry>
     <title>Studio 3T 2026.13 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-    <link href="https://sysin.cn/blog/studio-3t/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/studio-3t/</id>
+    <link href="https://sysin.org/blog/studio-3t/?utm_source=atom"/>
+    <id>https://sysin.org/blog/studio-3t/</id>
     <published>2026-09-01T01:12:00.000Z</published>
     <updated>2026-09-01T01:12:00.000Z</updated>
     <summary type="html">Studio 3T 是专为 MongoDB 打造的全功能 GUI、IDE 和客户端，提供完整的 MongoDB 开发与管理体验，适用于 Atlas 及任何 MongoDB 部署环境。</summary>
-  </entry>
-  <entry>
-    <title>Firefox 155, Chrome 155, Chromium 155 (macOS, Linux, Windows) 离线下载</title>
-    <link href="https://sysin.cn/blog/chrome-firefox-download/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/chrome-firefox-download/</id>
-    <published>2026-09-01T01:11:00.000Z</published>
-    <updated>2026-09-01T01:11:00.000Z</updated>
-    <summary type="html">天下只剩三种（主流）浏览器：Apple Safari、Mozilla Firefox 和 Google Chrome（Chromium）。</summary>
   </entry>
 </feed>
