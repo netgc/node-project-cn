@@ -4,225 +4,225 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Thu, 10 Sep 2026 06:27:32 GMT</pubDate>
+    <pubDate>Fri, 11 Sep 2026 01:36:17 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
+      <title>Microsoft Office 2024 VL 16.0.17932.20976 中英文版 ISO 下载 (2026 年 9 月更新)</title>
+      <link>https://sysin.org/blog/office-2024/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:05:27 GMT</pubDate>
+      <description>Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</description>
+    </item>
+    <item>
+      <title>Microsoft Office 2021 VL 16.0.14334.20906 中英文版 ISO 下载 (2026 年 9 月更新)</title>
+      <link>https://sysin.org/blog/office-2021/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2021/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:05:22 GMT</pubDate>
+      <description>Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</description>
+    </item>
+    <item>
+      <title>Microsoft Office 2019 VL 16.0.10417.20207 中英文版 ISO 下载 (2026 年 9 月更新)</title>
+      <link>https://sysin.org/blog/office-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2019/</guid>
+      <pubDate>Fri, 11 Sep 2026 01:05:09 GMT</pubDate>
+      <description>Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</description>
+    </item>
+    <item>
       <title>Microsoft SQL Server 2025 RTM GDR &amp; CU8 (2026 年 9 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2025/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2025/</guid>
+      <link>https://sysin.org/blog/sql-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2025/</guid>
       <pubDate>Thu, 10 Sep 2026 05:06:25 GMT</pubDate>
       <description>SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2022 RTM GDR &amp; CU26 (2026 年 9 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2022/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2022/</guid>
+      <link>https://sysin.org/blog/sql-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2022/</guid>
       <pubDate>Thu, 10 Sep 2026 05:06:22 GMT</pubDate>
       <description>SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 9 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2019/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2019/</guid>
+      <link>https://sysin.org/blog/sql-server-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2019/</guid>
       <pubDate>Thu, 10 Sep 2026 05:06:19 GMT</pubDate>
       <description>SQL Server 2019 新增大数据群集、数据虚拟化和智能性能优化，提升数据分析、查询效率及跨平台数据整合能力。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 9 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2017/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2017/</guid>
+      <link>https://sysin.org/blog/sql-server-2017/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2017/</guid>
       <pubDate>Thu, 10 Sep 2026 05:06:17 GMT</pubDate>
       <description>SQL Server 2017 首次支持 Windows、Linux 和 Docker 跨平台部署，并新增自适应查询处理、图形数据库及 Python 集成等功能。</description>
     </item>
     <item>
       <title>Microsoft Exchange Server SE RTM (September 2026 SU10) - 本地部署的企业级电子邮件解决方案</title>
-      <link>https://sysin.cn/blog/exchange-server-se/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/exchange-server-se/</guid>
+      <link>https://sysin.org/blog/exchange-server-se/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/exchange-server-se/</guid>
       <pubDate>Thu, 10 Sep 2026 05:01:10 GMT</pubDate>
       <description>Exchange Server SE 是 Microsoft 面向订阅模式推出的新一代 Exchange Server，提供本地部署的企业邮件、日历、联系人及协作服务，并采用持续更新的产品生命周期模式。</description>
     </item>
     <item>
       <title>Xcode 27 RC (27A266a) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-      <link>https://sysin.cn/blog/apple-xcode-27/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-xcode-27/</guid>
+      <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-xcode-27/</guid>
       <pubDate>Thu, 10 Sep 2026 01:08:38 GMT</pubDate>
       <description>​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 RC (26A428) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
       <pubDate>Thu, 10 Sep 2026 01:08:36 GMT</pubDate>
       <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 RC (26A428) ISO、IPSW、PKG 下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
       <pubDate>Thu, 10 Sep 2026 01:08:26 GMT</pubDate>
       <description>macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</description>
     </item>
     <item>
       <title>SQL Server Management Studio (SSMS) 22.10 - 微软数据库管理工具</title>
-      <link>https://sysin.cn/blog/ssms/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ssms/</guid>
+      <link>https://sysin.org/blog/ssms/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ssms/</guid>
       <pubDate>Wed, 09 Sep 2026 01:16:50 GMT</pubDate>
       <description>SQL Server Management Studio (SSMS) 是一种集成环境，用于管理从 SQL Server 到 Azure SQL 数据库的任何 SQL 基础结构。SSMS 提供用于配置、监视和管理 SQL Server 和数据库实例的工具。</description>
     </item>
     <item>
       <title>Visual Studio 2026 v18.10 - Windows 平台 .NET 和 C++ 开发者的最全面 IDE</title>
-      <link>https://sysin.cn/blog/visual-studio-2026/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/visual-studio-2026/</guid>
+      <link>https://sysin.org/blog/visual-studio-2026/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/visual-studio-2026/</guid>
       <pubDate>Wed, 09 Sep 2026 01:16:26 GMT</pubDate>
       <description>Visual Studio IDE 是一个创意启动板，可用于编辑、调试和生成代码，然后发布应用。除了大多数 IDE 都提供的标准编辑器和调试器之外，Visual Studio 还包括编译器、代码补全工具、图形设计器以及许多其他功能，以增强软件开发过程。</description>
     </item>
     <item>
       <title>在不受支持的 Mac 上安装 macOS Sequoia (OpenCore Legacy Patcher v2.5.0)</title>
-      <link>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/install-macos-15-on-unsupported-mac/</guid>
+      <link>https://sysin.org/blog/install-macos-15-on-unsupported-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</guid>
       <pubDate>Tue, 08 Sep 2026 01:20:00 GMT</pubDate>
       <description>使用 OpenCore Legacy Patcher 在不受支持的 Mac 上安装 macOS Sequoia 15 的完整教程，涵盖安装准备、引导配置、补丁应用和系统优化步骤。</description>
     </item>
     <item>
       <title>FreeBSD 14.5 正式版发布 - 强大的 BSD UNIX 发行版</title>
-      <link>https://sysin.cn/blog/freebsd-14/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/freebsd-14/</guid>
+      <link>https://sysin.org/blog/freebsd-14/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/freebsd-14/</guid>
       <pubDate>Tue, 08 Sep 2026 01:19:43 GMT</pubDate>
       <description>FreeBSD 14 支持最高 1024 核 CPU，bhyve 支持 TPM 与 GPU 直通，OpenZFS 更新至 2.2，OpenSSL 更新至 3.0，OpenSSH 更新至 9.5，并新增 UFS 后台检查、TCP CUBIC、ZFS Block Cloning、BLAKE3 等特性。</description>
     </item>
     <item>
       <title>Shotcut 26.9 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-      <link>https://sysin.cn/blog/shotcut/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/shotcut/</guid>
+      <link>https://sysin.org/blog/shotcut/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/shotcut/</guid>
       <pubDate>Mon, 07 Sep 2026 05:09:55 GMT</pubDate>
       <description>Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</description>
     </item>
     <item>
       <title>VMware Workstation Pro 26H1u1 macOS Unlocker &amp; OEM BIOS 2.7 for Linux 定制版</title>
-      <link>https://sysin.cn/blog/vmware-workstation-unlocker-linux/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-workstation-unlocker-linux/</guid>
+      <link>https://sysin.org/blog/vmware-workstation-unlocker-linux/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-workstation-unlocker-linux/</guid>
       <pubDate>Sat, 05 Sep 2026 01:16:10 GMT</pubDate>
       <description>最新 VMware Workstation for Linux 定制版发布！macOS Unlocker 支持 macOS Tohoe，Dell 2.7 BIOS EFI64 ROM 支持 Windows Server 2025。</description>
     </item>
     <item>
       <title>VMware Workstation Pro 26H1u1 macOS Unlocker &amp; OEM BIOS 2.7 for Windows 定制版</title>
-      <link>https://sysin.cn/blog/vmware-workstation-unlocker-windows/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-workstation-unlocker-windows/</guid>
+      <link>https://sysin.org/blog/vmware-workstation-unlocker-windows/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-workstation-unlocker-windows/</guid>
       <pubDate>Sat, 05 Sep 2026 01:16:08 GMT</pubDate>
       <description>最新 VMware Workstation for Windows 定制版发布！macOS Unlocker 支持 macOS Tohoe，Dell 2.7 BIOS EFI64 ROM 支持 Windows Server 2025。</description>
     </item>
     <item>
       <title>VMware Workstation Pro 26H1u1 macOS Unlocker &amp; OEM BIOS 2.7 定制版</title>
-      <link>https://sysin.cn/blog/vmware-workstation-unlocker/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-workstation-unlocker/</guid>
+      <link>https://sysin.org/blog/vmware-workstation-unlocker/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-workstation-unlocker/</guid>
       <pubDate>Sat, 05 Sep 2026 01:16:05 GMT</pubDate>
       <description>最新 VMware Workstation 定制版发布！macOS Unlocker 支持 macOS Tohoe，Dell 2.7 BIOS EFI64 ROM 支持 Windows Server 2025。</description>
     </item>
     <item>
       <title>VMware Workstation Pro 26H1u1 发布 - 领先的免费桌面虚拟化软件</title>
-      <link>https://sysin.cn/blog/vmware-workstation/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-workstation/</guid>
+      <link>https://sysin.org/blog/vmware-workstation/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-workstation/</guid>
       <pubDate>Sat, 05 Sep 2026 01:16:00 GMT</pubDate>
       <description>VMware Workstation Pro 26H1u1 现在免费！VMware Workstation Pro 是行业标准桌面 Hypervisor，使用它可在 Windows 或 Linux 桌面上运行 Windows、Linux 和 BSD 虚拟机。</description>
     </item>
     <item>
       <title>VMware Fusion 26H1u1 OEM BIOS 2.7 定制版</title>
-      <link>https://sysin.cn/blog/vmware-fusion-oem/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-fusion-oem/</guid>
+      <link>https://sysin.org/blog/vmware-fusion-oem/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-fusion-oem/</guid>
       <pubDate>Sat, 05 Sep 2026 01:15:05 GMT</pubDate>
       <description>VMware Fusion 26H1u1 OEM BIOS 2.7 定制版在原版 App 中集成 OEM BIOS，是在 macOS 中运行 Windows 虚拟机的最佳方式。</description>
     </item>
     <item>
       <title>VMware Fusion 26H1u1 for Mac - 领先的免费桌面虚拟化软件</title>
-      <link>https://sysin.cn/blog/vmware-fusion/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-fusion/</guid>
+      <link>https://sysin.org/blog/vmware-fusion/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-fusion/</guid>
       <pubDate>Sat, 05 Sep 2026 01:15:00 GMT</pubDate>
       <description>使用最新的 VMware Fusion 26H1u1 在虚拟机 (VM) 中运行 Windows、Linux、容器、Kubernetes 等而无需重新启动，充分利用 Mac 的强大功能。</description>
     </item>
     <item>
       <title>VMware Tools 13.1.5 发布 - 虚拟机无缝交互必备组件</title>
-      <link>https://sysin.cn/blog/vmware-tools-13/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware-tools-13/</guid>
+      <link>https://sysin.org/blog/vmware-tools-13/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-tools-13/</guid>
       <pubDate>Sat, 05 Sep 2026 01:09:10 GMT</pubDate>
       <description>VMware Tools 是一套安装在虚拟机的操作系统中的实用程序。VMware Tools 可提高虚拟机的性能，并在 VMware 产品中实现主机与客户机便捷的交互功能。</description>
     </item>
     <item>
       <title>Binary Ninja 6.0.10601 (macOS, Linux, Windows) - 逆向平台</title>
-      <link>https://sysin.cn/blog/binary-ninja-6/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/binary-ninja-6/</guid>
+      <link>https://sysin.org/blog/binary-ninja-6/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/binary-ninja-6/</guid>
       <pubDate>Fri, 04 Sep 2026 01:06:06 GMT</pubDate>
       <description>Binary Ninja 6.0（Krypton）正式发布，带来全新 MCP 服务器、二进制相似性、扩展管理器、TMS320C6x 架构、Python 3.13、性能优化及调试器改进等众多新功能。</description>
     </item>
     <item>
       <title>Audacity 4.0 (Linux, macOS, Windows) - 开源音频编辑器和录音工具</title>
-      <link>https://sysin.cn/blog/audacity/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/audacity/</guid>
+      <link>https://sysin.org/blog/audacity/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/audacity/</guid>
       <pubDate>Fri, 04 Sep 2026 01:03:07 GMT</pubDate>
       <description>Audacity 4 具备直观的操作逻辑、可自定义配置能力，相比过往版本灵活性显著增强。新增特性包含更新后的用户界面、工作空间模块，以及多项生产效率改进。‌</description>
     </item>
     <item>
       <title>WPS Office for Mac 2026 秋季更新 12.1.28492 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps-for-mac/</guid>
+      <link>https://sysin.org/blog/wps-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps-for-mac/</guid>
       <pubDate>Thu, 03 Sep 2026 01:12:08 GMT</pubDate>
       <description>WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</description>
     </item>
     <item>
       <title>WPS Office for Windows 2026 秋季更新 12.1.0.28488 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps/</guid>
+      <link>https://sysin.org/blog/wps/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps/</guid>
       <pubDate>Thu, 03 Sep 2026 01:12:05 GMT</pubDate>
       <description>WPS Office 是一款免费、高效的办公软件套件，兼具智能化功能、流畅体验，并与 Microsoft Office 格式无缝兼容，轻松满足文档、表格和演示等办公需求。</description>
     </item>
     <item>
       <title>AppSpider 7.5.029 for Windows - Web 应用程序安全测试</title>
-      <link>https://sysin.cn/blog/appspider/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/appspider/</guid>
+      <link>https://sysin.org/blog/appspider/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/appspider/</guid>
       <pubDate>Thu, 03 Sep 2026 01:10:09 GMT</pubDate>
       <description>AppSpider 是 Rapid7 推出的动态应用安全测试（DAST）平台，支持 Web 应用和 API 自动化漏洞扫描，可检测 SQL 注入、跨站脚本（XSS）等安全问题，并生成详细修复建议，帮助企业持续提升应用安全防护能力。</description>
     </item>
     <item>
       <title>Nexpose 8.58.0 for Linux &amp; Windows - 漏洞扫描</title>
-      <link>https://sysin.cn/blog/nexpose/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nexpose/</guid>
+      <link>https://sysin.org/blog/nexpose/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nexpose/</guid>
       <pubDate>Thu, 03 Sep 2026 01:01:05 GMT</pubDate>
       <description>Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</description>
     </item>
     <item>
       <title>UTM 5.0.5 beta - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-      <link>https://sysin.cn/blog/utm-5/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/utm-5/</guid>
+      <link>https://sysin.org/blog/utm-5/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/utm-5/</guid>
       <pubDate>Wed, 02 Sep 2026 01:20:05 GMT</pubDate>
       <description>UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</description>
-    </item>
-    <item>
-      <title>Microsoft Office LTSC 2024 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2024-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024-for-mac/</guid>
-      <pubDate>Wed, 02 Sep 2026 01:16:24 GMT</pubDate>
-      <description>Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</description>
-    </item>
-    <item>
-      <title>Microsoft Office LTSC 2021 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2021-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2021-for-mac/</guid>
-      <pubDate>Wed, 02 Sep 2026 01:16:21 GMT</pubDate>
-      <description>Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</description>
-    </item>
-    <item>
-      <title>Microsoft Office 2024 VL 16.0.17932.20976 中英文版 ISO 下载 (2026 年 9 月更新)</title>
-      <link>https://sysin.cn/blog/office-2024/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024/</guid>
-      <pubDate>Wed, 02 Sep 2026 01:05:27 GMT</pubDate>
-      <description>Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</description>
     </item>
   </channel>
 </rss>
