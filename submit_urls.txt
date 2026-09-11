@@ -1,5 +1,5 @@
-https://sysin.org/blog/ubuntu-2404/
 https://sysin.org/blog/ubuntu-2404-ovf/
+https://sysin.org/blog/ubuntu-2404/
 https://sysin.org/blog/office-2024/
 https://sysin.org/blog/office-2021/
 https://sysin.org/blog/office-2019/

@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-09-11T03:03:13.187Z</updated>
+  <updated>2026-09-11T10:00:52.686Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/ubuntu-2404-ovf/?utm_source=atom"/>
     <id>https://sysin.org/blog/ubuntu-2404-ovf/</id>
     <published>2026-09-11T01:24:05.000Z</published>
-    <updated>2026-09-11T03:03:13.187Z</updated>
+    <updated>2026-09-11T10:00:52.686Z</updated>
     <summary type="html">适用于 VMware ESXi、Fusion 和 Workstaion 的 Ubuntu 24.04.5 LTS x86_64 OVF 格式虚拟机模板。</summary>
   </entry>
   <entry>
