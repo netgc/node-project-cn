@@ -3,28 +3,12 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-09-13T04:16:31.083Z</updated>
+  <updated>2026-09-13T02:19:15.858Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
-  <entry>
-    <title>Microsoft Office LTSC 2024 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.org/blog/office-2024-for-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2024-for-mac/</id>
-    <published>2026-09-13T01:16:24.000Z</published>
-    <updated>2026-09-13T04:16:31.083Z</updated>
-    <summary type="html">Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</summary>
-  </entry>
-  <entry>
-    <title>Microsoft Office LTSC 2021 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.org/blog/office-2021-for-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2021-for-mac/</id>
-    <published>2026-09-13T01:16:21.000Z</published>
-    <updated>2026-09-13T04:16:42.920Z</updated>
-    <summary type="html">Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</summary>
-  </entry>
   <entry>
     <title>Debian 13.7 Trixie 发布 - 通用操作系统</title>
     <link href="https://sysin.org/blog/debian-13/?utm_source=atom"/>
@@ -208,6 +192,22 @@
     <published>2026-09-07T05:09:55.000Z</published>
     <updated>2026-09-07T05:09:55.000Z</updated>
     <summary type="html">Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</summary>
+  </entry>
+  <entry>
+    <title>Microsoft Office LTSC 2024 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
+    <link href="https://sysin.org/blog/office-2024-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2024-for-mac/</id>
+    <published>2026-09-05T01:16:24.000Z</published>
+    <updated>2026-09-13T05:08:02.640Z</updated>
+    <summary type="html">Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</summary>
+  </entry>
+  <entry>
+    <title>Microsoft Office LTSC 2021 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
+    <link href="https://sysin.org/blog/office-2021-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2021-for-mac/</id>
+    <published>2026-09-05T01:16:21.000Z</published>
+    <updated>2026-09-13T05:08:01.263Z</updated>
+    <summary type="html">Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>VMware Workstation Pro 26H1u1 macOS Unlocker &amp; OEM BIOS 2.7 for Linux 定制版</title>
