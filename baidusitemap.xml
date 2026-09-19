@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/nexpose/</loc>
+    <loc>https://sysin.org/blog/sql-server-2022/</loc>
+    <lastmod>2026-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/sql-server-2025/</loc>
     <lastmod>2026-09-19</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
+    <lastmod>2026-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/nexpose/</loc>
     <lastmod>2026-09-19</lastmod>
   </url>
   <url>
@@ -14,14 +22,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/sql-server/</loc>
-    <lastmod>2026-09-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/sql-server-2022/</loc>
-    <lastmod>2026-09-18</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/sql-server-2025/</loc>
     <lastmod>2026-09-18</lastmod>
   </url>
   <url>
