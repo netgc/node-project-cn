@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
-  <link href="https://sysin.org/atom.xml" rel="self"/>
-  <link href="https://sysin.org/"/>
+  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
+  <link href="https://sysin.cn/atom.xml" rel="self"/>
+  <link href="https://sysin.cn/"/>
   <updated>2026-09-21T10:41:16.246Z</updated>
-  <id>https://sysin.org/</id>
+  <id>https://sysin.cn/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>Burp Suite Professional 2026.9 for macOS x64 &amp; ARM64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
+    <link href="https://sysin.cn/blog/burp-suite-pro-mac/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/burp-suite-pro-mac/</id>
     <published>2026-09-21T01:07:18.000Z</published>
     <updated>2026-09-21T10:41:16.246Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.9 for Windows x64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro-win/?utm_source=atom"/>
-    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
+    <link href="https://sysin.cn/blog/burp-suite-pro-win/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/burp-suite-pro-win/</id>
     <published>2026-09-21T01:07:15.000Z</published>
     <updated>2026-09-21T10:41:08.892Z</updated>
     <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.9 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro/?utm_source=atom"/>
-    <id>https://sysin.org/blog/burp-suite-pro/</id>
+    <link href="https://sysin.cn/blog/burp-suite-pro/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/burp-suite-pro/</id>
     <published>2026-09-21T01:07:12.000Z</published>
     <updated>2026-09-22T03:14:03.266Z</updated>
     <summary type="html">Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</summary>
   </entry>
   <entry>
     <title>Burp Suite 2026.9 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-    <link href="https://sysin.org/blog/burp-suite/?utm_source=atom"/>
-    <id>https://sysin.org/blog/burp-suite/</id>
+    <link href="https://sysin.cn/blog/burp-suite/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/burp-suite/</id>
     <published>2026-09-21T01:07:10.000Z</published>
     <updated>2026-09-22T03:13:54.806Z</updated>
     <summary type="html">Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2025 RTM GDR &amp; CU9 (2026 年 9 月安全更新 | 累积更新)</title>
-    <link href="https://sysin.org/blog/sql-server-2025/?utm_source=atom"/>
-    <id>https://sysin.org/blog/sql-server-2025/</id>
+    <link href="https://sysin.cn/blog/sql-server-2025/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/sql-server-2025/</id>
     <published>2026-09-18T01:06:25.000Z</published>
     <updated>2026-09-19T06:28:40.990Z</updated>
     <summary type="html">SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2022 RTM GDR &amp; CU27 (2026 年 9 月安全更新 | 累积更新)</title>
-    <link href="https://sysin.org/blog/sql-server-2022/?utm_source=atom"/>
-    <id>https://sysin.org/blog/sql-server-2022/</id>
+    <link href="https://sysin.cn/blog/sql-server-2022/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/sql-server-2022/</id>
     <published>2026-09-18T01:06:22.000Z</published>
     <updated>2026-09-19T06:55:56.900Z</updated>
     <summary type="html">SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2024 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.org/blog/office-2024-for-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2024-for-mac/</id>
+    <link href="https://sysin.cn/blog/office-2024-for-mac/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2024-for-mac/</id>
     <published>2026-09-17T01:16:24.000Z</published>
     <updated>2026-09-17T04:33:04.441Z</updated>
     <summary type="html">Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2021 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.org/blog/office-2021-for-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2021-for-mac/</id>
+    <link href="https://sysin.cn/blog/office-2021-for-mac/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2021-for-mac/</id>
     <published>2026-09-17T01:16:21.000Z</published>
     <updated>2026-09-17T04:33:10.968Z</updated>
     <summary type="html">Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Apple Safari 27.0 - macOS 专属浏览器</title>
-    <link href="https://sysin.org/blog/apple-safari-27/?utm_source=atom"/>
-    <id>https://sysin.org/blog/apple-safari-27/</id>
+    <link href="https://sysin.cn/blog/apple-safari-27/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/apple-safari-27/</id>
     <published>2026-09-17T01:05:29.000Z</published>
     <updated>2026-09-17T04:32:31.099Z</updated>
     <summary type="html">无论在哪种 Apple 设备上，用 Safari 27 浏览器上网都再好不过。它带来健全的自定选项、强大的隐私保护功能，以及傲人的电池续航，让你随时都能自如地浏览网络。至于速度，这款飞快的浏览器更再次超越自我。</summary>
   </entry>
   <entry>
     <title>Affinity 3.3.0 (macOS, Windows) - 免费专业设计软件 | 照片编辑、矢量设计和页面布局</title>
-    <link href="https://sysin.org/blog/affinity-3/?utm_source=atom"/>
-    <id>https://sysin.org/blog/affinity-3/</id>
+    <link href="https://sysin.cn/blog/affinity-3/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/affinity-3/</id>
     <published>2026-09-16T01:18:00.000Z</published>
     <updated>2026-09-16T03:30:16.848Z</updated>
     <summary type="html">Affinity 3 是专业创意设计软件，将矢量绘图、照片编辑和页面排版功能整合于统一平台，支持路径设计、图像处理、多页面布局、RAW 编辑、色彩管理和专业文件输出。</summary>
   </entry>
   <entry>
     <title>Xcode 27 (27A266a) 正式版发布 - 全新智能框架与先进工具为 App 开发提速</title>
-    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
-    <id>https://sysin.org/blog/apple-xcode-27/</id>
+    <link href="https://sysin.cn/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/apple-xcode-27/</id>
     <published>2026-09-15T01:08:38.000Z</published>
     <updated>2026-09-15T01:47:11.659Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 (26A428) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-09-15T01:08:36.000Z</published>
     <updated>2026-09-16T14:07:56.385Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.0 (26A428) 正式版发布，DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate/</id>
+    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-golden-gate/</id>
     <published>2026-09-15T01:08:26.000Z</published>
     <updated>2026-09-16T14:08:08.812Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7 (25G229) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
     <published>2026-09-15T01:06:36.000Z</published>
     <updated>2026-09-15T04:07:03.428Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7 (25G229) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-tahoe/</id>
+    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-tahoe/</id>
     <published>2026-09-15T01:06:26.000Z</published>
     <updated>2026-09-15T05:59:07.885Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8 (24H23) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-sequoia-boot-iso/</id>
+    <link href="https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-sequoia-boot-iso/</id>
     <published>2026-09-15T01:05:20.000Z</published>
     <updated>2026-09-15T04:05:05.281Z</updated>
     <summary type="html">最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8 (24H23) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.org/blog/macos-sequoia/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-sequoia/</id>
+    <link href="https://sysin.cn/blog/macos-sequoia/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/macos-sequoia/</id>
     <published>2026-09-15T01:05:10.000Z</published>
     <updated>2026-09-15T05:57:48.323Z</updated>
     <summary type="html">macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</summary>
   </entry>
   <entry>
     <title>Debian 13.7 Trixie 发布 - 通用操作系统</title>
-    <link href="https://sysin.org/blog/debian-13/?utm_source=atom"/>
-    <id>https://sysin.org/blog/debian-13/</id>
+    <link href="https://sysin.cn/blog/debian-13/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/debian-13/</id>
     <published>2026-09-13T01:12:13.000Z</published>
     <updated>2026-09-13T07:05:47.415Z</updated>
     <summary type="html">2026 年 9 月 12 日，Debian 13.7 “Trixie” 发布，包含多项错误修复和安全更新。此次点版本发布主要增加了针对安全问题的修复，以及少量针对严重问题的调整。</summary>
   </entry>
   <entry>
     <title>MobaXterm 26.5 for Windows x64 - X Server and SSH client</title>
-    <link href="https://sysin.org/blog/mobaxterm/?utm_source=atom"/>
-    <id>https://sysin.org/blog/mobaxterm/</id>
+    <link href="https://sysin.cn/blog/mobaxterm/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/mobaxterm/</id>
     <published>2026-09-12T01:26:45.000Z</published>
     <updated>2026-09-21T09:11:28.555Z</updated>
     <summary type="html">MobaXterm 是 Windows 平台的增强型终端，集成 X11 Server、选项卡式 SSH 客户端、网络工具等功能。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Sep 2026)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
+    <link href="https://sysin.cn/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/nessus-auto-install-for-windows/</id>
     <published>2026-09-12T01:13:30.000Z</published>
     <updated>2026-09-12T02:19:23.533Z</updated>
     <summary type="html">适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Sep 2026)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</id>
+    <link href="https://sysin.cn/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</id>
     <published>2026-09-12T01:13:20.000Z</published>
     <updated>2026-09-12T02:19:23.506Z</updated>
     <summary type="html">适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for RHEL 9 | RHEL 10 - Nessus 自动化安装程序 (updated Sep 2026)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</id>
+    <link href="https://sysin.cn/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/</id>
     <published>2026-09-12T01:13:15.000Z</published>
     <updated>2026-09-12T02:19:23.533Z</updated>
     <summary type="html">适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Sep 2026)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
+    <link href="https://sysin.cn/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/nessus-auto-install-for-macos/</id>
     <published>2026-09-12T01:13:10.000Z</published>
     <updated>2026-09-12T02:19:23.506Z</updated>
     <summary type="html">适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
     <title>Ubuntu 24.04.5 LTS x86_64 OVF (sysin) - VMware 虚拟机模板</title>
-    <link href="https://sysin.org/blog/ubuntu-2404-ovf/?utm_source=atom"/>
-    <id>https://sysin.org/blog/ubuntu-2404-ovf/</id>
+    <link href="https://sysin.cn/blog/ubuntu-2404-ovf/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/ubuntu-2404-ovf/</id>
     <published>2026-09-11T01:24:05.000Z</published>
     <updated>2026-09-11T10:00:52.686Z</updated>
     <summary type="html">适用于 VMware ESXi、Fusion 和 Workstaion 的 Ubuntu 24.04.5 LTS x86_64 OVF 格式虚拟机模板。</summary>
   </entry>
   <entry>
     <title>Ubuntu 24.04.5 LTS (Noble Numbat) - 现代化的企业与开源 Linux</title>
-    <link href="https://sysin.org/blog/ubuntu-2404/?utm_source=atom"/>
-    <id>https://sysin.org/blog/ubuntu-2404/</id>
+    <link href="https://sysin.cn/blog/ubuntu-2404/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/ubuntu-2404/</id>
     <published>2026-09-11T01:24:04.000Z</published>
     <updated>2026-09-11T03:27:58.625Z</updated>
     <summary type="html">Ubuntu 24.04 LTS 在性能工程和机密计算方面迈出了大胆的一步，提供了一个企业级创新平台，并提供了至少 12 年的支持。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2024 VL 16.0.17932.20976 中英文版 ISO 下载 (2026 年 9 月更新)</title>
-    <link href="https://sysin.org/blog/office-2024/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2024/</id>
+    <link href="https://sysin.cn/blog/office-2024/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2024/</id>
     <published>2026-09-11T01:05:27.000Z</published>
     <updated>2026-09-11T01:05:27.000Z</updated>
     <summary type="html">Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2021 VL 16.0.14334.20906 中英文版 ISO 下载 (2026 年 9 月更新)</title>
-    <link href="https://sysin.org/blog/office-2021/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2021/</id>
+    <link href="https://sysin.cn/blog/office-2021/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2021/</id>
     <published>2026-09-11T01:05:22.000Z</published>
     <updated>2026-09-11T01:05:22.000Z</updated>
     <summary type="html">Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2019 VL 16.0.10417.20207 中英文版 ISO 下载 (2026 年 9 月更新)</title>
-    <link href="https://sysin.org/blog/office-2019/?utm_source=atom"/>
-    <id>https://sysin.org/blog/office-2019/</id>
+    <link href="https://sysin.cn/blog/office-2019/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/office-2019/</id>
     <published>2026-09-11T01:05:09.000Z</published>
     <updated>2026-09-11T01:05:09.000Z</updated>
     <summary type="html">Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2019 RTM GDR &amp; CU32 (2026 年 9 月安全更新)</title>
-    <link href="https://sysin.org/blog/sql-server-2019/?utm_source=atom"/>
-    <id>https://sysin.org/blog/sql-server-2019/</id>
+    <link href="https://sysin.cn/blog/sql-server-2019/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/sql-server-2019/</id>
     <published>2026-09-10T05:06:19.000Z</published>
     <updated>2026-09-10T05:06:19.000Z</updated>
     <summary type="html">SQL Server 2019 新增大数据群集、数据虚拟化和智能性能优化，提升数据分析、查询效率及跨平台数据整合能力。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2017 RTM GDR &amp; CU31 (2026 年 9 月安全更新)</title>
-    <link href="https://sysin.org/blog/sql-server-2017/?utm_source=atom"/>
-    <id>https://sysin.org/blog/sql-server-2017/</id>
+    <link href="https://sysin.cn/blog/sql-server-2017/?utm_source=atom"/>
+    <id>https://sysin.cn/blog/sql-server-2017/</id>
     <published>2026-09-10T05:06:17.000Z</published>
     <updated>2026-09-10T05:06:17.000Z</updated>
     <summary type="html">SQL Server 2017 首次支持 Windows、Linux 和 Docker 跨平台部署，并新增自适应查询处理、图形数据库及 Python 集成等功能。</summary>
