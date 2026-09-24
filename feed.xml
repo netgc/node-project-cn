@@ -4,223 +4,223 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
     <pubDate>Wed, 23 Sep 2026 01:18:18 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>VirtualBox 7.2.20 (Linux, macOS, Solaris, Windows) - 开源跨平台虚拟化软件</title>
-      <link>https://sysin.cn/blog/virtualbox-7/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/virtualbox-7/</guid>
+      <link>https://sysin.org/blog/virtualbox-7/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/virtualbox-7/</guid>
       <pubDate>Wed, 23 Sep 2026 01:18:18 GMT</pubDate>
       <description>VirtualBox 是一款面向通用用途的全虚拟化软件，适用于 x86_64 硬件（7.1 版本起还支持 macOS/Arm，7.2 版本起进一步支持 Windows/Arm），主要面向笔记本电脑、台式机、服务器以及嵌入式设备等使用场景。</description>
     </item>
     <item>
       <title>Magic Quadrant for Hybrid Mesh Firewall 2026 - 混合式部署防火墙</title>
-      <link>https://sysin.cn/blog/gartner-magic-quadrant-firewalls-2026/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/gartner-magic-quadrant-firewalls-2026/</guid>
+      <link>https://sysin.org/blog/gartner-magic-quadrant-firewalls-2026/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gartner-magic-quadrant-firewalls-2026/</guid>
       <pubDate>Wed, 23 Sep 2026 01:12:26 GMT</pubDate>
       <description>本魔力象限分析了 Hybrid Mesh Firewall（HMF），HMF 为混合环境提供最关键的主动式安全控制，通过对物理、虚拟和云原生部署进行集中式云管理来实现这一点。应选择能够满足自身安全需求，并能在复杂、分布式网络中提供有效保护的供应商。</description>
     </item>
     <item>
       <title>Magic Quadrant for Distributed Hybrid Infrastructure 2026 - 分布式混合基础设施</title>
-      <link>https://sysin.cn/blog/gartner-magic-quadrant-dhi-2026/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/gartner-magic-quadrant-dhi-2026/</guid>
+      <link>https://sysin.org/blog/gartner-magic-quadrant-dhi-2026/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gartner-magic-quadrant-dhi-2026/</guid>
       <pubDate>Tue, 22 Sep 2026 01:13:26 GMT</pubDate>
       <description>本魔力象限分析了分布式混合基础设施，I&amp;O 负责人希望在公有云、私有云以及边缘部署环境中获得一致的混合云体验。DHI 市场旨在降低运营复杂性，打造统一的从云到边缘的基础设施管理和控制平面，从而简化工作负载管理并确保策略得到有效执行。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.9 for macOS - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-mac/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
       <pubDate>Mon, 21 Sep 2026 01:07:18 GMT</pubDate>
       <description>世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.9 for Windows x64 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro-win/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro-win/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro-win/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro-win/</guid>
       <pubDate>Mon, 21 Sep 2026 01:07:15 GMT</pubDate>
       <description>世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.9 - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.cn/blog/burp-suite-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite-pro/</guid>
+      <link>https://sysin.org/blog/burp-suite-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite-pro/</guid>
       <pubDate>Mon, 21 Sep 2026 01:07:12 GMT</pubDate>
       <description>Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</description>
     </item>
     <item>
       <title>Burp Suite 2026.9 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-      <link>https://sysin.cn/blog/burp-suite/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/burp-suite/</guid>
+      <link>https://sysin.org/blog/burp-suite/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/burp-suite/</guid>
       <pubDate>Mon, 21 Sep 2026 01:07:10 GMT</pubDate>
       <description>Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2025 RTM GDR &amp; CU9 (2026 年 9 月安全更新 | 累积更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2025/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2025/</guid>
+      <link>https://sysin.org/blog/sql-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2025/</guid>
       <pubDate>Fri, 18 Sep 2026 01:06:25 GMT</pubDate>
       <description>SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 2022 RTM GDR &amp; CU27 (2026 年 9 月安全更新 | 累积更新)</title>
-      <link>https://sysin.cn/blog/sql-server-2022/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server-2022/</guid>
+      <link>https://sysin.org/blog/sql-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server-2022/</guid>
       <pubDate>Fri, 18 Sep 2026 01:06:22 GMT</pubDate>
       <description>SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</description>
     </item>
     <item>
       <title>Microsoft Office LTSC 2024 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2024-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024-for-mac/</guid>
+      <link>https://sysin.org/blog/office-2024-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024-for-mac/</guid>
       <pubDate>Thu, 17 Sep 2026 01:16:24 GMT</pubDate>
       <description>Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</description>
     </item>
     <item>
       <title>Microsoft Office LTSC 2021 for Mac 16.113 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2021-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2021-for-mac/</guid>
+      <link>https://sysin.org/blog/office-2021-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2021-for-mac/</guid>
       <pubDate>Thu, 17 Sep 2026 01:16:21 GMT</pubDate>
       <description>Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</description>
     </item>
     <item>
       <title>Apple Safari 27.0 - macOS 专属浏览器</title>
-      <link>https://sysin.cn/blog/apple-safari-27/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-safari-27/</guid>
+      <link>https://sysin.org/blog/apple-safari-27/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-safari-27/</guid>
       <pubDate>Thu, 17 Sep 2026 01:05:29 GMT</pubDate>
       <description>无论在哪种 Apple 设备上，用 Safari 27 浏览器上网都再好不过。它带来健全的自定选项、强大的隐私保护功能，以及傲人的电池续航，让你随时都能自如地浏览网络。至于速度，这款飞快的浏览器更再次超越自我。</description>
     </item>
     <item>
       <title>Affinity 3.3.0 (macOS, Windows) - 免费专业设计软件 | 照片编辑、矢量设计和页面布局</title>
-      <link>https://sysin.cn/blog/affinity-3/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/affinity-3/</guid>
+      <link>https://sysin.org/blog/affinity-3/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/affinity-3/</guid>
       <pubDate>Wed, 16 Sep 2026 01:18:00 GMT</pubDate>
       <description>Affinity 3 是专业创意设计软件，将矢量绘图、照片编辑和页面排版功能整合于统一平台，支持路径设计、图像处理、多页面布局、RAW 编辑、色彩管理和专业文件输出。</description>
     </item>
     <item>
       <title>Magic Quadrant for Server Virtualization Platforms 2026 - 服务器虚拟化平台</title>
-      <link>https://sysin.cn/blog/gartner-magic-quadrant-virtualization-2026/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/gartner-magic-quadrant-virtualization-2026/</guid>
+      <link>https://sysin.org/blog/gartner-magic-quadrant-virtualization-2026/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gartner-magic-quadrant-virtualization-2026/</guid>
       <pubDate>Tue, 15 Sep 2026 01:16:26 GMT</pubDate>
       <description>本魔力象限分析了服务器虚拟化平台，服务器虚拟化市场正面临十多年来最重大的颠覆。I&amp;O 负责人必须重新评估当前和未来虚拟化工作负载所涉及的供应商和技术选项，并采取相应措施。</description>
     </item>
     <item>
       <title>Xcode 27 (27A266a) 正式版发布 - 全新智能框架与先进工具为 App 开发提速</title>
-      <link>https://sysin.cn/blog/apple-xcode-27/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-xcode-27/</guid>
+      <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-xcode-27/</guid>
       <pubDate>Tue, 15 Sep 2026 01:08:38 GMT</pubDate>
       <description>​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 (26A428) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
       <pubDate>Tue, 15 Sep 2026 01:08:36 GMT</pubDate>
       <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0 (26A428) 正式版发布，DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
       <pubDate>Tue, 15 Sep 2026 01:08:26 GMT</pubDate>
       <description>macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.7 (25G229) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe-boot-iso/</guid>
       <pubDate>Tue, 15 Sep 2026 01:06:36 GMT</pubDate>
       <description>最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.7 (25G229) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe/</guid>
+      <link>https://sysin.org/blog/macos-tahoe/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe/</guid>
       <pubDate>Tue, 15 Sep 2026 01:06:26 GMT</pubDate>
       <description>macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.8 (24H23) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia-boot-iso/</guid>
       <pubDate>Tue, 15 Sep 2026 01:05:20 GMT</pubDate>
       <description>最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.8 (24H23) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia/</guid>
+      <link>https://sysin.org/blog/macos-sequoia/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia/</guid>
       <pubDate>Tue, 15 Sep 2026 01:05:10 GMT</pubDate>
       <description>macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</description>
     </item>
     <item>
       <title>Debian 13.7 Trixie 发布 - 通用操作系统</title>
-      <link>https://sysin.cn/blog/debian-13/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/debian-13/</guid>
+      <link>https://sysin.org/blog/debian-13/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/debian-13/</guid>
       <pubDate>Sun, 13 Sep 2026 01:12:13 GMT</pubDate>
       <description>2026 年 9 月 12 日，Debian 13.7 “Trixie” 发布，包含多项错误修复和安全更新。此次点版本发布主要增加了针对安全问题的修复，以及少量针对严重问题的调整。</description>
     </item>
     <item>
       <title>MobaXterm 26.5 for Windows x64 - X Server and SSH client</title>
-      <link>https://sysin.cn/blog/mobaxterm/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/mobaxterm/</guid>
+      <link>https://sysin.org/blog/mobaxterm/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/mobaxterm/</guid>
       <pubDate>Sat, 12 Sep 2026 01:26:45 GMT</pubDate>
       <description>MobaXterm 是 Windows 平台的增强型终端，集成 X11 Server、选项卡式 SSH 客户端、网络工具等功能。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Sep 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-windows/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-windows/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-windows/</guid>
       <pubDate>Sat, 12 Sep 2026 01:13:30 GMT</pubDate>
       <description>适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Sep 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</guid>
       <pubDate>Sat, 12 Sep 2026 01:13:20 GMT</pubDate>
       <description>适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for RHEL 9 | RHEL 10 - Nessus 自动化安装程序 (updated Sep 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-rhel-9/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</guid>
       <pubDate>Sat, 12 Sep 2026 01:13:15 GMT</pubDate>
       <description>适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Sep 2026)</title>
-      <link>https://sysin.cn/blog/nessus-auto-install-for-macos/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/nessus-auto-install-for-macos/</guid>
+      <link>https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/nessus-auto-install-for-macos/</guid>
       <pubDate>Sat, 12 Sep 2026 01:13:10 GMT</pubDate>
       <description>适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
     <item>
       <title>Ubuntu 24.04.5 LTS x86_64 OVF (sysin) - VMware 虚拟机模板</title>
-      <link>https://sysin.cn/blog/ubuntu-2404-ovf/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ubuntu-2404-ovf/</guid>
+      <link>https://sysin.org/blog/ubuntu-2404-ovf/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ubuntu-2404-ovf/</guid>
       <pubDate>Fri, 11 Sep 2026 01:24:05 GMT</pubDate>
       <description>适用于 VMware ESXi、Fusion 和 Workstaion 的 Ubuntu 24.04.5 LTS x86_64 OVF 格式虚拟机模板。</description>
     </item>
     <item>
       <title>Ubuntu 24.04.5 LTS (Noble Numbat) - 现代化的企业与开源 Linux</title>
-      <link>https://sysin.cn/blog/ubuntu-2404/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ubuntu-2404/</guid>
+      <link>https://sysin.org/blog/ubuntu-2404/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ubuntu-2404/</guid>
       <pubDate>Fri, 11 Sep 2026 01:24:04 GMT</pubDate>
       <description>Ubuntu 24.04 LTS 在性能工程和机密计算方面迈出了大胆的一步，提供了一个企业级创新平台，并提供了至少 12 年的支持。</description>
     </item>
     <item>
       <title>Microsoft Office 2024 VL 16.0.17932.20976 中英文版 ISO 下载 (2026 年 9 月更新)</title>
-      <link>https://sysin.cn/blog/office-2024/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024/</guid>
+      <link>https://sysin.org/blog/office-2024/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024/</guid>
       <pubDate>Fri, 11 Sep 2026 01:05:27 GMT</pubDate>
       <description>Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</description>
     </item>
