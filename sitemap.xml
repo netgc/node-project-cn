@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://sysin.org/blog/ida-pro-9/</loc>
+  <loc>https://sysin.org/blog/ida-pro/</loc>
+  <lastmod>2026-09-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/dell-powerscale-onefs-9/</loc>
+  <lastmod>2026-09-26</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/magnet-axiom-10/</loc>
   <lastmod>2026-09-25</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/ida-pro/</loc>
+  <loc>https://sysin.org/blog/magnet-axiom/</loc>
+  <lastmod>2026-09-25</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/ida-pro-9/</loc>
   <lastmod>2026-09-25</lastmod>
 </url>
 <url>
@@ -657,10 +669,6 @@
   <lastmod>2026-07-29</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/magnet-axiom-10/</loc>
-  <lastmod>2026-07-29</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/apple-safari-26/</loc>
   <lastmod>2026-07-28</lastmod>
 </url>
@@ -695,10 +703,6 @@
 <url>
   <loc>https://sysin.org/blog/crossover/</loc>
   <lastmod>2026-07-22</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/magnet-axiom/</loc>
-  <lastmod>2026-07-20</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/magnet-dvr-examiner/</loc>
@@ -1499,10 +1503,6 @@
 <url>
   <loc>https://sysin.org/blog/purebasic/</loc>
   <lastmod>2026-01-12</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/dell-powerscale-onefs-9/</loc>
-  <lastmod>2026-01-09</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/utm-4/</loc>
@@ -4214,7 +4214,7 @@
 </url>
 <url>
   <loc>https://sysin.org/</loc>
-  <lastmod>2026-09-25</lastmod>
+  <lastmod>2026-09-26</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
