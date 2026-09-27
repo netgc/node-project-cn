@@ -1,3 +1,6 @@
+https://sysin.org/blog/windows-11/
+https://sysin.org/blog/windows-server-2022/
+https://sysin.org/blog/windows-server-2025/
 https://sysin.org/blog/ida-pro/
 https://sysin.org/blog/utm-5/
 https://sysin.org/blog/virtualbox-7/
@@ -7,9 +10,6 @@ https://sysin.org/blog/burp-suite-pro-mac/
 https://sysin.org/blog/burp-suite-pro-win/
 https://sysin.org/blog/burp-suite-pro/
 https://sysin.org/blog/burp-suite/
-https://sysin.org/blog/windows-server-2025/
-https://sysin.org/blog/windows-server-2022/
-https://sysin.org/blog/windows-11/
 https://sysin.org/blog/sql-server-2025/
 https://sysin.org/blog/sql-server-2022/
 https://sysin.org/blog/office-2024-for-mac/
