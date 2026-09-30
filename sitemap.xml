@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/apple-imovie/</loc>
+  <lastmod>2026-09-30</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/apple-creator-studio/</loc>
+  <lastmod>2026-09-30</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/windows-11/</loc>
+  <lastmod>2026-09-30</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/shotcut/</loc>
+  <lastmod>2026-09-30</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/binary-ninja-6/</loc>
   <lastmod>2026-09-30</lastmod>
 </url>
@@ -94,10 +110,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/windows-server-2025/</loc>
-  <lastmod>2026-09-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/windows-11/</loc>
   <lastmod>2026-09-28</lastmod>
 </url>
 <url>
@@ -259,10 +271,6 @@
 <url>
   <loc>https://sysin.org/blog/freebsd-14/</loc>
   <lastmod>2026-09-08</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/shotcut/</loc>
-  <lastmod>2026-09-07</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/nexpose/</loc>
@@ -897,10 +905,6 @@
   <lastmod>2026-07-03</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/apple-creator-studio/</loc>
-  <lastmod>2026-07-02</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-holodeck/</loc>
   <lastmod>2026-07-02</lastmod>
 </url>
@@ -1431,10 +1435,6 @@
 <url>
   <loc>https://sysin.org/blog/sfos-21/</loc>
   <lastmod>2026-02-10</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/apple-imovie/</loc>
-  <lastmod>2026-02-05</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/cisco-ucm-15/</loc>

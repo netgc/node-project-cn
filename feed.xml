@@ -12,8 +12,29 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Wed, 30 Sep 2026 01:22:53 GMT</pubDate>
+    <pubDate>Wed, 30 Sep 2026 05:23:56 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>Apple iMovie 10.4.5 - 免费视频剪辑软件</title>
+      <link>https://sysin.org/blog/apple-imovie/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-imovie/</guid>
+      <pubDate>Wed, 30 Sep 2026 01:20:00 GMT</pubDate>
+      <description>Apple iMovie 是免费视频编辑软件，支持视频剪辑、时间线编辑、4K 视频处理、音频编辑、字幕、转场、滤镜、绿幕效果和智能影片制作功能，适用于 Mac、iPhone 和 iPad 平台。</description>
+    </item>
+    <item>
+      <title>Apple Creator Studio 2026 秋季更新 - 强大的创意套装</title>
+      <link>https://sysin.org/blog/apple-creator-studio/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-creator-studio/</guid>
+      <pubDate>Wed, 30 Sep 2026 01:10:00 GMT</pubDate>
+      <description>Apple Creator Studio 是 Apple 创意应用套件，提供视频编辑、音乐制作、图像处理、文档、表格、演示文稿和协作创作能力。</description>
+    </item>
+    <item>
+      <title>Shotcut 26.9 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
+      <link>https://sysin.org/blog/shotcut/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/shotcut/</guid>
+      <pubDate>Wed, 30 Sep 2026 01:09:55 GMT</pubDate>
+      <description>Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</description>
+    </item>
     <item>
       <title>macOS Golden Gate 27.0.1 (26A434) Boot ISO 原版可引导映像下载</title>
       <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
@@ -71,7 +92,7 @@
       <description>Windows Server 2022 在三个关键主题上带来了许多创新，采用先进的多层安全机制、Azure 混合功能以及灵活的应用程序平台。</description>
     </item>
     <item>
-      <title>Windows 11 26H2 | 26H1 | 25H2 | 24H2 中文版、英文版下载 (2026 年 9 月更新)</title>
+      <title>Windows 11 26H2 | 26H1 | 25H2 | 24H2 中文版、英文版 (2026 年 9 月更新)</title>
       <link>https://sysin.org/blog/windows-11/?utm_source=rss</link>
       <guid>https://sysin.org/blog/windows-11/</guid>
       <pubDate>Mon, 28 Sep 2026 00:11:00 GMT</pubDate>
@@ -202,27 +223,6 @@
       <guid>https://sysin.org/blog/apple-xcode-27/</guid>
       <pubDate>Tue, 15 Sep 2026 01:08:38 GMT</pubDate>
       <description>​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</description>
-    </item>
-    <item>
-      <title>Debian 13.7 Trixie 发布 - 通用操作系统</title>
-      <link>https://sysin.org/blog/debian-13/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/debian-13/</guid>
-      <pubDate>Sun, 13 Sep 2026 01:12:13 GMT</pubDate>
-      <description>2026 年 9 月 12 日，Debian 13.7 “Trixie” 发布，包含多项错误修复和安全更新。此次点版本发布主要增加了针对安全问题的修复，以及少量针对严重问题的调整。</description>
-    </item>
-    <item>
-      <title>MobaXterm 26.5 for Windows x64 - X Server and SSH client</title>
-      <link>https://sysin.org/blog/mobaxterm/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/mobaxterm/</guid>
-      <pubDate>Sat, 12 Sep 2026 01:26:45 GMT</pubDate>
-      <description>MobaXterm 是 Windows 平台的增强型终端，集成 X11 Server、选项卡式 SSH 客户端、网络工具等功能。</description>
-    </item>
-    <item>
-      <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Sep 2026)</title>
-      <link>https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/nessus-auto-install-for-windows/</guid>
-      <pubDate>Sat, 12 Sep 2026 01:13:30 GMT</pubDate>
-      <description>适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</description>
     </item>
   </channel>
 </rss>

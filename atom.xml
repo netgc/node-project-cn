@@ -3,12 +3,36 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-09-30T01:22:53.232Z</updated>
+  <updated>2026-09-30T05:23:56.229Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>Apple iMovie 10.4.5 - 免费视频剪辑软件</title>
+    <link href="https://sysin.org/blog/apple-imovie/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-imovie/</id>
+    <published>2026-09-30T01:20:00.000Z</published>
+    <updated>2026-09-30T05:23:56.229Z</updated>
+    <summary type="html">Apple iMovie 是免费视频编辑软件，支持视频剪辑、时间线编辑、4K 视频处理、音频编辑、字幕、转场、滤镜、绿幕效果和智能影片制作功能，适用于 Mac、iPhone 和 iPad 平台。</summary>
+  </entry>
+  <entry>
+    <title>Apple Creator Studio 2026 秋季更新 - 强大的创意套装</title>
+    <link href="https://sysin.org/blog/apple-creator-studio/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-creator-studio/</id>
+    <published>2026-09-30T01:10:00.000Z</published>
+    <updated>2026-09-30T05:21:20.041Z</updated>
+    <summary type="html">Apple Creator Studio 是 Apple 创意应用套件，提供视频编辑、音乐制作、图像处理、文档、表格、演示文稿和协作创作能力。</summary>
+  </entry>
+  <entry>
+    <title>Shotcut 26.9 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
+    <link href="https://sysin.org/blog/shotcut/?utm_source=atom"/>
+    <id>https://sysin.org/blog/shotcut/</id>
+    <published>2026-09-30T01:09:55.000Z</published>
+    <updated>2026-09-30T05:12:20.463Z</updated>
+    <summary type="html">Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</summary>
+  </entry>
   <entry>
     <title>macOS Golden Gate 27.0.1 (26A434) Boot ISO 原版可引导映像下载</title>
     <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
@@ -74,11 +98,11 @@
     <summary type="html">Windows Server 2022 在三个关键主题上带来了许多创新，采用先进的多层安全机制、Azure 混合功能以及灵活的应用程序平台。</summary>
   </entry>
   <entry>
-    <title>Windows 11 26H2 | 26H1 | 25H2 | 24H2 中文版、英文版下载 (2026 年 9 月更新)</title>
+    <title>Windows 11 26H2 | 26H1 | 25H2 | 24H2 中文版、英文版 (2026 年 9 月更新)</title>
     <link href="https://sysin.org/blog/windows-11/?utm_source=atom"/>
     <id>https://sysin.org/blog/windows-11/</id>
     <published>2026-09-28T00:11:00.000Z</published>
-    <updated>2026-09-28T00:18:07.694Z</updated>
+    <updated>2026-09-30T05:16:50.848Z</updated>
     <summary type="html">Windows 11 提供一个让人平静而富有创意的空间，全新体验引导您全力追逐热爱。从焕然一新的开始菜单，到与您关心的人、关注的消息、游戏和内容建立连接的新方式，Windows 11 提供了一个场所，让您得以自由地思索、表达和创造。</summary>
   </entry>
   <entry>
@@ -224,29 +248,5 @@
     <published>2026-09-15T01:08:38.000Z</published>
     <updated>2026-09-15T01:08:38.000Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
-  </entry>
-  <entry>
-    <title>Debian 13.7 Trixie 发布 - 通用操作系统</title>
-    <link href="https://sysin.org/blog/debian-13/?utm_source=atom"/>
-    <id>https://sysin.org/blog/debian-13/</id>
-    <published>2026-09-13T01:12:13.000Z</published>
-    <updated>2026-09-13T01:12:13.000Z</updated>
-    <summary type="html">2026 年 9 月 12 日，Debian 13.7 “Trixie” 发布，包含多项错误修复和安全更新。此次点版本发布主要增加了针对安全问题的修复，以及少量针对严重问题的调整。</summary>
-  </entry>
-  <entry>
-    <title>MobaXterm 26.5 for Windows x64 - X Server and SSH client</title>
-    <link href="https://sysin.org/blog/mobaxterm/?utm_source=atom"/>
-    <id>https://sysin.org/blog/mobaxterm/</id>
-    <published>2026-09-12T01:26:45.000Z</published>
-    <updated>2026-09-12T01:26:45.000Z</updated>
-    <summary type="html">MobaXterm 是 Windows 平台的增强型终端，集成 X11 Server、选项卡式 SSH 客户端、网络工具等功能。</summary>
-  </entry>
-  <entry>
-    <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Sep 2026)</title>
-    <link href="https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
-    <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
-    <published>2026-09-12T01:13:30.000Z</published>
-    <updated>2026-09-12T01:13:30.000Z</updated>
-    <summary type="html">适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
 </feed>
