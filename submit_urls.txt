@@ -1,9 +1,9 @@
 https://sysin.org/blog/macos-sequoia-boot-iso/
-https://sysin.org/blog/macos-sequoia/
-https://sysin.org/blog/macos-tahoe-boot-iso/
 https://sysin.org/blog/macos-tahoe/
-https://sysin.org/blog/macos-golden-gate-boot-iso/
+https://sysin.org/blog/macos-tahoe-boot-iso/
 https://sysin.org/blog/macos-golden-gate/
+https://sysin.org/blog/macos-golden-gate-boot-iso/
+https://sysin.org/blog/macos-sequoia/
 https://sysin.org/blog/macos-13-ovf/
 https://sysin.org/blog/almalinux-10/
 https://sysin.org/blog/almalinux-9/

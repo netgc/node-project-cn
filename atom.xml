@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-09-30T00:25:23.774Z</updated>
+  <updated>2026-09-30T01:22:53.232Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-09-29T01:08:36.000Z</published>
-    <updated>2026-09-30T00:25:23.774Z</updated>
+    <updated>2026-09-30T01:22:53.232Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
@@ -22,7 +22,7 @@
     <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-09-29T01:08:26.000Z</published>
-    <updated>2026-09-30T00:24:32.065Z</updated>
+    <updated>2026-09-30T01:23:04.663Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
@@ -30,7 +30,7 @@
     <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
     <published>2026-09-29T01:06:36.000Z</published>
-    <updated>2026-09-30T00:27:22.564Z</updated>
+    <updated>2026-09-30T01:23:09.909Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
@@ -38,7 +38,7 @@
     <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-09-29T01:06:26.000Z</published>
-    <updated>2026-09-30T00:26:55.427Z</updated>
+    <updated>2026-09-30T01:23:25.722Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
@@ -46,7 +46,7 @@
     <link href="https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-sequoia-boot-iso/</id>
     <published>2026-09-29T01:05:20.000Z</published>
-    <updated>2026-09-30T00:29:02.328Z</updated>
+    <updated>2026-09-30T01:23:49.167Z</updated>
     <summary type="html">最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
@@ -54,7 +54,7 @@
     <link href="https://sysin.org/blog/macos-sequoia/?utm_source=atom"/>
     <id>https://sysin.org/blog/macos-sequoia/</id>
     <published>2026-09-29T01:05:10.000Z</published>
-    <updated>2026-09-30T00:28:47.254Z</updated>
+    <updated>2026-09-30T01:22:23.847Z</updated>
     <summary type="html">macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</summary>
   </entry>
   <entry>
