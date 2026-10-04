@@ -1,3 +1,8 @@
+https://sysin.org/blog/install-macos-26-on-unsupported-mac/
+https://sysin.org/blog/install-macos-15-on-unsupported-mac/
+https://sysin.org/blog/exchange-server-se/
+https://sysin.org/blog/cisco-firepower-10/
+https://sysin.org/blog/cisco-8000-secure-routers/
 https://sysin.org/blog/cisco-sma-16/
 https://sysin.org/blog/cisco-sma-15/
 https://sysin.org/blog/cisco-wsa-16/
@@ -9,12 +14,7 @@ https://sysin.org/blog/cisco-nexus-9000v/
 https://sysin.org/blog/cisco-nexus-9000/
 https://sysin.org/blog/cisco-ncs-5700/
 https://sysin.org/blog/cisco-ncs-5500/
-https://sysin.org/blog/cisco-8000-secure-routers/
 https://sysin.org/blog/cisco-expressway-15/
 https://sysin.org/blog/cisco-esa-16/
 https://sysin.org/blog/cisco-esa-15/
 https://sysin.org/blog/cisco-isr-1000/
-https://sysin.org/blog/sfos-21/
-https://sysin.org/blog/sfos-23/
-https://sysin.org/blog/cisco-sd-wan-26/
-https://sysin.org/blog/cisco-sd-wan-20/

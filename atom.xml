@@ -3,12 +3,20 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-10-03T03:32:48.865Z</updated>
+  <updated>2026-10-04T02:34:18.576Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>在不受支持的 Mac 上安装 macOS Tahoe 26 (OpenCore Legacy Patcher v3.0.0)</title>
+    <link href="https://sysin.org/blog/install-macos-26-on-unsupported-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/install-macos-26-on-unsupported-mac/</id>
+    <published>2026-10-04T01:10:00.000Z</published>
+    <updated>2026-10-04T02:34:18.576Z</updated>
+    <summary type="html">使用 OpenCore Legacy Patcher 在不受支持的 Mac 上安装 macOS Tahoe 26 的教程，涵盖安装准备、引导配置、补丁应用和系统优化步骤。</summary>
+  </entry>
   <entry>
     <title>Sophos Firewall (SFOS) v23 EA - 下一代防火墙</title>
     <link href="https://sysin.org/blog/sfos-23/?utm_source=atom"/>
@@ -238,15 +246,7 @@
     <link href="https://sysin.org/blog/cisco-8000-secure-routers/?utm_source=atom"/>
     <id>https://sysin.org/blog/cisco-8000-secure-routers/</id>
     <published>2026-09-22T01:08:02.000Z</published>
-    <updated>2026-10-03T05:26:58.943Z</updated>
+    <updated>2026-10-03T07:19:07.913Z</updated>
     <summary type="html">思科 8000 系列安全路由器是新一代企业级路由器，集高级安全防护、基于 AI 的自动化、后量子加密性能和无缝的云管理于一身，助力打造面向未来的广域网。</summary>
-  </entry>
-  <entry>
-    <title>Burp Suite Professional 2026.9 for macOS - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.org/blog/burp-suite-pro-mac/?utm_source=atom"/>
-    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
-    <published>2026-09-21T01:07:18.000Z</published>
-    <updated>2026-09-21T01:07:18.000Z</updated>
-    <summary type="html">世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
 </feed>

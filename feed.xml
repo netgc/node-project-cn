@@ -12,8 +12,15 @@
     </image>
     <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Sat, 03 Oct 2026 03:32:48 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 02:34:18 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>在不受支持的 Mac 上安装 macOS Tahoe 26 (OpenCore Legacy Patcher v3.0.0)</title>
+      <link>https://sysin.org/blog/install-macos-26-on-unsupported-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/install-macos-26-on-unsupported-mac/</guid>
+      <pubDate>Sun, 04 Oct 2026 01:10:00 GMT</pubDate>
+      <description>使用 OpenCore Legacy Patcher 在不受支持的 Mac 上安装 macOS Tahoe 26 的教程，涵盖安装准备、引导配置、补丁应用和系统优化步骤。</description>
+    </item>
     <item>
       <title>Sophos Firewall (SFOS) v23 EA - 下一代防火墙</title>
       <link>https://sysin.org/blog/sfos-23/?utm_source=rss</link>
@@ -216,13 +223,6 @@
       <guid>https://sysin.org/blog/cisco-8000-secure-routers/</guid>
       <pubDate>Tue, 22 Sep 2026 01:08:02 GMT</pubDate>
       <description>思科 8000 系列安全路由器是新一代企业级路由器，集高级安全防护、基于 AI 的自动化、后量子加密性能和无缝的云管理于一身，助力打造面向未来的广域网。</description>
-    </item>
-    <item>
-      <title>Burp Suite Professional 2026.9 for macOS - 领先的 Web 渗透测试软件</title>
-      <link>https://sysin.org/blog/burp-suite-pro-mac/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/burp-suite-pro-mac/</guid>
-      <pubDate>Mon, 21 Sep 2026 01:07:18 GMT</pubDate>
-      <description>世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</description>
     </item>
   </channel>
 </rss>
