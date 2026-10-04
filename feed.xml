@@ -85,6 +85,13 @@
       <description>精心优化，体验感愉悦升华。了解 macOS，探索 Apple 为 Mac 打造的桌面操作系统，及其强大的功能、性能和安全性。</description>
     </item>
     <item>
+      <title>WPS Office for Mac 2026 秋季更新 12.1.29166 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
+      <link>https://sysin.org/blog/wps-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps-for-mac/</guid>
+      <pubDate>Wed, 30 Sep 2026 01:12:08 GMT</pubDate>
+      <description>WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</description>
+    </item>
+    <item>
       <title>Windows 11 绕过 TPM 方法总结，通用免 TPM 映像下载 (2026 年 9 月更新)</title>
       <link>https://sysin.org/blog/windows-11-no-tpm/?utm_source=rss</link>
       <guid>https://sysin.org/blog/windows-11-no-tpm/</guid>
@@ -216,13 +223,6 @@
       <guid>https://sysin.org/blog/gartner-magic-quadrant-dhi-2026/</guid>
       <pubDate>Tue, 22 Sep 2026 01:13:26 GMT</pubDate>
       <description>本魔力象限分析了分布式混合基础设施，I&amp;O 负责人希望在公有云、私有云以及边缘部署环境中获得一致的混合云体验。DHI 市场旨在降低运营复杂性，打造统一的从云到边缘的基础设施管理和控制平面，从而简化工作负载管理并确保策略得到有效执行。</description>
-    </item>
-    <item>
-      <title>Cisco 8000 Series Secure Routers, IOS XE 26.2.1 GA</title>
-      <link>https://sysin.org/blog/cisco-8000-secure-routers/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/cisco-8000-secure-routers/</guid>
-      <pubDate>Tue, 22 Sep 2026 01:08:02 GMT</pubDate>
-      <description>思科 8000 系列安全路由器是新一代企业级路由器，集高级安全防护、基于 AI 的自动化、后量子加密性能和无缝的云管理于一身，助力打造面向未来的广域网。</description>
     </item>
   </channel>
 </rss>

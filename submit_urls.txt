@@ -1,6 +1,6 @@
+https://sysin.org/blog/wps-for-mac/
 https://sysin.org/blog/vmware-vsphere-8-u3/
 https://sysin.org/blog/vmware-esxi-8-u3/
-https://sysin.org/blog/wps-for-mac/
 https://sysin.org/blog/install-macos-26-on-unsupported-mac/
 https://sysin.org/blog/sfos-23/
 https://sysin.org/blog/gitea/
