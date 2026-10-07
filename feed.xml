@@ -4,223 +4,223 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/feed.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
     <pubDate>Wed, 07 Oct 2026 01:25:39 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>Gitea 28.1.0 (Linux, FreeBSD, macOS, Windows) - 开源自托管 Git 服务</title>
-      <link>https://sysin.cn/blog/gitea/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/gitea/</guid>
+      <link>https://sysin.org/blog/gitea/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gitea/</guid>
       <pubDate>Wed, 07 Oct 2026 01:25:55 GMT</pubDate>
       <description>Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</description>
     </item>
     <item>
       <title>Dell OpenManage Enterprise 4.8 - Dell 服务器、存储和网络设备集中管理软件</title>
-      <link>https://sysin.cn/blog/dell-openmanage-enterprise/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/dell-openmanage-enterprise/</guid>
+      <link>https://sysin.org/blog/dell-openmanage-enterprise/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/dell-openmanage-enterprise/</guid>
       <pubDate>Tue, 06 Oct 2026 01:03:38 GMT</pubDate>
       <description>OpenManage Enterprise 是作为虚拟设备提供的多系统管理和监视 Web 应用程序。您可以通过它全面了解企业网络中的戴尔服务器、机箱、存储、其他第三方设备和组件以及网络交换机。</description>
     </item>
     <item>
       <title>Cisco Catalyst 9800-CL Wireless Controller for Cloud, IOS XE Release 26.2.1 GA</title>
-      <link>https://sysin.cn/blog/cisco-catalyst-9800-cl/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/cisco-catalyst-9800-cl/</guid>
+      <link>https://sysin.org/blog/cisco-catalyst-9800-cl/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-9800-cl/</guid>
       <pubDate>Mon, 05 Oct 2026 01:06:18 GMT</pubDate>
       <description>面向云的思科 Catalyst 9800-CL 无线控制器，既可以部署在私有云（支持 ESXi, KVM, Hyper-V 和 NFVIS on ENCS hypervisors）, 也可以部署在公有云 IaaS 中，已经在 AWS、Azure 和 GCP marketplace 中提供。</description>
     </item>
     <item>
       <title>Cisco Catalyst 9800 Wireless Controller, IOS XE Release 26.2.1 GA</title>
-      <link>https://sysin.cn/blog/cisco-catalyst-9800/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/cisco-catalyst-9800/</guid>
+      <link>https://sysin.org/blog/cisco-catalyst-9800/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/cisco-catalyst-9800/</guid>
       <pubDate>Mon, 05 Oct 2026 01:06:00 GMT</pubDate>
       <description>Cisco Catalyst 9800 Wireless Controller 是基于 Cisco IOS XE 的企业级无线 LAN 控制器，采用模块化软件架构和模型驱动管理方式，通过 CAPWAP 协议实现 Cisco 无线接入点集中控制，提供 WLAN 配置管理、客户端连接管理、射频资源优化、安全策略实施、网络可视化和自动化运维能力。</description>
     </item>
     <item>
       <title>Metasploit Pro 5.1.0-2026093001 (Linux, Windows) - 专业渗透测试框架</title>
-      <link>https://sysin.cn/blog/metasploit-pro-5/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/metasploit-pro-5/</guid>
+      <link>https://sysin.org/blog/metasploit-pro-5/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/metasploit-pro-5/</guid>
       <pubDate>Mon, 05 Oct 2026 01:05:50 GMT</pubDate>
       <description>Metasploit Pro 5.1 新增了适用于 HTTP Meterpreter Payload 的流量伪装（Evasion）能力、服务层级关系跟踪支持、更深入且交互性更强的网络拓扑视图，并持续推进现代化、一致性的用户界面体验。本次发布基于 Metasploit Framework 6.5。</description>
     </item>
     <item>
       <title>在不受支持的 Mac 上安装 macOS Tahoe 26 (OpenCore Legacy Patcher v3.0.0)</title>
-      <link>https://sysin.cn/blog/install-macos-26-on-unsupported-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/install-macos-26-on-unsupported-mac/</guid>
+      <link>https://sysin.org/blog/install-macos-26-on-unsupported-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/install-macos-26-on-unsupported-mac/</guid>
       <pubDate>Sun, 04 Oct 2026 01:10:00 GMT</pubDate>
       <description>使用 OpenCore Legacy Patcher 在不受支持的 Mac 上安装 macOS Tahoe 26 的教程，涵盖安装准备、引导配置、补丁应用和系统优化步骤。</description>
     </item>
     <item>
       <title>Sophos Firewall (SFOS) v23 EA - 下一代防火墙</title>
-      <link>https://sysin.cn/blog/sfos-23/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sfos-23/</guid>
+      <link>https://sysin.org/blog/sfos-23/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sfos-23/</guid>
       <pubDate>Sat, 03 Oct 2026 01:18:22 GMT</pubDate>
       <description>从新增 AI 驱动辅助功能和现代化 REST API，到简化规则管理、增强高可用能力、扩展身份支持以及更简单的日常管理，Sophos Firewall v23 旨在让防火墙更易于管理、自动化和扩展，同时进一步强化其 Secure by Design 基础。</description>
     </item>
     <item>
       <title>Splunk Enterprise 10.6 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-      <link>https://sysin.cn/blog/splunk-10/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/splunk-10/</guid>
+      <link>https://sysin.org/blog/splunk-10/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/splunk-10/</guid>
       <pubDate>Fri, 02 Oct 2026 01:15:10 GMT</pubDate>
       <description>Splunk Enterprise 对所有数据进行搜索、分析和可视化，获得可执行的洞察。Splunk AI 功能解锁更深入的洞察，加速人类决策与威胁响应。</description>
     </item>
     <item>
       <title>Studio 3T 2026.14 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-      <link>https://sysin.cn/blog/studio-3t/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/studio-3t/</guid>
+      <link>https://sysin.org/blog/studio-3t/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/studio-3t/</guid>
       <pubDate>Fri, 02 Oct 2026 01:12:00 GMT</pubDate>
       <description>Studio 3T 是专为 MongoDB 打造的全功能 GUI、IDE 和客户端，提供完整的 MongoDB 开发与管理体验，适用于 Atlas 及任何 MongoDB 部署环境。</description>
     </item>
     <item>
       <title>Apple iMovie 10.4.5 - 免费视频剪辑软件</title>
-      <link>https://sysin.cn/blog/apple-imovie/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-imovie/</guid>
+      <link>https://sysin.org/blog/apple-imovie/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-imovie/</guid>
       <pubDate>Thu, 01 Oct 2026 01:20:00 GMT</pubDate>
       <description>Apple iMovie 是免费视频编辑软件，支持视频剪辑、时间线编辑、4K 视频处理、音频编辑、字幕、转场、滤镜、绿幕效果和智能影片制作功能，适用于 Mac、iPhone 和 iPad 平台。</description>
     </item>
     <item>
       <title>Linux 产品链接汇总</title>
-      <link>https://sysin.cn/blog/linux/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/linux/</guid>
+      <link>https://sysin.org/blog/linux/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/linux/</guid>
       <pubDate>Thu, 01 Oct 2026 01:06:00 GMT</pubDate>
       <description>Linux 是构建现代计算世界的开放操作系统内核。源于开放，生于协作，共同塑造更加开放、自由而美好的计算世界。</description>
     </item>
     <item>
       <title>HTTP 协议与安全</title>
-      <link>https://sysin.cn/blog/http/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/http/</guid>
+      <link>https://sysin.org/blog/http/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/http/</guid>
       <pubDate>Thu, 01 Oct 2026 01:03:00 GMT</pubDate>
       <description>技术改变世界，安全守护代码的自由与信任。开放驱动创新，共同探索数字世界的无限边界。</description>
     </item>
     <item>
       <title>VMware 产品下载汇总</title>
-      <link>https://sysin.cn/blog/vmware/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/vmware/</guid>
+      <link>https://sysin.org/blog/vmware/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware/</guid>
       <pubDate>Thu, 01 Oct 2026 01:02:00 GMT</pubDate>
       <description>VMware 面向现代数据中心构建虚拟化与软件定义基础设施，以软件的方式统一计算、网络与存储。</description>
     </item>
     <item>
       <title>macOS 下载汇总 (系统、应用和教程)</title>
-      <link>https://sysin.cn/blog/macos/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos/</guid>
+      <link>https://sysin.org/blog/macos/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos/</guid>
       <pubDate>Thu, 01 Oct 2026 01:01:00 GMT</pubDate>
       <description>精心优化，体验感愉悦升华。了解 macOS，探索 Apple 为 Mac 打造的桌面操作系统，及其强大的功能、性能和安全性。</description>
     </item>
     <item>
       <title>WPS Office for Mac 2026 秋季更新 12.1.29166 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-      <link>https://sysin.cn/blog/wps-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/wps-for-mac/</guid>
+      <link>https://sysin.org/blog/wps-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/wps-for-mac/</guid>
       <pubDate>Wed, 30 Sep 2026 01:12:08 GMT</pubDate>
       <description>WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</description>
     </item>
     <item>
       <title>Windows 11 绕过 TPM 方法总结，通用免 TPM 映像下载 (2026 年 9 月更新)</title>
-      <link>https://sysin.cn/blog/windows-11-no-tpm/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-11-no-tpm/</guid>
+      <link>https://sysin.org/blog/windows-11-no-tpm/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-11-no-tpm/</guid>
       <pubDate>Wed, 30 Sep 2026 01:11:11 GMT</pubDate>
       <description>提供 Windows 11 最新简体中文 ISO 映像下载，支持虚拟机、Mac 电脑及不满足 TPM 要求的旧电脑。</description>
     </item>
     <item>
       <title>Apple Creator Studio 2026 秋季更新 - 强大的创意套装</title>
-      <link>https://sysin.cn/blog/apple-creator-studio/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/apple-creator-studio/</guid>
+      <link>https://sysin.org/blog/apple-creator-studio/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/apple-creator-studio/</guid>
       <pubDate>Wed, 30 Sep 2026 01:10:00 GMT</pubDate>
       <description>Apple Creator Studio 是 Apple 创意应用套件，提供视频编辑、音乐制作、图像处理、文档、表格、演示文稿和协作创作能力。</description>
     </item>
     <item>
       <title>Shotcut 26.9 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-      <link>https://sysin.cn/blog/shotcut/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/shotcut/</guid>
+      <link>https://sysin.org/blog/shotcut/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/shotcut/</guid>
       <pubDate>Wed, 30 Sep 2026 01:09:55 GMT</pubDate>
       <description>Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0.1 (26A434) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
       <pubDate>Tue, 29 Sep 2026 01:08:36 GMT</pubDate>
       <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.0.1 (26A434) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
       <pubDate>Tue, 29 Sep 2026 01:08:26 GMT</pubDate>
       <description>macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.7.1 (25G241) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe-boot-iso/</guid>
       <pubDate>Tue, 29 Sep 2026 01:06:36 GMT</pubDate>
       <description>最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.7.1 (25G241) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe/</guid>
+      <link>https://sysin.org/blog/macos-tahoe/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe/</guid>
       <pubDate>Tue, 29 Sep 2026 01:06:26 GMT</pubDate>
       <description>macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.8.1 (24H32) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia-boot-iso/</guid>
       <pubDate>Tue, 29 Sep 2026 01:05:20 GMT</pubDate>
       <description>最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.8.1 (24H32) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia/</guid>
+      <link>https://sysin.org/blog/macos-sequoia/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia/</guid>
       <pubDate>Tue, 29 Sep 2026 01:05:10 GMT</pubDate>
       <description>macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</description>
     </item>
     <item>
       <title>Windows Server 2025 中文版、英文版下载 (2026 年 9 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2025/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2025/</guid>
+      <link>https://sysin.org/blog/windows-server-2025/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2025/</guid>
       <pubDate>Mon, 28 Sep 2026 00:15:05 GMT</pubDate>
       <description>Windows Server 2025 让你为将来做好准备，同时提供目前所需的安全性、性能和灵活性。通过更轻松的网络连接、更快的存储和满足你需求的混合云功能提高工作效率。凭借前瞻性的安全性和 AI 就绪型计算，领先于未来的发展。</description>
     </item>
     <item>
       <title>Windows Server 2022 中文版、英文版下载 (2026 年 9 月更新)</title>
-      <link>https://sysin.cn/blog/windows-server-2022/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-server-2022/</guid>
+      <link>https://sysin.org/blog/windows-server-2022/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-server-2022/</guid>
       <pubDate>Mon, 28 Sep 2026 00:12:22 GMT</pubDate>
       <description>Windows Server 2022 在三个关键主题上带来了许多创新，采用先进的多层安全机制、Azure 混合功能以及灵活的应用程序平台。</description>
     </item>
     <item>
       <title>Windows 11 26H2 | 26H1 | 25H2 | 24H2 中文版、英文版 (2026 年 9 月更新)</title>
-      <link>https://sysin.cn/blog/windows-11/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/windows-11/</guid>
+      <link>https://sysin.org/blog/windows-11/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/windows-11/</guid>
       <pubDate>Mon, 28 Sep 2026 00:11:00 GMT</pubDate>
       <description>Windows 11 提供一个让人平静而富有创意的空间，全新体验引导您全力追逐热爱。从焕然一新的开始菜单，到与您关心的人、关注的消息、游戏和内容建立连接的新方式，Windows 11 提供了一个场所，让您得以自由地思索、表达和创造。</description>
     </item>
     <item>
       <title>IDA Pro 9.4.260915 SP1 (macOS, Linux, Windows) - 强大的反汇编程序、反编译器和多功能调试器</title>
-      <link>https://sysin.cn/blog/ida-pro/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ida-pro/</guid>
+      <link>https://sysin.org/blog/ida-pro/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ida-pro/</guid>
       <pubDate>Fri, 25 Sep 2026 01:09:19 GMT</pubDate>
       <description>IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</description>
     </item>
     <item>
       <title>UTM 5.0.6 beta - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-      <link>https://sysin.cn/blog/utm-5/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/utm-5/</guid>
+      <link>https://sysin.org/blog/utm-5/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/utm-5/</guid>
       <pubDate>Thu, 24 Sep 2026 05:20:05 GMT</pubDate>
       <description>UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</description>
     </item>
     <item>
       <title>Cisco Expressway Release X15.5.3 - 统一通信网关</title>
-      <link>https://sysin.cn/blog/cisco-expressway-15/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/cisco-expressway-15/</guid>
+      <link>https://sysin.org/blog/cisco-expressway-15/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/cisco-expressway-15/</guid>
       <pubDate>Thu, 24 Sep 2026 01:05:56 GMT</pubDate>
       <description>Cisco Expressway X15 新增 LDAP TLS 非标准端口支持、Webex Unified CM Calling 与 Refresh Token 自动刷新，增强 CSRF 防护、WebRTC 会话统计及 TLS 加密安全能力。</description>
     </item>
