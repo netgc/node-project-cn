@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vcf-installer-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/utm-5/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-protection-and-recovery-9/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-nsx-9/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-data-services-manager-9/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-for-networks-9/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-automation-9/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
@@ -17,7 +37,11 @@
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
+    <loc>https://sysin.org/blog/nessus-10/</loc>
+    <lastmod>2026-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vcf-installer-9/</loc>
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
@@ -30,10 +54,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-data-services-manager-9/</loc>
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
@@ -57,15 +77,7 @@
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-nsx-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/vmware-hcx-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-protection-and-recovery-9/</loc>
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
@@ -82,14 +94,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esx-9-sysin/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-for-networks-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-automation-9/</loc>
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
@@ -126,10 +130,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vcf-automation-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nessus-10/</loc>
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
