@@ -12,7 +12,7 @@
     </image>
     <atom:link href="https://sysin.org/rss.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Sat, 17 Oct 2026 06:22:10 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2026 02:20:05 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>UTM 5.0.8 - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
@@ -201,7 +201,7 @@
       <link>https://sysin.org/blog/vmware-protection-and-recovery-9/?utm_source=rss</link>
       <guid>https://sysin.org/blog/vmware-protection-and-recovery-9/</guid>
       <pubDate>Tue, 13 Oct 2026 01:10:10 GMT</pubDate>
-      <description><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-protection-and-recovery-9/?utm_source=rss" title="VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案">VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案</a> 查看最新版。]]></description>
+      <description>VMware Protection and recovery 为 VMware Cloud Foundation（VCF）工作负载提供强大的保护与恢复能力。您可以在 VCF 环境中保护应用程序和数据免受现代勒索软件及其他灾难的影响，以满足不断变化的业务需求。</description>
     </item>
     <item>
       <title>Burp Suite Professional 2026.10 - 领先的 Web 渗透测试软件</title>

@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-10-17T06:22:10.883Z</updated>
+  <updated>2026-10-17T02:20:05.000Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/utm-5/?utm_source=atom"/>
     <id>https://sysin.org/blog/utm-5/</id>
     <published>2026-10-17T02:20:05.000Z</published>
-    <updated>2026-10-17T06:22:10.883Z</updated>
+    <updated>2026-10-17T02:20:05.000Z</updated>
     <summary type="html">UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</summary>
   </entry>
   <entry>
@@ -22,7 +22,7 @@
     <link href="https://sysin.org/blog/sql-server-2025/?utm_source=atom"/>
     <id>https://sysin.org/blog/sql-server-2025/</id>
     <published>2026-10-17T02:06:25.000Z</published>
-    <updated>2026-10-17T07:10:03.799Z</updated>
+    <updated>2026-10-17T02:06:25.000Z</updated>
     <summary type="html">SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</summary>
   </entry>
   <entry>
@@ -30,7 +30,7 @@
     <link href="https://sysin.org/blog/sql-server-2022/?utm_source=atom"/>
     <id>https://sysin.org/blog/sql-server-2022/</id>
     <published>2026-10-17T02:06:22.000Z</published>
-    <updated>2026-10-17T07:10:03.800Z</updated>
+    <updated>2026-10-17T02:06:22.000Z</updated>
     <summary type="html">SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</summary>
   </entry>
   <entry>
@@ -38,7 +38,7 @@
     <link href="https://sysin.org/blog/sql-server-2019/?utm_source=atom"/>
     <id>https://sysin.org/blog/sql-server-2019/</id>
     <published>2026-10-17T02:06:19.000Z</published>
-    <updated>2026-10-17T07:10:03.800Z</updated>
+    <updated>2026-10-17T02:06:19.000Z</updated>
     <summary type="html">SQL Server 2019 新增大数据群集、数据虚拟化和智能性能优化，提升数据分析、查询效率及跨平台数据整合能力。</summary>
   </entry>
   <entry>
@@ -46,7 +46,7 @@
     <link href="https://sysin.org/blog/sql-server-2017/?utm_source=atom"/>
     <id>https://sysin.org/blog/sql-server-2017/</id>
     <published>2026-10-17T02:06:17.000Z</published>
-    <updated>2026-10-17T07:10:03.822Z</updated>
+    <updated>2026-10-17T02:06:17.000Z</updated>
     <summary type="html">SQL Server 2017 首次支持 Windows、Linux 和 Docker 跨平台部署，并新增自适应查询处理、图形数据库及 Python 集成等功能。</summary>
   </entry>
   <entry>
@@ -223,7 +223,7 @@
     <id>https://sysin.org/blog/vmware-protection-and-recovery-9/</id>
     <published>2026-10-13T01:10:10.000Z</published>
     <updated>2026-10-13T01:10:10.000Z</updated>
-    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-protection-and-recovery-9/?utm_source=atom" title="VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案">VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案</a> 查看最新版。]]></summary>
+    <summary type="html">VMware Protection and recovery 为 VMware Cloud Foundation（VCF）工作负载提供强大的保护与恢复能力。您可以在 VCF 环境中保护应用程序和数据免受现代勒索软件及其他灾难的影响，以满足不断变化的业务需求。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.10 - 领先的 Web 渗透测试软件</title>
