@@ -1,252 +1,252 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
-  <updated>2026-10-16T07:31:34.624Z</updated>
-  <id>https://sysin.cn/</id>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
+  <updated>2026-10-16T10:49:29.249Z</updated>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
+    <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Oct 2026)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
+    <published>2026-10-17T01:13:30.000Z</published>
+    <updated>2026-10-16T10:49:29.249Z</updated>
+    <summary type="html">适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
+  </entry>
+  <entry>
+    <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Oct 2026)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</id>
+    <published>2026-10-17T01:13:20.000Z</published>
+    <updated>2026-10-16T10:49:29.202Z</updated>
+    <summary type="html">适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
+  </entry>
+  <entry>
+    <title>Nessus 10.12 Auto Installer for RHEL 9 | RHEL 10 - Nessus 自动化安装程序 (updated Oct 2026)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</id>
+    <published>2026-10-17T01:13:15.000Z</published>
+    <updated>2026-10-16T10:49:29.202Z</updated>
+    <summary type="html">适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
+  </entry>
+  <entry>
+    <title>Nessus 10.12 Auto Installer for macOS Tahoe - Nessus 自动化安装程序 (updated Oct 2026)</title>
+    <link href="https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
+    <published>2026-10-17T01:13:10.000Z</published>
+    <updated>2026-10-16T10:49:29.201Z</updated>
+    <summary type="html">适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
+  </entry>
+  <entry>
     <title>UTM 5.0.7 - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-    <link href="https://sysin.cn/blog/utm-5/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/utm-5/</id>
+    <link href="https://sysin.org/blog/utm-5/?utm_source=atom"/>
+    <id>https://sysin.org/blog/utm-5/</id>
     <published>2026-10-16T01:20:05.000Z</published>
     <updated>2026-10-16T07:31:34.624Z</updated>
     <summary type="html">UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</summary>
   </entry>
   <entry>
     <title>Xcode 27.1 (27A9275) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
-    <link href="https://sysin.cn/blog/apple-xcode-27/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/apple-xcode-27/</id>
+    <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
+    <id>https://sysin.org/blog/apple-xcode-27/</id>
     <published>2026-10-16T01:08:38.000Z</published>
     <updated>2026-10-16T01:33:59.527Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2024 for Mac 16.114 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.cn/blog/office-2024-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2024-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2024-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2024-for-mac/</id>
     <published>2026-10-15T01:16:24.000Z</published>
     <updated>2026-10-15T01:16:24.000Z</updated>
     <summary type="html">Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2021 for Mac 16.114 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.cn/blog/office-2021-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2021-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2021-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2021-for-mac/</id>
     <published>2026-10-15T01:16:21.000Z</published>
     <updated>2026-10-15T01:16:21.000Z</updated>
     <summary type="html">Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>WPS Office for Mac 2026 秋季更新 12.1.29181 - 写作、表格处理、PPT 制作和 PDF 编辑</title>
-    <link href="https://sysin.cn/blog/wps-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wps-for-mac/</id>
+    <link href="https://sysin.org/blog/wps-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wps-for-mac/</id>
     <published>2026-10-15T01:12:08.000Z</published>
     <updated>2026-10-15T07:50:00.394Z</updated>
     <summary type="html">WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2024 VL 16.0.17932.21056 中英文版 ISO 下载 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2024/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2024/</id>
+    <link href="https://sysin.org/blog/office-2024/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2024/</id>
     <published>2026-10-15T01:05:27.000Z</published>
     <updated>2026-10-15T01:05:27.000Z</updated>
     <summary type="html">Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2021 VL 16.0.14334.20974 中英文版 ISO 下载 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2021/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2021/</id>
+    <link href="https://sysin.org/blog/office-2021/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2021/</id>
     <published>2026-10-15T01:05:22.000Z</published>
     <updated>2026-10-15T01:05:22.000Z</updated>
     <summary type="html">Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2019 VL 16.0.10417.20228 中英文版 ISO 下载 (2026 年 10 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2019/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2019/</id>
+    <link href="https://sysin.org/blog/office-2019/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2019/</id>
     <published>2026-10-15T01:05:09.000Z</published>
     <updated>2026-10-15T01:05:09.000Z</updated>
     <summary type="html">Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</summary>
   </entry>
   <entry>
     <title>F5 BIG-IP 21.1 LTS Release 21.1.0.3 - 多云安全和应用交付</title>
-    <link href="https://sysin.cn/blog/f5-big-ip-21-lts/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/f5-big-ip-21-lts/</id>
+    <link href="https://sysin.org/blog/f5-big-ip-21-lts/?utm_source=atom"/>
+    <id>https://sysin.org/blog/f5-big-ip-21-lts/</id>
     <published>2026-10-15T01:01:21.000Z</published>
     <updated>2026-10-15T01:01:21.000Z</updated>
     <summary type="html">F5 BIG-IP 21.1 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</summary>
   </entry>
   <entry>
     <title>F5 BIG-IP 17.5 LTS Release 17.5.1.10 - 多云安全和应用交付</title>
-    <link href="https://sysin.cn/blog/f5-big-ip-17-lts/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/f5-big-ip-17-lts/</id>
+    <link href="https://sysin.org/blog/f5-big-ip-17-lts/?utm_source=atom"/>
+    <id>https://sysin.org/blog/f5-big-ip-17-lts/</id>
     <published>2026-10-15T01:01:17.000Z</published>
     <updated>2026-10-15T01:01:17.000Z</updated>
     <summary type="html">F5 BIG-IP 17.5 LTS 是 F5 的长期支持版本，集成负载均衡、WAF、API 安全、访问管理和 DNS 等核心能力，为企业应用提供稳定、高性能的交付与安全防护。</summary>
   </entry>
   <entry>
     <title>SQL Server Management Studio (SSMS) 22.11 - 微软数据库管理工具</title>
-    <link href="https://sysin.cn/blog/ssms/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ssms/</id>
+    <link href="https://sysin.org/blog/ssms/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ssms/</id>
     <published>2026-10-15T01:01:11.000Z</published>
     <updated>2026-10-15T01:01:11.000Z</updated>
     <summary type="html">SQL Server Management Studio (SSMS) 是一种集成环境，用于管理从 SQL Server 到 Azure SQL 数据库的任何 SQL 基础结构。SSMS 提供用于配置、监视和管理 SQL Server 和数据库实例的工具。</summary>
   </entry>
   <entry>
     <title>Microsoft Exchange Server SE RTM (October 2026 SU11) - 本地部署的企业级电子邮件解决方案</title>
-    <link href="https://sysin.cn/blog/exchange-server-se/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/exchange-server-se/</id>
+    <link href="https://sysin.org/blog/exchange-server-se/?utm_source=atom"/>
+    <id>https://sysin.org/blog/exchange-server-se/</id>
     <published>2026-10-15T01:01:10.000Z</published>
     <updated>2026-10-15T07:34:03.926Z</updated>
     <summary type="html">Exchange Server SE 是 Microsoft 面向订阅模式推出的新一代 Exchange Server，提供本地部署的企业邮件、日历、联系人及协作服务，并采用持续更新的产品生命周期模式。</summary>
   </entry>
   <entry>
     <title>Nexpose 8.63.0 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nexpose/</id>
+    <link href="https://sysin.org/blog/nexpose/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nexpose/</id>
     <published>2026-10-15T01:01:05.000Z</published>
     <updated>2026-10-15T01:01:05.000Z</updated>
     <summary type="html">Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</summary>
   </entry>
   <entry>
     <title>Arista vEOS 4.36.3M - 虚拟化的数据中心和云网络可扩展操作系统</title>
-    <link href="https://sysin.cn/blog/arista-veos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/arista-veos/</id>
+    <link href="https://sysin.org/blog/arista-veos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/arista-veos/</id>
     <published>2026-10-15T01:00:30.000Z</published>
     <updated>2026-10-15T01:00:30.000Z</updated>
     <summary type="html">Arista vEOS 是 Arista Networks 提供的虚拟化网络操作系统，旨在将 EOS 的所有功能带入虚拟化平台中。它允许用户在虚拟化环境中运行完整的 EOS 系统，无需物理硬件交换机。</summary>
   </entry>
   <entry>
     <title>Arista CloudEOS 4.36.3M - 云网络基础架构即代码</title>
-    <link href="https://sysin.cn/blog/arista-cloudeos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/arista-cloudeos/</id>
+    <link href="https://sysin.org/blog/arista-cloudeos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/arista-cloudeos/</id>
     <published>2026-10-15T01:00:20.000Z</published>
     <updated>2026-10-15T01:00:20.000Z</updated>
     <summary type="html">Arista CloudEOS 面向多云和云原生网络环境，提供云间互联、网络分段、自动化配置、遥测和故障排除，并支持 Terraform、Ansible 等基础设施即代码工具。</summary>
   </entry>
   <entry>
     <title>Arista cEOS 4.36.3M - 针对云原生环境设计的容器化网络操作系统</title>
-    <link href="https://sysin.cn/blog/arista-ceos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/arista-ceos/</id>
+    <link href="https://sysin.org/blog/arista-ceos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/arista-ceos/</id>
     <published>2026-10-15T01:00:10.000Z</published>
     <updated>2026-10-15T01:00:10.000Z</updated>
     <summary type="html">Arista cEOS 是 Arista Networks 针对云原生环境设计的容器化网络操作系统。它将 Arista EOS 封装为容器，使其能够在标准容器平台（如 Docker、Kubernetes）上运行，从而提供灵活的网络功能部署。</summary>
   </entry>
   <entry>
     <title>Arista EOS 4.36.3M 发布 - 适用于下一代数据中心和云网络的可扩展操作系统</title>
-    <link href="https://sysin.cn/blog/arista-eos/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/arista-eos/</id>
+    <link href="https://sysin.org/blog/arista-eos/?utm_source=atom"/>
+    <id>https://sysin.org/blog/arista-eos/</id>
     <published>2026-10-15T01:00:01.000Z</published>
     <updated>2026-10-15T01:00:01.000Z</updated>
     <summary type="html">Arista EOS 是一个完全可编程且高度模块化的基于 Linux 的网络操作系统，使用熟悉的行业标准 CLI，并在 Arista 交换系列中运行单个二进制软件映像。</summary>
   </entry>
   <entry>
     <title>Cisco Catalyst 9000 Series Switches, IOS XE Release 26.2.1 GA</title>
-    <link href="https://sysin.cn/blog/cisco-catalyst-9000/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-catalyst-9000/</id>
+    <link href="https://sysin.org/blog/cisco-catalyst-9000/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-catalyst-9000/</id>
     <published>2026-10-14T01:06:26.000Z</published>
     <updated>2026-10-15T08:43:37.037Z</updated>
     <summary type="html">Cisco Catalyst 9000 Series Switches 是 Cisco 企业级园区交换平台，运行 IOS XE 操作系统，支持高性能交换、SD-Access、VXLAN、网络自动化、安全策略和智能运维，适用于企业园区、核心网络及分支基础设施建设。</summary>
   </entry>
   <entry>
     <title>VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案</title>
-    <link href="https://sysin.cn/blog/vmware-protection-and-recovery-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-protection-and-recovery-9/</id>
+    <link href="https://sysin.org/blog/vmware-protection-and-recovery-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-protection-and-recovery-9/</id>
     <published>2026-10-13T01:10:10.000Z</published>
     <updated>2026-10-16T07:30:00.933Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-protection-and-recovery-9/?utm_source=atom" title="VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案">VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.10 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro/</id>
     <published>2026-10-13T01:07:12.000Z</published>
     <updated>2026-10-13T01:07:12.000Z</updated>
     <summary type="html">Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</summary>
   </entry>
   <entry>
     <title>Burp Suite 2026.10 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-    <link href="https://sysin.cn/blog/burp-suite/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite/</id>
+    <link href="https://sysin.org/blog/burp-suite/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite/</id>
     <published>2026-10-13T01:07:10.000Z</published>
     <updated>2026-10-13T01:07:10.000Z</updated>
     <summary type="html">Burp Suite 是一套用于 Web 安全测试的高级工具集 —— 将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</summary>
   </entry>
   <entry>
     <title>Magic Quadrant for Enterprise AI Assistants 2026 - 企业级 AI 助理</title>
-    <link href="https://sysin.cn/blog/gartner-magic-quadrant-ai-assistants-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gartner-magic-quadrant-ai-assistants-2026/</id>
+    <link href="https://sysin.org/blog/gartner-magic-quadrant-ai-assistants-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gartner-magic-quadrant-ai-assistants-2026/</id>
     <published>2026-10-12T01:12:16.000Z</published>
     <updated>2026-10-12T01:12:16.000Z</updated>
     <summary type="html">企业级 AI 助理正迅速成为员工开展工作的全新入口，帮助员工进行研究、数据分析、内容创作及任务委派。本魔力象限报告为应用负责人评估相关解决方案提供参考。</summary>
   </entry>
   <entry>
     <title>Magic Quadrant for AI-Augmented Code Modernization Tools 2026 - AI 增强型代码现代化工具</title>
-    <link href="https://sysin.cn/blog/gartner-magic-quadrant-ai-code-modernization-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gartner-magic-quadrant-ai-code-modernization-2026/</id>
+    <link href="https://sysin.org/blog/gartner-magic-quadrant-ai-code-modernization-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gartner-magic-quadrant-ai-code-modernization-2026/</id>
     <published>2026-10-12T01:12:15.000Z</published>
     <updated>2026-10-12T01:12:15.000Z</updated>
     <summary type="html">AI 增强型代码现代化工具通过利用 AI 辅助文档编写、测试和代码转换，帮助软件工程领导者实现大规模、持续性的现代化。利用本评估，识别与您的现代化战略相契合的供应商。</summary>
   </entry>
   <entry>
     <title>Magic Quadrant for Enterprise AI Search 2026 - 企业级 AI 搜索</title>
-    <link href="https://sysin.cn/blog/gartner-magic-quadrant-ai-search-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gartner-magic-quadrant-ai-search-2026/</id>
+    <link href="https://sysin.org/blog/gartner-magic-quadrant-ai-search-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gartner-magic-quadrant-ai-search-2026/</id>
     <published>2026-10-10T01:12:12.000Z</published>
     <updated>2026-10-10T01:12:12.000Z</updated>
     <summary type="html">企业级 AI 搜索平台为 AI 智能体和 AI 助手提供一个基于组织内容和数据的上下文层。本研究旨在指导企业应用领域的领导者，了解哪些供应商和平台能够支持这些新型 AI 工作负载。</summary>
   </entry>
   <entry>
     <title>Magic Quadrant for Global Industrial AIoT Platforms 2026 - 全球工业 AIoT 平台</title>
-    <link href="https://sysin.cn/blog/gartner-magic-quadrant-aiot-platforms-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gartner-magic-quadrant-aiot-platforms-2026/</id>
+    <link href="https://sysin.org/blog/gartner-magic-quadrant-aiot-platforms-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gartner-magic-quadrant-aiot-platforms-2026/</id>
     <published>2026-10-10T01:12:11.000Z</published>
     <updated>2026-10-10T01:12:11.000Z</updated>
     <summary type="html">全球工业 AIoT 平台正在融入智能体式 AI 能力，以实现自主运营。本魔力象限重点介绍物联网在这一重要转型中的作用，同时提醒首席信息官（CIO），该市场在发展演进、采用和价值交付方面仍处于早期阶段。</summary>
   </entry>
   <entry>
     <title>Elasticsearch 9.5.5 (macOS, Linux, Windows) - 搜索、分析与人工智能平台</title>
-    <link href="https://sysin.cn/blog/elastic-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/elastic-9/</id>
+    <link href="https://sysin.org/blog/elastic-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/elastic-9/</id>
     <published>2026-10-08T01:03:09.000Z</published>
     <updated>2026-10-08T01:03:09.000Z</updated>
     <summary type="html">Elasticsearch 是一种开源的分布式搜索与分析引擎，旨在提供极高的性能、可扩展性以及适用于人工智能应用的解决方案。作为检索平台，它能够实时存储结构化数据、非结构化数据以及向量数据，从而实现快速的混合搜索和向量搜索功能。</summary>
-  </entry>
-  <entry>
-    <title>Gitea 28.1.0 (Linux, FreeBSD, macOS, Windows) - 开源自托管 Git 服务</title>
-    <link href="https://sysin.cn/blog/gitea/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gitea/</id>
-    <published>2026-10-07T01:25:55.000Z</published>
-    <updated>2026-10-07T01:25:55.000Z</updated>
-    <summary type="html">Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</summary>
-  </entry>
-  <entry>
-    <title>SonarQube Server 2026.5.2 LTA (macOS, Linux, Windows) - 代码质量、安全与静态分析工具</title>
-    <link href="https://sysin.cn/blog/sonarqube/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sonarqube/</id>
-    <published>2026-10-06T01:15:20.000Z</published>
-    <updated>2026-10-06T01:15:20.000Z</updated>
-    <summary type="html">SonarQube Server 是专业的代码质量与安全分析平台，支持多语言静态分析、漏洞检测、代码审查和质量门禁，帮助团队持续提升软件质量。</summary>
-  </entry>
-  <entry>
-    <title>Dell OpenManage Enterprise 4.8 - Dell 服务器、存储和网络设备集中管理软件</title>
-    <link href="https://sysin.cn/blog/dell-openmanage-enterprise/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/dell-openmanage-enterprise/</id>
-    <published>2026-10-06T01:03:38.000Z</published>
-    <updated>2026-10-06T01:03:38.000Z</updated>
-    <summary type="html">OpenManage Enterprise 是作为虚拟设备提供的多系统管理和监视 Web 应用程序。您可以通过它全面了解企业网络中的戴尔服务器、机箱、存储、其他第三方设备和组件以及网络交换机。</summary>
-  </entry>
-  <entry>
-    <title>Windows 下载汇总</title>
-    <link href="https://sysin.cn/blog/windows/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows/</id>
-    <published>2026-10-05T01:28:15.000Z</published>
-    <updated>2026-10-05T01:28:15.000Z</updated>
-    <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/windows/?utm_source=atom" title="Windows 下载汇总">Windows 下载汇总</a> 查看最新版。]]></summary>
   </entry>
 </feed>
