@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-protection-and-recovery-9/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/cisco-ios-xr-7/</loc>
     <lastmod>2026-10-17</lastmod>
   </url>
@@ -131,10 +139,6 @@
   <url>
     <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
     <lastmod>2026-10-14</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-protection-and-recovery-9/</loc>
-    <lastmod>2026-10-13</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/burp-suite-pro/</loc>
@@ -358,10 +362,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-firepower-1000/</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-isr-1000/</loc>
     <lastmod>2026-09-22</lastmod>
   </url>
   <url>
