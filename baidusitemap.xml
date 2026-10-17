@@ -1,155 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/azure-devops-server/</loc>
+    <loc>https://sysin.org/blog/nessus-auto-install-for-windows/</loc>
     <lastmod>2026-10-17</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/nessus-auto-install-for-windows/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <loc>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</loc>
+    <lastmod>2026-10-17</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-17</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/nessus-auto-install-for-macos/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/nessus-10/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-17</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/utm-5/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-protection-and-recovery-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-nsx-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-data-services-manager-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-for-networks-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-automation-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-avi-load-balancer-32/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vcf-installer-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vsan-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-kubernetes-service-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-replication-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-vcenter-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-private-ai-foundation-nvidia-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-hcx-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esx-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esx-9-oem/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esx-9-sysin/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vcf-operations-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vcf-networking-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vcf-9/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-9-sysin/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-esxi-9-oem/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-remote-console-13/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-remote-console/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-private-ai-foundation-nvidia/</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vcf-automation-9/</loc>
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
@@ -157,35 +25,15 @@
     <lastmod>2026-10-16</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9800/</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/wps-for-mac/</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/exchange-server-se/</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos/</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/office-2024-for-mac/</loc>
     <lastmod>2026-10-15</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/office-2021-for-mac/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/wps-for-mac/</loc>
     <lastmod>2026-10-15</lastmod>
   </url>
   <url>
@@ -213,6 +61,10 @@
     <lastmod>2026-10-15</lastmod>
   </url>
   <url>
+    <loc>https://sysin.org/blog/exchange-server-se/</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/nexpose/</loc>
     <lastmod>2026-10-15</lastmod>
   </url>
@@ -231,6 +83,14 @@
   <url>
     <loc>https://sysin.org/blog/arista-eos/</loc>
     <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-protection-and-recovery-9/</loc>
+    <lastmod>2026-10-13</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/burp-suite-pro/</loc>
@@ -277,6 +137,14 @@
     <lastmod>2026-10-05</lastmod>
   </url>
   <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9800-cl/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/cisco-catalyst-9800/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
     <lastmod>2026-10-05</lastmod>
   </url>
@@ -305,6 +173,14 @@
     <lastmod>2026-10-03</lastmod>
   </url>
   <url>
+    <loc>https://sysin.org/blog/nessus-10/</loc>
+    <lastmod>2026-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/azure-devops-server/</loc>
+    <lastmod>2026-10-02</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/splunk-10/</loc>
     <lastmod>2026-10-02</lastmod>
   </url>
@@ -322,6 +198,14 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/http/</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware/</loc>
+    <lastmod>2026-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos/</loc>
     <lastmod>2026-10-01</lastmod>
   </url>
   <url>
@@ -661,7 +545,31 @@
     <lastmod>2026-09-04</lastmod>
   </url>
   <url>
+    <loc>https://sysin.org/blog/vmware-vsphere-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-data-services-manager-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vcf-installer-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/coreldraw/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-avi-load-balancer-32/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-private-ai-foundation-nvidia-9/</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
@@ -674,6 +582,46 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/wps/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vcenter-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-nsx-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vsan-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vsphere-kubernetes-service-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-hcx-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-for-networks-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-automation-9/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>
@@ -1033,7 +981,15 @@
     <lastmod>2026-07-15</lastmod>
   </url>
   <url>
+    <loc>https://sysin.org/blog/vmware-esxi-9-sysin/</loc>
+    <lastmod>2026-07-15</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/vmware-nsx-4/</loc>
+    <lastmod>2026-07-15</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-esxi-9-oem/</loc>
     <lastmod>2026-07-15</lastmod>
   </url>
   <url>
@@ -1083,6 +1039,18 @@
   <url>
     <loc>https://sysin.org/blog/vmware-holodeck/</loc>
     <lastmod>2026-07-02</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-esx-9-sysin/</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-esx-9-oem/</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-esx-9/</loc>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/kali-linux/</loc>
@@ -1261,12 +1229,36 @@
     <lastmod>2026-05-15</lastmod>
   </url>
   <url>
+    <loc>https://sysin.org/blog/vmware-remote-console/</loc>
+    <lastmod>2026-05-15</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/vmware-workstation-26/</loc>
     <lastmod>2026-05-14</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-fusion-26/</loc>
     <lastmod>2026-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-remote-console-13/</loc>
+    <lastmod>2026-05-13</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vcf-networking-9/</loc>
+    <lastmod>2026-05-13</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vcf-automation-9/</loc>
+    <lastmod>2026-05-13</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vcf-operations-9/</loc>
+    <lastmod>2026-05-13</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vcf-9/</loc>
+    <lastmod>2026-05-13</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-arm-9/</loc>
@@ -1314,6 +1306,10 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-live-site-recovery-9/</loc>
+    <lastmod>2026-04-29</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vsphere-replication-9/</loc>
     <lastmod>2026-04-29</lastmod>
   </url>
   <url>
@@ -2419,6 +2415,10 @@
   <url>
     <loc>https://sysin.org/blog/gartner-magic-quadrant-enterprise-br-2024/</loc>
     <lastmod>2024-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-private-ai-foundation-nvidia/</loc>
+    <lastmod>2024-10-05</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/macos-15-ovf/</loc>

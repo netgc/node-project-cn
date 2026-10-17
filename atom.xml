@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-10-16T10:49:29.249Z</updated>
+  <updated>2026-10-17T01:13:30.000Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
     <id>https://sysin.org/blog/nessus-auto-install-for-windows/</id>
     <published>2026-10-17T01:13:30.000Z</published>
-    <updated>2026-10-16T10:49:29.249Z</updated>
+    <updated>2026-10-17T01:13:30.000Z</updated>
     <summary type="html">适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
@@ -22,7 +22,7 @@
     <link href="https://sysin.org/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
     <id>https://sysin.org/blog/nessus-auto-install-for-ubuntu/</id>
     <published>2026-10-17T01:13:20.000Z</published>
-    <updated>2026-10-16T10:49:29.202Z</updated>
+    <updated>2026-10-17T01:13:20.000Z</updated>
     <summary type="html">适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
@@ -30,7 +30,7 @@
     <link href="https://sysin.org/blog/nessus-auto-install-for-rhel-9/?utm_source=atom"/>
     <id>https://sysin.org/blog/nessus-auto-install-for-rhel-9/</id>
     <published>2026-10-17T01:13:15.000Z</published>
-    <updated>2026-10-16T10:49:29.202Z</updated>
+    <updated>2026-10-17T01:13:15.000Z</updated>
     <summary type="html">适用于 RHEL 9 和 10 及其兼容发行版的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
@@ -38,7 +38,7 @@
     <link href="https://sysin.org/blog/nessus-auto-install-for-macos/?utm_source=atom"/>
     <id>https://sysin.org/blog/nessus-auto-install-for-macos/</id>
     <published>2026-10-17T01:13:10.000Z</published>
-    <updated>2026-10-16T10:49:29.201Z</updated>
+    <updated>2026-10-17T01:13:10.000Z</updated>
     <summary type="html">适用于 macOS Sonoma 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
   <entry>
@@ -46,7 +46,7 @@
     <link href="https://sysin.org/blog/utm-5/?utm_source=atom"/>
     <id>https://sysin.org/blog/utm-5/</id>
     <published>2026-10-16T01:20:05.000Z</published>
-    <updated>2026-10-16T07:31:34.624Z</updated>
+    <updated>2026-10-16T01:20:05.000Z</updated>
     <summary type="html">UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</summary>
   </entry>
   <entry>
@@ -54,7 +54,7 @@
     <link href="https://sysin.org/blog/apple-xcode-27/?utm_source=atom"/>
     <id>https://sysin.org/blog/apple-xcode-27/</id>
     <published>2026-10-16T01:08:38.000Z</published>
-    <updated>2026-10-16T01:33:59.527Z</updated>
+    <updated>2026-10-16T01:08:38.000Z</updated>
     <summary type="html">​Xcode 27 新增 API 可集成 AI 模型与拓展的智能体编程能力，直接将当前优秀的模型和智能体的强大功能全面整合进开发者的工作流。</summary>
   </entry>
   <entry>
@@ -78,7 +78,7 @@
     <link href="https://sysin.org/blog/wps-for-mac/?utm_source=atom"/>
     <id>https://sysin.org/blog/wps-for-mac/</id>
     <published>2026-10-15T01:12:08.000Z</published>
-    <updated>2026-10-15T07:50:00.394Z</updated>
+    <updated>2026-10-15T01:12:08.000Z</updated>
     <summary type="html">WPS Office for Mac 是一款适用于 macOS 的免费办公软件，提供文字、表格、演示和 PDF 编辑功能，全面兼容 Microsoft Office 文件格式，支持云同步与跨平台办公。</summary>
   </entry>
   <entry>
@@ -134,7 +134,7 @@
     <link href="https://sysin.org/blog/exchange-server-se/?utm_source=atom"/>
     <id>https://sysin.org/blog/exchange-server-se/</id>
     <published>2026-10-15T01:01:10.000Z</published>
-    <updated>2026-10-15T07:34:03.926Z</updated>
+    <updated>2026-10-15T01:01:10.000Z</updated>
     <summary type="html">Exchange Server SE 是 Microsoft 面向订阅模式推出的新一代 Exchange Server，提供本地部署的企业邮件、日历、联系人及协作服务，并采用持续更新的产品生命周期模式。</summary>
   </entry>
   <entry>
@@ -182,7 +182,7 @@
     <link href="https://sysin.org/blog/cisco-catalyst-9000/?utm_source=atom"/>
     <id>https://sysin.org/blog/cisco-catalyst-9000/</id>
     <published>2026-10-14T01:06:26.000Z</published>
-    <updated>2026-10-15T08:43:37.037Z</updated>
+    <updated>2026-10-14T01:06:26.000Z</updated>
     <summary type="html">Cisco Catalyst 9000 Series Switches 是 Cisco 企业级园区交换平台，运行 IOS XE 操作系统，支持高性能交换、SD-Access、VXLAN、网络自动化、安全策略和智能运维，适用于企业园区、核心网络及分支基础设施建设。</summary>
   </entry>
   <entry>
@@ -190,7 +190,7 @@
     <link href="https://sysin.org/blog/vmware-protection-and-recovery-9/?utm_source=atom"/>
     <id>https://sysin.org/blog/vmware-protection-and-recovery-9/</id>
     <published>2026-10-13T01:10:10.000Z</published>
-    <updated>2026-10-16T07:30:00.933Z</updated>
+    <updated>2026-10-13T01:10:10.000Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-protection-and-recovery-9/?utm_source=atom" title="VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案">VMware Protection and Recovery 9.1.1 发布 - 业务连续性与灾难恢复解决方案</a> 查看最新版。]]></summary>
   </entry>
   <entry>
