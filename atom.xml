@@ -3,19 +3,19 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-10-21T02:45:01.200Z</updated>
+  <updated>2026-10-21T02:52:10.061Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
-    <title>OpenBSD 8.0 正式版发布</title>
+    <title>OpenBSD 8.0 正式版发布 - 免费多平台类 UNIX 操作系统</title>
     <link href="https://sysin.org/blog/openbsd/?utm_source=atom"/>
     <id>https://sysin.org/blog/openbsd/</id>
     <published>2026-10-21T01:10:12.000Z</published>
-    <updated>2026-10-21T02:45:01.200Z</updated>
-    <summary type="html">OpenBSD 项目开发并提供一款免费、支持多平台、基于 4.4BSD 的类 UNIX 操作系统。</summary>
+    <updated>2026-10-21T02:52:10.061Z</updated>
+    <summary type="html">NetBSD 是一款开源、免费的类 Unix 操作系统，以高度可移植性、稳定性和安全性著称，支持多种硬件架构，广泛用于服务器、嵌入式设备及跨平台开发等场景。</summary>
   </entry>
   <entry>
     <title>HPE SPP 2026.09.00.00 - HPE 服务器固件、驱动程序和系统软件包</title>
