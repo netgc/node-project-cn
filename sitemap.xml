@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/panorama-12/</loc>
+  <lastmod>2026-10-21</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/cisco-ucm-14/</loc>
   <lastmod>2026-10-21</lastmod>
 </url>
@@ -1833,20 +1837,16 @@
   <lastmod>2025-08-21</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
+  <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
   <lastmod>2025-08-20</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/citrix-virtual-apps-and-desktops/</loc>
+  <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-1912-ltsr/</loc>
   <lastmod>2025-08-20</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/citrix-xenapp-and-xendesktop/</loc>
   <lastmod>2025-08-20</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/panorama-12/</loc>
-  <lastmod>2025-08-18</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/citrix-virtual-apps-desktops-2507-ltsr/</loc>
