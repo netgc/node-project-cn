@@ -1,3 +1,4 @@
+https://sysin.org/blog/vmware-cloud-director-10/
 https://sysin.org/blog/vmware-esxi-8-u3-oem/
 https://sysin.org/blog/nessus-auto-install-for-windows/
 https://sysin.org/blog/nessus-auto-install-for-ubuntu/
@@ -17,4 +18,3 @@ https://sysin.org/blog/vmware-esxi-9-sysin/
 https://sysin.org/blog/macos-golden-gate/
 https://sysin.org/blog/ida-pro-release/
 https://sysin.org/blog/oxygen-forensic-detective-release/
-https://sysin.org/blog/hpe-spp/
