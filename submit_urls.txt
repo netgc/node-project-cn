@@ -1,6 +1,6 @@
+https://sysin.org/blog/omnissa-secure-email-gateway/
 https://sysin.org/blog/omnissa-os-optimization-tool/
 https://sysin.org/blog/omnissa-app-volumes/
-https://sysin.org/blog/omnissa-secure-email-gateway/
 https://sysin.org/blog/omnissa-horizon-8/
 https://sysin.org/blog/vmware-cloud-foundation-9/
 https://sysin.org/blog/vmware-protection-and-recovery-9/
