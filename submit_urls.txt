@@ -1,12 +1,12 @@
-https://sysin.org/blog/windows-server-2022/
 https://sysin.org/blog/windows-server-2025/
-https://sysin.org/blog/windows-server-2019/
-https://sysin.org/blog/windows-server-2016/
-https://sysin.org/blog/windows-11/
 https://sysin.org/blog/windows-server-2025-ovf/
+https://sysin.org/blog/windows-server-2022/
 https://sysin.org/blog/windows-server-2022-ovf/
+https://sysin.org/blog/windows-server-2019/
 https://sysin.org/blog/windows-server-2019-ovf/
+https://sysin.org/blog/windows-server-2016/
 https://sysin.org/blog/windows-server-2016-ovf/
+https://sysin.org/blog/windows-11/
 https://sysin.org/blog/cisco-sd-wan-26/
 https://sysin.org/blog/sql-server-2025/
 https://sysin.org/blog/dell-unityvsa-5/
