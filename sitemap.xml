@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
+  <lastmod>2026-10-25</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
+  <lastmod>2026-10-25</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-aria-operations/</loc>
+  <lastmod>2026-10-25</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/windows-11/</loc>
   <lastmod>2026-10-25</lastmod>
 </url>
@@ -933,14 +945,6 @@
   <lastmod>2026-07-31</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</loc>
-  <lastmod>2026-07-29</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-esxi-8-u3-oem/</loc>
-  <lastmod>2026-07-29</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-vsphere-8-u3/</loc>
   <lastmod>2026-07-29</lastmod>
 </url>
@@ -1210,10 +1214,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-vsan-8/</loc>
-  <lastmod>2026-05-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-aria-operations/</loc>
   <lastmod>2026-05-28</lastmod>
 </url>
 <url>
