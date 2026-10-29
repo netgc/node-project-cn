@@ -3,18 +3,18 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-10-29T05:03:58.715Z</updated>
+  <updated>2026-10-29T05:45:07.211Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
-    <title>HPE OneView 11.5 - HPE 服务器、存储和网络设备集中管理软件</title>
+    <title>HPE OneView 11.5 - HPE 服务器、存储和网络集中管理软件</title>
     <link href="https://sysin.org/blog/hpe-oneview/?utm_source=atom"/>
     <id>https://sysin.org/blog/hpe-oneview/</id>
     <published>2026-10-29T01:18:36.000Z</published>
-    <updated>2026-10-29T05:03:58.715Z</updated>
+    <updated>2026-10-29T05:45:07.211Z</updated>
     <summary type="html">HPE OneView 是一款集成式 IT 基础设施管理软件，可实现 IT 运维自动化，简化了涵盖计算、存储和网络的基础设施生命周期管理。</summary>
   </entry>
   <entry>
