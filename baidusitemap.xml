@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/apple-xcode-27/</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/core-impact/</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/arista-cloudvision/</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
@@ -18,10 +26,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-expressway-15/</loc>
-    <lastmod>2026-10-30</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/core-impact/</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
   <url>
@@ -199,10 +203,6 @@
   <url>
     <loc>https://sysin.org/blog/nessus-auto-install-for-macos/</loc>
     <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/apple-xcode-27/</loc>
-    <lastmod>2026-10-16</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/office-2024-for-mac/</loc>
