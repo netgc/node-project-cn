@@ -1,5 +1,11 @@
-https://sysin.org/blog/mobiledit/
+https://sysin.org/blog/magnet-acquire/
+https://sysin.org/blog/magnet-axiom/
+https://sysin.org/blog/oxygen-forensic-detective/
+https://sysin.org/blog/cellebrite-ufed/
+https://sysin.org/blog/cellebrite-physical-analyzer/
+https://sysin.org/blog/cellebrite-inseyets/
 https://sysin.org/blog/xry-pro/
+https://sysin.org/blog/mobiledit/
 https://sysin.org/blog/apple-xcode-27/
 https://sysin.org/blog/capture-one/
 https://sysin.org/blog/arista-eos/
@@ -12,9 +18,3 @@ https://sysin.org/blog/macos-tahoe-boot-iso/
 https://sysin.org/blog/macos-tahoe/
 https://sysin.org/blog/macos-sequoia-boot-iso/
 https://sysin.org/blog/macos-sequoia/
-https://sysin.org/blog/apple-safari-27/
-https://sysin.org/blog/windows-server-2025-ovf/
-https://sysin.org/blog/windows-server-2025/
-https://sysin.org/blog/windows-server-2022-ovf/
-https://sysin.org/blog/windows-server-2022/
-https://sysin.org/blog/windows-11/

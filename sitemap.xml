@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://sysin.org/blog/mobiledit/</loc>
+  <loc>https://sysin.org/blog/magnet-acquire/</loc>
+  <lastmod>2026-10-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/magnet-axiom/</loc>
+  <lastmod>2026-10-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
+  <lastmod>2026-10-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cellebrite-ufed/</loc>
+  <lastmod>2026-10-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cellebrite-physical-analyzer/</loc>
+  <lastmod>2026-10-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cellebrite-inseyets/</loc>
   <lastmod>2026-10-31</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/xry-pro/</loc>
+  <lastmod>2026-10-31</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/mobiledit/</loc>
   <lastmod>2026-10-31</lastmod>
 </url>
 <url>
@@ -985,16 +1009,8 @@
   <lastmod>2026-07-22</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/magnet-axiom/</loc>
-  <lastmod>2026-07-20</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/magnet-dvr-examiner/</loc>
   <lastmod>2026-07-20</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
-  <lastmod>2026-07-19</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/jetbrains-clion/</loc>
@@ -1246,10 +1262,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/adobe-xd/</loc>
-  <lastmod>2026-05-23</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cellebrite-physical-analyzer/</loc>
   <lastmod>2026-05-23</lastmod>
 </url>
 <url>
@@ -1829,10 +1841,6 @@
   <lastmod>2025-08-29</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/cellebrite-ufed/</loc>
-  <lastmod>2025-08-29</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/cellebrite-pathfinder/</loc>
   <lastmod>2025-08-29</lastmod>
 </url>
@@ -2217,10 +2225,6 @@
   <lastmod>2025-01-04</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/cellebrite-inseyets/</loc>
-  <lastmod>2024-12-25</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/how-to-remove-office-mac/</loc>
   <lastmod>2024-12-21</lastmod>
 </url>
@@ -2495,10 +2499,6 @@
 <url>
   <loc>https://sysin.org/blog/cisco-catalyst-9100/</loc>
   <lastmod>2024-09-07</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/magnet-acquire/</loc>
-  <lastmod>2024-09-01</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/windows-11-22h2/</loc>
