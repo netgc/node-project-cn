@@ -3,12 +3,20 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-11-01T02:32:30.966Z</updated>
+  <updated>2026-11-01T09:14:40.411Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
+  <entry>
+    <title>Gitea 28.3.0 (Linux, FreeBSD, macOS, Windows) - 开源自托管 Git 服务</title>
+    <link href="https://sysin.org/blog/gitea/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gitea/</id>
+    <published>2026-11-01T01:25:55.000Z</published>
+    <updated>2026-11-01T09:14:40.411Z</updated>
+    <summary type="html">Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</summary>
+  </entry>
   <entry>
     <title>OpenShot 4.1 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
     <link href="https://sysin.org/blog/openshot/?utm_source=atom"/>
@@ -240,13 +248,5 @@
     <published>2026-10-21T01:10:12.000Z</published>
     <updated>2026-10-21T01:10:12.000Z</updated>
     <summary type="html">OpenBSD 是一款开源、免费的类 Unix 操作系统，以高度可移植性、稳定性和安全性著称，支持多种硬件架构，广泛用于服务器、嵌入式设备及跨平台开发等场景。</summary>
-  </entry>
-  <entry>
-    <title>IDA Pro 9.5 正式版发布</title>
-    <link href="https://sysin.org/blog/ida-pro-9/?utm_source=atom"/>
-    <id>https://sysin.org/blog/ida-pro-9/</id>
-    <published>2026-10-20T01:09:05.000Z</published>
-    <updated>2026-10-20T01:09:05.000Z</updated>
-    <summary type="html">IDA 9.5 发布，核心升级聚焦 AI Agent：官方 IDA MCP、Assist AI、多二进制分析，同时新增 Android DEX/ODEX、TriCore、Hexagon 等反编译支持。</summary>
   </entry>
 </feed>

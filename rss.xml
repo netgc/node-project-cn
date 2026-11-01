@@ -12,8 +12,15 @@
     </image>
     <atom:link href="https://sysin.org/rss.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Sun, 01 Nov 2026 02:32:30 GMT</pubDate>
+    <pubDate>Sun, 01 Nov 2026 09:14:40 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>Gitea 28.3.0 (Linux, FreeBSD, macOS, Windows) - 开源自托管 Git 服务</title>
+      <link>https://sysin.org/blog/gitea/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gitea/</guid>
+      <pubDate>Sun, 01 Nov 2026 01:25:55 GMT</pubDate>
+      <description>Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</description>
+    </item>
     <item>
       <title>OpenShot 4.1 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
       <link>https://sysin.org/blog/openshot/?utm_source=rss</link>
@@ -216,13 +223,6 @@
       <guid>https://sysin.org/blog/openbsd/</guid>
       <pubDate>Wed, 21 Oct 2026 01:10:12 GMT</pubDate>
       <description>OpenBSD 是一款开源、免费的类 Unix 操作系统，以高度可移植性、稳定性和安全性著称，支持多种硬件架构，广泛用于服务器、嵌入式设备及跨平台开发等场景。</description>
-    </item>
-    <item>
-      <title>IDA Pro 9.5 正式版发布</title>
-      <link>https://sysin.org/blog/ida-pro-9/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/ida-pro-9/</guid>
-      <pubDate>Tue, 20 Oct 2026 01:09:05 GMT</pubDate>
-      <description>IDA 9.5 发布，核心升级聚焦 AI Agent：官方 IDA MCP、Assist AI、多二进制分析，同时新增 Android DEX/ODEX、TriCore、Hexagon 等反编译支持。</description>
     </item>
   </channel>
 </rss>
