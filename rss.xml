@@ -12,8 +12,43 @@
     </image>
     <atom:link href="https://sysin.org/rss.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Fri, 30 Oct 2026 01:28:38 GMT</pubDate>
+    <pubDate>Sun, 01 Nov 2026 02:32:30 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>OpenShot 4.1 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
+      <link>https://sysin.org/blog/openshot/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/openshot/</guid>
+      <pubDate>Sun, 01 Nov 2026 01:18:35 GMT</pubDate>
+      <description>OpenShot 4.0 以前所未有的方式进行录制、编辑与调色。您可以直接在项目中录制屏幕、摄像头、麦克风和系统音频。可以使用色轮、曲线、LUT 以及专业视频示波器对素材进行校色和调色。还可以借助本地运行的 AI 模型分离主体，并创建从动态音频可视化效果到电影级影像风格等各种效果。</description>
+    </item>
+    <item>
+      <title>Shotcut 26.10 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
+      <link>https://sysin.org/blog/shotcut/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/shotcut/</guid>
+      <pubDate>Sun, 01 Nov 2026 01:09:55 GMT</pubDate>
+      <description>Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</description>
+    </item>
+    <item>
+      <title>Linux 产品链接汇总</title>
+      <link>https://sysin.org/blog/linux/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/linux/</guid>
+      <pubDate>Sun, 01 Nov 2026 01:06:00 GMT</pubDate>
+      <description>Linux 是构建现代计算世界的开放操作系统内核。源于开放，生于协作，共同塑造更加开放、自由而美好的计算世界。</description>
+    </item>
+    <item>
+      <title>VMware 产品下载汇总</title>
+      <link>https://sysin.org/blog/vmware/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware/</guid>
+      <pubDate>Sun, 01 Nov 2026 01:02:00 GMT</pubDate>
+      <description>VMware 面向现代数据中心构建虚拟化与软件定义基础设施，以软件的方式统一计算、网络与存储。</description>
+    </item>
+    <item>
+      <title>macOS 下载汇总 (系统、应用和教程)</title>
+      <link>https://sysin.org/blog/macos/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos/</guid>
+      <pubDate>Sun, 01 Nov 2026 01:01:00 GMT</pubDate>
+      <description>精心优化，体验感愉悦升华。了解 macOS，探索 Apple 为 Mac 打造的桌面操作系统，及其强大的功能、性能和安全性。</description>
+    </item>
     <item>
       <title>Xcode 27.2 (27B52) 发布 - 全新智能框架与先进工具为 App 开发提速</title>
       <link>https://sysin.org/blog/apple-xcode-27/?utm_source=rss</link>
@@ -188,41 +223,6 @@
       <guid>https://sysin.org/blog/ida-pro-9/</guid>
       <pubDate>Tue, 20 Oct 2026 01:09:05 GMT</pubDate>
       <description>IDA 9.5 发布，核心升级聚焦 AI Agent：官方 IDA MCP、Assist AI、多二进制分析，同时新增 Android DEX/ODEX、TriCore、Hexagon 等反编译支持。</description>
-    </item>
-    <item>
-      <title>IDA Pro 9.5 正式版发布 - 支持更多平台，具备更强大的智能体能力</title>
-      <link>https://sysin.org/blog/ida-pro-release/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/ida-pro-release/</guid>
-      <pubDate>Tue, 20 Oct 2026 01:09:05 GMT</pubDate>
-      <description>IDA 9.5 发布，核心升级聚焦 AI Agent：官方 IDA MCP、Assist AI、多二进制分析，同时新增 Android DEX/ODEX、TriCore、Hexagon 等反编译支持。</description>
-    </item>
-    <item>
-      <title>HPE SPP 2026.09.00.00 - HPE 服务器固件、驱动程序和系统软件包</title>
-      <link>https://sysin.org/blog/hpe-spp/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/hpe-spp/</guid>
-      <pubDate>Tue, 20 Oct 2026 01:07:06 GMT</pubDate>
-      <description>HPE SPP 是慧与公司专为其 ProLiant 服务器系列提供的一个集成软件包。它包含了固件、驱动程序以及系统软件的集合，旨在帮助用户统一地更新和维护服务器环境。</description>
-    </item>
-    <item>
-      <title>Gitea 28.2.0 (Linux, FreeBSD, macOS, Windows) - 开源自托管 Git 服务</title>
-      <link>https://sysin.org/blog/gitea/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/gitea/</guid>
-      <pubDate>Mon, 19 Oct 2026 01:25:55 GMT</pubDate>
-      <description>Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</description>
-    </item>
-    <item>
-      <title>Splunk Enterprise 10.6.1.1 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-      <link>https://sysin.org/blog/splunk-10/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/splunk-10/</guid>
-      <pubDate>Mon, 19 Oct 2026 01:15:10 GMT</pubDate>
-      <description>Splunk Enterprise 对所有数据进行搜索、分析和可视化，获得可执行的洞察。Splunk AI 功能解锁更深入的洞察，加速人类决策与威胁响应。</description>
-    </item>
-    <item>
-      <title>UTM 5.0.8 - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-      <link>https://sysin.org/blog/utm-5/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/utm-5/</guid>
-      <pubDate>Sat, 17 Oct 2026 02:20:05 GMT</pubDate>
-      <description>UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</description>
     </item>
   </channel>
 </rss>

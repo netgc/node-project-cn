@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/vmware-tools-13/</loc>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/xry-pro/</loc>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware/</loc>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/macos/</loc>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/linux/</loc>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/openshot/</loc>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/shotcut/</loc>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
     <lastmod>2026-10-31</lastmod>
   </url>
   <url>
@@ -325,19 +353,7 @@
     <lastmod>2026-10-01</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/linux/</loc>
-    <lastmod>2026-10-01</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/http/</loc>
-    <lastmod>2026-10-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware/</loc>
-    <lastmod>2026-10-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/macos/</loc>
     <lastmod>2026-10-01</lastmod>
   </url>
   <url>
@@ -346,10 +362,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/apple-creator-studio/</loc>
-    <lastmod>2026-09-30</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/shotcut/</loc>
     <lastmod>2026-09-30</lastmod>
   </url>
   <url>
@@ -581,10 +593,6 @@
     <lastmod>2026-09-05</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-tools-13/</loc>
-    <lastmod>2026-09-05</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/adobe-illustrator/</loc>
     <lastmod>2026-09-05</lastmod>
   </url>
@@ -727,10 +735,6 @@
   <url>
     <loc>https://sysin.org/blog/nutanix/</loc>
     <lastmod>2026-09-01</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/openshot/</loc>
-    <lastmod>2026-08-31</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-vddk/</loc>
@@ -983,10 +987,6 @@
   <url>
     <loc>https://sysin.org/blog/magnet-dvr-examiner/</loc>
     <lastmod>2026-07-20</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
-    <lastmod>2026-07-19</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/jetbrains-clion/</loc>
