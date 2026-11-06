@@ -1,3 +1,6 @@
+https://sysin.org/blog/zabbix-8/
+https://sysin.org/blog/zabbix-8-ovf/
+https://sysin.org/blog/zabbix-7-ovf/
 https://sysin.org/blog/jetbrains/
 https://sysin.org/blog/jetbrains-clion/
 https://sysin.org/blog/jetbrains-datagrip/
@@ -15,6 +18,3 @@ https://sysin.org/blog/xry-pro/
 https://sysin.org/blog/vmware-vdefend-9/
 https://sysin.org/blog/gitea/
 https://sysin.org/blog/openshot/
-https://sysin.org/blog/shotcut/
-https://sysin.org/blog/linux/
-https://sysin.org/blog/vmware/

@@ -3,18 +3,34 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-11-06T08:13:10.611Z</updated>
+  <updated>2026-11-06T09:10:14.853Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
+    <title>Zabbix 8.0 LTS x86_64 OVF - VMware 虚拟机模板</title>
+    <link href="https://sysin.org/blog/zabbix-8-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/zabbix-8-ovf/</id>
+    <published>2026-11-06T01:36:18.000Z</published>
+    <updated>2026-11-06T09:10:14.853Z</updated>
+    <summary type="html">无需复杂配置，即刻在本机或私有云环境中运行 Zabbix 8.0 LTS 虚拟机，支持 VMware ESXi、Fusion 和 Workstaion。</summary>
+  </entry>
+  <entry>
+    <title>Zabbix 8.0 LTS 发布 - 企业级开源监控解决方案</title>
+    <link href="https://sysin.org/blog/zabbix-8/?utm_source=atom"/>
+    <id>https://sysin.org/blog/zabbix-8/</id>
+    <published>2026-11-06T01:36:16.000Z</published>
+    <updated>2026-11-06T09:23:45.621Z</updated>
+    <summary type="html">Zabbix 是一个免费、开源的企业级可观测性平台，具备强大的可扩展性，既能监控单台设备，也能管理分布在全球各地的数十万个终端。只需一套强大、统一的解决方案，即可监控并可视化整个 IT 和 OT 基础设施。</summary>
+  </entry>
+  <entry>
     <title>JetBrains IDEs 2026.3 (macOS, Linux, Windows) - 跨平台开发者工具</title>
     <link href="https://sysin.org/blog/jetbrains/?utm_source=atom"/>
     <id>https://sysin.org/blog/jetbrains/</id>
     <published>2026-11-06T01:19:50.000Z</published>
-    <updated>2026-11-06T08:13:10.611Z</updated>
+    <updated>2026-11-06T01:19:50.000Z</updated>
     <summary type="html">JETBRAINS IDEs，借助代码，让梦想成真。享受卓越的开发者体验。致力于将专业的软件开发变成生产力更高、更愉悦的体验。</summary>
   </entry>
   <entry>
@@ -232,21 +248,5 @@
     <published>2026-10-27T01:08:36.000Z</published>
     <updated>2026-10-27T01:08:36.000Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
-  </entry>
-  <entry>
-    <title>macOS Golden Gate 27.2 (26B123) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate/</id>
-    <published>2026-10-27T01:08:26.000Z</published>
-    <updated>2026-10-27T01:08:26.000Z</updated>
-    <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
-  </entry>
-  <entry>
-    <title>macOS Tahoe 26.7.2 (25G332) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
-    <published>2026-10-27T01:06:36.000Z</published>
-    <updated>2026-10-27T01:06:36.000Z</updated>
-    <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
 </feed>

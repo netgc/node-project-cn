@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/zabbix-8/</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/zabbix-8-ovf/</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/zabbix-7-ovf/</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/jetbrains/</loc>
     <lastmod>2026-11-06</lastmod>
   </url>
@@ -2143,10 +2155,6 @@
   <url>
     <loc>https://sysin.org/blog/vmware-esxi-6/</loc>
     <lastmod>2025-03-07</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/zabbix-7-ovf/</loc>
-    <lastmod>2025-03-02</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/netscaler-console-14/</loc>
