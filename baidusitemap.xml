@@ -5,11 +5,23 @@
     <lastmod>2026-11-06</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/zabbix-8-ovf/</loc>
+    <loc>https://sysin.org/blog/zabbix-6/</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/zabbix-7/</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/zabbix-6-ovf/</loc>
     <lastmod>2026-11-06</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/zabbix-7-ovf/</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/zabbix-8-ovf/</loc>
     <lastmod>2026-11-06</lastmod>
   </url>
   <url>
@@ -2653,10 +2665,6 @@
     <lastmod>2024-06-07</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/zabbix-7/</loc>
-    <lastmod>2024-06-06</lastmod>
-  </url>
-  <url>
     <loc>https://sysin.org/blog/rocky-linux-8-ovf/</loc>
     <lastmod>2024-06-05</lastmod>
   </url>
@@ -3499,14 +3507,6 @@
   <url>
     <loc>https://sysin.org/blog/ddns-go/</loc>
     <lastmod>2022-02-25</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/zabbix-6-ovf/</loc>
-    <lastmod>2022-02-23</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/zabbix-6/</loc>
-    <lastmod>2022-02-16</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/cisco-ios-xe-17/</loc>
