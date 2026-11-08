@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sysin.org/blog/vmware-vact-3/</loc>
+    <loc>https://sysin.org/blog/vmware-vsphere-express-9/</loc>
     <lastmod>2026-11-08</lastmod>
   </url>
   <url>
-    <loc>https://sysin.org/blog/vmware-vsphere-express-9/</loc>
+    <loc>https://sysin.org/blog/metasploit-framework-6/</loc>
+    <lastmod>2026-11-08</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-vact-3/</loc>
     <lastmod>2026-11-08</lastmod>
   </url>
   <url>
@@ -227,10 +231,6 @@
   <url>
     <loc>https://sysin.org/blog/apple-safari-27/</loc>
     <lastmod>2026-10-27</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/metasploit-framework-6/</loc>
-    <lastmod>2026-10-26</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/windows-server-2025-ovf/</loc>

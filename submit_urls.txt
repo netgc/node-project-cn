@@ -1,5 +1,6 @@
-https://sysin.org/blog/vmware-vact-3/
 https://sysin.org/blog/vmware-vsphere-express-9/
+https://sysin.org/blog/metasploit-framework-6/
+https://sysin.org/blog/vmware-vact-3/
 https://sysin.org/blog/vmware/
 https://sysin.org/blog/vmware-fusion-25/
 https://sysin.org/blog/linux/
@@ -17,4 +18,3 @@ https://sysin.org/blog/blackmagic-design-fusion/
 https://sysin.org/blog/blackmagic-design-davinci-resolve/
 https://sysin.org/blog/metasploit-pro-5/
 https://sysin.org/blog/securecrt-9/
-https://sysin.org/blog/zabbix-8/
