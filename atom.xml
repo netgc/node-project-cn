@@ -130,6 +130,14 @@
     <summary type="html">Holodeck 是一个工具包，旨在提供一种标准化、自动化的方法，用于在 VMware ESX 主机或 vSphere 集群上部署嵌套的 VMware Cloud Foundation (VCF) 环境。</summary>
   </entry>
   <entry>
+    <title>VMware vSphere Express 9.1.1 - 基础服务器虚拟化</title>
+    <link href="https://sysin.org/blog/vmware-vsphere-express-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vsphere-express-9/</id>
+    <published>2026-11-04T01:05:18.000Z</published>
+    <updated>2026-11-08T02:56:32.052Z</updated>
+    <summary type="html">VMware vSphere Express 基于 vSphere 9 的可靠性、韧性和性能构建，现已在所有地区提供，为在所有环境中合计拥有 128 核的客户提供核心计算虚拟化能力，体验更为简化，让小型环境的现代化之路更加轻松。</summary>
+  </entry>
+  <entry>
     <title>XRY Pro 11.5.6 - 移动设备取证解决方案</title>
     <link href="https://sysin.org/blog/xry-pro/?utm_source=atom"/>
     <id>https://sysin.org/blog/xry-pro/</id>
@@ -174,7 +182,7 @@
     <link href="https://sysin.org/blog/linux/?utm_source=atom"/>
     <id>https://sysin.org/blog/linux/</id>
     <published>2026-11-01T01:06:00.000Z</published>
-    <updated>2026-11-01T01:06:00.000Z</updated>
+    <updated>2026-11-08T02:48:35.788Z</updated>
     <summary type="html">Linux 是构建现代计算世界的开放操作系统内核。源于开放，生于协作，共同塑造更加开放、自由而美好的计算世界。</summary>
   </entry>
   <entry>
@@ -182,7 +190,7 @@
     <link href="https://sysin.org/blog/vmware/?utm_source=atom"/>
     <id>https://sysin.org/blog/vmware/</id>
     <published>2026-11-01T01:02:00.000Z</published>
-    <updated>2026-11-01T01:02:00.000Z</updated>
+    <updated>2026-11-08T02:55:21.628Z</updated>
     <summary type="html">VMware 面向现代数据中心构建虚拟化与软件定义基础设施，以软件的方式统一计算、网络与存储。</summary>
   </entry>
   <entry>
@@ -240,13 +248,5 @@
     <published>2026-10-28T01:09:19.000Z</published>
     <updated>2026-10-28T01:09:19.000Z</updated>
     <summary type="html">IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</summary>
-  </entry>
-  <entry>
-    <title>macOS Golden Gate 27.2 (26B123) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
-    <published>2026-10-27T01:08:36.000Z</published>
-    <updated>2026-10-27T01:08:36.000Z</updated>
-    <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
 </feed>

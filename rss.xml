@@ -120,6 +120,13 @@
       <description>Holodeck 是一个工具包，旨在提供一种标准化、自动化的方法，用于在 VMware ESX 主机或 vSphere 集群上部署嵌套的 VMware Cloud Foundation (VCF) 环境。</description>
     </item>
     <item>
+      <title>VMware vSphere Express 9.1.1 - 基础服务器虚拟化</title>
+      <link>https://sysin.org/blog/vmware-vsphere-express-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/vmware-vsphere-express-9/</guid>
+      <pubDate>Wed, 04 Nov 2026 01:05:18 GMT</pubDate>
+      <description>VMware vSphere Express 基于 vSphere 9 的可靠性、韧性和性能构建，现已在所有地区提供，为在所有环境中合计拥有 128 核的客户提供核心计算虚拟化能力，体验更为简化，让小型环境的现代化之路更加轻松。</description>
+    </item>
+    <item>
       <title>XRY Pro 11.5.6 - 移动设备取证解决方案</title>
       <link>https://sysin.org/blog/xry-pro/?utm_source=rss</link>
       <guid>https://sysin.org/blog/xry-pro/</guid>
@@ -216,13 +223,6 @@
       <guid>https://sysin.org/blog/ida-pro/</guid>
       <pubDate>Wed, 28 Oct 2026 01:09:19 GMT</pubDate>
       <description>IDA Pro 是一个强大的反汇编程序、反编译器和多功能调试器。集成在一个工具中。跨平台支持 macOS、Linux 和 Windows，全平台同时支持 x64 和 arm64 架构。</description>
-    </item>
-    <item>
-      <title>macOS Golden Gate 27.2 (26B123) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
-      <pubDate>Tue, 27 Oct 2026 01:08:36 GMT</pubDate>
-      <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
   </channel>
 </rss>

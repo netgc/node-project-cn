@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/vmware-vsphere-express-9/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion-25/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/linux/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion-26/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-25/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-26/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-fusion/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-workstation-17/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-9/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/blackmagic-design-fusion/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/blackmagic-design-davinci-resolve/</loc>
+  <lastmod>2026-11-08</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
   <lastmod>2026-11-07</lastmod>
 </url>
@@ -106,14 +170,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/shotcut/</loc>
-  <lastmod>2026-11-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/linux/</loc>
-  <lastmod>2026-11-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware/</loc>
   <lastmod>2026-11-01</lastmod>
 </url>
 <url>
@@ -657,19 +713,11 @@
   <lastmod>2026-09-05</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-workstation/</loc>
-  <lastmod>2026-09-05</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/adobe-acrobat/</loc>
   <lastmod>2026-09-05</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-fusion-oem/</loc>
-  <lastmod>2026-09-05</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion/</loc>
   <lastmod>2026-09-05</lastmod>
 </url>
 <url>
@@ -714,10 +762,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-remote-console-13/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-9/</loc>
   <lastmod>2026-09-03</lastmod>
 </url>
 <url>
@@ -777,10 +821,6 @@
   <lastmod>2026-09-03</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-cloud-foundation-9/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-hcx-9/</loc>
   <lastmod>2026-09-03</lastmod>
 </url>
@@ -797,23 +837,11 @@
   <lastmod>2026-09-03</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
-  <lastmod>2026-09-03</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/gitea-enterprise/</loc>
   <lastmod>2026-09-02</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/dbeaver/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/blackmagic-design-fusion/</loc>
-  <lastmod>2026-09-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/blackmagic-design-davinci-resolve/</loc>
   <lastmod>2026-09-01</lastmod>
 </url>
 <url>
@@ -1329,14 +1357,6 @@
   <lastmod>2026-05-15</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-workstation-26/</loc>
-  <lastmod>2026-05-14</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion-26/</loc>
-  <lastmod>2026-05-14</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vcf-networking-9/</loc>
   <lastmod>2026-05-13</lastmod>
 </url>
@@ -1546,14 +1566,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/opentext-sast/</loc>
-  <lastmod>2026-02-27</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-workstation-25/</loc>
-  <lastmod>2026-02-27</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion-25/</loc>
   <lastmod>2026-02-27</lastmod>
 </url>
 <url>
@@ -1977,15 +1989,7 @@
   <lastmod>2025-07-16</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/vmware-workstation-17/</loc>
-  <lastmod>2025-07-16</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/vmware-fusion-13-oem/</loc>
-  <lastmod>2025-07-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-fusion-13/</loc>
   <lastmod>2025-07-16</lastmod>
 </url>
 <url>
@@ -4282,7 +4286,7 @@
 </url>
 <url>
   <loc>https://sysin.org/</loc>
-  <lastmod>2026-11-07</lastmod>
+  <lastmod>2026-11-08</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
