@@ -12,8 +12,15 @@
     </image>
     <atom:link href="https://sysin.org/rss.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
-    <pubDate>Tue, 10 Nov 2026 02:47:50 GMT</pubDate>
+    <pubDate>Tue, 10 Nov 2026 07:13:00 GMT</pubDate>
     <generator>sysin.org</generator>
+    <item>
+      <title>Gitea Enterprise 28.3.1 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
+      <link>https://sysin.org/blog/gitea-enterprise/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gitea-enterprise/</guid>
+      <pubDate>Tue, 10 Nov 2026 01:25:55 GMT</pubDate>
+      <description>Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</description>
+    </item>
     <item>
       <title>Firefox 160, Chrome 160, Chromium 160 (macOS, Linux, Windows) 离线下载</title>
       <link>https://sysin.org/blog/chrome-firefox-download/?utm_source=rss</link>
@@ -190,6 +197,13 @@
       <description>VMware vSphere Express 基于 vSphere 9 的可靠性、韧性和性能构建，现已在所有地区提供，为在所有环境中合计拥有 128 核的客户提供核心计算虚拟化能力，体验更为简化，让小型环境的现代化之路更加轻松。</description>
     </item>
     <item>
+      <title>Symantec Endpoint Protection 14.5 发布 - 终端安全解决方案</title>
+      <link>https://sysin.org/blog/symantec-endpoint-protection-14/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/symantec-endpoint-protection-14/</guid>
+      <pubDate>Tue, 03 Nov 2026 01:21:18 GMT</pubDate>
+      <description>Symantec Endpoint Protection（赛门铁克终端防护，简称 SEP）是一种客户端-服务器架构的安全解决方案，用于保护网络中的笔记本电脑、台式机和服务器，防御恶意软件、安全风险及漏洞威胁。</description>
+    </item>
+    <item>
       <title>XRY Pro 11.5.6 - 移动设备取证解决方案</title>
       <link>https://sysin.org/blog/xry-pro/?utm_source=rss</link>
       <guid>https://sysin.org/blog/xry-pro/</guid>
@@ -209,20 +223,6 @@
       <guid>https://sysin.org/blog/gitea/</guid>
       <pubDate>Sun, 01 Nov 2026 01:25:55 GMT</pubDate>
       <description>Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</description>
-    </item>
-    <item>
-      <title>OpenShot 4.1 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-      <link>https://sysin.org/blog/openshot/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/openshot/</guid>
-      <pubDate>Sun, 01 Nov 2026 01:18:35 GMT</pubDate>
-      <description>OpenShot 4.0 以前所未有的方式进行录制、编辑与调色。您可以直接在项目中录制屏幕、摄像头、麦克风和系统音频。可以使用色轮、曲线、LUT 以及专业视频示波器对素材进行校色和调色。还可以借助本地运行的 AI 模型分离主体，并创建从动态音频可视化效果到电影级影像风格等各种效果。</description>
-    </item>
-    <item>
-      <title>Shotcut 26.10 (Linux, macOS, Windows) - 免费开源视频编辑器</title>
-      <link>https://sysin.org/blog/shotcut/?utm_source=rss</link>
-      <guid>https://sysin.org/blog/shotcut/</guid>
-      <pubDate>Sun, 01 Nov 2026 01:09:55 GMT</pubDate>
-      <description>Shotcut 是一款免费、开源、跨平台的视频编辑软件，支持 Linux、macOS 和 Windows，具备原生时间线编辑、多格式媒体支持、4K 视频处理及丰富的音视频特效，适用于从入门到专业的视频创作。</description>
     </item>
   </channel>
 </rss>

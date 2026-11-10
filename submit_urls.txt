@@ -1,3 +1,8 @@
+https://sysin.org/blog/symantec-endpoint-protection-14/
+https://sysin.org/blog/parallels-desktop/
+https://sysin.org/blog/gitea-enterprise/
+https://sysin.org/blog/sep-14/
+https://sysin.org/blog/nexpose/
 https://sysin.org/blog/chrome-firefox-download/
 https://sysin.org/blog/turn-off-apple-logo-illumination/
 https://sysin.org/blog/turn-off-apple-display-touch/
@@ -13,8 +18,3 @@ https://sysin.org/blog/elastic-8/
 https://sysin.org/blog/elastic-9/
 https://sysin.org/blog/vmware-esxi-8-u3-oem/
 https://sysin.org/blog/vmware-esxi-8-u3/
-https://sysin.org/blog/vmware-vsphere-express-9/
-https://sysin.org/blog/securecrt-9/
-https://sysin.org/blog/metasploit-pro-5/
-https://sysin.org/blog/metasploit-framework-6/
-https://sysin.org/blog/zabbix-8-ovf/
