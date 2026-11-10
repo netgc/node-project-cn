@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://sysin.org/blog/vmware-avi-load-balancer-32/</loc>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
+    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
+    <lastmod>2026-11-10</lastmod>
+  </url>
+  <url>
     <loc>https://sysin.org/blog/deploy-vcf-operations-9/</loc>
     <lastmod>2026-11-10</lastmod>
   </url>
@@ -367,10 +375,6 @@
   <url>
     <loc>https://sysin.org/blog/cisco-catalyst-9000/</loc>
     <lastmod>2026-10-14</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-avi-load-balancer-32/</loc>
-    <lastmod>2026-10-13</lastmod>
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-protection-and-recovery-9/</loc>
@@ -814,10 +818,6 @@
   </url>
   <url>
     <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-for-networks-9/</loc>
-    <lastmod>2026-09-03</lastmod>
-  </url>
-  <url>
-    <loc>https://sysin.org/blog/vmware-cloud-foundation-operations-9/</loc>
     <lastmod>2026-09-03</lastmod>
   </url>
   <url>

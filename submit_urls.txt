@@ -1,3 +1,5 @@
+https://sysin.org/blog/vmware-avi-load-balancer-32/
+https://sysin.org/blog/vmware-cloud-foundation-operations-9/
 https://sysin.org/blog/deploy-vcf-operations-9/
 https://sysin.org/blog/symantec-endpoint-protection-14/
 https://sysin.org/blog/parallels-desktop/
@@ -16,5 +18,3 @@ https://sysin.org/blog/macos-sequoia/
 https://sysin.org/blog/apple-safari-27/
 https://sysin.org/blog/vmware-vact-3/
 https://sysin.org/blog/elastic-8/
-https://sysin.org/blog/elastic-9/
-https://sysin.org/blog/vmware-esxi-8-u3-oem/
