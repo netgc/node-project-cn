@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
   <updated>2026-11-11T03:28:48.759Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>Microsoft Office LTSC 2024 for Mac 16.115 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.cn/blog/office-2024-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2024-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2024-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2024-for-mac/</id>
     <published>2026-11-11T01:16:24.000Z</published>
     <updated>2026-11-11T03:28:48.759Z</updated>
     <summary type="html">Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2021 for Mac 16.115 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.cn/blog/office-2021-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2021-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2021-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2021-for-mac/</id>
     <published>2026-11-11T01:16:21.000Z</published>
     <updated>2026-11-11T03:28:33.751Z</updated>
     <summary type="html">Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2024 VL 16.0.17932.21140 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2024/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2024/</id>
+    <link href="https://sysin.org/blog/office-2024/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2024/</id>
     <published>2026-11-11T01:05:27.000Z</published>
     <updated>2026-11-11T02:32:34.042Z</updated>
     <summary type="html">Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2021 VL 16.0.14334.21048 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2021/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2021/</id>
+    <link href="https://sysin.org/blog/office-2021/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2021/</id>
     <published>2026-11-11T01:05:22.000Z</published>
     <updated>2026-11-11T02:32:28.662Z</updated>
     <summary type="html">Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2019 VL 16.0.10417.20236 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2019/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2019/</id>
+    <link href="https://sysin.org/blog/office-2019/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2019/</id>
     <published>2026-11-11T01:05:09.000Z</published>
     <updated>2026-11-11T02:32:21.779Z</updated>
     <summary type="html">Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</summary>
   </entry>
   <entry>
     <title>Gitea Enterprise 28.3.1 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
-    <link href="https://sysin.cn/blog/gitea-enterprise/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gitea-enterprise/</id>
+    <link href="https://sysin.org/blog/gitea-enterprise/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gitea-enterprise/</id>
     <published>2026-11-10T01:25:55.000Z</published>
     <updated>2026-11-10T07:13:00.112Z</updated>
     <summary type="html">Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</summary>
   </entry>
   <entry>
     <title>Firefox 160, Chrome 160, Chromium 160 (macOS, Linux, Windows) 离线下载</title>
-    <link href="https://sysin.cn/blog/chrome-firefox-download/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/chrome-firefox-download/</id>
+    <link href="https://sysin.org/blog/chrome-firefox-download/?utm_source=atom"/>
+    <id>https://sysin.org/blog/chrome-firefox-download/</id>
     <published>2026-11-10T01:21:00.000Z</published>
     <updated>2026-11-10T02:47:50.987Z</updated>
     <summary type="html">Mozilla Firefox, Google Chrome, Chromium 及其发行版下载汇总。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.2.1 (26B131) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-11-10T01:08:36.000Z</published>
     <updated>2026-11-11T01:39:00.423Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.2.1 (26B131 | 26B7131 | 26B8132) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-11-10T01:08:26.000Z</published>
     <updated>2026-11-11T01:38:55.248Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7.3 (25G342) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
     <published>2026-11-10T01:06:36.000Z</published>
     <updated>2026-11-11T01:36:59.384Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7.3 (25G342) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe/</id>
+    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-11-10T01:06:26.000Z</published>
     <updated>2026-11-11T01:36:42.373Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8.3 (24H241) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia-boot-iso/</id>
     <published>2026-11-10T01:05:20.000Z</published>
     <updated>2026-11-11T01:37:56.916Z</updated>
     <summary type="html">最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8.3 (24H241) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia/</id>
+    <link href="https://sysin.org/blog/macos-sequoia/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia/</id>
     <published>2026-11-10T01:05:10.000Z</published>
     <updated>2026-11-11T01:37:44.471Z</updated>
     <summary type="html">macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</summary>
   </entry>
   <entry>
     <title>Studio 3T 2026.15 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-    <link href="https://sysin.cn/blog/studio-3t/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/studio-3t/</id>
+    <link href="https://sysin.org/blog/studio-3t/?utm_source=atom"/>
+    <id>https://sysin.org/blog/studio-3t/</id>
     <published>2026-11-09T01:12:00.000Z</published>
-    <updated>2026-11-11T05:22:51.205Z</updated>
+    <updated>2026-11-11T09:46:51.783Z</updated>
     <summary type="html">Studio 3T 是专为 MongoDB 打造的全功能 GUI、IDE 和客户端，提供完整的 MongoDB 开发与管理体验，适用于 Atlas 及任何 MongoDB 部署环境。</summary>
   </entry>
   <entry>
     <title>如何关闭配备 PROLED XDR 显示屏的 MacBook Pro 的 Apple 标志发光功能</title>
-    <link href="https://sysin.cn/blog/turn-off-apple-logo-illumination/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/turn-off-apple-logo-illumination/</id>
+    <link href="https://sysin.org/blog/turn-off-apple-logo-illumination/?utm_source=atom"/>
+    <id>https://sysin.org/blog/turn-off-apple-logo-illumination/</id>
     <published>2026-11-09T01:01:20.000Z</published>
     <updated>2026-11-10T02:35:54.142Z</updated>
     <summary type="html">Apple 标志重新亮起！如果希望 Apple 标志在任何光线环境下都保持熄灭状态，可以通过「终端」关闭其发光功能，当然也可以随时重新开启。</summary>
   </entry>
   <entry>
     <title>如何关闭配备 PROLED XDR 显示屏的 MacBook Pro 的屏幕触控功能</title>
-    <link href="https://sysin.cn/blog/turn-off-apple-display-touch/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/turn-off-apple-display-touch/</id>
+    <link href="https://sysin.org/blog/turn-off-apple-display-touch/?utm_source=atom"/>
+    <id>https://sysin.org/blog/turn-off-apple-display-touch/</id>
     <published>2026-11-09T01:01:19.000Z</published>
     <updated>2026-11-10T02:35:52.325Z</updated>
     <summary type="html">触控功能并非旨在取代触控板和键盘，但如果您需要，它随时可用。现在我们也可以完全关闭屏幕触控，不过这个设置选项隐藏的有点深，现在放个截图您一看就会。</summary>
   </entry>
   <entry>
     <title>Zabbix 8.0 LTS x86_64 OVF - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/zabbix-8-ovf/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/zabbix-8-ovf/</id>
+    <link href="https://sysin.org/blog/zabbix-8-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/zabbix-8-ovf/</id>
     <published>2026-11-06T01:36:18.000Z</published>
     <updated>2026-11-06T01:36:18.000Z</updated>
     <summary type="html">无需复杂配置，即刻在本机或私有云环境中运行 Zabbix 8.0 LTS 虚拟机，支持 VMware ESXi、Fusion 和 Workstaion。</summary>
   </entry>
   <entry>
     <title>Zabbix 8.0 LTS 发布 - 企业级开源监控解决方案</title>
-    <link href="https://sysin.cn/blog/zabbix-8/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/zabbix-8/</id>
+    <link href="https://sysin.org/blog/zabbix-8/?utm_source=atom"/>
+    <id>https://sysin.org/blog/zabbix-8/</id>
     <published>2026-11-06T01:36:16.000Z</published>
     <updated>2026-11-06T01:36:16.000Z</updated>
     <summary type="html">Zabbix 是一个免费、开源的企业级可观测性平台，具备强大的可扩展性，既能监控单台设备，也能管理分布在全球各地的数十万个终端。只需一套强大、统一的解决方案，即可监控并可视化整个 IT 和 OT 基础设施。</summary>
   </entry>
   <entry>
     <title>JetBrains IDEs 2026.3 (macOS, Linux, Windows) - 跨平台开发者工具</title>
-    <link href="https://sysin.cn/blog/jetbrains/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains/</id>
+    <link href="https://sysin.org/blog/jetbrains/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains/</id>
     <published>2026-11-06T01:19:50.000Z</published>
     <updated>2026-11-06T01:19:50.000Z</updated>
     <summary type="html">JETBRAINS IDEs，借助代码，让梦想成真。享受卓越的开发者体验。致力于将专业的软件开发变成生产力更高、更愉悦的体验。</summary>
   </entry>
   <entry>
     <title>JetBrains CLion 2026.3 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-clion/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-clion/</id>
+    <link href="https://sysin.org/blog/jetbrains-clion/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-clion/</id>
     <published>2026-11-06T01:18:00.000Z</published>
     <updated>2026-11-06T01:18:00.000Z</updated>
     <summary type="html">CLion 对非商业用途免费，是专为 C 和 C++ 开发者打造的跨平台 IDE，提供智能代码分析、调试、测试和项目管理功能，帮助开发者高效构建现代 C/C++ 应用。</summary>
   </entry>
   <entry>
     <title>JetBrains DataGrip 2026.3 (macOS, Linux, Windows) - 关系型和 NoSQL 数据库跨平台 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-datagrip/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-datagrip/</id>
+    <link href="https://sysin.org/blog/jetbrains-datagrip/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-datagrip/</id>
     <published>2026-11-06T01:17:35.000Z</published>
     <updated>2026-11-06T01:17:35.000Z</updated>
     <summary type="html">DataGrip 对非商业用途免费，是面向数据库开发人员的智能 IDE，支持多种关系型和 NoSQL 数据库，提供 SQL 编辑、代码分析、数据管理和数据库开发工具。</summary>
   </entry>
   <entry>
     <title>JetBrains GoLand 2026.3 (macOS, Linux, Windows) - 为 Go 开发者打造的完整 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-goland/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-goland/</id>
+    <link href="https://sysin.org/blog/jetbrains-goland/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-goland/</id>
     <published>2026-11-06T01:14:00.000Z</published>
     <updated>2026-11-06T01:14:00.000Z</updated>
     <summary type="html">GoLand 是面向 Go 开发者的专业 IDE，提供智能代码补全、重构、调试、测试及工程管理工具，全面提升 Go 应用开发效率。</summary>
   </entry>
   <entry>
     <title>JetBrains IntelliJ IDEA 2026.3 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-idea/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-idea/</id>
+    <link href="https://sysin.org/blog/jetbrains-idea/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-idea/</id>
     <published>2026-11-06T01:13:35.000Z</published>
     <updated>2026-11-06T01:13:35.000Z</updated>
     <summary type="html">IntelliJ IDEA 是业界领先的 Java 和 Kotlin 开发 IDE，提供智能代码分析、强大的重构工具和丰富插件生态，支持现代企业级应用开发。</summary>
   </entry>
   <entry>
     <title>JetBrains PhpStorm 2026.3 (macOS, Linux, Windows) - 高效智能的 PHP IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-phpstorm/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-phpstorm/</id>
+    <link href="https://sysin.org/blog/jetbrains-phpstorm/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-phpstorm/</id>
     <published>2026-11-06T01:13:00.000Z</published>
     <updated>2026-11-06T01:13:00.000Z</updated>
     <summary type="html">PhpStorm 是专业 PHP 开发 IDE，提供智能代码编辑、调试、测试和框架支持，帮助开发者高效构建现代 Web 应用。</summary>
   </entry>
   <entry>
     <title>JetBrains RubyMine 2026.3 (macOS, Linux, Windows) - 最智能的 Ruby 与 Rails IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-rubymine/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-rubymine/</id>
+    <link href="https://sysin.org/blog/jetbrains-rubymine/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-rubymine/</id>
     <published>2026-11-06T01:13:00.000Z</published>
     <updated>2026-11-06T01:13:00.000Z</updated>
     <summary type="html">RubyMine 对非商业用途免费，是专为 Ruby 和 Rails 开发打造的智能 IDE，提供代码分析、重构、调试、测试及框架支持，加速 Web 应用开发。</summary>
   </entry>
   <entry>
     <title>JetBrains Rider 2026.3 (macOS, Linux, Windows) - 快速且强大的跨平台 .NET IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-rider/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-rider/</id>
+    <link href="https://sysin.org/blog/jetbrains-rider/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-rider/</id>
     <published>2026-11-06T01:12:00.000Z</published>
     <updated>2026-11-06T01:12:00.000Z</updated>
     <summary type="html">Rider 对非商业用途免费，是一款高性能跨平台 .NET IDE，支持 C#、ASP.NET、Unity 等开发场景，提供智能代码分析、调试和现代化开发工具。</summary>
   </entry>
   <entry>
     <title>JetBrains PyCharm 2026.3 (macOS, Linux, Windows) - 面向专业开发者的 Python IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-pycharm/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-pycharm/</id>
+    <link href="https://sysin.org/blog/jetbrains-pycharm/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-pycharm/</id>
     <published>2026-11-06T01:11:00.000Z</published>
     <updated>2026-11-06T01:11:00.000Z</updated>
     <summary type="html">PyCharm 是面向专业 Python 开发者的智能 IDE，支持 Web 开发、数据科学、调试、测试和代码质量分析，提供完整 Python 开发体验。</summary>
   </entry>
   <entry>
     <title>JetBrains RustRover 2026.3 (macOS, Linux, Windows) - 面向 Rust 开发者的强大 IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-rustrover/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-rustrover/</id>
+    <link href="https://sysin.org/blog/jetbrains-rustrover/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-rustrover/</id>
     <published>2026-11-06T01:11:00.000Z</published>
     <updated>2026-11-06T01:11:00.000Z</updated>
     <summary type="html">RustRover 对非商业用途免费，是专为 Rust 开发者设计的专业 IDE，提供智能代码分析、Cargo 集成、调试和工程管理功能，提升 Rust 开发效率。</summary>
   </entry>
   <entry>
     <title>JetBrains WebStorm 2026.3 (macOS, Linux, Windows) - JavaScript 和 TypeScript IDE</title>
-    <link href="https://sysin.cn/blog/jetbrains-webstorm/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/jetbrains-webstorm/</id>
+    <link href="https://sysin.org/blog/jetbrains-webstorm/?utm_source=atom"/>
+    <id>https://sysin.org/blog/jetbrains-webstorm/</id>
     <published>2026-11-06T01:10:35.000Z</published>
     <updated>2026-11-06T01:10:35.000Z</updated>
     <summary type="html">WebStorm 对非商业用途免费，是面向现代 Web 开发的智能 IDE，专注于 JavaScript、TypeScript 及前端技术开发，提供代码分析、调试和框架支持。</summary>
   </entry>
   <entry>
     <title>Sophos Firewall (SFOS) v23 GA - 下一代防火墙</title>
-    <link href="https://sysin.cn/blog/sfos-23/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sfos-23/</id>
+    <link href="https://sysin.org/blog/sfos-23/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sfos-23/</id>
     <published>2026-11-05T01:18:22.000Z</published>
     <updated>2026-11-05T01:18:22.000Z</updated>
     <summary type="html">从新增 AI 驱动辅助功能和现代化 REST API，到简化规则管理、增强高可用能力、扩展身份支持以及更简单的日常管理，Sophos Firewall v23 旨在让防火墙更易于管理、自动化和扩展，同时进一步强化其 Secure by Design 基础。</summary>
