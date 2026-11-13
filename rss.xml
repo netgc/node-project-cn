@@ -4,223 +4,223 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sysin</title>
-    <link>https://sysin.cn/</link>
+    <link>https://sysin.org/</link>
     <image>
-      <url>https://sysin.cn/img/favicon.png</url>
+      <url>https://sysin.org/img/favicon.png</url>
       <title>sysin</title>
-      <link>https://sysin.cn/</link>
+      <link>https://sysin.org/</link>
     </image>
-    <atom:link href="https://sysin.cn/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://sysin.org/rss.xml" rel="self" type="application/rss+xml"/>
     <description>专注于操作系统级和 IT 专业类软件产品分享和技术研究</description>
     <pubDate>Fri, 13 Nov 2026 05:53:10 GMT</pubDate>
     <generator>sysin.org</generator>
     <item>
       <title>Cisco Meeting Server 4.0 - 会议与协作</title>
-      <link>https://sysin.cn/blog/cisco-meeting-server-4/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/cisco-meeting-server-4/</guid>
+      <link>https://sysin.org/blog/cisco-meeting-server-4/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/cisco-meeting-server-4/</guid>
       <pubDate>Fri, 13 Nov 2026 01:15:40 GMT</pubDate>
       <description>思科 Meeting Server 将本地视频、音频和网络通信解决方案整合到一个设备中，可满足现代工作场所的协作需求。它还能与第三方设备结合使用，打造亲切、愉悦的用户体验。</description>
     </item>
     <item>
       <title>AppSpider 7.5.030 for Windows - Web 应用程序安全测试</title>
-      <link>https://sysin.cn/blog/appspider/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/appspider/</guid>
+      <link>https://sysin.org/blog/appspider/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/appspider/</guid>
       <pubDate>Fri, 13 Nov 2026 01:15:09 GMT</pubDate>
       <description>AppSpider 是 Rapid7 推出的动态应用安全测试（DAST）平台，支持 Web 应用和 API 自动化漏洞扫描，可检测 SQL 注入、跨站脚本（XSS）等安全问题，并生成详细修复建议，帮助企业持续提升应用安全防护能力。</description>
     </item>
     <item>
       <title>Red Hat Enterprise Linux (RHEL) 10.3 (x86_64, aarch64) - 红帽企业 Linux</title>
-      <link>https://sysin.cn/blog/rhel-10/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/rhel-10/</guid>
+      <link>https://sysin.org/blog/rhel-10/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/rhel-10/</guid>
       <pubDate>Fri, 13 Nov 2026 01:10:10 GMT</pubDate>
       <description>红帽企业 Linux 10 开启了操作系统的新时代。该版本已针对 AI 做好准备并具备先进功能，可帮助您弥合 Linux 技能差距、利用容器技术遏制偏移、开始加强后量子安全防护等。</description>
     </item>
     <item>
       <title>Red Hat Enterprise Linux (RHEL) 9.9 (x86_64, aarch64) - 红帽企业 Linux</title>
-      <link>https://sysin.cn/blog/rhel-9/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/rhel-9/</guid>
+      <link>https://sysin.org/blog/rhel-9/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/rhel-9/</guid>
       <pubDate>Fri, 13 Nov 2026 01:10:09 GMT</pubDate>
       <description>Red Hat Enterprise Linux 是全球领先的企业级 Linux 操作系统平台。作为一款开源操作系统，它为企业提供了可靠的基础平台，支持在物理服务器、虚拟化环境、容器环境及各类云环境中灵活扩展现有应用，并部署和应用新兴技术。</description>
     </item>
     <item>
       <title>Visual Studio 2026 v18.12 - Windows 平台 .NET 和 C++ 开发者的最全面 IDE</title>
-      <link>https://sysin.cn/blog/visual-studio-2026/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/visual-studio-2026/</guid>
+      <link>https://sysin.org/blog/visual-studio-2026/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/visual-studio-2026/</guid>
       <pubDate>Thu, 12 Nov 2026 01:16:26 GMT</pubDate>
       <description>Visual Studio IDE 是一个创意启动板，可用于编辑、调试和生成代码，然后发布应用。除了大多数 IDE 都提供的标准编辑器和调试器之外，Visual Studio 还包括编译器、代码补全工具、图形设计器以及许多其他功能，以增强软件开发过程。</description>
     </item>
     <item>
       <title>Microsoft SQL Server 下载汇总 (2026 年 11 月安全更新)</title>
-      <link>https://sysin.cn/blog/sql-server/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/sql-server/</guid>
+      <link>https://sysin.org/blog/sql-server/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/sql-server/</guid>
       <pubDate>Thu, 12 Nov 2026 01:08:01 GMT</pubDate>
       <description>SQL Server 2025，SQL Server 2022，SQL Server 2019，SQL Server 2017，SQL Server 2016，SQL Server 2014，SQL Server 2012，SQL Server 2008 R2</description>
     </item>
     <item>
       <title>SQL Server Management Studio (SSMS) 22.12 - 微软数据库管理工具</title>
-      <link>https://sysin.cn/blog/ssms/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/ssms/</guid>
+      <link>https://sysin.org/blog/ssms/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/ssms/</guid>
       <pubDate>Thu, 12 Nov 2026 01:01:11 GMT</pubDate>
       <description>SQL Server Management Studio (SSMS) 是一种集成环境，用于管理从 SQL Server 到 Azure SQL 数据库的任何 SQL 基础结构。SSMS 提供用于配置、监视和管理 SQL Server 和数据库实例的工具。</description>
     </item>
     <item>
       <title>Microsoft Office LTSC 2024 for Mac 16.115 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2024-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024-for-mac/</guid>
+      <link>https://sysin.org/blog/office-2024-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024-for-mac/</guid>
       <pubDate>Wed, 11 Nov 2026 01:16:24 GMT</pubDate>
       <description>Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</description>
     </item>
     <item>
       <title>Microsoft Office LTSC 2021 for Mac 16.115 - 文档、电子表格、演示文稿和电子邮件</title>
-      <link>https://sysin.cn/blog/office-2021-for-mac/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2021-for-mac/</guid>
+      <link>https://sysin.org/blog/office-2021-for-mac/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2021-for-mac/</guid>
       <pubDate>Wed, 11 Nov 2026 01:16:21 GMT</pubDate>
       <description>Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</description>
     </item>
     <item>
       <title>Microsoft Office 2024 VL 16.0.17932.21140 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-      <link>https://sysin.cn/blog/office-2024/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2024/</guid>
+      <link>https://sysin.org/blog/office-2024/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2024/</guid>
       <pubDate>Wed, 11 Nov 2026 01:05:27 GMT</pubDate>
       <description>Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</description>
     </item>
     <item>
       <title>Microsoft Office 2021 VL 16.0.14334.21048 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-      <link>https://sysin.cn/blog/office-2021/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2021/</guid>
+      <link>https://sysin.org/blog/office-2021/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2021/</guid>
       <pubDate>Wed, 11 Nov 2026 01:05:22 GMT</pubDate>
       <description>Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</description>
     </item>
     <item>
       <title>Microsoft Office 2019 VL 16.0.10417.20236 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-      <link>https://sysin.cn/blog/office-2019/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/office-2019/</guid>
+      <link>https://sysin.org/blog/office-2019/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/office-2019/</guid>
       <pubDate>Wed, 11 Nov 2026 01:05:09 GMT</pubDate>
       <description>Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</description>
     </item>
     <item>
       <title>Gitea Enterprise 28.3.2 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
-      <link>https://sysin.cn/blog/gitea-enterprise/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/gitea-enterprise/</guid>
+      <link>https://sysin.org/blog/gitea-enterprise/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/gitea-enterprise/</guid>
       <pubDate>Tue, 10 Nov 2026 01:25:55 GMT</pubDate>
       <description>Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</description>
     </item>
     <item>
       <title>Firefox 160, Chrome 160, Chromium 160 (macOS, Linux, Windows) 离线下载</title>
-      <link>https://sysin.cn/blog/chrome-firefox-download/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/chrome-firefox-download/</guid>
+      <link>https://sysin.org/blog/chrome-firefox-download/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/chrome-firefox-download/</guid>
       <pubDate>Tue, 10 Nov 2026 01:21:00 GMT</pubDate>
       <description>Mozilla Firefox, Google Chrome, Chromium 及其发行版下载汇总。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.2.1 (26B131) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate-boot-iso/</guid>
       <pubDate>Tue, 10 Nov 2026 01:08:36 GMT</pubDate>
       <description>最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Golden Gate 27.2.1 (26B131 | 26B7131 | 26B8132) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-golden-gate/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-golden-gate/</guid>
+      <link>https://sysin.org/blog/macos-golden-gate/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-golden-gate/</guid>
       <pubDate>Tue, 10 Nov 2026 01:08:26 GMT</pubDate>
       <description>macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.7.3 (25G342) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe-boot-iso/</guid>
       <pubDate>Tue, 10 Nov 2026 01:06:36 GMT</pubDate>
       <description>最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Tahoe 26.7.3 (25G342) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-tahoe/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-tahoe/</guid>
+      <link>https://sysin.org/blog/macos-tahoe/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-tahoe/</guid>
       <pubDate>Tue, 10 Nov 2026 01:06:26 GMT</pubDate>
       <description>macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.8.3 (24H241) Boot ISO 原版可引导映像下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia-boot-iso/</guid>
+      <link>https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia-boot-iso/</guid>
       <pubDate>Tue, 10 Nov 2026 01:05:20 GMT</pubDate>
       <description>最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</description>
     </item>
     <item>
       <title>macOS Sequoia 15.8.3 (24H241) 正式版 DMG、ISO、IPSW 下载</title>
-      <link>https://sysin.cn/blog/macos-sequoia/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/macos-sequoia/</guid>
+      <link>https://sysin.org/blog/macos-sequoia/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/macos-sequoia/</guid>
       <pubDate>Tue, 10 Nov 2026 01:05:10 GMT</pubDate>
       <description>macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</description>
     </item>
     <item>
       <title>Studio 3T 2026.15 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-      <link>https://sysin.cn/blog/studio-3t/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/studio-3t/</guid>
+      <link>https://sysin.org/blog/studio-3t/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/studio-3t/</guid>
       <pubDate>Mon, 09 Nov 2026 01:12:00 GMT</pubDate>
       <description>Studio 3T 是专为 MongoDB 打造的全功能 GUI、IDE 和客户端，提供完整的 MongoDB 开发与管理体验，适用于 Atlas 及任何 MongoDB 部署环境。</description>
     </item>
     <item>
       <title>如何关闭配备 PROLED XDR 显示屏的 MacBook Pro 的 Apple 标志发光功能</title>
-      <link>https://sysin.cn/blog/turn-off-apple-logo-illumination/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/turn-off-apple-logo-illumination/</guid>
+      <link>https://sysin.org/blog/turn-off-apple-logo-illumination/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/turn-off-apple-logo-illumination/</guid>
       <pubDate>Mon, 09 Nov 2026 01:01:20 GMT</pubDate>
       <description>Apple 标志重新亮起！如果希望 Apple 标志在任何光线环境下都保持熄灭状态，可以通过「终端」关闭其发光功能，当然也可以随时重新开启。</description>
     </item>
     <item>
       <title>如何关闭配备 PROLED XDR 显示屏的 MacBook Pro 的屏幕触控功能</title>
-      <link>https://sysin.cn/blog/turn-off-apple-display-touch/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/turn-off-apple-display-touch/</guid>
+      <link>https://sysin.org/blog/turn-off-apple-display-touch/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/turn-off-apple-display-touch/</guid>
       <pubDate>Mon, 09 Nov 2026 01:01:19 GMT</pubDate>
       <description>触控功能并非旨在取代触控板和键盘，但如果您需要，它随时可用。现在我们也可以完全关闭屏幕触控，不过这个设置选项隐藏的有点深，现在放个截图您一看就会。</description>
     </item>
     <item>
       <title>Zabbix 8.0 LTS x86_64 OVF - VMware 虚拟机模板</title>
-      <link>https://sysin.cn/blog/zabbix-8-ovf/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/zabbix-8-ovf/</guid>
+      <link>https://sysin.org/blog/zabbix-8-ovf/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/zabbix-8-ovf/</guid>
       <pubDate>Fri, 06 Nov 2026 01:36:18 GMT</pubDate>
       <description>无需复杂配置，即刻在本机或私有云环境中运行 Zabbix 8.0 LTS 虚拟机，支持 VMware ESXi、Fusion 和 Workstaion。</description>
     </item>
     <item>
       <title>Zabbix 8.0 LTS 发布 - 企业级开源监控解决方案</title>
-      <link>https://sysin.cn/blog/zabbix-8/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/zabbix-8/</guid>
+      <link>https://sysin.org/blog/zabbix-8/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/zabbix-8/</guid>
       <pubDate>Fri, 06 Nov 2026 01:36:16 GMT</pubDate>
       <description>Zabbix 是一个免费、开源的企业级可观测性平台，具备强大的可扩展性，既能监控单台设备，也能管理分布在全球各地的数十万个终端。只需一套强大、统一的解决方案，即可监控并可视化整个 IT 和 OT 基础设施。</description>
     </item>
     <item>
       <title>JetBrains IDEs 2026.3 (macOS, Linux, Windows) - 跨平台开发者工具</title>
-      <link>https://sysin.cn/blog/jetbrains/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains/</guid>
+      <link>https://sysin.org/blog/jetbrains/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains/</guid>
       <pubDate>Fri, 06 Nov 2026 01:19:50 GMT</pubDate>
       <description>JETBRAINS IDEs，借助代码，让梦想成真。享受卓越的开发者体验。致力于将专业的软件开发变成生产力更高、更愉悦的体验。</description>
     </item>
     <item>
       <title>JetBrains CLion 2026.3 (macOS, Linux, Windows) - C 和 C++ 跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-clion/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-clion/</guid>
+      <link>https://sysin.org/blog/jetbrains-clion/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-clion/</guid>
       <pubDate>Fri, 06 Nov 2026 01:18:00 GMT</pubDate>
       <description>CLion 对非商业用途免费，是专为 C 和 C++ 开发者打造的跨平台 IDE，提供智能代码分析、调试、测试和项目管理功能，帮助开发者高效构建现代 C/C++ 应用。</description>
     </item>
     <item>
       <title>JetBrains DataGrip 2026.3 (macOS, Linux, Windows) - 关系型和 NoSQL 数据库跨平台 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-datagrip/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-datagrip/</guid>
+      <link>https://sysin.org/blog/jetbrains-datagrip/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-datagrip/</guid>
       <pubDate>Fri, 06 Nov 2026 01:17:35 GMT</pubDate>
       <description>DataGrip 对非商业用途免费，是面向数据库开发人员的智能 IDE，支持多种关系型和 NoSQL 数据库，提供 SQL 编辑、代码分析、数据管理和数据库开发工具。</description>
     </item>
     <item>
       <title>JetBrains GoLand 2026.3 (macOS, Linux, Windows) - 为 Go 开发者打造的完整 IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-goland/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-goland/</guid>
+      <link>https://sysin.org/blog/jetbrains-goland/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-goland/</guid>
       <pubDate>Fri, 06 Nov 2026 01:14:00 GMT</pubDate>
       <description>GoLand 是面向 Go 开发者的专业 IDE，提供智能代码补全、重构、调试、测试及工程管理工具，全面提升 Go 应用开发效率。</description>
     </item>
     <item>
       <title>JetBrains IntelliJ IDEA 2026.3 (macOS, Linux, Windows) - 领先的 Java 和 Kotlin IDE</title>
-      <link>https://sysin.cn/blog/jetbrains-idea/?utm_source=rss</link>
-      <guid>https://sysin.cn/blog/jetbrains-idea/</guid>
+      <link>https://sysin.org/blog/jetbrains-idea/?utm_source=rss</link>
+      <guid>https://sysin.org/blog/jetbrains-idea/</guid>
       <pubDate>Fri, 06 Nov 2026 01:13:35 GMT</pubDate>
       <description>IntelliJ IDEA 是业界领先的 Java 和 Kotlin 开发 IDE，提供智能代码分析、强大的重构工具和丰富插件生态，支持现代企业级应用开发。</description>
     </item>
