@@ -1,250 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
   <updated>2026-11-14T01:07:12.000Z</updated>
-  <id>https://sysin.cn/</id>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
     <title>Burp Suite Professional 2026.11 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro/</id>
     <published>2026-11-14T01:07:12.000Z</published>
     <updated>2026-11-14T01:07:12.000Z</updated>
     <summary type="html">Burp Suite Professional 基于 Burp Suite Community Edition 提供的基础工具集，进一步增强功能，在测试速度和可靠性至关重要时为您提供优势。</summary>
   </entry>
   <entry>
     <title>Burp Suite 2026.11 (macOS, Linux, Windows) - Web 应用安全测试和扫描</title>
-    <link href="https://sysin.cn/blog/burp-suite/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite/</id>
+    <link href="https://sysin.org/blog/burp-suite/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite/</id>
     <published>2026-11-14T01:07:10.000Z</published>
     <updated>2026-11-14T01:07:10.000Z</updated>
     <summary type="html">Burp Suite 是一套用于 Web 安全测试的高级工具集——将所有功能集成在一个产品中。从基础的拦截代理到先进的 Burp Scanner，使用 Burp Suite，您所需的工具触手可及。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2025 RTM GDR &amp; CU11 (2026 年 11 月安全更新 | 累积更新)</title>
-    <link href="https://sysin.cn/blog/sql-server-2025/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server-2025/</id>
+    <link href="https://sysin.org/blog/sql-server-2025/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server-2025/</id>
     <published>2026-11-14T01:06:25.000Z</published>
     <updated>2026-11-14T01:06:25.000Z</updated>
     <summary type="html">SQL Server 2025 引入原生 AI 与向量搜索能力，增强智能查询、数据分析和 Azure 集成，为新一代 AI 驱动应用提供企业级数据平台。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 2022 RTM GDR &amp; CU28 (2026 年 11 月安全更新 | 累积更新)</title>
-    <link href="https://sysin.cn/blog/sql-server-2022/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server-2022/</id>
+    <link href="https://sysin.org/blog/sql-server-2022/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server-2022/</id>
     <published>2026-11-14T01:06:22.000Z</published>
     <updated>2026-11-14T01:06:22.000Z</updated>
     <summary type="html">SQL Server 2022 强化 Azure 集成、智能性能优化和安全防护能力，提供面向混合云环境的新一代企业数据平台。</summary>
   </entry>
   <entry>
     <title>Cisco Meeting Server 4.0 - 会议与协作</title>
-    <link href="https://sysin.cn/blog/cisco-meeting-server-4/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/cisco-meeting-server-4/</id>
+    <link href="https://sysin.org/blog/cisco-meeting-server-4/?utm_source=atom"/>
+    <id>https://sysin.org/blog/cisco-meeting-server-4/</id>
     <published>2026-11-13T01:15:40.000Z</published>
     <updated>2026-11-13T01:15:40.000Z</updated>
     <summary type="html">思科 Meeting Server 将本地视频、音频和网络通信解决方案整合到一个设备中，可满足现代工作场所的协作需求。它还能与第三方设备结合使用，打造亲切、愉悦的用户体验。</summary>
   </entry>
   <entry>
     <title>AppSpider 7.5.030 for Windows - Web 应用程序安全测试</title>
-    <link href="https://sysin.cn/blog/appspider/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/appspider/</id>
+    <link href="https://sysin.org/blog/appspider/?utm_source=atom"/>
+    <id>https://sysin.org/blog/appspider/</id>
     <published>2026-11-13T01:15:09.000Z</published>
     <updated>2026-11-13T01:15:09.000Z</updated>
     <summary type="html">AppSpider 是 Rapid7 推出的动态应用安全测试（DAST）平台，支持 Web 应用和 API 自动化漏洞扫描，可检测 SQL 注入、跨站脚本（XSS）等安全问题，并生成详细修复建议，帮助企业持续提升应用安全防护能力。</summary>
   </entry>
   <entry>
     <title>Red Hat Enterprise Linux (RHEL) 10.3 (x86_64, aarch64) - 红帽企业 Linux</title>
-    <link href="https://sysin.cn/blog/rhel-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/rhel-10/</id>
+    <link href="https://sysin.org/blog/rhel-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/rhel-10/</id>
     <published>2026-11-13T01:10:10.000Z</published>
     <updated>2026-11-13T01:10:10.000Z</updated>
     <summary type="html">红帽企业 Linux 10 开启了操作系统的新时代。该版本已针对 AI 做好准备并具备先进功能，可帮助您弥合 Linux 技能差距、利用容器技术遏制偏移、开始加强后量子安全防护等。</summary>
   </entry>
   <entry>
     <title>Red Hat Enterprise Linux (RHEL) 9.9 (x86_64, aarch64) - 红帽企业 Linux</title>
-    <link href="https://sysin.cn/blog/rhel-9/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/rhel-9/</id>
+    <link href="https://sysin.org/blog/rhel-9/?utm_source=atom"/>
+    <id>https://sysin.org/blog/rhel-9/</id>
     <published>2026-11-13T01:10:09.000Z</published>
     <updated>2026-11-13T01:10:09.000Z</updated>
     <summary type="html">Red Hat Enterprise Linux 是全球领先的企业级 Linux 操作系统平台。作为一款开源操作系统，它为企业提供了可靠的基础平台，支持在物理服务器、虚拟化环境、容器环境及各类云环境中灵活扩展现有应用，并部署和应用新兴技术。</summary>
   </entry>
   <entry>
     <title>Visual Studio 2026 v18.12 - Windows 平台 .NET 和 C++ 开发者的最全面 IDE</title>
-    <link href="https://sysin.cn/blog/visual-studio-2026/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/visual-studio-2026/</id>
+    <link href="https://sysin.org/blog/visual-studio-2026/?utm_source=atom"/>
+    <id>https://sysin.org/blog/visual-studio-2026/</id>
     <published>2026-11-12T01:16:26.000Z</published>
     <updated>2026-11-12T01:16:26.000Z</updated>
     <summary type="html">Visual Studio IDE 是一个创意启动板，可用于编辑、调试和生成代码，然后发布应用。除了大多数 IDE 都提供的标准编辑器和调试器之外，Visual Studio 还包括编译器、代码补全工具、图形设计器以及许多其他功能，以增强软件开发过程。</summary>
   </entry>
   <entry>
     <title>Microsoft SQL Server 下载汇总 (2026 年 11 月安全更新)</title>
-    <link href="https://sysin.cn/blog/sql-server/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/sql-server/</id>
+    <link href="https://sysin.org/blog/sql-server/?utm_source=atom"/>
+    <id>https://sysin.org/blog/sql-server/</id>
     <published>2026-11-12T01:08:01.000Z</published>
     <updated>2026-11-12T01:08:01.000Z</updated>
     <summary type="html">SQL Server 2025，SQL Server 2022，SQL Server 2019，SQL Server 2017，SQL Server 2016，SQL Server 2014，SQL Server 2012，SQL Server 2008 R2</summary>
   </entry>
   <entry>
     <title>SQL Server Management Studio (SSMS) 22.12 - 微软数据库管理工具</title>
-    <link href="https://sysin.cn/blog/ssms/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/ssms/</id>
+    <link href="https://sysin.org/blog/ssms/?utm_source=atom"/>
+    <id>https://sysin.org/blog/ssms/</id>
     <published>2026-11-12T01:01:11.000Z</published>
     <updated>2026-11-12T01:01:11.000Z</updated>
     <summary type="html">SQL Server Management Studio (SSMS) 是一种集成环境，用于管理从 SQL Server 到 Azure SQL 数据库的任何 SQL 基础结构。SSMS 提供用于配置、监视和管理 SQL Server 和数据库实例的工具。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2024 for Mac 16.115 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.cn/blog/office-2024-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2024-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2024-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2024-for-mac/</id>
     <published>2026-11-11T01:16:24.000Z</published>
-    <updated>2026-11-11T01:16:24.000Z</updated>
+    <updated>2026-11-14T05:23:54.959Z</updated>
     <summary type="html">Office LTSC for Mac 2024 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供 5 年主流支持，适用于需要长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office LTSC 2021 for Mac 16.115 - 文档、电子表格、演示文稿和电子邮件</title>
-    <link href="https://sysin.cn/blog/office-2021-for-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2021-for-mac/</id>
+    <link href="https://sysin.org/blog/office-2021-for-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2021-for-mac/</id>
     <published>2026-11-11T01:16:21.000Z</published>
     <updated>2026-11-11T01:16:21.000Z</updated>
     <summary type="html">Office LTSC for Mac 2021 是微软面向企业和组织推出的 macOS 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、教育及长期稳定运行的 Mac 环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2024 VL 16.0.17932.21140 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2024/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2024/</id>
+    <link href="https://sysin.org/blog/office-2024/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2024/</id>
     <published>2026-11-11T01:05:27.000Z</published>
     <updated>2026-11-11T01:05:27.000Z</updated>
     <summary type="html">Office LTSC 2024 是微软推出的企业级长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook 等经典办公应用，采用批量许可授权，提供 5 年主流支持，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2021 VL 16.0.14334.21048 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2021/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2021/</id>
+    <link href="https://sysin.org/blog/office-2021/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2021/</id>
     <published>2026-11-11T01:05:22.000Z</published>
     <updated>2026-11-11T01:05:22.000Z</updated>
     <summary type="html">Office LTSC 2021 是微软面向企业和组织推出的 Windows 长期服务版 Office 套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用批量许可授权，提供长期安全更新，适用于企业、政府及长期稳定运行环境。</summary>
   </entry>
   <entry>
     <title>Microsoft Office 2019 VL 16.0.10417.20236 中英文版 ISO 下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/office-2019/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/office-2019/</id>
+    <link href="https://sysin.org/blog/office-2019/?utm_source=atom"/>
+    <id>https://sysin.org/blog/office-2019/</id>
     <published>2026-11-11T01:05:09.000Z</published>
     <updated>2026-11-11T01:05:09.000Z</updated>
     <summary type="html">Office 2019 是微软推出的 Windows 永久授权版 Office 办公套件，包含 Word、Excel、PowerPoint、Outlook、Access、Publisher 和 OneNote，采用一次性授权方式，适用于企业、教育及个人用户，满足日常办公和文档处理需求。</summary>
   </entry>
   <entry>
     <title>Gitea Enterprise 28.3.2 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
-    <link href="https://sysin.cn/blog/gitea-enterprise/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gitea-enterprise/</id>
+    <link href="https://sysin.org/blog/gitea-enterprise/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gitea-enterprise/</id>
     <published>2026-11-10T01:25:55.000Z</published>
     <updated>2026-11-10T01:25:55.000Z</updated>
     <summary type="html">Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</summary>
   </entry>
   <entry>
     <title>Firefox 160, Chrome 160, Chromium 160 (macOS, Linux, Windows) 离线下载</title>
-    <link href="https://sysin.cn/blog/chrome-firefox-download/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/chrome-firefox-download/</id>
+    <link href="https://sysin.org/blog/chrome-firefox-download/?utm_source=atom"/>
+    <id>https://sysin.org/blog/chrome-firefox-download/</id>
     <published>2026-11-10T01:21:00.000Z</published>
     <updated>2026-11-10T01:21:00.000Z</updated>
     <summary type="html">Mozilla Firefox, Google Chrome, Chromium 及其发行版下载汇总。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.2.1 (26B131) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate-boot-iso/</id>
     <published>2026-11-10T01:08:36.000Z</published>
     <updated>2026-11-10T01:08:36.000Z</updated>
     <summary type="html">最新版的 macOS Golden Gate 27 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Golden Gate 27.2.1 (26B131 | 26B7131 | 26B8132) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-golden-gate/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-golden-gate/</id>
+    <link href="https://sysin.org/blog/macos-golden-gate/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-golden-gate/</id>
     <published>2026-11-10T01:08:26.000Z</published>
     <updated>2026-11-10T01:08:26.000Z</updated>
     <summary type="html">macOS Golden Gate 聚焦 Apple Intelligence、Siri AI 和系统体验升级，国行 Apple 智能抢先体验，开启 Mac AI 新时代。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.11 for macOS - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro-mac/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro-mac/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro-mac/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro-mac/</id>
     <published>2026-11-10T01:07:18.000Z</published>
-    <updated>2026-11-10T01:07:18.000Z</updated>
+    <updated>2026-11-14T05:23:22.155Z</updated>
     <summary type="html">在 macOS 上轻松运行世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>Burp Suite Professional 2026.11 for Windows x64 - 领先的 Web 渗透测试软件</title>
-    <link href="https://sysin.cn/blog/burp-suite-pro-win/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/burp-suite-pro-win/</id>
+    <link href="https://sysin.org/blog/burp-suite-pro-win/?utm_source=atom"/>
+    <id>https://sysin.org/blog/burp-suite-pro-win/</id>
     <published>2026-11-10T01:07:15.000Z</published>
     <updated>2026-11-10T01:07:15.000Z</updated>
     <summary type="html">在 Windows 上轻松运行世界排名第一的 Web 渗透测试工具包，为应用安全专业人员提供更快、更可靠的安全测试。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7.3 (25G342) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-tahoe-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe-boot-iso/</id>
     <published>2026-11-10T01:06:36.000Z</published>
     <updated>2026-11-10T01:06:36.000Z</updated>
     <summary type="html">最新版 macOS Tahoe 26 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Tahoe 26.7.3 (25G342) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-tahoe/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-tahoe/</id>
+    <link href="https://sysin.org/blog/macos-tahoe/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-tahoe/</id>
     <published>2026-11-10T01:06:26.000Z</published>
     <updated>2026-11-10T01:06:26.000Z</updated>
     <summary type="html">macOS Tahoe 采用全新 Liquid Glass 设计，电话 app 和实时活动带来新连续互通体验，聚焦搜索迎来迄今最大更新，让 Mac 更强大、更高效、更智能。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8.3 (24H241) Boot ISO 原版可引导映像下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia-boot-iso/</id>
+    <link href="https://sysin.org/blog/macos-sequoia-boot-iso/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia-boot-iso/</id>
     <published>2026-11-10T01:05:20.000Z</published>
     <updated>2026-11-10T01:05:20.000Z</updated>
     <summary type="html">最新版 macOS Sequoia 15 ISO，既可以拖拽到 Applications（应用程序）下直接安装，也可以制作启动 U 盘安装，或者在虚拟机中启动安装。另外也支持在 Windows 和 Linux 中创建可引导介质。</summary>
   </entry>
   <entry>
     <title>macOS Sequoia 15.8.3 (24H241) 正式版 DMG、ISO、IPSW 下载</title>
-    <link href="https://sysin.cn/blog/macos-sequoia/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/macos-sequoia/</id>
+    <link href="https://sysin.org/blog/macos-sequoia/?utm_source=atom"/>
+    <id>https://sysin.org/blog/macos-sequoia/</id>
     <published>2026-11-10T01:05:10.000Z</published>
     <updated>2026-11-10T01:05:10.000Z</updated>
     <summary type="html">macOS Sequoia 带来最新连续互通功能 iPhone 镜像，Safari 浏览器重大更新，Apple Intelligence 掀开 AI 新篇章，排布窗口的新方式、全新密码 app 等众多全新功能令 Mac 使用体验再升级。</summary>
   </entry>
   <entry>
     <title>Studio 3T 2026.15 (macOS, Linux, Windows) - MongoDB 的终极 GUI、IDE 和 客户端</title>
-    <link href="https://sysin.cn/blog/studio-3t/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/studio-3t/</id>
+    <link href="https://sysin.org/blog/studio-3t/?utm_source=atom"/>
+    <id>https://sysin.org/blog/studio-3t/</id>
     <published>2026-11-09T01:12:00.000Z</published>
     <updated>2026-11-09T01:12:00.000Z</updated>
     <summary type="html">Studio 3T 是专为 MongoDB 打造的全功能 GUI、IDE 和客户端，提供完整的 MongoDB 开发与管理体验，适用于 Atlas 及任何 MongoDB 部署环境。</summary>
   </entry>
   <entry>
     <title>如何关闭配备 PROLED XDR 显示屏的 MacBook Pro 的 Apple 标志发光功能</title>
-    <link href="https://sysin.cn/blog/turn-off-apple-logo-illumination/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/turn-off-apple-logo-illumination/</id>
+    <link href="https://sysin.org/blog/turn-off-apple-logo-illumination/?utm_source=atom"/>
+    <id>https://sysin.org/blog/turn-off-apple-logo-illumination/</id>
     <published>2026-11-09T01:01:20.000Z</published>
     <updated>2026-11-09T01:01:20.000Z</updated>
     <summary type="html">Apple 标志重新亮起！如果希望 Apple 标志在任何光线环境下都保持熄灭状态，可以通过「终端」关闭其发光功能，当然也可以随时重新开启。</summary>
   </entry>
   <entry>
     <title>如何关闭配备 PROLED XDR 显示屏的 MacBook Pro 的屏幕触控功能</title>
-    <link href="https://sysin.cn/blog/turn-off-apple-display-touch/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/turn-off-apple-display-touch/</id>
+    <link href="https://sysin.org/blog/turn-off-apple-display-touch/?utm_source=atom"/>
+    <id>https://sysin.org/blog/turn-off-apple-display-touch/</id>
     <published>2026-11-09T01:01:19.000Z</published>
     <updated>2026-11-09T01:01:19.000Z</updated>
     <summary type="html">触控功能并非旨在取代触控板和键盘，但如果您需要，它随时可用。现在我们也可以完全关闭屏幕触控，不过这个设置选项隐藏的有点深，现在放个截图您一看就会。</summary>
   </entry>
   <entry>
     <title>Zabbix 8.0 LTS x86_64 OVF - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/zabbix-8-ovf/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/zabbix-8-ovf/</id>
+    <link href="https://sysin.org/blog/zabbix-8-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/zabbix-8-ovf/</id>
     <published>2026-11-06T01:36:18.000Z</published>
     <updated>2026-11-06T01:36:18.000Z</updated>
     <summary type="html">无需复杂配置，即刻在本机或私有云环境中运行 Zabbix 8.0 LTS 虚拟机，支持 VMware ESXi、Fusion 和 Workstaion。</summary>
