@@ -1,3 +1,5 @@
+https://sysin.org/blog/magnet-axiom-10/
+https://sysin.org/blog/oxygen-forensic-detective/
 https://sysin.org/blog/burp-suite-pro/
 https://sysin.org/blog/burp-suite/
 https://sysin.org/blog/sql-server-2025/
@@ -16,5 +18,3 @@ https://sysin.org/blog/office-2021/
 https://sysin.org/blog/office-2019/
 https://sysin.org/blog/gitea-enterprise/
 https://sysin.org/blog/chrome-firefox-download/
-https://sysin.org/blog/macos-golden-gate-boot-iso/
-https://sysin.org/blog/macos-golden-gate/
