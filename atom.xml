@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-11-17T06:37:09.885Z</updated>
+  <updated>2026-11-17T01:28:00.000Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/almalinux-10/?utm_source=atom"/>
     <id>https://sysin.org/blog/almalinux-10/</id>
     <published>2026-11-17T01:28:00.000Z</published>
-    <updated>2026-11-17T06:37:09.885Z</updated>
+    <updated>2026-11-17T01:28:00.000Z</updated>
     <summary type="html">AlmaLinux 10 一个开源、社区拥有和管理、永远免费的企业 Linux 发行版，专注于长期稳定性，提供强大的生产级平台。AlmaLinux OS 与 RHEL 二进制兼容。</summary>
   </entry>
   <entry>
@@ -22,7 +22,7 @@
     <link href="https://sysin.org/blog/almalinux-9/?utm_source=atom"/>
     <id>https://sysin.org/blog/almalinux-9/</id>
     <published>2026-11-17T01:18:07.000Z</published>
-    <updated>2026-11-17T06:36:49.343Z</updated>
+    <updated>2026-11-17T01:18:07.000Z</updated>
     <summary type="html">AlmaLinux 9 一个开源、社区拥有和管理、永远免费的企业 Linux 发行版，专注于长期稳定性，提供强大的生产级平台。AlmaLinux OS 与 RHEL 二进制兼容。</summary>
   </entry>
   <entry>
@@ -30,7 +30,7 @@
     <link href="https://sysin.org/blog/rocky-linux-10/?utm_source=atom"/>
     <id>https://sysin.org/blog/rocky-linux-10/</id>
     <published>2026-11-17T01:10:00.000Z</published>
-    <updated>2026-11-17T06:30:55.502Z</updated>
+    <updated>2026-11-17T01:10:00.000Z</updated>
     <summary type="html">Rocky Linux 10 是一个开源的企业级操作系统，旨在与 Red Hat Enterprise Linux® 100% 完全兼容。Rocky Linux 正在由社区积极开发中。</summary>
   </entry>
   <entry>
@@ -38,7 +38,7 @@
     <link href="https://sysin.org/blog/rocky-linux-9/?utm_source=atom"/>
     <id>https://sysin.org/blog/rocky-linux-9/</id>
     <published>2026-11-17T01:08:00.000Z</published>
-    <updated>2026-11-17T06:30:55.502Z</updated>
+    <updated>2026-11-17T01:08:00.000Z</updated>
     <summary type="html">Rocky Linux 9 是一个开源的企业级操作系统，旨在与 Red Hat Enterprise Linux® 100% 完全兼容。Rocky Linux 正在由社区积极开发中。</summary>
   </entry>
   <entry>
@@ -46,7 +46,7 @@
     <link href="https://sysin.org/blog/gitea/?utm_source=atom"/>
     <id>https://sysin.org/blog/gitea/</id>
     <published>2026-11-16T01:25:55.000Z</published>
-    <updated>2026-11-16T07:10:03.785Z</updated>
+    <updated>2026-11-16T01:25:55.000Z</updated>
     <summary type="html">Gitea 是一款轻松易用的一体化自托管软件开发服务，集 Git 托管、代码审查、团队协作、软件包注册表以及 CI/CD 于一身。它基于 MIT 许可证开源，设计轻量、易于使用，并具有高度可定制性，是小型团队和大型组织的理想选择。</summary>
   </entry>
   <entry>

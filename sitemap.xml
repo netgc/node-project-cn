@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
+  <lastmod>2026-11-17</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/windows-admin-center/</loc>
   <lastmod>2026-11-17</lastmod>
 </url>
@@ -17,36 +21,12 @@
   <lastmod>2026-11-17</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/rocky-linux-8/</loc>
-  <lastmod>2026-11-17</lastmod>
-</url>
-<url>
   <loc>https://sysin.org/blog/rocky-linux-9/</loc>
-  <lastmod>2026-11-17</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/shotcut/</loc>
   <lastmod>2026-11-17</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/gitea/</loc>
   <lastmod>2026-11-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
-  <lastmod>2026-11-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/pdf-expert/</loc>
-  <lastmod>2026-11-16</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/magnet-axiom-10/</loc>
-  <lastmod>2026-11-15</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
-  <lastmod>2026-11-15</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/burp-suite-pro/</loc>
@@ -241,6 +221,10 @@
   <lastmod>2026-11-03</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/magnet-axiom-10/</loc>
+  <lastmod>2026-11-03</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/xry-pro/</loc>
   <lastmod>2026-11-03</lastmod>
 </url>
@@ -334,6 +318,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/openshot/</loc>
+  <lastmod>2026-11-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/shotcut/</loc>
   <lastmod>2026-11-01</lastmod>
 </url>
 <url>
@@ -1085,6 +1073,10 @@
   <lastmod>2026-08-01</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/pdf-expert/</loc>
+  <lastmod>2026-08-01</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/veeam-data-platform/</loc>
   <lastmod>2026-07-31</lastmod>
 </url>
@@ -1139,6 +1131,10 @@
 <url>
   <loc>https://sysin.org/blog/magnet-dvr-examiner/</loc>
   <lastmod>2026-07-20</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/oxygen-forensic-detective/</loc>
+  <lastmod>2026-07-19</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/sql-server-2016/</loc>
@@ -2730,6 +2726,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/install-macos-14-on-unsupported-mac/</loc>
+  <lastmod>2024-06-01</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/rocky-linux-8/</loc>
   <lastmod>2024-06-01</lastmod>
 </url>
 <url>
