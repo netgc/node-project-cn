@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/adobe-dng-converter/</loc>
+  <lastmod>2026-11-18</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/adobe-camera-raw/</loc>
+  <lastmod>2026-11-18</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/adobe-photoshop-elements/</loc>
+  <lastmod>2026-11-18</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/adobe-premiere-elements/</loc>
+  <lastmod>2026-11-18</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/adobe-creative-cloud/</loc>
   <lastmod>2026-11-18</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/adobe-bridge/</loc>
+  <loc>https://sysin.org/blog/adobe-audition/</loc>
   <lastmod>2026-11-18</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/adobe-audition/</loc>
+  <loc>https://sysin.org/blog/adobe-bridge/</loc>
   <lastmod>2026-11-18</lastmod>
 </url>
 <url>
@@ -331,14 +347,6 @@
 <url>
   <loc>https://sysin.org/blog/vmware-vdefend-9/</loc>
   <lastmod>2026-11-03</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-dng-converter/</loc>
-  <lastmod>2026-11-02</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-camera-raw/</loc>
-  <lastmod>2026-11-02</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/exchange-server-se/</loc>
@@ -2419,14 +2427,6 @@
 <url>
   <loc>https://sysin.org/blog/openvz-7/</loc>
   <lastmod>2024-11-10</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-premiere-elements/</loc>
-  <lastmod>2024-11-06</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/adobe-photoshop-elements/</loc>
-  <lastmod>2024-11-06</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-tanzu-cli/</loc>
