@@ -1,252 +1,252 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sysin</title><icon>https://sysin.cn/img/favicon.png</icon><subtitle>软件技术 | SYStem INside</subtitle>
-  <link href="https://sysin.cn/atom.xml" rel="self"/>
-  <link href="https://sysin.cn/"/>
-  <updated>2026-11-23T00:14:25.408Z</updated>
-  <id>https://sysin.cn/</id>
+  <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
+  <link href="https://sysin.org/atom.xml" rel="self"/>
+  <link href="https://sysin.org/"/>
+  <updated>2026-11-23T07:55:30.005Z</updated>
+  <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
   </author>
   <generator uri="https://sysin.org/">sysin</generator>
   <entry>
+    <title>Apple Pixelmator Pro 5.0 - 专业图像编辑工具</title>
+    <link href="https://sysin.org/blog/pixelmator-pro-5/?utm_source=atom"/>
+    <id>https://sysin.org/blog/pixelmator-pro-5/</id>
+    <published>2026-11-23T02:16:08.000Z</published>
+    <updated>2026-11-23T07:55:30.005Z</updated>
+    <summary type="html">Pixelmator Pro 5.0 是 Apple 创作坊的一部分，后者是 Apple 打造的一整套出色的强大创意 App，可助你将灵感变为现实。Pixelmator Pro 为你提供了打造设计、编辑照片、绘制插图、创作数字绘画和尽情挥洒创意所需的一切。</summary>
+  </entry>
+  <entry>
     <title>Windows Server 2025 中文版、英文版下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2025/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2025/</id>
+    <link href="https://sysin.org/blog/windows-server-2025/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2025/</id>
     <published>2026-11-23T01:15:05.000Z</published>
     <updated>2026-11-23T00:14:25.408Z</updated>
     <summary type="html">Windows Server 2025 让您为将来做好准备，同时提供目前所需的安全性、性能和灵活性。通过更轻松的网络连接、更快的存储和满足您需求的混合云功能提高工作效率。凭借前瞻性的安全性和 AI 就绪型计算，领先于未来的发展。</summary>
   </entry>
   <entry>
     <title>Windows Server 2022 中文版、英文版下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-server-2022/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2022/</id>
+    <link href="https://sysin.org/blog/windows-server-2022/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2022/</id>
     <published>2026-11-23T01:12:22.000Z</published>
     <updated>2026-11-23T00:14:43.451Z</updated>
     <summary type="html">Windows Server 2022 在三个关键主题上带来了许多创新，采用先进的多层安全机制、Azure 混合功能以及灵活的应用程序平台。</summary>
   </entry>
   <entry>
     <title>Windows 11 绕过 TPM 方法总结，通用免 TPM 映像下载 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-11-no-tpm/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-11-no-tpm/</id>
+    <link href="https://sysin.org/blog/windows-11-no-tpm/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-11-no-tpm/</id>
     <published>2026-11-23T01:11:11.000Z</published>
     <updated>2026-11-23T02:55:00.650Z</updated>
     <summary type="html">提供 Windows 11 最新简体中文 ISO 映像下载，支持虚拟机、Mac 电脑及不满足 TPM 要求的旧电脑。</summary>
   </entry>
   <entry>
     <title>Windows 11 26H2 | 26H1 | 25H2 中文版、英文版 (2026 年 11 月更新)</title>
-    <link href="https://sysin.cn/blog/windows-11/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-11/</id>
+    <link href="https://sysin.org/blog/windows-11/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-11/</id>
     <published>2026-11-23T01:11:00.000Z</published>
     <updated>2026-11-23T00:12:31.000Z</updated>
     <summary type="html">Windows 11 提供一个让人平静而富有创意的空间，全新体验引导您全力追逐热爱。从焕然一新的开始菜单，到与您关心的人、关注的消息、游戏和内容建立连接的新方式，Windows 11 提供了一个场所，让您得以自由地思索、表达和创造。</summary>
   </entry>
   <entry>
     <title>Debian 13.8 Trixie 发布 - 通用操作系统</title>
-    <link href="https://sysin.cn/blog/debian-13/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/debian-13/</id>
+    <link href="https://sysin.org/blog/debian-13/?utm_source=atom"/>
+    <id>https://sysin.org/blog/debian-13/</id>
     <published>2026-11-22T01:12:13.000Z</published>
     <updated>2026-11-22T02:17:41.657Z</updated>
     <summary type="html">2026 年 11 月 21 日，Debian 13.8 “Trixie” 发布，包含多项错误修复和安全更新。此次点版本发布主要增加了针对安全问题的修复，以及少量针对严重问题的调整。</summary>
   </entry>
   <entry>
     <title>Windows Server 2028 OVF - VMware 虚拟机模板</title>
-    <link href="https://sysin.cn/blog/windows-server-2028-ovf/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2028-ovf/</id>
+    <link href="https://sysin.org/blog/windows-server-2028-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2028-ovf/</id>
     <published>2026-11-20T01:18:28.000Z</published>
     <updated>2026-11-20T01:18:28.000Z</updated>
     <summary type="html">Windows Server 2028 Datacenter OVF for VMware ESXi/Workstation/Fusion, released 2027 (sysin)</summary>
   </entry>
   <entry>
     <title>Windows Server 2028 公共预览版现已发布</title>
-    <link href="https://sysin.cn/blog/windows-server-2028/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/windows-server-2028/</id>
+    <link href="https://sysin.org/blog/windows-server-2028/?utm_source=atom"/>
+    <id>https://sysin.org/blog/windows-server-2028/</id>
     <published>2026-11-20T01:18:08.000Z</published>
     <updated>2026-11-20T01:18:08.000Z</updated>
     <summary type="html">Windows Server 2028 新增本地 AI 推理支持，升级服务器安全防护与 NVMe 存储性能，引入 Intune 统一管理，并增强虚拟化管理、自动证书管理及后量子密码学支持。</summary>
   </entry>
   <entry>
     <title>Gitea Enterprise 28.4 (Linux, FreeBSD, macOS, Windows) - 本地部署的企业级 Git 服务</title>
-    <link href="https://sysin.cn/blog/gitea-enterprise/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/gitea-enterprise/</id>
+    <link href="https://sysin.org/blog/gitea-enterprise/?utm_source=atom"/>
+    <id>https://sysin.org/blog/gitea-enterprise/</id>
     <published>2026-11-20T01:15:55.000Z</published>
     <updated>2026-11-22T09:23:51.988Z</updated>
     <summary type="html">Gitea Enterprise 是基于开源 Gitea 项目开发的增强版，主要增强了企业级的高可用架构、精细化的企业安全审计（如审计日志、高级权限控制）以及官方提供的商业技术支持。</summary>
   </entry>
   <entry>
     <title>VMware ESXi 8.0U3m macOS Unlocker &amp; OEM BIOS 2.7 集成驱动版</title>
-    <link href="https://sysin.cn/blog/vmware-esxi-8-u3-sysin/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-esxi-8-u3-sysin/</id>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-sysin/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-sysin/</id>
     <published>2026-11-20T01:09:18.000Z</published>
     <updated>2026-11-22T09:28:10.863Z</updated>
     <summary type="html">ESXi 8.0U3m sysin 集成驱动版独家支持 macOS 虚拟化和 Windows OEM BIOS，新增多种网卡驱动包括 USB 网卡，广泛兼容各类台式机、笔记本和小主机，不仅是单机虚拟化的最佳选择，也适合用于运行企业级工作负载。</summary>
   </entry>
   <entry>
     <title>VMware ESXi 8.0U3m macOS Unlocker &amp; OEM BIOS 2.7 标准版和厂商定制版</title>
-    <link href="https://sysin.cn/blog/vmware-esxi-8-u3-oem/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-esxi-8-u3-oem/</id>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3-oem/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3-oem/</id>
     <published>2026-11-20T01:09:08.000Z</published>
     <updated>2026-11-22T09:25:38.709Z</updated>
     <summary type="html">ESXi 8.0U3m sysin 定制标准版和 OEM 版独家支持 macOS 虚拟化和 Windows OEM BIOS，并采用与厂商官方验证一致的驱动版本。主流品牌定制版通常还集成了服务器管理组件，可进一步提升硬件兼容性和可管理性，因此建议优先选择与服务器品牌相对应的定制版本。</summary>
   </entry>
   <entry>
     <title>VMware vSphere 8.0 Update 3m 下载 - 企业级工作负载平台</title>
-    <link href="https://sysin.cn/blog/vmware-vsphere-8-u3/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-vsphere-8-u3/</id>
+    <link href="https://sysin.org/blog/vmware-vsphere-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vsphere-8-u3/</id>
     <published>2026-11-20T01:08:18.000Z</published>
     <updated>2026-11-22T09:15:28.724Z</updated>
     <summary type="html">VMware vSphere 8.0U3 提供企业级服务器虚拟化与云原生控制平面。具备免重启 Live Patch 热更新、双 DPU 网络加速与更高级的 GPU 资源监控，全面赋能现代数据中心与 AI 工作负载。</summary>
   </entry>
   <entry>
+    <title>vCenter Server 8.0U3m OVF - 在 Fusion 和 Workstation 中快速部署 vCSA</title>
+    <link href="https://sysin.org/blog/vmware-vcenter-8-ovf/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vcenter-8-ovf/</id>
+    <published>2026-11-20T01:08:09.000Z</published>
+    <updated>2026-11-23T07:56:53.053Z</updated>
+    <summary type="html">本站定制 vCenter Server 8.0U3 系列 OVF，适用于 VMware Fusion 和 Workstation，也可以用于 ESXi，可通过简单直观的提示快速部署 vSphere 环境。</summary>
+  </entry>
+  <entry>
     <title>VMware vCenter Server 8.0U3m 发布 - 集中管理 vSphere 环境</title>
-    <link href="https://sysin.cn/blog/vmware-vcenter-8-u3/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-vcenter-8-u3/</id>
+    <link href="https://sysin.org/blog/vmware-vcenter-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-vcenter-8-u3/</id>
     <published>2026-11-20T01:08:08.000Z</published>
     <updated>2026-11-22T09:15:28.724Z</updated>
     <summary type="html">VMware vCenter Server 8.0U3 提供强大的数据中心集中管理能力。支持近乎零停机的版本更新、增强型 vLCM 镜像定制与 AI/GPU 算力集群监控，全面提升企业虚拟化基础设施的运维效率与可靠性。</summary>
   </entry>
   <entry>
     <title>VMware ESXi 8.0U3m 发布 - 领先的裸机 Hypervisor</title>
-    <link href="https://sysin.cn/blog/vmware-esxi-8-u3/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-esxi-8-u3/</id>
+    <link href="https://sysin.org/blog/vmware-esxi-8-u3/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-esxi-8-u3/</id>
     <published>2026-11-20T01:08:00.000Z</published>
     <updated>2026-11-23T00:22:54.721Z</updated>
     <summary type="html">VMware ESXi 8.0U3 提供强大的服务器虚拟化体验。具备免重启 Live Patch 热补丁、双 DPU 网络加速与更高级的 AI/GPU 资源调度能力，全面提升企业数据中心运维效率与业务连续性。</summary>
   </entry>
   <entry>
     <title>VMware Aria Operations 8.18.8 - 多云 IT 运维管理</title>
-    <link href="https://sysin.cn/blog/vmware-aria-operations/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-aria-operations/</id>
+    <link href="https://sysin.org/blog/vmware-aria-operations/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-aria-operations/</id>
     <published>2026-11-20T01:06:00.000Z</published>
     <updated>2026-11-22T09:19:02.204Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-aria-operations/?utm_source=atom" title="VMware Aria Operations 8.18.8 - 多云 IT 运维管理">VMware Aria Operations 8.18.8 - 多云 IT 运维管理</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>VMware Aria Operations for Logs 8.18.8 - 集中式日志管理</title>
-    <link href="https://sysin.cn/blog/vmware-aria-operations-for-logs/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-aria-operations-for-logs/</id>
+    <link href="https://sysin.org/blog/vmware-aria-operations-for-logs/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-aria-operations-for-logs/</id>
     <published>2026-11-20T01:05:00.000Z</published>
     <updated>2026-11-22T09:15:28.724Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-aria-operations-for-logs/?utm_source=atom" title="VMware Aria Operations for Logs 8.18.8 - 集中式日志管理">VMware Aria Operations for Logs 8.18.8 - 集中式日志管理</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>VMware Aria Suite Lifecycle 8.18 Patch 10 - 应用生命周期管理</title>
-    <link href="https://sysin.cn/blog/vmware-aria-suite-lifecycle/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-aria-suite-lifecycle/</id>
+    <link href="https://sysin.org/blog/vmware-aria-suite-lifecycle/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-aria-suite-lifecycle/</id>
     <published>2026-11-20T01:02:00.000Z</published>
     <updated>2026-11-22T09:15:28.724Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-aria-suite-lifecycle/?utm_source=atom" title="VMware Aria Suite Lifecycle 8.18 Patch 10 - 应用生命周期管理">VMware Aria Suite Lifecycle 8.18 Patch 10 - 应用生命周期管理</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>VMware Aria Automation Orchestrator 8.18.8 - 现代工作流程自动化平台</title>
-    <link href="https://sysin.cn/blog/vmware-aria-automation-orchestrator/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-aria-automation-orchestrator/</id>
+    <link href="https://sysin.org/blog/vmware-aria-automation-orchestrator/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-aria-automation-orchestrator/</id>
     <published>2026-11-20T01:01:55.000Z</published>
     <updated>2026-11-22T09:19:22.137Z</updated>
     <summary type="html"><![CDATA[<p>请访问原文链接：<a href="/blog/vmware-aria-automation-orchestrator/?utm_source=atom" title="VMware Aria Automation Orchestrator 8.18.8 - 现代工作流程自动化平台">VMware Aria Automation Orchestrator 8.18.8 - 现代工作流程自动化平台</a> 查看最新版。]]></summary>
   </entry>
   <entry>
     <title>VMware Aria Automation 8.18.8 - 多云基础架构自动化平台</title>
-    <link href="https://sysin.cn/blog/vmware-aria-automation/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-aria-automation/</id>
+    <link href="https://sysin.org/blog/vmware-aria-automation/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-aria-automation/</id>
     <published>2026-11-20T01:01:50.000Z</published>
     <updated>2026-11-22T09:19:12.867Z</updated>
     <summary type="html">VMware Aria Automation 旨在提供自助式云服务、监管式多云自动化以及基于 DevOps 的基础架构管理和安全性，可帮助提高 IT 敏捷性、生产力和效率，从而让您为迎接企业未来做好准备。</summary>
   </entry>
   <entry>
     <title>VMware Aria Suite 8.18.8 下载汇总 - 云管理解决方案</title>
-    <link href="https://sysin.cn/blog/vmware-aria-suite/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-aria-suite/</id>
+    <link href="https://sysin.org/blog/vmware-aria-suite/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-aria-suite/</id>
     <published>2026-11-20T01:01:30.000Z</published>
     <updated>2026-11-22T09:19:44.347Z</updated>
     <summary type="html">VMware Aria Suite (vRealize Suite) 是一种云管理解决方案。它集成了 VMware Aria (vRealize Cloud Management) 产品，可在本地部署环境中提供自动化、运维和日志分析。</summary>
   </entry>
   <entry>
     <title>VMware NSX 4.2.5 - 网络安全虚拟化平台</title>
-    <link href="https://sysin.cn/blog/vmware-nsx-4/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-nsx-4/</id>
+    <link href="https://sysin.org/blog/vmware-nsx-4/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-nsx-4/</id>
     <published>2026-11-20T01:01:25.000Z</published>
     <updated>2026-11-23T01:51:19.238Z</updated>
     <summary type="html">VMware NSX 4 是一款面向现代数据中心和云环境的软件定义网络与安全平台，提供网络虚拟化、微分段、防火墙、安全策略自动化、多云连接和云原生应用支持能力。</summary>
   </entry>
   <entry>
     <title>Nexpose 8.69 for Linux &amp; Windows - 漏洞扫描</title>
-    <link href="https://sysin.cn/blog/nexpose/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nexpose/</id>
+    <link href="https://sysin.org/blog/nexpose/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nexpose/</id>
     <published>2026-11-20T01:01:05.000Z</published>
     <updated>2026-11-22T09:24:41.668Z</updated>
     <summary type="html">Rapid7 Nexpose 是一款专业的漏洞扫描与漏洞管理软件，支持自动化资产发现、漏洞检测、风险优先级分析、合规审计及详细报告生成，适用于企业安全运营和持续漏洞管理。</summary>
   </entry>
   <entry>
     <title>VMware Tools 12.5.5 下载 - 客户机操作系统无缝交互必备组件</title>
-    <link href="https://sysin.cn/blog/vmware-tools-12/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-tools-12/</id>
+    <link href="https://sysin.org/blog/vmware-tools-12/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-tools-12/</id>
     <published>2026-11-20T01:01:01.000Z</published>
     <updated>2026-11-23T00:20:37.473Z</updated>
     <summary type="html">VMware Tools 中包含一系列服务和组件，可在各种 VMware 产品中实现多种功能，从而使用户能够更好地管理客户机操作系统，以及与客户机操作系统进行无缝交互。</summary>
   </entry>
   <entry>
     <title>Splunk Enterprise 10.6.2.5 (macOS, Linux, Windows) - 搜索、分析和可视化，数据全面洞察平台</title>
-    <link href="https://sysin.cn/blog/splunk-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/splunk-10/</id>
+    <link href="https://sysin.org/blog/splunk-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/splunk-10/</id>
     <published>2026-11-19T01:15:10.000Z</published>
     <updated>2026-11-22T02:16:53.552Z</updated>
     <summary type="html">Splunk Enterprise 对所有数据进行搜索、分析和可视化，获得可执行的洞察。Splunk AI 功能解锁更深入的洞察，加速人类决策与威胁响应。</summary>
   </entry>
   <entry>
     <title>Wireshark 4.6.10 for Linux, macOS, Windows - 网络协议分析器</title>
-    <link href="https://sysin.cn/blog/wireshark-4/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/wireshark-4/</id>
+    <link href="https://sysin.org/blog/wireshark-4/?utm_source=atom"/>
+    <id>https://sysin.org/blog/wireshark-4/</id>
     <published>2026-11-19T01:10:58.000Z</published>
     <updated>2026-11-19T01:10:58.000Z</updated>
     <summary type="html">Wireshark 是开源网络协议分析工具，支持实时抓包和离线分析，提供丰富的协议解析、过滤、流量分析和故障诊断功能，可用于网络排障、安全分析和通信协议研究。</summary>
   </entry>
   <entry>
     <title>VMware NSX 4.2.5 新增功能</title>
-    <link href="https://sysin.cn/blog/vmware-nsx-4-2/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/vmware-nsx-4-2/</id>
+    <link href="https://sysin.org/blog/vmware-nsx-4-2/?utm_source=atom"/>
+    <id>https://sysin.org/blog/vmware-nsx-4-2/</id>
     <published>2026-11-19T01:09:24.000Z</published>
     <updated>2026-11-23T00:22:21.962Z</updated>
     <summary type="html">VMware NSX 4.2 是面向现代云基础架构的网络与安全平台，引入网络规模扩展、IPv6 管理平面、Edge 性能优化、DPU 支持等增强功能，提供软件定义网络、微分段和安全服务能力。</summary>
   </entry>
   <entry>
     <title>Metasploit Pro 5.1.1-2026111801 (Linux, Windows) - 专业渗透测试框架</title>
-    <link href="https://sysin.cn/blog/metasploit-pro-5/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/metasploit-pro-5/</id>
+    <link href="https://sysin.org/blog/metasploit-pro-5/?utm_source=atom"/>
+    <id>https://sysin.org/blog/metasploit-pro-5/</id>
     <published>2026-11-19T01:05:50.000Z</published>
     <updated>2026-11-22T09:24:27.853Z</updated>
     <summary type="html">Metasploit Pro 5.1 新增了适用于 HTTP Meterpreter Payload 的流量伪装（Evasion）能力、服务层级关系跟踪支持、更深入且交互性更强的网络拓扑视图，并持续推进现代化、一致性的用户界面体验。本次发布基于 Metasploit Framework 6.5。</summary>
   </entry>
   <entry>
     <title>UTM 5.0.9 - 基于 QEMU 的 macOS 虚拟机与模拟器应用</title>
-    <link href="https://sysin.cn/blog/utm-5/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/utm-5/</id>
+    <link href="https://sysin.org/blog/utm-5/?utm_source=atom"/>
+    <id>https://sysin.org/blog/utm-5/</id>
     <published>2026-11-18T02:20:05.000Z</published>
     <updated>2026-11-18T02:20:05.000Z</updated>
     <summary type="html">UTM 5 发布，新增 Windows 11 DirectX 11 图形支持、Linux Vulkan 1.3 支持，并改进 OpenGL 图形后端与虚拟机图形性能。</summary>
   </entry>
   <entry>
     <title>Tenable Nessus 10.12.7 (macOS, Linux, Windows) - 漏洞评估解决方案</title>
-    <link href="https://sysin.cn/blog/nessus-10/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-10/</id>
+    <link href="https://sysin.org/blog/nessus-10/?utm_source=atom"/>
+    <id>https://sysin.org/blog/nessus-10/</id>
     <published>2026-11-18T01:21:00.000Z</published>
     <updated>2026-11-18T01:21:00.000Z</updated>
     <summary type="html">Tenable Nessus 是领先的漏洞扫描与安全评估平台，提供全面的漏洞检测、配置审计和风险分析能力，帮助企业及时发现并修复安全风险。</summary>
-  </entry>
-  <entry>
-    <title>Nessus 10.12 Auto Installer for Windows - Nessus 自动化安装程序 (updated Nov 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-windows/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-windows/</id>
-    <published>2026-11-18T01:13:30.000Z</published>
-    <updated>2026-11-18T01:13:30.000Z</updated>
-    <summary type="html">适用于 Windows 系统的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
-  </entry>
-  <entry>
-    <title>Nessus 10.12 Auto Installer for Ubuntu 24.04 - Nessus 自动化安装程序 (updated Nov 2026)</title>
-    <link href="https://sysin.cn/blog/nessus-auto-install-for-ubuntu/?utm_source=atom"/>
-    <id>https://sysin.cn/blog/nessus-auto-install-for-ubuntu/</id>
-    <published>2026-11-18T01:13:20.000Z</published>
-    <updated>2026-11-18T01:13:20.000Z</updated>
-    <summary type="html">适用于 Ubuntu 20.04 及更新版本的 Nessus 自动化安装程序，一键部署，无需繁琐配置，立即开启专业漏洞扫描。</summary>
   </entry>
 </feed>
