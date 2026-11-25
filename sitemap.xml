@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+  <loc>https://sysin.org/blog/vmware-vact-3/</loc>
+  <lastmod>2026-11-25</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-tools-12/</loc>
   <lastmod>2026-11-25</lastmod>
 </url>
@@ -49,11 +53,11 @@
   <lastmod>2026-11-24</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/pixelmator-pro-4/</loc>
+  <loc>https://sysin.org/blog/pixelmator-pro-5/</loc>
   <lastmod>2026-11-24</lastmod>
 </url>
 <url>
-  <loc>https://sysin.org/blog/pixelmator-pro-5/</loc>
+  <loc>https://sysin.org/blog/pixelmator-pro-4/</loc>
   <lastmod>2026-11-24</lastmod>
 </url>
 <url>
@@ -903,10 +907,6 @@
 <url>
   <loc>https://sysin.org/blog/invicti/</loc>
   <lastmod>2026-09-10</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vact-3/</loc>
-  <lastmod>2026-09-09</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/install-macos-15-on-unsupported-mac/</loc>
