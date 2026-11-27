@@ -1,3 +1,4 @@
+https://sysin.org/blog/hcl-domino/
 https://sysin.org/blog/vmware-vsphere-9/
 https://sysin.org/blog/invicti/
 https://sysin.org/blog/vmware-vact-3/
@@ -17,4 +18,3 @@ https://sysin.org/blog/windows-11/
 https://sysin.org/blog/debian-13/
 https://sysin.org/blog/windows-server-2028-ovf/
 https://sysin.org/blog/windows-server-2028/
-https://sysin.org/blog/gitea-enterprise/
