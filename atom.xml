@@ -3,7 +3,7 @@
   <title>sysin</title><icon>https://sysin.org/img/favicon.png</icon><subtitle>SYStem INside | 软件技术</subtitle>
   <link href="https://sysin.org/atom.xml" rel="self"/>
   <link href="https://sysin.org/"/>
-  <updated>2026-11-27T01:44:31.592Z</updated>
+  <updated>2026-11-27T01:05:18.000Z</updated>
   <id>https://sysin.org/</id>
   <author>
     <name>sysin</name><email>e-mail_address</email>
@@ -14,7 +14,7 @@
     <link href="https://sysin.org/blog/vmware-vact-3/?utm_source=atom"/>
     <id>https://sysin.org/blog/vmware-vact-3/</id>
     <published>2026-11-27T01:05:18.000Z</published>
-    <updated>2026-11-27T01:44:31.592Z</updated>
+    <updated>2026-11-27T01:05:18.000Z</updated>
     <summary type="html">vDefend and Avi Conversion Tool（vACT）是一款自动化迁移实用工具，通过将传统或第三方负载均衡器配置转换为 VMware Avi Load Balancer 对象，并将第三方安全数据转换为原生 vDefend 分布式防火墙策略，从而减少手动重新配置的工作量。</summary>
   </entry>
   <entry>
@@ -54,7 +54,7 @@
     <link href="https://sysin.org/blog/metasploit-pro-5/?utm_source=atom"/>
     <id>https://sysin.org/blog/metasploit-pro-5/</id>
     <published>2026-11-24T01:05:50.000Z</published>
-    <updated>2026-11-27T01:42:57.027Z</updated>
+    <updated>2026-11-24T01:05:50.000Z</updated>
     <summary type="html">Metasploit Pro 5.1 新增了适用于 HTTP Meterpreter Payload 的流量伪装（Evasion）能力、服务层级关系跟踪支持、更深入且交互性更强的网络拓扑视图，并持续推进现代化、一致性的用户界面体验。本次发布基于 Metasploit Framework 6.5。</summary>
   </entry>
   <entry>

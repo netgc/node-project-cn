@@ -1,44 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://sysin.org/blog/cisco-ucm-15/</loc>
+  <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
   <lastmod>2026-11-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-ucm-14/</loc>
-  <lastmod>2026-11-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/hcl-notes/</loc>
-  <lastmod>2026-11-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/hcl-domino/</loc>
-  <lastmod>2026-11-28</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-9/</loc>
-  <lastmod>2026-11-27</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/invicti/</loc>
-  <lastmod>2026-11-27</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-vact-3/</loc>
   <lastmod>2026-11-27</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-nsx-9/</loc>
-  <lastmod>2026-11-27</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
-  <lastmod>2026-11-27</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
-  <lastmod>2026-11-26</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/proxmox-ve-9/</loc>
@@ -54,6 +22,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/qt-creator/</loc>
+  <lastmod>2026-11-24</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/metasploit-pro-5/</loc>
   <lastmod>2026-11-24</lastmod>
 </url>
 <url>
@@ -657,6 +629,10 @@
   <lastmod>2026-10-18</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/cisco-ucm-15/</loc>
+  <lastmod>2026-10-15</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/f5-big-ip-21-lts/</loc>
   <lastmod>2026-10-15</lastmod>
 </url>
@@ -703,6 +679,10 @@
 <url>
   <loc>https://sysin.org/blog/gartner-magic-quadrant-aiot-platforms-2026/</loc>
   <lastmod>2026-10-10</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/invicti/</loc>
+  <lastmod>2026-10-09</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/pingcastle/</loc>
@@ -965,6 +945,10 @@
   <lastmod>2026-09-03</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/vmware-vsphere-9/</loc>
+  <lastmod>2026-09-03</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-data-services-manager-9/</loc>
   <lastmod>2026-09-03</lastmod>
 </url>
@@ -1009,6 +993,10 @@
   <lastmod>2026-09-03</lastmod>
 </url>
 <url>
+  <loc>https://sysin.org/blog/vmware-nsx-9/</loc>
+  <lastmod>2026-09-03</lastmod>
+</url>
+<url>
   <loc>https://sysin.org/blog/vmware-vsan-9/</loc>
   <lastmod>2026-09-03</lastmod>
 </url>
@@ -1038,6 +1026,10 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/vmware-cloud-foundation-automation-9/</loc>
+  <lastmod>2026-09-03</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/vmware-vsphere-foundation-9/</loc>
   <lastmod>2026-09-03</lastmod>
 </url>
 <url>
@@ -1194,10 +1186,6 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/pdf-expert/</loc>
-  <lastmod>2026-08-01</lastmod>
-</url>
-<url>
-  <loc>https://sysin.org/blog/cisco-secure-client-5/</loc>
   <lastmod>2026-08-01</lastmod>
 </url>
 <url>
@@ -1611,6 +1599,10 @@
 <url>
   <loc>https://sysin.org/blog/nakivo-backup-11/</loc>
   <lastmod>2026-03-23</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/cisco-ucm-14/</loc>
+  <lastmod>2026-03-19</lastmod>
 </url>
 <url>
   <loc>https://sysin.org/blog/dxo-photolab/</loc>
@@ -2378,6 +2370,14 @@
 </url>
 <url>
   <loc>https://sysin.org/blog/veritas-netbackup-virtual-appliance-5/</loc>
+  <lastmod>2024-12-05</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/hcl-notes/</loc>
+  <lastmod>2024-12-05</lastmod>
+</url>
+<url>
+  <loc>https://sysin.org/blog/hcl-domino/</loc>
   <lastmod>2024-12-05</lastmod>
 </url>
 <url>
